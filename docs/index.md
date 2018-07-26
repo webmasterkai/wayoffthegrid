@@ -1,5 +1,3 @@
-# S/V TWIG
-
 * **Vessel Type:** Pleasure Sailing Sloop
 * **Manufacturer:** Saga Yachts
 * **Model:** Saga 43

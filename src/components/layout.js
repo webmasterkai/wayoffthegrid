@@ -9,15 +9,21 @@ class Template extends React.Component {
     const rootPath = `${__PATH_PREFIX__}/`
     let header
 
-    if (location.pathname !== rootPath) {
+    if (location.pathname === rootPath) {
       header = (
-        <h3
+        <h1
           style={{
-            fontFamily: 'Montserrat, sans-serif',
+            ...scale(1.5),
+            marginBottom: rhythm(1.5),
             marginTop: 0,
-            marginBottom: rhythm(-1),
           }}
         >
+            {title}
+        </h1>
+      )
+    } else {
+      header = (
+        <h3>
           <Link
             style={{
               boxShadow: 'none',
