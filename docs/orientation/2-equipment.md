@@ -1,7 +1,5 @@
 # Equipment List & Notes
 
-**Saga 43 (Hull #39)**
-
 ## Mechanical
 
 ### Engine
@@ -24,9 +22,9 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 
 - **Idle speed:** 850 RPM.
 - **Min Cruise:** 1850 RPM - 0.50 GPH. 5.3 kts.
-- **Slow Cruise:** 2000 RPM - 0.60 GPH. 5.7 kts.
+- **Slow Cruise:** 2000 RPM - 0.60 GPH. 5.8 kts.
 - **Eco Cruise:** 2200 RPM - 0.75 GPH. 6.1 kts
-- **Cruise:** 2450 RPM - 1.0 GPH. 6.7 kts
+- **Cruise:** 2450 RPM - 1.0 GPH. 6.8 kts
 - **Fast Cruise:** 2800 RPM - 1.3 GPH. 7.5 kts
 - **Max Cruise:** 3000 RPM - 1.6 GPH. 8 kts
 - **1 Hour Max:** 3500 RPM - 2.5 GPH. 9 kts
@@ -72,7 +70,7 @@ Replaced every 500 hours.
 
 2 alternators with external regulators and on/off switch under aft cabin berth.
 
-- 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm) 
+- 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm)
   - belt Gates Green stripe (carquest #9470); tension is 65-70 lbs or 1/2 inch deflection
 - 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection.
   - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm).
@@ -83,7 +81,7 @@ Rebuilt @ 1330 hours in July, 2006 by Mack Boring 508.946-9200
 
 - Brand: Kanzaki
 - Model: KM 3A1, serial number 02493
-- Rebuilt at 1330 hours, 
+- Rebuilt at 1330 hours,
 - Gear ratio: 2.64
 - 0.65 liters, 0.75 quarts / 0.3 quarts.
 - 2.64/3.04 - prop 1441 RPM
@@ -207,14 +205,14 @@ Harken   <http://www.harken.com>  262.691-2230
 * Up and down windlass foot switches at bow.
 * Windlass remote at helm.
 * Anchor hawse pipes lead thru the anchor locker to deep in the bow, keeping the weight low.
-* Divided chain locker for primary/secondary rode seperation. 
+* Divided chain locker for primary/secondary rode seperation.
 * Double stainless steel anchor rollers extend well forward of the bow
 * Lofrans Progress I. 1000w electric windlass with gypsy.
 
 ### Ground Tackle
 
 * Primary - 300’ of 5/16” G43 hi-tensile chain (’15) with 20' of 3-strand nylon at the end.
-* Secondary - 100' of 5/16" G43 hi-tensile chain + 300' of 3-strand nylon rode. 
+* Secondary - 100' of 5/16" G43 hi-tensile chain + 300' of 3-strand nylon rode.
 * Mantus 85 - 80 lbs
 * Spade S160 - 77 lbs
 * Fortress FX-23 - 15 lbs
@@ -279,7 +277,7 @@ Double shelf units along hull side with sliding Plexiglas doors
 ### Aft head
 
 * Jabsco Quiet Flush electric head (’16)
-* Raritan Electroscan Type I marine sanitation treatment system (Sept ’15) 
+* Raritan Electroscan Type I marine sanitation treatment system (Sept ’15)
 * Seamless unit construction with non-skid molded sole
 * Clamshell molded fiberglass sink
 * Stainless steel H/C pressure water mixer

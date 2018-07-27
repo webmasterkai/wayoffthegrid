@@ -5,11 +5,14 @@
 * **Designer:** Robert Perry
 * **Hull #:** 39
 * **HIN:** QYG43039M01K
+* **Year:** 2001
+* [Photos](https://goo.gl/photos/BqvhMbznNi16jDPj7)
+* [Build Photos](https://goo.gl/photos/Nwe4rwotP1fW986bA)
 
 ## Crew
 
 * Kai Curry - +1 612-845-9876
-* Emily Whebbe - +1 612-860-4060
+* Emily Whebbe - +1 612-860-4060 [Blog](https://www.sailingthebakery.com)
 * Reverie
 
 ## Important Numbers

@@ -21,6 +21,12 @@ class BlogPostTemplate extends React.Component {
         <Helmet title={title} />
         <Procedures />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <a
+          style={{fontSize:'0.7rem'}}
+          href="https://github.com/webmasterkai/wayoffthegrid/tree/master/docs"
+        >
+          edit
+        </a>
       </Layout>
     )
   }
