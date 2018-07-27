@@ -1,6 +1,12 @@
 import Typography from 'typography'
-import theme from "typography-theme-fairy-gates"
+// import theme from "typography-theme-fairy-gates"
+import theme from "typography-theme-kirkham"
 
+theme.overrideThemeStyles = () => ({
+  'li': {
+    marginBottom: 0,
+  },
+})
 const typography = new Typography(theme)
 
 // Hot reload typography in development.

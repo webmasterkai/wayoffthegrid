@@ -1,13 +1,10 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
+import { graphql } from "gatsby"
 
 import Layout from '../components/layout'
-
-function getTitle({ fields, headings }) {
-  return get(headings, '[0].value', fields.slug)
-}
+import Procedures from '../components/procedures'
 
 class BlogIndex extends React.Component {
   render() {
@@ -18,20 +15,8 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet title={siteTitle} />
+        <Procedures />
         <div dangerouslySetInnerHTML={{ __html: post }} />
-        <h2>Orientation and Procedures</h2>
-        <ul>
-        {posts.map(({ node }) => {
-          const title = getTitle(node)
-          return (
-              <li key={node.fields.slug}>
-                <Link to={node.fields.slug}>
-                  {title}
-                </Link>
-              </li>
-          )
-        })}
-      </ul>
       </Layout>
     )
   }
@@ -49,17 +34,6 @@ export const pageQuery = graphql`
     markdownRemark(fields: {slug: {eq:"/"}} ) {
       html
     }
-    allMarkdownRemark(filter: { fields: { slug: { ne: "/"}} }) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          headings(depth:h1){
-            value
-          }
-        }
-      }
-    }
+
   }
 `

@@ -1,31 +1,45 @@
 # Dinghy Inventory & Checks
 
+## Details
+
 * **Manufacturer:** AB Inflatables
 * **Model:** 10AL Aluminum bottomed Hypalon RIB.
 * **Color:** Gray
 * **MMSI:** 338219159
+* **Engine:** Suzuki Electric Start 20hp Electronic Fuel Injection
+
+## Equipment
+
 * Oars
-* Anchor / cable
-* Outboard locked/clamped
-* Tank has ample fuel. In place under bow seat. Fuel line connected.
+* Anchor, chain, rode
 * Dinghy cable lock
-* Key/kill switch
 * Flashlight
 * Navigation lights
 * SonarPhone
-* Lifejackets per passenger and throwable PFD
+
+## Departure
+
+* Remain attached until started.
+* Confirm outboard locked/clamped.
+* Lifejackets per passenger and one throwable PFD.
+* Tank under bow seat has ample fuel. Fuel line connected.
 * Open fuel vent, pump bulb firm.
-* Battery connected.
+* Connect battery.
+* Connect key/kill switch.
 * Transmission in neutral to start.
 * Throttle all the down in start position.
-* Start before untying painter.
 * Push green starter button or pull starting cord.
 * Check cooling water and that red light goes out.
 * Place kill cord around wrist.
+* Disconnect painter.
 
-## Notes
+## Daily
 
 * Be sure painter is securely tied at all times when dinghy is not in use.
-* Check the fuel vent is closed and fuel tank stowed in cabin top wedge prior to passage.
+* Raise dinghy on davits every night and before starting engine.
+
+## Passage Prep
+
+* Fuel vent is closed and fuel tank stowed in cabin top wedge.
 * Secure the outboard motor on rail.
-* Raise dinghy on davits.
+* Secure dinghy to foredeck.

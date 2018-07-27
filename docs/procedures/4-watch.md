@@ -12,7 +12,7 @@ It's far better to ask for help early and often, than too late.
 * Anything unusual, unsafe, or concerning is noticed.
 * Any type of emergency occurs.
 
-# Watch Duties
+## Watch Duties
 
 1. Understand and follow Standing Orders and Watch Duties. If you are unsure of something, ask.
 2. Be ready to go on deck early, at least **5 minutes before** watch starts, with life jacket/harness/tether and clothing appropriate for weather conditions. At night, you must hook on before leaving the companionway.

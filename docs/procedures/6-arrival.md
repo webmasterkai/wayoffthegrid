@@ -9,6 +9,7 @@
 * Discuss plan. Make sure each crew member (especially Reverie) knows their responsibilities.
 
 ## Docking
+
 * Blow up fenders.
 * Hail marina for dock assignment. (Which side tie? Assistance available/needed?)
 * Docking plan/contingency plan. How and where is the spring line being attached?

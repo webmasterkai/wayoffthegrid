@@ -476,10 +476,13 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 
 ## Dinghy
 
-* AB 10AL Aluminum bottomed Hypalon RIB.
+* **Manufacturer:** AB Inflatables
+* **Model:** 10AL Aluminum bottomed Hypalon RIB.
+* **Color:** Gray
+* **MMSI:** 338219159
+* Suzuki Electric Start 20hp Electronic Fuel Injection
 * Forespar Nova Lift engine hoist
 * Edson outboard motor pad
-* Suzuki Electric Start 20hp Electronic Fuel Injection
 
 ## Other Equipment
 

@@ -53,13 +53,20 @@ exports.createPages = ({ graphql, actions }) => {
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
+  const posMatch = new RegExp('^(\\d+)-(.*)')
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
+    const filePath = createFilePath({ node, getNode })
+    const category = path.dirname(filePath).substr(1)
+    const pathMatch = posMatch.exec(path.basename(filePath))
+    if (pathMatch) {
+      const [ full, position, pageId ] = pathMatch
+      console.log(filePath, position, category, pageId)
+      createNodeField({ name: `position`, node, value: position })
+      createNodeField({ name: `slug`, node, value: `/${category}/${pageId}/` })
+    } else {
+      createNodeField({ name: `slug`, node, value: filePath })
+    }
+    if (category) createNodeField({ name: `category`, node, value: category })
   }
 }

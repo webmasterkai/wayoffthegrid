@@ -23,18 +23,15 @@ class Template extends React.Component {
       )
     } else {
       header = (
-        <h3>
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            {title}
-          </Link>
-        </h3>
+        <header>
+          <h3 style={{ marginBottom: '0.3rem' }}>
+            <Link style={{ textDecoration: 'none', color: 'inherit' }} to={'/'}>
+              {title}
+            </Link>
+          </h3>
+          <h4>Saga 43 - Hull #39</h4>
+        </header>
+
       )
     }
     return (

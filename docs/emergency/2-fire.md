@@ -1,4 +1,4 @@
-# FIRE EMERGENCIES
+# Fire
 
 1. Locate source of fire.
 2. Reduce the air supply by closing hatches, vents, ports, doors, etc.
@@ -6,7 +6,7 @@
 3. Maneuver the boat to reduce the effect of the wind, if appropriate.
 4. Secure source of fuel and apply extinguishing agent.
 5. If practical, burning materials should be jettisoned over the side.
-6. If the fire cannot be extinguished, make [emergency calls](/distress-calls.html), and prepare to [abandon ship](/abandon-ship.html) (Life raft, handheld VHFs, ditch bags, drinking water, PFD's) per procedure.
+6. If the fire cannot be extinguished, make [emergency calls](/emergency/distress-calls/), and prepare to [abandon ship](/emergency/abandon-ship/) (Life raft, handheld VHFs, ditch bags, drinking water, PFD's) per procedure.
 
 ## Location of Extinguishers & Blankets
 

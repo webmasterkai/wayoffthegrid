@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import get from 'lodash/get'
 
 import Layout from '../components/layout'
-import { rhythm, scale } from '../utils/typography'
+import Procedures from '../components/procedures'
 
 function getTitle({ fields, headings }) {
   return get(headings, '[0].value', fields.slug)
@@ -19,6 +19,7 @@ class BlogPostTemplate extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Helmet title={title} />
+        <Procedures />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </Layout>
     )

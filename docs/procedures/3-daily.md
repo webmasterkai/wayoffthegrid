@@ -1,12 +1,14 @@
 # Daily Schedule
 
+## AM
+
 * Anchor/navigation lights off.
 * Water pressure pump on.
 * Engine checks (strainer, coolant, v-belt, oil.
 * Gather news & weather.
 * Passage plan for the day.
-* 1700 anchor for the night.
-* Anchor lights on.
+
+## PM
+
+* 1700 turn on anchor/navigation.
 * Water pressure pump off.
-
-
