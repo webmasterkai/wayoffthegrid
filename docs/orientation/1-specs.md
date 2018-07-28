@@ -21,6 +21,7 @@
 * Displacement Loaded: 30,000 lbs
 * Ballast: 8522 (8750) lbs
 * Bridge Clearance: 63 ft 6 in
+* Mast 67 ft
 * Headroom: 6 ft 3 in
 * Sail Area Displacement Ratio: 18.7 (self tacking jib)
 * Displacement/Length Ratio: 152

@@ -167,8 +167,8 @@ Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted
 [Offshore Spars](http://www.offshorespars.com) 810.598-4700
 
 * Spartite at the partners.
-* Mast Step below the waterline:  18",  10" below cabin sole
-* Total Mast Length: 63'  10"
+* Mast Step below the waterline:  18",  10" below cabin sole.
+* Total Mast Length: 63' 10" (not 67 ft?)
 * Mast Height above water: 62'2", with strobe/tricolor: 63.5', with VHF Antenna: 65'
 * Mast color: Matterhorn White Algrip
 * Mast Base Aft to the stoppers: 13'  (deck is 5.5 above water)
@@ -296,7 +296,7 @@ Double shelf units along hull side with sliding Plexiglas doors
 * Rule 2000 Bilge pump w/ electronic float switch
 * Whale manual bilge pump in cockpit
 * Whale manual bilge pump under galley sole
-* With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive
+* With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.
 
 ### Water Maker
 
@@ -326,14 +326,15 @@ Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, st
 
 The hull of the Saga 43 has a nearly plumb bow and rakish stern with a convenient walk-out swim platform. Construction of the hull is of hand-laid fiberglass, using premium grade polyester resin, with two layers of Vinylester resin for added osmotic protection. There is aircraft grade Baltek balsa coring in the hull and deck; the core is voided or replaced with high density backing plates in areas of thru-hulls or deck hardware attachment. Along the keel is additional heavy duty keel solid laminate layup for additional keel and mast support strength. The aluminum slotted toe rail has a PVC rub rail for full length hull side protection. The keel is externally hung lead with a double row of 10 1" keel bolts. All bulkheads and furniture components are fully bonded to the hull and deck. The hull to deck joint is thru-bolted on 4" centers and bonded with polyurethane adhesive sealant. There is a massive sub floor framing structure utilizing bi-directional E-Glass reinforcements for hull stiffness and added strength. The exterior is tropics friendly, with no exterior teak to maintain. The cockpit seats have nice high coamings for great back support and are 7'6" long, making them wonderful for cockpit sleeping. Foot braces are molded into the cockpit sole for the helm and crew.
 
-This is the only Saga with almond colored gelcoat on the hull, deck and non-skid- a truly unique Saga!
+This is the only Saga with almond colored gelcoat on the hull, deck and non-skid.
 
 * New main bulkhead laminated in (now double thickness and much stiffer)
 * New mast step, stringers and ribs in the mast step and main bulkhead area
 
 ### Cockpit
 
-* Whitlock steering pedestal with single lever engine control
+* Whitlock COBRA steering pedestal with single lever engine control.
+* The Whitlock COBRA steering system uses a quadrant gear to drive a SS tube in the pedestal, this connects to another SS tube in the lazarette that transmits motion to a steering arm attached to the rudder post.
 * Leather wrapped SS wheel
 * Ritchie compass
 * Stainless steel grab rails

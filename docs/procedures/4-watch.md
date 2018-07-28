@@ -18,10 +18,12 @@ It's far better to ask for help early and often, than too late.
 2. Be ready to go on deck early, at least **5 minutes before** watch starts, with life jacket/harness/tether and clothing appropriate for weather conditions. At night, you must hook on before leaving the companionway.
 3. Before coming topside to relieve, check the barometer, battery voltage and bilge.
 4. Understand current watch orders and sail plan before relieving watch. During change of watch, communication between off going and oncoming watches should be sufficient to pass on pertinent information and give the oncoming watch a feel for conditions such as current and forecasted weather, course, sail configuration, surroundings and traffic.
-5. Maintain prescribed course and minimum speed.
-6. Record time, log, course and position every hour on the hour, including any additional pertinent information. Maintain a visual lookout as well as monitoring AIS and radar for traffic and squalls. Be sure to check astern as well.
-7. **Constantly** monitor sail trim and adjust as necessary from the safety of the cockpit.
-8. If the speed falls below 4 knots for over 30 minutes, start the engine and roll up the headsail. When the wind picks back up, ensure engine is up to temperature, unfurl the appropriate headsail and stop the engine.
+5. Maintain a position that facilitates immediately taking control of the wheel if the autopilot is used during periods of heightened (winds or seas) risk. This could mean remaining at the wheel, though not actively steering.
+6. Maintain prescribed course and minimum speed.
+7. Record time, log, course and position every hour on the hour, including any additional pertinent information.
+8. Maintain a visual lookout as well as monitoring AIS and radar for traffic and squalls. Be sure to check astern as well.
+9. **Constantly** monitor sail trim and adjust as necessary from the safety of the cockpit.
+9. If the speed falls below 4 knots for over 30 minutes, start the engine and roll up the headsail. When the wind picks back up, ensure engine is up to temperature, unfurl the appropriate headsail and stop the engine.
 9. Reef early and often. Reefing (lower of true/apparent) wind speed guidelines:
   * 1st reef @ 15 knots
   * 2nd reef @ 20 knots

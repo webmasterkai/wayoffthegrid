@@ -8,6 +8,7 @@
 * **Year:** 2001
 * [Photos](https://goo.gl/photos/BqvhMbznNi16jDPj7)
 * [Build Photos](https://goo.gl/photos/Nwe4rwotP1fW986bA)
+* [VRM Energy Graphs](https://vrm.victronenergy.com/installation/12853/share/0889a143)
 
 ## Crew
 
