@@ -302,12 +302,12 @@ Double shelf units along hull side with sliding Plexiglas doors
 
 Village Marine Little Wonder Modular Series (LWM) 12v.
 
-* 6GPH/144GPD
-* 12v/15a 180w - 6GPH 30 watts per gallon
-* Membrane: 38" 33-3002. Replaced 3/31/2017. S/N W0151111.
 * Bronze Seacock #9. Water Heater (generator) compartment.
-* Raw Water Stainer: Pentair Shurflo. Nylon housing and bowl with 50 mesh stainless screen. 3/4" NPT-F ports.
-* Circulation/Feeder Pump: Quad II Diaphragm 4105-512. 1.2Amps, 90GPH.
+* **Output:** 6GPH/144GPD
+* **Power:** 12v/15a 180w - 6GPH 30 watts per gallon
+* **Membrane:** 38" 33-3002. Replaced 3/31/2017. S/N W0151111.
+* **Raw Water Stainer:** Pentair Shurflo. Nylon housing and bowl with 50 mesh stainless screen. 3/4" NPT-F ports.
+* **Circulation/Feeder Pump:** Quad II Diaphragm 4105-512. 1.2Amps, 90GPH.
 
 #### Chemicals
 * sodium metabisulfate

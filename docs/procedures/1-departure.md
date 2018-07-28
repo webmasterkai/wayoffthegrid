@@ -54,7 +54,8 @@
 ## Departure
 
 * Radio on and automated radio check.
-* Instruments turned on (Auto Pilot, knotmeter, GPS, VHF, etc.)
+* Flip breakers for **Instruments**, **Auto Pilot**, and **Radar** to the **ON** (front left to right) position.
+* Turn on screens to MDF and instrument displays if necessary.
 * Wheel brake off, check lock to lock movement of wheel. The instruments should show -45 to +45 degrees.
 * On anchor: remove snubber (bridle) from anchor chain.
 * On dock: 120v AC systems off & shore power disconnected, ship & engine batteries on.

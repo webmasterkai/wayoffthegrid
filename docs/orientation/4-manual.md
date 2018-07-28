@@ -376,26 +376,29 @@ The pressure on the gauge does not indicate the quantity of LP remaining in the 
 
 ## 8-1 Domestic Water System
 
-### A. Tanks
+### Tanks
 
-Two water tanks (approx. 65 gals each) are located under the port
-and starboard main saloon settees. Water tank fills are located on each side
-deck. The tanks are controlled by valves located under the main cabin sole. One valve controls each tank as marked. In normal operation one valve should be on and one off, so that as the tank in use runs out you can switch to the other tank by reversing BOTH valves. This gives you some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
+Two water tanks (approx. 65 gals each) are located under the port and starboard main saloon settees. Water tank fills are located on each side
+deck. The tanks are controlled by valves mounted on the side of the tank, in the storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. This gives some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
 
-### B. Hot Water Tank
+Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths. Capacity is approximately 65 gallons each. The manifold valves controlling the tanks are located under the main cabin sole, immediately aft of the dining table.
+
+Prior to initial usage, during commissioning, the potable water tanks should be flushed with hot (if possible) water to remove manufacturing residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank (remove sediment strainer bowl, drain into bilge, use bilge pump, replace strainer bowl)
+
+### Hot Water Tank
 
 The hot water tank is located in the aft cabin, under the bed. It requires little maintenance other than winterising. Water can be heated by two means:
 
 1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually heat a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
 2. AC Power: A 120 volt heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the breakers in the proper position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
 
-### C. Shower Sumps and Drains
+### Shower Sumps and Drains
 
 The head sinks, icebox, and showers drain into two sumps located in the bilge in the main cabin and forward stateroom. These sumps contain a float switch and centrifugal pump to evacuate them. The toggles on the main panel are manual on switches (not circuit breakers) which will activate the sump pumps should the float switch not activate the pump when desired. The pumps are separately protected by fuses located in the distribution area under the aft berth.
 
 Because of the nature of the drain water which they handle, the pumps and switches are vulnerable to accumulations of soap scum, hair, and other greasy materials. Occasionally the sumps will require cleaning out. The frequency will vary according to you and your crew's habits. The tops to the sump tanks are easily removed and access to the inside is obtained. Household cleaners will take care of the build up inside. (X-14 Soap Scum Remover works well). When leaving your boat for a prolonged period or after a weekend aboard, run several gallons of fresh water through the drains to help clear the sumps and finish off with a cup of bleach to prevent bacteria growth, mold and odours.
 
-### D. Showers
+### Showers
 
 Are located in both heads. All plumbing hardware is household type and should not present a problem to operate.
 
@@ -403,9 +406,51 @@ The cockpit shower is recessed in two holes covered by plastic caps in the port 
 
 Hot and cold mixing is accomplished by turning the mixer handle clockwise or counter clockwise. To turn the faucet off, push in the mixer handle all the way and at the same time release the hose pressure with the shower head button. If you do not release the hose pressure the handle will not remain in a recessed position.
 
-### E. Water Filter
+### Reverse Osmosis (RO) Water Maker
 
-A charcoal/kdf water filter with a replaceable element is installed in line in the cold water line at the galley sink. Only this drinking faucet is double filtered.
+#### Startup
+
+1. Verify the seawater intake (seacock #9) is open at the through-hull.
+* Switch ON the breaker labeled "Water Maker" at the main breaker panel to charge dedicated battery pack. If house bank below 75% SOC and both water tanks are low/empty on both tanks it can remain off if pack voltage is over 13.4v.
+* Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
+* FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
+* Turn on boost switch.
+* Check that **Feed Pressure** reaches **15-30 PSI** on feed line.
+* Let run for 1-10 minutes.
+* Switch **Sample Valve** under galley sink to right, labeled "Sink".
+* Turn on boost pump.
+* Verify brine discharge is flowing overboard. Check on SB side, lower transom next to swim step.
+* Check that feed pressure remains above 10 PSI. If it drops below it's probably time to replace pre-filter.
+* Note titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
+* Gradually turn the High Pressure Bypass Valve (Black Handle) to CLOSED position.
+* **Flow Meter** should be between **5-8 GPH**. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. MUST REAMIN BELOW 8 GPH AT ALL TIMES.
+* High pressure **Membrane Gauge** should read between **800-900PSI** in typical salt water. MUST REMAIN BELOW 900PSI.
+* Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
+* Let run into sink for around 5 minutes. IF the unit was filled with preservative storage solution, production must remain diverted AT LEAST 10 MINUTES to clear preservative solution from system.
+* Check product water with hand-held TDS meter kept on the top shelf in the cabinet next to the sink.
+* When PPM is below 250 in cold water and 400 in warm ensure there is no smell or taste.
+* If quality is good, turn the Sample Valve over to the left in "Tank" direction.
+* Under the sink under the floor hatch are two valves that control the tank being filled. It should be opposite of the tank being used for consumption.
+* Check the RO unit for feed (10-30PSI) and membrane pressure (800-900), water leakage periodically at the initial start-up. Observe Product Flow meter (5-8GPH).
+
+#### Shutdown
+
+1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO system.
+2. Switch OFF the breaker labeled "Water Maker" at the main breaker panel or let battery continue to charge if main bank has ample power.
+3. The RO unit may be left in this “stand by” condition with the seawater for one day. If the RO unit will be out of service for extended time periods, please refer flushing instructions.
+
+### Water Filters
+
+A charcoal/kdf water filter with a replaceable element is installed inline on the cold water line going to the drinking faucet at the galley sink. Only this drinking faucet is double filtered.
+
+*EVERY FILL-UP* Add a few tablespoons of baking soda, particularly if the water is heavily chlorinated. If filling from a unknown source, a half cup of bleach per tank will help kill algae or bacteria.
+
+*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system Periodically clean sediment strainer. Rinse thoroughly with fresh water. Follow steps above for a new tank to complete the cleaning process.
+
+#### WATER FILTER:
+
+Change water filter element at least once a season, or whenever flow is reduced.
+
 
 ### F. Manual Water Pump
 
@@ -616,8 +661,11 @@ Be very careful never to store tools, canned goods, or other heavy metal objects
 all times about the storage and the installation of additional electronic gear.
 SEE ANNAPOLIS BOOK OF SEAMANSHIP. John Rousmaniere, Chapter 7 for a discussion of this highly important topic.
 IP*
-  10 SAFETY EQUIPMENT -J
-10-1 Minimum Equipment Requirements {
+
+## 10 SAFETY EQUIPMENT
+
+### 10-1 Minimum Equipment Requirements
+
 SAFETY SHOULD BE THE FIRST CONCERN OF EVERY SAILOR, AND
 CERTAIN ITEMS ARE REQUIRED BY LAW TO BE CARRIED ON THE YACHT. MINIMUM SAFETY EQUIPMENT REGULATIONS VARY AS TO THE JURISDICTION UNDER WHICH THE YACHT MAY BE OPERATING. YOU _ MUST CARRY THE MINIMUM EQUIPMENT REQUIRED BY THEREGULATIONS OF THE NATIONAL AUTHORITY UNDER WHICH YOUR
 YACHT IS REGISTERED OR FACE SEVERE LEGAL PENALTIES. HOWEVER, » PRUDENT PRACTICE DICTATES THAT YOU EQUIP THE YACHT TO A MUCH HIGHER STANDARD THAN THE MINIMUM REQUIRED BY LAW. ADDITIONAL
@@ -674,7 +722,7 @@ Navigation lights that meet the applicable standards set out in the Collision Re
 
 See relevant regulations for country of registry
 
-10-2 Additional Equipment Recommendations
+### 10-2 Additional Equipment Recommendations
 
 The International Sailing Federation Offshore Racing Council's SPECIAL REGULATIONS governing offshore racing are a good starting point forguidelines as to equipping your yacht. For offshore cruising, a yacht should be
 equipped to Category One requirements as a minimum standard. This publication may be purchased from your national sailing association.
@@ -715,7 +763,9 @@ The modern inflatable dinghy is a great convenience while cruising, but is of
 limited use in an emergency situation. Inflatable craft should be thoroughly
 checked every year to ensure safe and proper operation. Life rafts should be
 inflated, inspected, repacked and certified on a regular basis. Your SAGA Yachts Dealer can advise you where such inspections are offered in your locale.
-10-3 Lifelines
+
+### 10-3 Lifelines
+
 The life lines aboard your yacht should be checked daily to ensure their
 integrity. Always close the access gates before leaving the dock. On longer offshore passages, the gates' pelican hooks are best taped over to prevent
 accidental opening. Check carefully that the swage end fittings are not pulling out and that the lock nuts on the tumbuckles are tight. Cotter pins (not "ring-
@@ -777,7 +827,7 @@ RYA House, Romsey Road, Tel: +44 (0) 1703 627400
 Eastleigh, Hampshire SO50 9YA Fax: +44 (0) 1703 629924 E-mail: admin@rya.org.u
 
 
-11 MAINTENANCE
+## 11 MAINTENANCE
 
 Keeping a yacht shipshape and in good order, requires maintenance on a
 regular and frequent basis. The frequency will depend upon the conditions under which the yacht is being used. You must continually check the running
@@ -959,7 +1009,7 @@ The Whitlock steering system needs little maintenance other than periodic f> ins
 The underside of the steering pedestal should be inspected for evidence of
 p water leaks. The complete system, including attaching bolts should be inspected l each season.
 
-11-15 Deck Fittings
+### 11-15 Deck Fittings
 
 Any deck fitting which is under load (chain plates, genoa tracks, line stoppers,
 etc.) should be checked on a regular basis and re-bedded with marine sealant if found to be leaking. The chainplates are fitted with an "escutcheon plate" which
@@ -982,16 +1032,4 @@ begins. Contact our service department for torque specifications.
 Since the keel is attached to the hull with mechanical fastenings (bolts), and due to loads imposed upon the keel during sailing, it is not unusual to see a line of
 separation at the keel/hull joint after the boat has been hauled.
 
-### Water System
-
-Water tanks are located beneath each main saloon settee. Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths. Capacity is approximately 65 gallons each. The manifold valves controlling the tanks are located under the main cabin sole, immediately aft of the dining table.
-
-Prior to initial usage, during commissioning, the potable water tanks should be flushed with hot (if possible) water to remove manufacturing residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank (remove sediment strainer bowl, drain into bilge, use bilge pump, replace strainer bowl)
-
-*EVERY FILL-UP* Add a few tablespoons of baking soda, particularly if the water is heavily chlorinated. If filling from a unknown source, a half cup of bleach per tank will help kill algae or bacteria.
-
-*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system Periodically clean sediment strainer. Rinse thoroughly with fresh water. Follow steps above for a new tank to complete the cleaning process.
-
-#### WATER FILTER:
-
-Change water filter element at least once a season, or whenever flow is reduced.
+* Water filters

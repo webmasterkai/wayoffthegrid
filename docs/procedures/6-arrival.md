@@ -46,7 +46,6 @@
 
 ## Stopped & Secure
 
-
 * Open Hatches
 * Center rudder, engage wheel brake
 * Shut off instruments (autopilot, GPS, etc) and cover
