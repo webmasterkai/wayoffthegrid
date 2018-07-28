@@ -1,8 +1,8 @@
+# Manual
+
 We recommend **The Annapolis Book of Seamanship** by John Rousmaniere, (Simon & Schuster, pub.) for its comprehensive coverage of topics relating to the safe and seamanlike operation of any small craft. Seamanship and boat handling in the variety of conditions you will encounter during your sailing career is beyond the scope of an owner's manual. Ultimately the safety, comfort and well-being of vessel and crew lies in the hands of the skipper and crew. We can only provide you with the finest craft we are capable of building, the rest is up to you.
 
-## WARRANTY
-
-### Dealer Commissioning Responsibilities
+## Dealer Commissioning Responsibilities
 
 There are certain tasks we are unable to accomplish prior to delivery of the yacht to a commissioning dealer. Consequently, the commissioning dealer must be responsible for the completion of the following tasks as part of his normal pre-delivery practices. A commissioning fee that will cover labour costs and incidental expenses is normally charged in addition to the purchase price of the vessel. It must be understood that the described operations have to be completed prior to operation of your new boat. They are not covered under the SAGA Marine Limited Warranty.
 
@@ -511,7 +511,6 @@ voltage and charging amperage being supplied by the unit is indicated on the inv
 Caution
 Shut down battery charging before starting engine. Do not charge batteries
 using the inverter while the engine is running, as the alternator on the engine is charging the batteries at this time.
-rj
 
 9-5 Inverter operation:
 
@@ -538,22 +537,15 @@ All engines are equipped with the standard alternator as supplied by the engine 
 
 9-9 Electric Winch
 
-Your SAGA is fitted with an electric-powered self-tailing winch for hoisting and
-reefing the mainsail. It must be used with special care. Personal injury and damage to the boat can result from improper operation. Do not allow children to operate. Only properly instructed adults should be allowed to operate it. Do not wear loose clothing which could possibly be tangled in the mechanism when operating or standing nearby.
-While very handy and a big energy saver, it is difficult for an operator to judge
-just how much pressure is being applied to the line on the winch. The winch is
-powerful enough to rip the headboard out of a sail. Therefore we recommend that the electric power be operated for all but the last couple inches and then
-switch to manual power with a conventional handle to "sweat up" the last inches.
-To operate the winch, set the breaker on the main panel to ON to supply 12V to the winch relays. The winch is a two speed unit. The switches for each speed are mounted on the cabin house. The winch motor is fused by a 130A breaker
-m,
-located in line and an overload breaker in the aft cabin. For safety reasons, the
-electric motor is automatically deactivated whenever a winch handle is inserted
+Your SAGA is fitted with an electric-powered self-tailing winch for hoisting and reefing the mainsail. It must be used with special care. Personal injury and damage to the boat can result from improper operation. Do not allow children to operate. Only properly instructed adults should be allowed to operate it. Do not wear loose clothing which could possibly be tangled in the mechanism when operating or standing nearby.
+While very handy and a big energy saver, it is difficult for an operator to judge just how much pressure is being applied to the line on the winch. The winch is powerful enough to rip the headboard out of a sail. Therefore we recommend that the electric power be operated for all but the last couple inches and then switch to manual power with a conventional handle to "sweat up" the last inches.
+To operate the winch, set the breaker on the main panel to ON to supply 12V to the winch relays. The winch is a two speed unit. The switches for each speed are mounted on the cabin house. The winch motor is fused by a 130A breaker located in line and an overload breaker in the aft cabin. For safety reasons, the electric motor is automatically deactivated whenever a winch handle is inserted
 in the winch socket.
 
 9-10 Electric Windlass
 
-An electric anchor windlass is an available option. Mounted on the foredeck, the 1 two foot switches control up and down direction as indicated on switch under the * covers. The same cautions mentioned above for the electric winch (Sec. 9-9) _
-apply to the windlass. ]
+An electric anchor windlass is an available option. Mounted on the foredeck, the 1 two foot switches control up and down direction as indicated on switch under the covers. The same cautions mentioned above for the electric winch (Sec. 9-9)
+apply to the windlass.
 To operate the windlass, the breaker (marked "Winch" and same one as above) m on the main panel supplying 12V DC to the relays must be ON. The windlass is protected by a 150A BUSS fuse in line, mounted under the aft berth. The relay
 switch box and an overload breaker is located high in the forepeak. Because of
 the high DC load it is desirable to operate the windlass only with the engine
