@@ -478,10 +478,15 @@ The electric bilge pumps are located in the keel sump and are activated by a flo
 
 ### 8-5 Toilets
 
-Refer to the directions supplied by the toilet manufacturer. Most problems experienced with toilets and waste systems are directly a result of what has been put down the toilet. Remember - there are no plumbers at sea! Use only Marine/RV-type toilet tissues designed for holding tank use, and use sparingly. NEVER put tampons, feminine pads, condoms, paper towels, cotton swabs, cigarette butts, candy wrappers or other foreign items down a marine head. Many savvy captains have two strictly enforced rules
+NEVER put paper towels, floss, tampons, feminine pads, condoms, cotton swabs, cigarette butts, candy wrappers or other foreign items down a marine head! You jam the toilet, you fix it.
 
-1. If you haven't eaten it first, it doesn't go down the toilet. For extreme types that means toilet tissue as well! (A little zip lock bag does the trick quite well).
-2. You jam the toilet, you fix it.
+1. If it hasn't passed through your body, it doesn't go down the toilet. We are extreme types so that means toilet tissue as well! A maximum of 10 squares are allowed per flush. A little white waste bin is located next to the toilet for anything extra.
+1. To the right of the sink are two grey push buttons. Water may be added to the bowl by pushing the lower left rocker switch to the right of the sink.
+1. To begin flush procedure push the "Start" button. It's to the left of the sink. The status LED should be solid green.
+1. To the right of the sink is two buttons. The top push-button switch provides a simple flush mode by activating both the rinse water supply and the macerator discharge pump simultaneously. Push and hold this button as the toilet flushes.
+1. If needed the lower rocker switch offers independent control of the rinse water supply and discharge separately so the bowl water level can be easily raised or lowered. This provides a method of raising the water level (lower left button) when appropriate for user comfort.
+1. When underway use the lower right rocker-button to completely evacuate the toilet bowl.
+1. The Status LED should blink green. If blinking yellow the water is probably brackish and concentrated salt water needs to be added.
 
 Your toilet will love you and your holding tank will go many miles further between pump-outs.
 Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits.

@@ -17,28 +17,30 @@
 
 Forward edge of forward bunk. Open small door. A 3-way L-Port Valve is mounted to the forward bulkhead and controls flow between head intake and deck wash down pump.
 
-(1) Small, Marlon, Black
-(2) Large, Marlon
-(3) Large, Marlon
+* **(1)** Small, Marlon, Black. Head Flush Intake & Deck Washdown Pump Intake.
+* **(2)** Large, Marlon. Forward Head Direct Discharge.
+* **(3)** Large, Marlon. Forward Head Macerator.
 
 ### Forward Bunk - Aft Bottom Drawer
 
 Close door. Pull out and remove aftmost bottom drawer.
 
-(4) Small, bronze
+* **(4)** Small, bronze. AC/Heat Intake
 
 ### Galley Sink
 
 Remove floor access panel beneath sink. Handle to seacock is short.
 
-(5) Large, Marlon
+* **(5)** Large, Marlon. Galley Sink Discharge.
 
 ### Floor Between Aft Cabin & Main Head
 
 Close door to aft cabin. Remove triangle shaped sole hatch board in front of aft cabin door.
 
-(6) 0.75" Marlon
-(7) 1.5" Marlon
+* **(6)** 0.75" Marlon. Aft Head Intake.
+* **(7)** 1.5" Marlon. Aft Head Discharge.
+
+Also in compartment:
 
 - Jabsco Par-Max4 31631-1092 3.8 GPM Parmax 4 Toilet Intake Pump
 - Extra wood plugs
@@ -46,31 +48,12 @@ Close door to aft cabin. Remove triangle shaped sole hatch board in front of aft
 
 ### Engine Compartment
 
-Slide top and bottom latches on port side of stairs. Open stairs.
+Slide top and bottom latches on port side of stairs. Open stairs by lifting port side handle. Hinged on starboard side.
 
-(8) Large, Marlon
+* **(8)** Large, Marlon. Engine Intake.
 
 ### Generator Compartment
 
-(9) Bronze
+Middle board under cockpit under berth that usually has storage above it. Also accessed via a small hatch in the lazarette.
 
-## Seacock
-
-- Name
-- Location
-- Description
-- Material
-- Size
-- Devices
-
-## Device
-
-- Name
-- Location
-- Seacock(s)
-
-## Location
-
-- Name
-- Description
-
+* **(9)** Bronze - Used for RO water maker. From lazarette pull down toward you. From above push down to starboard.

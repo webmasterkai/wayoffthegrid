@@ -99,7 +99,7 @@ Rebuilt @ 1330 hours in July, 2006 by Mack Boring 508.946-9200
 - strut width: 5 inches
 - Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
-- Spare 3-blade bronze prop
+- Spare 3-blade bronze fixed pitch prop
 
 ## Sails
 
@@ -211,16 +211,28 @@ Harken   <http://www.harken.com>  262.691-2230
 
 ### Ground Tackle
 
-* Primary - 300’ of 5/16” G43 hi-tensile chain (’15) with 20' of 3-strand nylon at the end.
-* Secondary - 100' of 5/16" G43 hi-tensile chain + 300' of 3-strand nylon rode.
-* Mantus 85 - 80 lbs
-* Spade S160 - 77 lbs
-* Fortress FX-23 - 15 lbs
+#### Primary Best Bower
+
+* Anchor: Spade S160 - (77 lbs)
+* Chain: 300’ of 5/16” Acco G43 hi-tensile chain (’15)
+* Rode: 20' of 3-strand nylon at the end to allow tying to a fender.
+
+#### Secondary
+
+* Anchor: Mantus 85 - (80 lbs) Kept disassembled in lazaret.
+* Chain: 100' of 5/16" Acco G43 hi-tensile chain
+* Rode: 300' of 3-strand nylon rode.
+
+#### Stern
+
+* Anchor: Fortress FX-23 - 15 lbs. Mounted stern port cockpit railing.
+* Chain: 10' of 5/16" Acco G43 hi-tensile chain
+* Rode: 150' double-braid nylon.
 
 ### Docking
 
 - 2x 12" x 29" Dark Gray - Aeré Inflatable Fender. 12/6/2017.
-- 2x 12" x 42" Gray - ProStock Extreme Fenders. New 9/28/2017.
+- 2x 12" x 42" Gray - ProStock Extreme Fenders. 9/28/2017.
 - 2x 18" x 42" Black - Taylor Made Admiral's Choice Super Duty Inflatable Yacht Fender.
 
 ## Accommodations
@@ -232,25 +244,25 @@ Harken   <http://www.harken.com>  262.691-2230
 
 ## Galley
 
-Deep double SS sinks
-Single lever faucet with pull-out sprayer
-Whale freshwater foot pump (not connected)
-Seagull water filtration (’13)
-Gimballed Force 10 four-burner stove with oven and broiler
-SS safety bar with strap
-Pot and pan storage beneath stove with drop down teak panel
-Two 20# aluminum LPG tanks in propane locker
-Sylvania microwave oven
-Tip out 13 gallon trash bin.
-Double door storage beneath sinks
-Tip out dish sponge tray
-5 drawers and 2 drop front lockers on either side of the stove
-Double door spice rack above and behind stove
-Double shelf units along hull side with sliding Plexiglas doors
-
+* Deep double SS sinks
+* Single lever faucet with pull-out sprayer
+* Whale freshwater foot pump (not connected)
+* Seagull water filtration (’13)
+* Gimballed Force 10 four-burner stove with oven and broiler
+* SS safety bar with strap
+* Pot and pan storage beneath stove with drop down teak panel
+* Two 20# aluminum LPG tanks in propane locker
+* Sylvania microwave oven
+* Tip out 13 gallon trash bin.
+* Double door storage beneath sinks
+* Tip out dish sponge tray
+* 5 drawers and 2 drop front lockers on either side of the stove
+* Double door spice rack above and behind stove
+* Double shelf units along hull side with sliding Plexiglas doors
 * Top loading freezer with Technautics cold plate.
 * Air circulation system for cold air circulation in freezer
-* Top loading refrigerator with Nova Kool dual condenser/evaporator plates.
+* Top loading refrigerator with Isotherm 2013 11 13/16" x 53 15/16" evaporator plates. ('18)
+* Danfoss BD50F compressor with fan cooled condenser. Capable of cooling icebox to below freezing. ('18)
 * Single piece top and front refrigerator lid with gas assist lift
 * Chaney refrigerator/freezer temperature gauges
 * LED Refrigerator light
@@ -261,10 +273,27 @@ Double shelf units along hull side with sliding Plexiglas doors
 
 ## Heads
 
-### Forward head
+### Primary - Aft head
 
-* Electric Attwood Shower Sump Pump System - 750 GPH (2017)
+#### Features
+
+* Seamless unit construction with non-skid molded sole
+* Clamshell molded fiberglass sink
+* Stainless steel H/C pressure water mixer
+* Separate shower stall with seat and curved Plexiglas door
+* Separate shower wand on adjustable bar
+* Cherry framed mirror
+
+#### Equipment
+
+* Jabsco Quiet Flush electric head/toilet (’16)
+* Raritan Electroscan Type I marine sanitation treatment system (Sept ’15). Replaced mixer motor 32-102AW and electrode pack 32-5000 July 2018.
+* Attwood 750 electric shower sump
+
+### Secondary - Forward head
+
 * Holding tank aluminum 20 gallons replaced (2011)
+* Electric Attwood Shower Sump Pump System - 750 GPH (2017)
 * Groco manual head
 * Tankwatch holding tank alert
 * Macerator pump
@@ -273,18 +302,6 @@ Double shelf units along hull side with sliding Plexiglas doors
 * Separate shower wand on adjustable bar
 * Sliding mirrored door storage spaces over counters on both hull sides
 * Custom storage spaces on either side of the head
-
-### Aft head
-
-* Jabsco Quiet Flush electric head (’16)
-* Raritan Electroscan Type I marine sanitation treatment system (Sept ’15)
-* Seamless unit construction with non-skid molded sole
-* Clamshell molded fiberglass sink
-* Stainless steel H/C pressure water mixer
-* Separate shower stall with seat and curved Plexiglas door
-* Separate shower wand on adjustable bar
-* Atwood 750 electric shower sump
-* Cherry framed mirror
 
 ## Water Systems
 
@@ -297,6 +314,7 @@ Double shelf units along hull side with sliding Plexiglas doors
 * Whale manual bilge pump in cockpit
 * Whale manual bilge pump under galley sole
 * With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.
+* [Arid Bilge System](http://aridbilge.com) 12V 2 zone bilge pump/vacuum. Serial 10410.
 
 ### Water Maker
 
@@ -308,8 +326,11 @@ Village Marine Little Wonder Modular Series (LWM) 12v.
 * **Membrane:** 38" 33-3002. Replaced 3/31/2017. S/N W0151111.
 * **Raw Water Stainer:** Pentair Shurflo. Nylon housing and bowl with 50 mesh stainless screen. 3/4" NPT-F ports.
 * **Circulation/Feeder Pump:** Quad II Diaphragm 4105-512. 1.2Amps, 90GPH.
+* Lithium Ion 14.8v 128 AH 1,900 WH total - Panasonic NCR18650B. Dedicated battery pack.
+* Victron BatteryProtect 12V-65A used to enable/disable lithium charger from house bank.
+* Victron BatteryProtect 12V-65A used to enable/disable RO boost pump.
 
-#### Chemicals
+#### Maintenance Chemicals
 * sodium metabisulfate
 * Propylene glycol (no ethyl esters alcohol)
 * Sodium metasilicate pentahydrate for the alkali
@@ -388,12 +409,13 @@ This is the only Saga with almond colored gelcoat on the hull, deck and non-skid
 
 ## Safety Equipment
 
+- Ocean Signal MOB1 Personal Locator Device w/ AIS and DSC. Emily MMSI 972604917. Kai MMSI 972604918.
 - Winslow Offshore 6 person life raft in valise Exp. Date October ‘16. 60SLOP-BO-1-105. 10.5" x 16" x 22". 60 lbs.
 - Ditch bag
 - Switlik MOM-8-A Man Overboard Module
 - Throw Rope.
 - Life Sling
-- Edson 30GPM manual bilge pump.
+- Edson 30GPM manual bilge pump on board with handle.
 - Mast mounted Echomax EM230BR radar reflector ('15)
 - Stainless emergency tiller
 - Flashlight - Olight SR52-UT Intimidator. Natural white.
@@ -420,16 +442,16 @@ This is the only Saga with almond colored gelcoat on the hull, deck and non-skid
 https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKzqVE/edit?usp=sharing
 
 * ELECTRICAL PANEL:  BEP Marine, New Zealand, <http://www.bepmarine.com> , US Distributor Biscoff Marine, 770.486-6770, biscoffmarine@earthlink.net
-* Power Cord: Marinco 50 Feet, <http://www.marinco.com>
-* Power Cord: 10 foot, Westmarine
+* Shore Power Cord: 2x Marinco 30A 50 Feet, <http://www.marinco.com>
+* Shore Power Cord: 10 foot, Westmarine
 * Cord Adapter: 15 amp 120 to Ship's Plug 30 amp
 * Cord Adapter: 50 amp to 30 amp, 240 adapter
-* 30A shore power connection w/50’ cord
 * Galvanic isolator (’13)
 * Bass 120V AC electrical panel with volt and amp meters
 * GFCI protected 120v. receptacles throughout
-* Heart Freedom 25. 2500W inverter/75A battery charger
-* Heart Freedom battery monitor/inverter controller
+* Monitor: Victron BMV-712 Smart
+* Inverter/Charger: Victron MultiPlus 12v/3000w/120V AC/50A switch. VE.Bus. 120A charger. 400A recommended fuse.
+* Victron Digital Multi Inverter/Charger Control 200/200A GX
 * Bass 12v DC electrical panel with volt and amp meters
 * Beautiful hinged drop-down electrical panel with numbered wiring system
 * Electrical chase pipes located along both hull sides for pulling lines
@@ -438,12 +460,16 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 * Blue Sea Systems house, engine and battery cross connect switches
 * Dual 125A & 150A engine alternators
 * Spare alternator
-* 4 Kyocera KC 5 80W solar panels 26"x40" + 14" of space on each side. Could probably do a 45" panel. Hamilton Ferris Corp., 3 Angelo Drive, Bourne, MA 02532, 508-743-9901, <http://www.hamiltonferris.com>
-* Xantrex Trace C Series solar charge controller
-* LED tricolor and anchor lights
 * LED interior lighting
 * Caframo 12v. fans (2)
 * Cabin floor courtesy lighting throughout
+
+### Solar
+* 4 Kyocera KC 5 80W solar panels 26"x40" + 14" of space on each side. Could probably do a 45" panel. Hamilton Ferris Corp., 3 Angelo Drive, Bourne, MA 02532, 508-743-9901, <http://www.hamiltonferris.com>
+* Xantrex Trace C Series solar charge controller
+
+### Navigation Lights
+* LED tricolor and anchor lights
 
 ## Electronics
 
@@ -482,6 +508,8 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 * Suzuki Electric Start 20hp Electronic Fuel Injection
 * Forespar Nova Lift engine hoist
 * Edson outboard motor pad
+* K-Pump K100 - Manual air pump.
+* Bruce anchor
 
 ## Other Equipment
 
