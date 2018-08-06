@@ -18,20 +18,6 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 - [Marine Diesel Direct](http://www.marinedieseldirect.com/yanmar)
 - Hours in **2006**: 1330, **2016**: 4048, **2017**: 4493, **2018**: 4572
 
-#### RPM & Consumption
-
-- **Idle speed:** 850 RPM.
-- **Min Cruise:** 1850 RPM - 0.50 GPH. 5.3 kts.
-- **Slow Cruise:** 2000 RPM - 0.60 GPH. 5.8 kts.
-- **Eco Cruise:** 2200 RPM - 0.75 GPH. 6.1 kts
-- **Cruise:** 2450 RPM - 1.0 GPH. 6.8 kts
-- **Fast Cruise:** 2800 RPM - 1.3 GPH. 7.5 kts
-- **Max Cruise:** 3000 RPM - 1.6 GPH. 8 kts
-- **1 Hour Max:** 3500 RPM - 2.5 GPH. 9 kts
-- **Full Load Max:** 3600 RPM - 2.75 GPH.
-- **Max Output:** 3800 RPM
-- **No Load Max:** 3925 RPM.
-
 #### Oil
 
 - Change every 150 hours
@@ -99,45 +85,63 @@ Rebuilt @ 1330 hours in July, 2006 by Mack Boring 508.946-9200
 - strut width: 5 inches
 - Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
-- Spare 3-blade bronze fixed pitch prop
+- Spare 3-blade bronze fixed-pitch prop
 
 ## Sails
 
 Some preconceived notions about conventional sloops or cutters may need to be discarded in order to understand how the Saga 43's Variable Geometry rig works. It's not a cutter or a sloop in the usual sense and the techniques for sailing it are a tad different than what you may be used to. The rig is proportioned so that an overlapping head sail is never required. The inner head sail is used when sailing close-hulled, even in light air. As it is self-tending, tacking simply requires a turn of the wheel, no crew required. Off the wind, the reaching genoa is deployed to both add sail area and shift the center of pressure forward to maintain an extra light helm pressure on all points of sail. At deeper angles downwind an asymmetrical spinnaker can be flown from the bowsprit. Furthermore, the Saga 43 will remain well balanced and easily steered even when pressed hard on a tight reach, unlike conventionally rigged boats. Mainsail hoisting and reefing chores are easily taken care of inside the safety of the cockpit with a push of the button on the two speed self-tailing electric winch.
 
-The Saga 43 is no slouch on the water. Impressive sail area/displacement ratio of 20.01. Most recently 73 PHRF; NE PHRF is 81.
+The Saga 43 is no slouch on the water. Impressive sail area/displacement ratio of 18.7-20. Most recently 73 PHRF; NE PHRF is 81.
 
-### Main - 46.13sq m (496.54sq ft)
+### Main
 
-North Sails full battened mainsail w/3 reef points (’13)
+- Type: Fully battened
+- Reefs: 3
+- Manufacturer: North Sails
+- Area: 496.54sq ft (46.13sq m)
+- Year: 2013
+- P (luff): 15.47m 50.75'
+- E (foot): 4.987m 16.4'
 
-- P (luff) - 15.47m 50.75'
-- E (foot) - 4.987m 16.4'
+### Fore Stay
 
-### Genoa - (531 sq ft)
+- Type: Genoa (#2)
+- Manufacturer: North Sails
+- Year: 2013
+- Area: 531 sq ft
+- Roller furling: Harken Mark III, 2.0
+- Cloth: Ndrad 75vf
+- I: 58.1'
+- J: 18.25'
 
-North Sails 130 Genoa (’13)
+### Solent Stay
 
-- Roller furling genoa - Harken Mark III, 2.0
-- I - 58.1'
-- J - 18.25'
+- Type: Jib (#4)
+- I: 56.0'
+- J: 16.66'
+- Manufacturer: North Sails
+- Year: 2013
+- Area: 439 sq ft
+- Roller furling: Harken Mark III, 1.5
+- Cloth: NSP Radian 9.0
+- Luff: 16.52m
+- Foot: 4.3m
 
-### Jib - (439 sq ft)
+### Inner Staysail Stay
 
-North Sails jib (’13)
+- Type: Storm Jib (#5)
+- Manufacturer: Halsey
+- Area: 108 sq ft
 
-- Roller furling jib - Harken Mark III, 1.5
-- I - 56.0'
-- J - 16.66'
+### Spinnaker
 
-### Storm Jib - (108 sq ft)
-
-Halsey storm jib
-
-### Spinnaker asymmetrical - (1134.65 sq ft)
-
-- ISP - 58.17'
-- SPL - 18.25'
+- Type: asymmetrical
+- Area: 1134.65 sq ft
+- Manufacturer: Quantum
+- Dousing Sleeve: ATN
+- Cloth: Nylon 0.75oz
+- ISP: 58.17'
+- SPL: 18.25'
 
 ## Rig
 
