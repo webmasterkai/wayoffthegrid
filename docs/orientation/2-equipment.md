@@ -324,15 +324,23 @@ Harken   <http://www.harken.com>  262.691-2230
 
 Village Marine Little Wonder Modular Series (LWM) 12v.
 
-* Bronze Seacock #9. Water Heater (generator) compartment.
+* **Seacock:** (#9) Bronze. Water Heater (generator) compartment.
+* **Raw Water Stainer:** Pentair Shurflo. Nylon housing and clear bowl with 50 mesh stainless screen. 3/4" NPT-F ports.
+* **Feed Pump:** Jabsco Quad II Diaphragm 4105-512. 1.2Amps, 90GPH max.
+* **Prefilter:** 2.5x10 clear enclosure. 5-micron pleated polypropylene filter.
+* **High-Pressure Pump:** Aqua Pro - Titan Series 708-1 Titanium - 0.2" stroke. 15GPH at 735RPM.
+* **Pressure Pump Motor:** Pacific Scientific 1/4hp brushed motor. 258w at full power. ~73% efficiency.
+* **Pressure Hose:** Hydraulic hose
+* **Membrane:** Racor Aqua Pro Sea Water Membrane 33-3002. 2.5x38". 8.75GPH/210GPD max output. Replaced 3/31/2017. S/N W0151111.
+* **Pressure Vessel:** 1000 psi/68 bar. Filament Wound fiberglass. Ends are 6061 T-6 powdercoated aluminum.
+* **Pressure Regulator:** Titanium hex head.
+* **Bypass Valve:** 316 Stainless.
+* **Battery:** Lithium Ion 14.8v 128 AH 1,900 WH total - Panasonic NCR18650B. Dedicated battery pack.
+* **Switch/Relay:** Victron BatteryProtect 12V-65A used to enable/disable lithium charger from house bank and another to enable/disable RO boost pump.
+* **DC/DC Boost Charger:** DROK LED Display, Numerical Control, Step Up Converter/Regulator DC 8-60V 15A in to 10-120V adjustable output. Programmed to 16.6V at 8 max amps.
 * **Output:** 6GPH/144GPD
-* **Power:** 12v/15a 180w - 6GPH 30 watts per gallon
-* **Membrane:** 38" 33-3002. Replaced 3/31/2017. S/N W0151111.
-* **Raw Water Stainer:** Pentair Shurflo. Nylon housing and bowl with 50 mesh stainless screen. 3/4" NPT-F ports.
-* **Circulation/Feeder Pump:** Quad II Diaphragm 4105-512. 1.2Amps, 90GPH.
-* Lithium Ion 14.8v 128 AH 1,900 WH total - Panasonic NCR18650B. Dedicated battery pack.
-* Victron BatteryProtect 12V-65A used to enable/disable lithium charger from house bank.
-* Victron BatteryProtect 12V-65A used to enable/disable RO boost pump.
+* **Power:** 200w - 6GPH 34 watts per gallon
+
 
 #### Maintenance Chemicals
 * sodium metabisulfate
@@ -414,8 +422,9 @@ This is the only Saga with almond colored gelcoat on the hull, deck and non-skid
 ## Safety Equipment
 
 - Ocean Signal MOB1 Personal Locator Device w/ AIS and DSC. Emily MMSI 972604917. Kai MMSI 972604918.
-- Winslow Offshore 6 person life raft in valise Exp. Date October ‘16. 60SLOP-BO-1-105. 10.5" x 16" x 22". 60 lbs.
-- Ditch bag
+- Winslow Offshore 6 person life raft in valise. Exp. Date April 2020. 60SLOP-BO-1-105. 10.5" x 16" x 22". 60 lbs.
+- ACR Ditch bag (x2) - One for emergency gear. Another for food.
+- 10 Liter MSR Dromedary Bag (x2) - Water bladder.
 - Switlik MOM-8-A Man Overboard Module
 - Throw Rope.
 - Life Sling

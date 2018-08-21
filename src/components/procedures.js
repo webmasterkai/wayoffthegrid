@@ -31,7 +31,7 @@ const Procedures = () => (
     render={({ items }) => (
       <div className="no-print" style={{float: 'right', fontSize: '0.8rem'}}>
         {items.group.map(({ fieldValue, totalCount, edges }) => (
-          <div>
+          <div key={fieldValue}>
             <h4>{capitalize(fieldValue)}</h4>
             <ol>
               {edges.map(({ node }) => {

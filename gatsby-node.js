@@ -61,8 +61,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     const pathMatch = posMatch.exec(path.basename(filePath))
     if (pathMatch) {
       const [ full, position, pageId ] = pathMatch
-      console.log(filePath, position, category, pageId)
-      createNodeField({ name: `position`, node, value: position })
+      createNodeField({ name: `position`, node, value: parseInt(position) })
       createNodeField({ name: `slug`, node, value: `/${category}/${pageId}/` })
     } else {
       createNodeField({ name: `slug`, node, value: filePath })

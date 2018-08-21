@@ -1,5 +1,7 @@
 # Standing Orders
 
+## Alert Captain
+
 It's far better to ask for help early and often, than too late.  
 **If anyone notices any of the following you MUST alert the Captain:**
 
@@ -33,3 +35,7 @@ It's far better to ask for help early and often, than too late.
 12. Keep the cockpit neat and tidy.
 13. No one is to leave the safety of the cockpit and go forward on deck without a harness and at least one other person on deck.
 14. In most conditions, watches will be one person watches of two hours. Number of persons and length of watch may vary according to weather and conditions.
+
+## Seamanship
+
+We recommend **The Annapolis Book of Seamanship** by John Rousmaniere, (Simon & Schuster, pub.) for its comprehensive coverage of topics relating to the safe and seamanlike operation of any small craft. Ultimately the safety, comfort and well-being of vessel and crew lies in the hands of the skipper and crew.

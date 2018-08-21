@@ -57,3 +57,13 @@ Slide top and bottom latches on port side of stairs. Open stairs by lifting port
 Middle board under cockpit under berth that usually has storage above it. Also accessed via a small hatch in the lazarette.
 
 * **(9)** Bronze - Used for RO water maker. From lazarette pull down toward you. From above push down to starboard.
+
+## Maintenance
+
+Each factory installed seacock is made from a material which allows the valve to be free of corrosion and electrolysis. They require no electrical "bonding".
+
+These valves still require regular inspection and lubrication. Inspect hose clamps carefully. Any rusted clamps should be replaced immediately. All hoses should be fitted with two clamps for redundancy. Activate the handle and lubricate the seals at least twice yearly. A quality waterproof grease or vegetable oil can be used as a lubricant.
+
+### Through Hull Installation - AFTERMARKET
+
+Each factory installed seacock or through hull is installed in an area where the core material has been removed to prevent the incursion of water into the core. Before installing any additional through hulls, the core must be removed in that area and the area sealed and locally reinforced with additional layers of fibreglass and/or backing plates. We recommend that a skilled professional experienced with cored hull construction install any desired additional through hulls.
