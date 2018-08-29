@@ -454,7 +454,11 @@ This is the only Saga with almond colored gelcoat on the hull, deck and non-skid
 
 https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKzqVE/edit?usp=sharing
 
-* ELECTRICAL PANEL:  BEP Marine, New Zealand, <http://www.bepmarine.com> , US Distributor Biscoff Marine, 770.486-6770, biscoffmarine@earthlink.net
+* Electric Distribution Panel:  BEP Marine, New Zealand, <http://www.bepmarine.com> , US Distributor Biscoff Marine, 770.486-6770, biscoffmarine@earthlink.net
+* Inverter/Charger: Victron MultiPlus 12v/3000w/120V AC/50A switch. VE.Bus. 120A charger. 400A recommended fuse.
+* Victron Digital Multi Inverter/Charger Control 200/200A GX
+* Battery Monitor: Victron BMV-712 Smart
+* System Monitor: Victron Venus GX
 * Shore Power Cord: 2x Marinco 30A 50 Feet, <http://www.marinco.com>
 * Shore Power Cord: 10 foot, Westmarine
 * Cord Adapter: 15 amp 120 to Ship's Plug 30 amp
@@ -462,9 +466,6 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 * Galvanic isolator (’13)
 * Bass 120V AC electrical panel with volt and amp meters
 * GFCI protected 120v. receptacles throughout
-* Monitor: Victron BMV-712 Smart
-* Inverter/Charger: Victron MultiPlus 12v/3000w/120V AC/50A switch. VE.Bus. 120A charger. 400A recommended fuse.
-* Victron Digital Multi Inverter/Charger Control 200/200A GX
 * Bass 12v DC electrical panel with volt and amp meters
 * Beautiful hinged drop-down electrical panel with numbered wiring system
 * Electrical chase pipes located along both hull sides for pulling lines
@@ -475,23 +476,28 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 * Spare alternator
 * LED interior lighting
 * Caframo 12v. fans (2)
-* Cabin floor courtesy lighting throughout
+* Red Cabin floor courtesy lighting throughout
 
 ### Solar
-* 4 Kyocera KC 5 80W solar panels 26"x40" + 14" of space on each side. Could probably do a 45" panel. Hamilton Ferris Corp., 3 Angelo Drive, Bourne, MA 02532, 508-743-9901, <http://www.hamiltonferris.com>
-* Xantrex Trace C Series solar charge controller
+
+* 4x Kyocera KC 5 80W solar panels.
+* Victron SmartSolar Charger MPPT 100/30 (HQ1804MRLHX)
+* 2x Sunpower 250W solar panels.
+* Victron BlueSolar Charger MPPT 100/50 rev2 (HQ1647CSELP)
 
 ### Navigation Lights
-* LED tricolor and anchor lights
+
+* Tricolor and anchor lights
 
 ## Electronics
 
-- Zeus3 9 MFD
-- Broadband 4G™ Radar - 000-13803-001
-- B&G NAC-3 Autopilot Core Pack - 000-13336-001 - $1,896
+* Zeus3 9 MFD in Cockpit
+* Broadband 4G™ Radar - 000-13803-001
+* B&G NAC-3 Autopilot Core Pack - 000-13336-001 - $1,896
 * Raystar 130 GPS Receiver, E32153, serial #0620828. new July 2012
 * Garmin Airmar DST800 Smart Triducer, Plastic Thru-Hull Nmea 2000
 * Questus gimballing radar mount (’12)
+* iPad installed at chart table. (MD363LL/A (16GB, Wi-Fi + Verizon 4G, White) 3rd Generation)
 
 ### Communications
 
@@ -507,7 +513,7 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 * SSB: Insulated backstay antenna
 * SSB: KISS antenna grounding system ('15)
 * SSB: Icom SP-24 external speaker
-* SSB: SCSDR7400 Pactor modem
+* SSB: Pactor modem - SCS P4 dragon DR-7400 SCSDR7400
 * WIFI: MikroTik Groove 52 802.11ac Gigabit Dual-Band Outdoor AP/CPE with 6/8 dBi Omnidirectional Antenna.
 * CELL: Wilson Electronics weboost Drive 4G-X Cellular Signal Booster with 4G Marine Antenna.
 * TV/phone shore connection

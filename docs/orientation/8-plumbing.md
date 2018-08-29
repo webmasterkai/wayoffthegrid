@@ -79,7 +79,7 @@ Change water filter elements at least once every 4 months, or whenever flow is r
 
 A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
 
-### 8-4 Bilge Pumps
+## 8-4 Bilge Pumps
 
 We are equipped with six bilge pumps. Two are fixed, manual diaphragm pumps, located in the cockpit and below the cabin sole in the main saloon. A third high capacity portable pump and board is mounted just inside the lazaret.
 
@@ -87,11 +87,14 @@ These pumps are rarely used so you should check the operation of each at least o
 
 The electric bilge pumps are located in the keel sump and are activated by a float switch. The pump is separately wired to a fuse located under the aft cabin berth. The toggle on the main panel is a manual bypass switch (not a circuit breaker) which will activate the pump should the float switch not activate the pump when desired. Trash can accumulate in the bilge and may be sucked up into the pump body. If the pump runs and does not evacuate the bilge or the flow is reduced, the pump can be removed from its mounting plate by depressing the two small locking tabs at the base of the pump. Check for debris, clean and replace by snapping back into position. See the pump manufacturers instructions. Keep the bilge clean to prevent clogging and also to reduce unpleasant "bilge odour."
 
-### 8-5 Toilets
+## 8-5 Toilets
 
-NEVER put paper towels, floss, tampons, feminine pads, condoms, cotton swabs, cigarette butts, candy wrappers or other foreign items down a marine head! You jam the toilet, you fix it.
+NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton swabs, cigarette butts, candy wrappers or other foreign items down a marine head! You will jam the toilet.
 
-1. If it hasn't passed through your body, it doesn't go down the toilet. We are extreme types so that means toilet tissue as well! A maximum of 10 squares are allowed per flush. A little white waste bin is located next to the toilet for anything extra.
+**If it hasn't passed through your body, it doesn't go down the toilet. We are extreme types so that means toilet tissue as well! A maximum of 10 squares are allowed per flush. A little white waste bin is located next to the toilet for anything extra.**
+
+### Main Head
+
 1. To the right of the sink are two grey push buttons. Water may be added to the bowl by pushing the lower left rocker switch to the right of the sink.
 1. To begin flush procedure push the "Start" button. It's to the left of the sink. The status LED should be solid green.
 1. To the right of the sink is two buttons. The top push-button switch provides a simple flush mode by activating both the rinse water supply and the macerator discharge pump simultaneously. Push and hold this button as the toilet flushes.
@@ -99,17 +102,34 @@ NEVER put paper towels, floss, tampons, feminine pads, condoms, cotton swabs, ci
 1. When underway use the lower right rocker-button to completely evacuate the toilet bowl.
 1. The Status LED should blink green. If blinking yellow the water is probably brackish and concentrated salt water needs to be added.
 
-Your toilet will love you and your holding tank will go many miles further between pump-outs.
-Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits.
+#### Acid Treatment/Electrode Cleaning
+
+Cleaning is recommended every SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle.
+
+1. Flush a 2/3rds full toilet bowl and activate the Electroscan four times, allowing all waste to be treated.
+2. Turn off water supply and flush toilet as dry as possible.
+3. Turn Electroscan Power off
+4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.  
+WARNING: electro scan must not be activated without disconnecting electrode and motor wires while muriatic acid solution is in the system.
+5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid.)
+6. Carefully pour solution into the toilet and flush until bowl is as dry as possible.
+7. Pour one gallon (3.8 liters) of additional fresh water into bowl to dilute any acid remaining.
+8. Allow to stand for between 45 minutes and 3 hours.
+9. Turn on water supply and flush only the toilet (WITHOUT activating the Electroscan) a minimum of 10 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution.
+9. Reconnect wires and turn power on to Electroscan.
+
+### Forward Head
+
+Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits. Your toilet will love you and your holding tank will go many miles further between pump-outs.
 WARNING: Resistance on the toilet pump handle almost always indicates a full holding tank, (or a closed discharge valve) DO NOT FORCE!!!! Investigate first. Undue force can rupture holding tank cleanout plates or blow off waste hoses.
 
 When leaving the boat for more than a day, we suggest pumping out the holding tanks, flush thoroughly with fresh water, and add some deodorising chemical. Wastes left to "cook" over a period of time will cause an offensive odour in the boat which may be difficult or near impossible to get rid of.
 
-### Holding Tanks
+#### Holding Tank
 
-The SAGA 43 has one complete waste systems which are designed to be legal in any location. Waste may be held in holding tanks until a dockside pump out station is reached; or waste in holding tanks may be evacuated overboard by on-board electric macerator pumps, where legal; or waste may be discharged directly overboard from the toilets, where legal.
+In addition to the Electroscan in the main head this SAGA 43 has one complete waste systems which is designed to be legal in any location. Waste may be held in the holding tank until a dockside pump out station is reached; or waste in holding tanks may be evacuated overboard by on-board electric macerator pumps, where legal; or waste may be discharged directly overboard from the toilets, where legal.
 
-### Y-Valve
+#### Y-Valve
 
 Each toilet discharge hose is connected to a Y-valve which can be selected to m either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also
 be open). The Y-valve is conveniently located near each toilet and is clearly T
@@ -118,22 +138,17 @@ the valve handle (with the handle in the tank position) and into the fibreglass 
 moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the --' handle and secure with a nyloc nut on the back side. In addition you may be
 required to secure the overboard discharge seacock in some fashion (don't drill T a hole as above, the sea is out there!). ->
 
-### Macerator
+#### Macerator
 
-Your SAGA holding tank is equipped with a macerator pump to discharge
-overboard the wastes that have accumulated in the holding tank when you
-sailing where it is legal to do so. The pump discharges waste through its own seacock after chopping up solid waste into fine particles.
-To operate: 1 1. Open the macerator discharge seacock. Only open this seacock when
-actually using the Macerator pump. Seawater can leak back into holding tank if 1 the seacock is left open.
-2. Turn on the proper breaker switch on the main electrical panel. You will hear the pump run and as it sucks in the waste the pitch will drop as it begins
-pumping. When the pitch increases again the tank is empty. Repeat for each
-holding tank. 3. It is a good idea at this time to manually pump the toilet 20-30 strokes with the water intake valve open to flush clean seawater into the tank.
-Run the macerator again until empty. Add some deodoriser chemicals in the toilet and pump several strokes into the holding tank.
-4. Close macerator discharge seacock.
-P59
- 0f
+The holding tank is equipped with a macerator pump to discharge overboard the waste that has accumulated in the holding tank. This can be done when sailing where it is legal to do so. The pump discharges waste through its own seacock after chopping up solid waste into fine particles.
 
-### Deck Pumpout
-Each holding tank has a deck fitting for use at a dockside facility. The dockside
-facility will have an adapter fitting which screws into the deck plate to adapt their suction hose. Your dock attendant will be able to assist you. It is a good idea to flush plenty of fresh water through the toilet or into the deck plate to help rinse out the tank. Add some commercial tank chemical afterwards. Your olfactory senses will appreciate it too. Never leave the boat with waste in the holding
-tanks.
+1. Open the macerator discharge seacock. Only open this seacock when actually using the Macerator pump. Seawater can leak back into holding tank if 1 the seacock is left open.
+2. Turn on the proper breaker switch on the main electrical panel. You will hear the pump run and as it sucks in the waste the pitch will drop as it begins pumping. When the pitch increases again the tank is empty.
+3. It is a good idea at this time to manually pump the toilet 20-30 strokes with the water intake valve open to flush clean seawater (or fresh using the shower sprayer) into the tank.
+4. Run the macerator again until empty.
+5. Add some deodoriser chemicals in the toilet and pump several strokes into the holding tank.
+6. Close macerator discharge seacock.
+
+#### Deck Pumpout
+
+The holding tank has a deck fitting for use at a dockside facility. The dockside facility will have an adapter fitting which screws into the deck plate to adapt their suction hose. Your dock attendant will be able to assist you. It is a good idea to flush plenty of fresh water through the toilet or into the deck plate to help rinse out the tank. Add some commercial tank chemical afterwards. Your olfactory senses will appreciate it too. Never leave the boat with waste in the holding tanks.

@@ -150,7 +150,7 @@ kept aired and that it be dried after use to prevent mold development. If the
 yacht is to be left unused for prolonged periods, it is advisable to stand the 3 cushions on end so that air can circulate around them. It is also advisable at
 such times to clean out all lockers, removing all dampness and leaving locker  doors open. During winter storage, we recommend that you remove the cushions * from the boat and store them in a clean, dry area.
 
-11-14 Steering
+### 11-14 Steering
 
 The manufacturer's instructions for maintaining your pedestal steering system should be followed closely. Your SAGA Yacht has Whitlock rod steering.
 

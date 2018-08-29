@@ -43,7 +43,7 @@
 
 ## Tanks
 * **Fresh Water:** 2 Aluminum (130 Gallons)
-* **Fuel Tanks:** 2 Aluminum (88 Gallons)
+* **Fuel Tanks:** 2 Aluminum (35.3 + 45.3) & 1 Plastic (5.1) = 85.6 Gallons)
 * **Holding Tanks:** 1 Aluminum (20 Gallons)
 
 ## Accommodations
