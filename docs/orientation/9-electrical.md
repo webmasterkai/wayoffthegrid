@@ -1,5 +1,7 @@
 # Electrical
 
+https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKzqVE/edit?usp=sharing
+
 ## General
 
 The electrical system has been designed to ensure trouble free operation. Wiring and connections are kept as high in the interior of the yacht as practicable, reducing the possibility of exposure to water. The main switch panels are located to protect them from the elements. The electrical circuits are numbered at convenient locations at the panel and throughout the yacht. A numbering scheme and diagram is located in this manual for your convenience.
@@ -26,7 +28,7 @@ The main panel contains 120V AC breaker switches for both dockside power and inv
 2. There is a built in delay. Battery charging will begin about 20 seconds after activated.
 3. When the inverter is operating in battery charging mode, DC is being supplied to your batteries and also to run any 12V DC loads at the same time. Battery voltage and charging amperage being supplied by the unit is indicated on the overview page viewable by pushing "esc".
 
-**Caution**  
+**Caution**
 Shut down battery charging before starting engine. Do not charge batteries using the inverter while the engine is running, as the engine alternator is charging the batteries at this time.
 
 ## Inverter operation:

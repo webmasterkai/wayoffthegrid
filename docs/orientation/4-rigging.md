@@ -1,4 +1,4 @@
-# Rigging
+# Rigging & Sails
 
 We recommend that, a professional yacht rigger be employed to set up your mast and rig. Your commissioning dealer will employ, or be able to recommend, a rigger for your boat. If you wish to carry out your own mast and rigging work / after the original commissioning, it is essential that you familiarise yourself with the basic principles of mast tuning. Tuning involves adjusting the tension in the shrouds and stays so that the mast will remain straight from side to side in most sailing conditions with an appropriate amount of rake and fore to aft bend for comfortable helm balance. Tuning must be carried out in two phases - tuning at the dock and tuning while under sail. Some definitions and explanations follow.
 
@@ -88,3 +88,117 @@ rig will require more rake.
 The important thing to remember about setting up your mast is to go about the
 process in a slow and orderly fashion. Record the details of the tuning and re- tune procedures as well as the results achieved. This will provide you with a better understanding of the rig and will serve as a useful reference for rigging
 the boat on subsequent occasions.
+
+Some preconceived notions about conventional sloops or cutters may need to be discarded in order to understand how the Saga 43's Variable Geometry rig works. It's not a cutter or a sloop in the usual sense and the techniques for sailing it are a tad different than what you may be used to. The rig is proportioned so that an overlapping head sail is never required. The inner head sail is used when sailing close-hulled, even in light air. As it is self-tending, tacking simply requires a turn of the wheel, no crew required. Off the wind, the reaching genoa is deployed to both add sail area and shift the center of pressure forward to maintain an extra light helm pressure on all points of sail. At deeper angles downwind an asymmetrical spinnaker can be flown from the bowsprit. Furthermore, the Saga 43 will remain well balanced and easily steered even when pressed hard on a tight reach, unlike conventionally rigged boats. Mainsail hoisting and reefing chores are easily taken care of inside the safety of the cockpit with a push of the button on the two speed self-tailing electric winch.
+
+The Saga 43 is no slouch on the water. Impressive sail area/displacement ratio of 18.7-20. Most recently 73 PHRF; NE PHRF is 81.
+
+### Main
+
+- Type: Fully battened
+- Reefs: 3
+- Manufacturer: North Sails
+- Area: 496.54sq ft (46.13sq m)
+- Year: 2013
+- P (luff): 15.47m 50.75'
+- E (foot): 4.987m 16.4'
+
+### Fore Stay
+
+- Type: Genoa (#2)
+- Manufacturer: North Sails
+- Year: 2013
+- Area: 531 sq ft
+- Roller furling: Harken Mark III, 2.0
+- Cloth: Ndrad 75vf
+- I: 58.1'
+- J: 18.25'
+
+### Solent Stay
+
+- Type: Jib (#4)
+- I: 56.0'
+- J: 16.66'
+- Manufacturer: North Sails
+- Year: 2013
+- Area: 439 sq ft
+- Roller furling: Harken Mark III, 1.5
+- Cloth: NSP Radian 9.0
+- Luff: 16.52m
+- Foot: 4.3m
+
+### Inner Staysail Stay
+
+- Type: Storm Jib (#5)
+- Manufacturer: Halsey
+- Area: 108 sq ft
+
+### Spinnaker
+
+- Type: asymmetrical
+- Area: 1134.65 sq ft
+- Manufacturer: Quantum
+- Dousing Sleeve: ATN
+- Cloth: Nylon 0.75oz
+- ISP: 58.17'
+- SPL: 18.25'
+
+## Rig
+
+Saga “Variable Geometry” rig. Self-draining line organizer boxes molded into both cockpit coamings. Storage wells at either side of mast base for winch handles, snubbers, etc. All halyards, reefing and control lines are led aft to the safety of the cockpit beneath a carapace, keeping them from underfoot to reduce trip hazards while on deck and protecting them from the elements.
+
+Running rigging replaced 2013. Standing rigging replaced 2015.
+
+- Harken MK III roller furlers for genoa and jib
+- Hydraulic Backstay adjuster: Navtec   <http://www.navtec.net>
+- Boom Vang: Forespar model YRL  <http://www.forespar.com>   949.858-8820
+- Harken curved track and jib car for self-tending jib
+- Harken “Big Boat” 4:1 mainsheet track and car with mid-boom sheeting
+- Stainless steel 1 x 19 wire standing rigging replaced (’15)
+- Forespar 18’3” carbon fiber whisker pole
+- Whisker pole 18' 3" carbon fiber - Forespar
+- Adjustable whisker pole car on mast mounted track
+- Stack pack with lazy jacks (’15)
+- Harken Battcar (22 mm A) track and slides provide low-friction raising and lowering of the main.
+- Harken 2SP32CHST self-tailing halyard winch on mast for Jib and Genoa.
+- Spinlock line clutches on mast (3)
+- Spinlock line clutches on housetop (10)
+
+### Mast
+
+Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted in 2011. Heights have not been adjusted or confirmed since the rebuild in 2014.
+
+[Offshore Spars](http://www.offshorespars.com) 810.598-4700
+
+* Spartite at the partners.
+* Mast Step below the waterline:  18",  10" below cabin sole.
+* Total Mast Length: 63' 10" (not 67 ft?)
+* Mast Height above water: 62'2", with strobe/tricolor: 63.5', with VHF Antenna: 65'
+* Mast color: Matterhorn White Algrip
+* Mast Base Aft to the stoppers: 13'  (deck is 5.5 above water)
+* Mast Height to first spreader: 21 feet above deck
+* Mast height to storm stay attachment: 37 feet above deck
+
+### Mast Step & Tie Rods
+
+Mast step replaced (’15)
+
+- Marine Eye 1/4" Wire - 1/2" Pin
+- Stainless Steel Fasteners, Group 3/Blue (x2)
+- Strap style Eye Jaw Toggle - 1/2" Pin
+- Stud Rigging 1/4" Wire 1/2-20 X 3 1/4 RH
+- Wire, 1/4" 1x19 SS T316 Strand 7'
+
+### Shrouds
+
+- 5/16" 1x19 SS T316 Strand
+- 9/32" 1x19 SS T316 Strand
+
+### Winches
+
+Harken   <http://www.harken.com>  262.691-2230
+
+- \#53.2ST (2) Harken 2SP53CHST primary genoa winches
+- \#40.2ST Harken 2SP40CHST control winch on house/cabin top and at mast base. Starboard side.
+- \#40 Harken 2SP40CHEST Electric winch on house/cabin top. Port side.
+- Winch handles

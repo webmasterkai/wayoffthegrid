@@ -79,6 +79,12 @@ Change water filter elements at least once every 4 months, or whenever flow is r
 
 A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
 
+### Storage/Cleaning
+
+Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
+
+Use Propylene glycol (no ethyl esters alcohol) for long term storage.
+
 ## 8-4 Bilge Pumps
 
 We are equipped with six bilge pumps. Two are fixed, manual diaphragm pumps, located in the cockpit and below the cabin sole in the main saloon. A third high capacity portable pump and board is mounted just inside the lazaret.
@@ -109,7 +115,7 @@ Cleaning is recommended every SIX MONTHS or if red light and warning for low ele
 1. Flush a 2/3rds full toilet bowl and activate the Electroscan four times, allowing all waste to be treated.
 2. Turn off water supply and flush toilet as dry as possible.
 3. Turn Electroscan Power off
-4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.  
+4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.
 WARNING: electro scan must not be activated without disconnecting electrode and motor wires while muriatic acid solution is in the system.
 5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid.)
 6. Carefully pour solution into the toilet and flush until bowl is as dry as possible.

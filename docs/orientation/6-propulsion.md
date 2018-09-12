@@ -67,16 +67,19 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 
 ### RPM & Consumption
 
+Prop is slightly over-pitched to maintain higher load on engine during average cruising. Also enables motor-sailing.
+
 - **Idle speed:** 850 RPM.
 - **Min Cruise:** 1850 RPM - 0.50 GPH. 5.3 kts.
-- **Slow Cruise:** 2000 RPM - 0.60 GPH. 5.8 kts.
-- **Eco Cruise:** 2200 RPM - 0.75 GPH. 6.1 kts
-- **Cruise:** 2450 RPM - 1.0 GPH. 6.8 kts
+- **Eco Cruise:** 1950 RPM - 0.60 GPH. 5.7 kts.
+- **Cruise Low:** 2200 RPM - 0.75 GPH. 6.2 kts.
+- **Cruise Mid:** 2500 RPM - 1.0 GPH. 6.7 kts
 - **Fast Cruise:** 2800 RPM - 1.3 GPH. 7.5 kts
-- **Max Cruise:** 3000 RPM - 1.6 GPH. 8 kts
-- **1 Hour Max:** 3500 RPM - 2.5 GPH. 9 kts
+- **Max Cruise:** 3000 RPM - 1.6 GPH. 7.9 kts
+- **Hull Speed:** 3300 RPM - 2.5 GPH. 8.4 kts
+- **1 Hour Max:** 3500 RPM - 2.6 GPH.
 - **Full Load Max:** 3600 RPM - 2.75 GPH.
-- **Max Output:** 3800 RPM
+- **Rated Max Output:** 3800 RPM
 - **No Load Max:** 3925 RPM.
 
 ### Oil
@@ -121,6 +124,21 @@ Rebuilt @ 1330 hours in July, 2006 by Mack Boring 508.946-9200
 - Gear ratio: 2.64
 - 0.65 liters, 0.75 quarts / 0.3 quarts.
 - 2.64/3.04 - prop 1441 RPM
+
+## Propeller
+
+- Forward Clockwise, viewed from stern. Walks to starboard.
+- Reverse Counterclockwise, viewed from stern. Walks to port.
+- Max 3-blade 19" Folding propeller ('14)
+- Prop Pitch Setting: 20deg RH - X=K, Y=E. 18deg RH - X=
+- Zinc 70mm.
+- Drive Type: Direct Drive
+- Stainless steel 1 ¼” prop shaft with bronze strut
+- Shaft - length: 40 inches, diameter: 1.25 inches
+- strut width: 5 inches
+- Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
+- Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
+- Spare 3-blade bronze fixed-pitch prop
 
 ## Propeller Shaft
 
