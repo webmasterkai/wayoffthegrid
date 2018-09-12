@@ -1,4 +1,4 @@
-# Equipment List & Notes
+# Equipment List
 
 ## Mechanical
 
@@ -74,15 +74,8 @@
 - 2x 12" x 29" Dark Gray - Aeré Inflatable Fender. 12/6/2017.
 - 2x 12" x 42" Gray - ProStock Extreme Fenders. 9/28/2017.
 - 2x 18" x 42" Black - Taylor Made Admiral's Choice Super Duty Inflatable Yacht Fender. 2017.
-- 2x 20' lines.
-- 2x 40' lines.
-
-## Accommodations
-
-* Single berths: 2
-* Double berths: 2
-* Cabins: 3
-* Heads: 2
+- 2x 20' nylon lines.
+- 2x 40' nylon lines.
 
 ## Galley
 
@@ -196,7 +189,6 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * This is the only Saga with almond colored gelcoat on the hull, deck and non-skid.
 * New main bulkhead laminated in (now double thickness and much stiffer) (2015)
 * New mast step, stringers and ribs in the mast step and main bulkhead area (2015)
-
 
 ### Cockpit
 

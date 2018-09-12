@@ -106,10 +106,10 @@ Replaced every 500 hours.
 
 Two high output alternators are fitted on the engine. Switches for both are located under the aft cabin berth. The 120A alternator is left on all the time and the 150A is turned on as needed. Full charging will start 30 seconds after engine is above 1000 RPMS on 120 the amps alternator. The 150A alternator has a 90 second delay.
 
-- 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm)
-  - belt Gates Green stripe (carquest #9470); tension is 65-70 lbs or 1/2 inch deflection
-- 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection.
-  - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm).
+- 125 amp Power Max
+  - 47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm) belt Gates Green stripe (carquest #9470); tension is 65-70 lbs or 1/2 inch deflection
+- 150 amp Powerlin
+  - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm). Tension is 80 lbs or 1/2 inch deflection.
 
 ## Transmission
 

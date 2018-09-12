@@ -49,5 +49,5 @@
 ## Accommodations
 * **Single berths:** 2
 * **Double berths:** 2
-* **Number of cabins:** 2
+* **Number of cabins:** 3
 * **Number of heads:** 2
