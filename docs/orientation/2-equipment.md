@@ -297,10 +297,10 @@ Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
 
 820 watts of solar
 
-* 4x Kyocera KC 5 80W solar panels.
-* Victron SmartSolar Charger MPPT 100/30 (HQ1804MRLHX)
-* 2x Sunpower 250W solar panels.
-* Victron BlueSolar Charger MPPT 100/50 rev2 (HQ1647CSELP)
+* 4x Kyocera KC 80W solar panels.
+* Victron SmartSolar Charger MPPT 100/30 (HQ1804MRLHX) (2017)
+* 2x Sunpower SPR-X20-250-BLK 250W solar panels. (2017)
+* Victron SmartSolar Charger MPPT 100/50 rev2 (2019)
 
 ### Navigation Lights
 
@@ -325,6 +325,14 @@ Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
 * Raymarine ST60 Multi Display
 * Raymarine SeaTalk to NMEA 2000
 * SignalK Data Gateway for sending data over wifi.
+
+## Audio
+
+* Clarion XC1410 4-Channel Amplifier (50W × 4 @ 4 Ohm)
+* Fusion MS-BT100 Bluetooth Stereo RCA Dongle/Adapter
+* RCA Female to Dual Male Y Splitter
+* Poly-Planar MA7500W Speakers Main Cabin 3" Cone (100W @ 4 Ohm) 195mm x 130mm x 119mm
+* Bose 131 Marine Speakers Cockpit. 4.5" Cone. (80W)
 
 ### Communications
 

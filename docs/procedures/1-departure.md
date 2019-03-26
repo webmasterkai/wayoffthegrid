@@ -1,23 +1,26 @@
 # Departure Checklist
 
-## Voyage Prep
+## Voyage Preperation
 
-* Download chart updates and regions.
+* Fill Propane Tanks
+* Download charts, updates and regions.
 * **Passage plan:** courses to steer, weather, tides, bolt hole.
 * Float plan for passage sent to onshore contact.
-* Check & top up fuel. Ensure fill cap is closed completely.
+* Update websites.
+* Check satellite tracker subscription status and functionality.
 * Check & top up water. Ensure fill cap is closed completely.
 * Take out trash and recycling.
 * Check rigging, hull, overall condition of the boat.
 
-## Engine Check
+## Engine/Drivetrain Check
 
-1. Check engine lube oil level and coolant level.
-2. Check alternator/water pump belt condition and tension.
-3. Make a visual check of engine and sump for any coolant, fuel or oil.
+* Check & top up fuel. Ensure fill cap is closed completely.
+* Check engine lube oil level and coolant level.
+* Check alternator/water pump belt condition and tension.
+* Make a visual check of engine and sump for any coolant, fuel or oil.
 * Open engine seawater intake seacock (#8).
-4. Visually check seawater strainer for debris.
-5. Visually check fuel filter bowls for signs of water or algae growth. Black specks indicate algae growth, water will show as a clear bubble at the bottom.
+* Visually check seawater strainer for debris.
+* Visually check fuel filter bowls for signs of water or algae growth. Black specks indicate algae growth, water will show as a clear bubble at the bottom.
 
 ## Safety
 
@@ -56,7 +59,7 @@
 * Radio on and automated radio check.
 * Flip breakers for **Instruments**, **Auto Pilot**, and **Radar** to the **ON** (front left to right) position.
 * Turn on screens to MDF and instrument displays if necessary.
-* Wheel brake off, check lock to lock movement of wheel. The instruments should show -45 to +45 degrees.
+* Wheel brake off, check stop to stop movement of wheel. The instruments should show -45 to +45 degrees.
 * On anchor: remove snubber (bridle) from anchor chain.
 * On dock: 120v AC systems off & shore power disconnected, ship & engine batteries on.
 * On dock: lines doubled back & fenders moved in departure plan
