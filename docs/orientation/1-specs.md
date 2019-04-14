@@ -17,8 +17,8 @@
 * **LWL:** 38 ft 1 in
 * **Sailing LWL:** 39' 11"
 * **Minimum Draft:** 6 ft 10 in
-* **Displacement Dry:** 23,000 lbs
-* **Displacement Loaded:** 29,000 lbs
+* **Displacement Dry:** 23,300 lbs
+* **Displacement Loaded:** 28,700 lbs
 * **Ballast:** 8750 lbs
 * **Bridge Clearance:** 64 ft
 * **Headroom:** 6 ft 3 in
@@ -39,7 +39,6 @@
 * **Engine/Fuel Type:** Diesel
 * **Propeller:** Folding MAX propeller
 * **Drive Type:** Direct Drive
-
 
 ## Tanks
 * **Fresh Water:** 2 Aluminum (130 Gallons)

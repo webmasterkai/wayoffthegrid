@@ -1,6 +1,6 @@
-# Rigging & Sails
+# Rigging
 
-We recommend that, a professional yacht rigger be employed to set up your mast and rig. Your commissioning dealer will employ, or be able to recommend, a rigger for your boat. If you wish to carry out your own mast and rigging work / after the original commissioning, it is essential that you familiarise yourself with the basic principles of mast tuning. Tuning involves adjusting the tension in the shrouds and stays so that the mast will remain straight from side to side in most sailing conditions with an appropriate amount of rake and fore to aft bend for comfortable helm balance. Tuning must be carried out in two phases - tuning at the dock and tuning while under sail. Some definitions and explanations follow.
+It's recommend that a professional yacht rigger be employed to set up the mast and rig. If you wish to carry out your own mast and rigging work / after the original commissioning, it is essential that you familiarise yourself with the basic principles of mast tuning. Tuning involves adjusting the tension in the shrouds and stays so that the mast will remain straight from side to side in most sailing conditions with an appropriate amount of rake and fore to aft bend for comfortable helm balance. Tuning must be carried out in two phases - tuning at the dock and tuning while under sail. Some definitions and explanations follow.
 
 *Standing rigging* refers to the fixed pieces of stainless steel rod or wire supporting the mast. Those which offer fore and aft supports are called stays 1 (backstay, forestay, etc.). The forward-most stay which carries the genoa/reacher is known as the forestay; the Jib stay, next aft, is also known as the inner forestay. Those which provide athwartships (transverse) support are called shrouds. The shroud running from the masthead to a chainplate on the deck near the rail is the cap or upper shroud. Below it, originating at the upper spreader base is the intermediate shroud. At the lower spreaders, there are two lower shrouds on each side, the forward lowers (port and starboard) and the after lowers (port and starboard).
 
@@ -45,7 +45,7 @@ The furling gear should be put together by a professional yacht rigger to ensure
 their length, don't tie them up to the mast. They need to be free as the mast is 'I lowered into the mast partners. "'
 The halyards are marked as to purpose and there are messenger lines run in , | the mast to facilitate pulling the halyards through. Even when you have accomplished rigging your mast by yourself, at this point a 1 crane is necessary for the actual stepping. Let the boat yard do it! You can facilitate matters by removing the saloon table, picking up the floorboards in the way of the mast, taking down the wooden mast ring on the overhead and having cardboard ready to wrap around the mast as it is lowered into the deck. The cardboard will keep scratches on the mast to a minimum.
 
-## 5-4 Tuning at Dockside
+## Tuning at Dockside
 
 All turnbuckles are equipped with toggles to eliminate bending load on the terminals and turnbuckles. Toggles are also fitted to both ends of the forestay. As the boat tacks and the headsail loading varies from side to side, the forestay terminals are subject to side loading; i.e., loads not in the straight line from masthead to tack fitting.
 
@@ -69,7 +69,7 @@ Unless the rake has to be readjusted in the future to correct helm balance, thes
 
 The outboard ends of the spreaders will need to be padded and taped to avoid chafing the genoa/reacher. Ensure that all turnbuckles are pinned. You will be ready to complete the tuning procedure while sailing once the boom is installed.
 
-## 5-5 Tuning While Sailing
+## Tuning While Sailing
 
 Select a day with a steady 12 to 15 knot breeze and reasonably flat seas. Put the boat on starboard tack, close hauled. Sight up the luff track of the mast. If the mast seems to fall off to leeward at the spreaders, tack and tighten the
 starboard lower shroud or intermediate as necessary. Put the boat back on starboard tack and check the spar again, repeat as necessary. When the mast appears straight, bring the boat about and do the same on the port side. When you first sight up the mast, the mast head may appear to be falling off to leeward. The cap shrouds may be too loose but the intermediate and lowers might be too tight. Or - the mast may have an S-curve, falling off at one spreader and poking up to windward at the other with the masthead to windward or to
@@ -93,64 +93,12 @@ Some preconceived notions about conventional sloops or cutters may need to be di
 
 The Saga 43 is no slouch on the water. Impressive sail area/displacement ratio of 18.7-20. Most recently 73 PHRF; NE PHRF is 81.
 
-### Main
-
-- Type: Fully battened
-- Reefs: 3
-- Manufacturer: North Sails
-- Area: 496.54sq ft (46.13sq m)
-- Year: 2013
-- P (luff): 15.47m 50.75'
-- E (foot): 4.987m 16.4'
-
-### Fore Stay
-
-- Type: Genoa (#2)
-- Manufacturer: North Sails
-- Year: 2013
-- Area: 531 sq ft
-- Roller furling: Harken Mark III, 2.0
-- Cloth: Ndrad 75vf
-- I: 58.1'
-- J: 18.25'
-
-### Solent Stay
-
-- Type: Jib (#4)
-- I: 56.0'
-- J: 16.66'
-- Manufacturer: North Sails
-- Year: 2013
-- Area: 439 sq ft
-- Roller furling: Harken Mark III, 1.5
-- Cloth: NSP Radian 9.0
-- Luff: 16.52m
-- Foot: 4.3m
-
-### Inner Staysail Stay
-
-- Type: Storm Jib (#5)
-- Manufacturer: Halsey
-- Area: 108 sq ft
-
-### Spinnaker
-
-- Type: asymmetrical
-- Area: 1134.65 sq ft
-- Manufacturer: Quantum
-- Dousing Sleeve: ATN
-- Cloth: Nylon 0.75oz
-- ISP: 58.17'
-- SPL: 18.25'
-
 ## Rig
 
 Saga “Variable Geometry” rig. Self-draining line organizer boxes molded into both cockpit coamings. Storage wells at either side of mast base for winch handles, snubbers, etc. All halyards, reefing and control lines are led aft to the safety of the cockpit beneath a carapace, keeping them from underfoot to reduce trip hazards while on deck and protecting them from the elements.
 
 Running rigging replaced 2013. Standing rigging replaced 2015.
 
-- Harken MK III roller furlers for genoa and jib
-- Hydraulic Backstay adjuster: Navtec   <http://www.navtec.net>
 - Boom Vang: Forespar model YRL  <http://www.forespar.com>   949.858-8820
 - Harken curved track and jib car for self-tending jib
 - Harken “Big Boat” 4:1 mainsheet track and car with mid-boom sheeting
@@ -159,12 +107,32 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Whisker pole 18' 3" carbon fiber - Forespar
 - Adjustable whisker pole car on mast mounted track
 - Stack pack with lazy jacks (’15)
-- Harken Battcar (22 mm A) track and slides provide low-friction raising and lowering of the main.
-- Harken 2SP32CHST self-tailing halyard winch on mast for Jib and Genoa.
 - Spinlock line clutches on mast (3)
 - Spinlock line clutches on housetop (10)
 
+### Fore Stay
+
+- Harken MK III 2.0 roller furler
+- 3/8" (10mm) 1x19 SS T316 Strand ($3.00/ft)
+- Order 63' $190 wire, $21 swage,
+
+### Solent Stay
+
+- 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand ($2.00/ft)
+- Harken MK III 1.5 roller
+- Needs 5mm hex allen key for foil bolts (x2)
+- Needs 4mm hex allen key for bottom foil receiver (x3)
+- Order 62' $125
+
+### Inner Staysail Stay
+
+### Backstay
+- Hydraulic Backstay adjuster: Navtec   <http://www.navtec.net>
+
 ### Mast
+
+- Harken Battcar (22 mm A) track and slides provide low-friction raising and lowering of the main.
+- Harken 2SP32CHST self-tailing halyard winch on mast for Jib and Genoa.
 
 Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted in 2011. Heights have not been adjusted or confirmed since the rebuild in 2014.
 
@@ -191,8 +159,9 @@ Mast step replaced (’15)
 
 ### Shrouds
 
-- 5/16" 1x19 SS T316 Strand
-- 9/32" 1x19 SS T316 Strand
+- Lowers - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft)
+- Mids - 9/32" (7mm) 1x19 SS T316 Strand (19-22)
+- Uppers - 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand (29-33) ($13/ft)
 
 ### Winches
 

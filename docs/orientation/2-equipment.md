@@ -108,7 +108,7 @@
 ### Refrigerator
 
 * Single piece top and front refrigerator. Hinged lid with gas assist lift.
-* Isotherm 2013 11 13/16" x 53 15/16" evaporator plate. ('18)
+* Isotherm Compact 2013 11 13/16" x 53 15/16" evaporator plate. ('18)
 * Danfoss BD50F compressor with fan cooled condenser. Capable of cooling icebox to below freezing. ('18)
 * Chaney refrigerator/freezer temperature gauges
 * LED Refrigerator light
