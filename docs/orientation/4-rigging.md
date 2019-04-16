@@ -113,12 +113,12 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 ### Fore Stay
 
 - Harken MK III 2.0 roller furler
-- 3/8" (10mm) 1x19 SS T316 Strand ($3.00/ft)
-- Order 63' $190 wire, $21 swage,
+- 3/8" (10mm) 1x19 SS T316 Strand (May 2019)
+- Order 63' $190 wire, $21 top swage
 
 ### Solent Stay
 
-- 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand ($2.00/ft)
+- 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand (May 2019)
 - Harken MK III 1.5 roller
 - Needs 5mm hex allen key for foil bolts (x2)
 - Needs 4mm hex allen key for bottom foil receiver (x3)

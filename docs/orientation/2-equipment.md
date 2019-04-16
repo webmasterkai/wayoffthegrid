@@ -10,6 +10,7 @@
 - **Spare prop:** 3-blade bronze fixed-pitch
 - **Alternator 1:** 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm)
 - **Alternator 2:** 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection.
+- Digital NMEA 2000 Exhaust Gas Sensor YDGS-01
 
 ### Fuel
 
@@ -101,17 +102,21 @@
 
 ### Freezer
 * Top loading freezer
+* Isotherm Compact Type 2017 39.38" x 10.63" (1000x270mm) evaporator plate. ('19)
 * Technautics cold/holding stainless plate
-* Danfoss compressor.
-* Air circulation system
+* Danfoss BD50F compressor with fan cooled condenser. Capable of sub zero temps. ('19)
+* Air circulation system.
+* NMEA 2000 Digital Thermometer YDTC-13 ('19)
 
 ### Refrigerator
 
 * Single piece top and front refrigerator. Hinged lid with gas assist lift.
-* Isotherm Compact 2013 11 13/16" x 53 15/16" evaporator plate. ('18)
+* Isotherm Compact Type 2013 11 13/16" x 53 15/16" (1370x300mm) evaporator plate. ('18)
 * Danfoss BD50F compressor with fan cooled condenser. Capable of cooling icebox to below freezing. ('18)
 * Chaney refrigerator/freezer temperature gauges
 * LED Refrigerator light
+* Air circulation fan within the compartment
+* NMEA 2000 Digital Thermometer YDTC-13 ('19)
 
 ## Heads
 
@@ -264,9 +269,12 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 - Flashlight - Olight SR52-UT Intimidator. Natural white.
 - Headlamps (x2) - Nitecore HC50. Warm white light 565 lumens. Red 1.5 lumens.
 
-## AC/Heat
+## Climate AC/Heat
 
-Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
+* Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
+* Digital NMEA 2000 Temperature and Humidity Sensor YDHS-01.
+* Digital NMEA 2000 Barometer YDBC-05
+* 3x Caframo 12v fans
 
 ## Electrical
 
@@ -290,7 +298,6 @@ Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
 * Dual 125A & 150A engine alternators
 * Spare alternator
 * LED interior lighting
-* 3x Caframo 12v fans
 * Red Cabin floor courtesy lighting throughout
 
 ### Solar
@@ -312,13 +319,14 @@ Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
 ## Electronics
 
 * Zeus3 9 MFD in Cockpit (2017)
+* Questus gimballing radar mount (’12)
 * Broadband 4G™ Radar - 000-13803-001 (2017)
 * B&G NAC-3 Autopilot (2017)
 * Triton2 Autopilot controller (2017)
 * Triton2 Multifunction Display (2017)
 * Raystar 130 GPS Receiver, E32153, serial #0620828. (2012)
 * Garmin Airmar DST800 Smart Triducer, Plastic Thru-Hull Nmea 2000 (2016)
-* Questus gimballing radar mount (’12)
+* Maretron DSM 410 Display at chart table.
 * iPad installed at chart table. (MD363LL/A (16GB, Wi-Fi + Verizon 4G, White) 3rd Generation)
 * 2x Raymarine i70s Multifunction Instrument Display
 * Raymarine ST60 Wind Display
@@ -333,6 +341,9 @@ Marine Air 16K BTU reverse cycle heat/air conditioning (’13)
 * RCA Female to Dual Male Y Splitter
 * Poly-Planar MA7500W Speakers Main Cabin 3" Cone (100W @ 4 Ohm) 195mm x 130mm x 119mm
 * Bose 131 Marine Speakers Cockpit. 4.5" Cone. (80W)
+* Kenwood Marine Nautic KAC-M3001 Compact Mono 600W Subwoofer Amplifier KACM3001
+* Kicker 43TCWRT674 CompRT 6.75" 300 Watt Shallow Subwoofer+Slim Sub Box Enclosure
+* Cambridge Audio Minx Min 22 Bookshelf Speaker (Black)
 
 ### Communications
 

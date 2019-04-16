@@ -1,8 +1,8 @@
 # Sails
 
-### Main
+### Mainsail
 
-- Type: Fully battened
+- Fully battened
 - Reefs: 3
 - Manufacturer: North Sails
 - Area: 496.54sq ft (46.13sq m)
@@ -10,9 +10,9 @@
 - P (luff): 15.47m 50.75'
 - E (foot): 4.987m 16.4'
 
-### Fore Stay
+### Genoa (#2)
 
-- Type: Genoa (#2)
+- Stay: Fore Stay
 - I: 58.1'
 - J: 18.25'
 - Manufacturer: North Sails
@@ -21,9 +21,9 @@
 - Roller furling: Harken Mark III, 2.0
 - Cloth: Ndrad 75vf
 
-### Solent Stay
+### Jib (#4)
 
-- Type: Jib (#4)
+- Stay: Solent Staysail
 - I: 56.0'
 - J: 16.66'
 - Manufacturer: North Sails
@@ -34,9 +34,9 @@
 - Luff: 16.52m
 - Foot: 4.3m
 
-### Inner Staysail Stay
+### Storm Jib (#5)
 
-- Type: Storm Jib (#5)
+- Stay: Inner Staysail
 - Manufacturer: Halsey
 - Area: 108 sq ft
 
