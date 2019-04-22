@@ -10,7 +10,7 @@
 - P (luff): 15.47m 50.75'
 - E (foot): 4.987m 16.4'
 
-### Genoa (#2)
+### Genoa (#2 130%)
 
 - Stay: Fore Stay
 - I: 58.1'
@@ -21,7 +21,7 @@
 - Roller furling: Harken Mark III, 2.0
 - Cloth: Ndrad 75vf
 
-### Jib (#4)
+### Jib (#4 82%)
 
 - Stay: Solent Staysail
 - I: 56.0'

@@ -25,11 +25,11 @@
 - **Pump:** Electric fuel pump ('15) with constant/momentary switch in engine compartment. Used for priming.
 - Algae-X fuel conditioner system.
 
-## Sails
+## [Sails](./sails/)
 
 - **Main:** 2013 North Sails, Fully battened, 3 reefs, triradial dacron. 497 sq ft.
-- **Fore Stay:** Genoa (#2). 2013 North Sails. 531 sq ft. Harken Mark III, 2.0 roller.
-- **Solent Stay:** Jib (#4). 2013 North Sails. 439 sq ft. Harken Mark III, 1.5.
+- **Fore Stay:** Genoa (#2 130%). 2013 North Sails. 531 sq ft. Harken Mark III, 2.0 roller.
+- **Solent Stay:** Jib (#4 82%). 2013 North Sails. 439 sq ft. Harken Mark III, 1.5.
 - **Inner Removable Stay:** Storm Jib (#5). Halsey. 108 sq ft.
 - **Spinnaker:** Quantum Asymmetrical w/ Dousing Sleeve. Nylon 0.75oz. 1135 sq ft.
 
