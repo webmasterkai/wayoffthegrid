@@ -11,11 +11,11 @@ specks indicate algae growth, water will show as a clear bubble at the ) bottom.
 6. Check for trailing lines, sheets, or dinghy painters (tow line) that could foul the prop.
 7. MAKE SURE THERE ARE NO SWIMMERS NEARBY IN THE WATER.
 
-**IMPORTANT CAUTION #1:**  
+**IMPORTANT CAUTION #1:**
 As the exhaust system relies entirely on the pressure of combustion gas to discharge the cooling water from the muffler through the transom pipe, there is a potential to flood the exhaust system and possibly even the engine cylinders with seawater if the engine starter motor is cranked for more than one minute total time, without the engine actually starting. If the engine fails to start within 30 seconds total and accumulative cranking time— DO NOT CRANK ENGINE ANY FURTHER with sea water intake valve open. SERIOUS DAMAGE TO THE ENGINE MAY RESULT!
 You may crank the engine with the inlet seacock closed to diagnose the starting problem. Be prepared to quickly open the seacock after the engine starts.
 
-**IMPORTANT CAUTION #2:**  
+**IMPORTANT CAUTION #2:**
 If whenever the engine is being operated and the overheat alarm sounds, or there is no raw cooling water exiting the exhaust pipe at the stern, immediately shut down the engine and investigate. Engine damage will result if ignored.
 
 Furthermore, since the exhaust system is largely water-cooled and non-metallic the excessive heat of un-cooled exhaust gas will melt the muffler and exhaust hoses, resulting in a situation where following seas could potentially enter and flood the yacht through the exhaust pipe.
@@ -127,22 +127,31 @@ Rebuilt @ 1330 hours in July, 2006 by Mack Boring 508.946-9200
 
 ## Propeller
 
+A folding propeller is fitted, it must be recognized that it generally has lower reverse thrust than other types. Plan your docking maneuvers accordingly.
+
+When sailing, it is preferable to lock the propeller shaft to help engage feathering of the propeller by putting the engine in reverse gear after it has been shut off. This will prevent the propeller from rotating or "free-wheeling." You should not be sailing at a speed of more than two or three knots when you shift into reverse. Sudden reversing of the direction of rotation of the prop shaft puts strain on the transmission, slower is better. The design of the Yanmar transmission is such as to prevent the transmission being shifted back into neutral until the transmission has stopped its rotation.
+
+The standard propeller supplied with the yacht is a fixed three-bladed bronze unit. It's in storage as a spare.
+
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
 - Max 3-blade 19" Folding propeller ('14)
-- Prop Pitch Setting: 20deg RH - X=K, Y=E. 18deg RH - X=
+- Prop Pitch Setting: 20deg RH - X=K / Y=E. 18deg RH - X=E / Y=H
 - Zinc 70mm.
 - Drive Type: Direct Drive
-- Stainless steel 1 ¼” prop shaft with bronze strut
-- Shaft - length: 40 inches, diameter: 1.25 inches
-- strut width: 5 inches
 - Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
 - Spare 3-blade bronze fixed-pitch prop
 
-## Propeller Shaft
+### Propeller Shaft
 
-The propeller shaft in your yacht is 1.25 in. stainless steel. The shaft is supported at the inboard end by the shaft coupling and at the outboard end by the strut which contains a water lubricated bearing (cutless).
+The propeller shaft in your yacht is 1.25 inch stainless steel. The shaft is supported at the inboard end by the shaft coupling and at the outboard end by the strut which contains a water lubricated bearing (cutless).
+
+- Stainless steel 1 ¼” prop shaft with bronze strut
+- Shaft - length: 40 inches, diameter: 1.25 inches
+- Morse or Johnson Duramax Cutlass Sleeve Bearing 1.25 ID / 1.75 OD / 5 L
+- Bronze 2 piece Shaft Strut Buck Algonquin
+- strut width: 5 inches
 
 ### Shaft Alignment
 
@@ -150,7 +159,7 @@ The shaft is coarsely aligned at the factory and the boat should not be operated
 
 It is a good idea to do the final shaft alignment AFTER the rig is tuned and with the backstay tension fully relaxed. Backstay tension may affect alignment.
 
-Briefly, alignment is checked in the following manner:  
+Briefly, alignment is checked in the following manner:
 a) Remove the flange bolts on the shaft coupling adjacent to the transmission case.
 b) Support the weight of the shaft and coupling, then slide the coupling faces together by hand.
 c) While holding the coupling faces together, insert a feeler gauge and check the clearance at four points around the coupling. (3,6,9, & 12 o'clock). There should be no more than .003" variation in the gap between the faces.
@@ -166,26 +175,6 @@ The shaft passes through the hull at the stuffing box which is equipped with a "
 The shaft seal is located at the inboard end of the fibreglass tube which passes through the hull. The fibreglass tube and the stuffing box are connected by means of a short length of flexible rubber tubing held in place by hose clamps. These clamps and the stuffing box should be inspected on a regular basis. Replace clamps if any sign of corrosion or rusting is present. If leaking is found, the hose clamps should be checked. If the shaft to be removed and the "Strong Seal" repaired. For more information read
 leak is excessive, the stuffing box seal must be serviced. This requires the prop the Strong Seal information included with your owners information.
 NOTE: The rubber tubing and clamps at the stuffing box must be inspected at least yearly.
-
-## Propeller
-
-- Forward Clockwise, viewed from stern. Walks to starboard.
-- Reverse Counterclockwise, viewed from stern. Walks to port.
-- Max 3-blade 19" Folding propeller ('14)
-- Prop Pitch Setting: 20deg RH - X=K, Y=E. 18deg RH - X=
-- Zinc 70mm.
-- Drive Type: Direct Drive
-- Stainless steel 1 ¼” prop shaft with bronze strut
-- Shaft - length: 40 inches, diameter: 1.25 inches
-- strut width: 5 inches
-- Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
-- Spare 3-blade bronze fixed-pitch prop
-
-A folding propeller is fitted, it must be recognized that it generally has lower reverse thrust than other types. Plan your docking maneuvers accordingly.
-
-When sailing, it is preferable to lock the propeller shaft to help engage feathering of the propeller by putting the engine in reverse gear after it has been shut off. This will prevent the propeller from rotating or "free-wheeling." You should not be sailing at a speed of more than two or three knots when you shift into reverse. Sudden reversing of the direction of rotation of the prop shaft puts strain on the transmission, slower is better. The design of the Yanmar transmission is such as to prevent the transmission being shifted back into neutral until the transmission has stopped its rotation.
-
-The standard propeller supplied with the yacht is a fixed three-bladed bronze unit. It's in storage as a spare.
 
 ## Exhaust System
 
