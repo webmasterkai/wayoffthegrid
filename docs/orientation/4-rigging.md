@@ -115,6 +115,7 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Harken MK III 2.0 roller furler
 - 3/8" (10mm) 1x19 SS T316 Strand (May 2019)
 - Order 63' $190 wire, $21 top swage
+- 5/8" Pin
 
 ### Solent Stay
 
@@ -123,6 +124,7 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Needs 5mm hex allen key for foil bolts (x2)
 - Needs 4mm hex allen key for bottom foil receiver (x3)
 - Order 62' $125
+- 1/2" or 5/8" pin?
 
 ### Inner Staysail Stay
 

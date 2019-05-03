@@ -1,16 +1,22 @@
 # Equipment List
 
-## Mechanical
+## Auxiliary Propulsion System
 
-- **Engine:** Yanmar 4JH3E 56hp
+- **Engine:** Yanmar 4JH3E 56hp Diesel
 - **Transmission:** Kanzaki KM 3A1. 2.64 ratio.
-- **Propeller:** Max 3-blade 19" Folding propeller ('14)
-- **Dripless Shaft Seal:** Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
+- **Coupler:** 2-1/4" length / 4" flange / 4 x M10 bolts ('19)
+- **Shaft:** 1-1/4" diameter
+- **Dripless Shaft Seal:** PSS PRO Shaft Seal 1-1/4" shaft 2-1/4" log tube ('19)
 - **Line Cutter:** Spurs Marine. Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
+- **Propeller:** Max 3-blade 19" Folding propeller ('14)
 - **Spare prop:** 3-blade bronze fixed-pitch
+
+### Electrical & Instrumentation
+
 - **Alternator 1:** 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm)
 - **Alternator 2:** 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection.
 - Digital NMEA 2000 Exhaust Gas Sensor YDGS-01
+- NMEA 2000 Engine Gateway (RPM, Water Temp, Oil Pressure, Fuel Level)
 
 ### Fuel
 
@@ -153,7 +159,7 @@
 - Fresh Water Tanks: 2 Aluminum (130 Gallons) (replaced ’15)
 * Hot and cold pressure water. Fresh water pressure pump located far aft, starboard in lazaret.
 * Isotherm 8 gallon hot water heater (Italy) with engine heat exchanger. Fresh water in/out is 15mm pipe, not 1/2".
-* Tankwatch fresh water tank monitors
+* Water Tank Sensors wired to Venus GX
 * Shurflo anchor wash down system
 * Hot and cold cockpit shower
 * Primary Bilge Pump: Jabsco 36600-0000 Marine PAR Diaphragm Belt Drive, 480 GPH w/ electronic float switch.
