@@ -2,7 +2,7 @@
 
 ## Auxiliary Propulsion System
 
-- **Engine:** Yanmar 4JH3E 56hp Diesel
+- **Engine:** Yanmar 4JH3E 56hp Diesel (4800 hrs)
 - **Transmission:** Kanzaki KM 3A1. 2.64 ratio.
 - **Coupler:** 2-1/4" length / 4" flange / 4 x M10 bolts ('19)
 - **Shaft:** 1-1/4" diameter
@@ -285,7 +285,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 ## Electrical
 
 * DC Distribution Panel: 12v with volt and amp meters [BEP Marine](http://www.bepmarine.com)
-* DC Distribution Panel: 120V with volt and amp meters [BEP Marine](http://www.bepmarine.com)
+* AC Distribution Panel: 120V with volt and amp meters [BEP Marine](http://www.bepmarine.com)
 * Arc/GFCI protected 120v receptacles.
 * Inverter/Charger: Victron MultiPlus 12v/3000w/120V AC/50A switch. VE.Bus. 120A charger. 400A recommended fuse.
 * Inverter Remote: Victron Digital Multi Inverter/Charger Control 200/200A GX

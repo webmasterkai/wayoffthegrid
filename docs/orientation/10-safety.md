@@ -118,7 +118,7 @@ The yacht should be equipped with several water-proof flashlights, routinely
 checked to be in good condition with well charged batteries. Flashlights serve as a convenience at night while moving about the yacht and in trimming sails as
 well as a safety measure. They may also be used for attracting attention as well as locating a person overboard.
 Radar Reflectors
-The fibreglass sailboat may not create a distinctive return on another vessel's
+The fiberglass sailboat may not create a distinctive return on another vessel's
 radar, therefore a radar reflector is a must. The radar reflector should be stored
 
 0 carefully to prevent damage as the performance of the unit is directly related to the accuracy of the intersecting angles of the component planes. When

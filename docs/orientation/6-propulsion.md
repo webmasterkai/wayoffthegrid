@@ -136,7 +136,7 @@ The standard propeller supplied with the yacht is a fixed three-bladed bronze un
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
 - Max 3-blade 19" Folding propeller ('14)
-- Prop Pitch Setting: 20deg RH - X=K / Y=E. 18deg RH - X=E / Y=H
+- Prop Pitch Setting: 18deg RH - X=E / Y=H (previously 20deg RH - X=K / Y=E)
 - Zinc 70mm.
 - Drive Type: Direct Drive
 - Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
@@ -145,13 +145,13 @@ The standard propeller supplied with the yacht is a fixed three-bladed bronze un
 
 ### Propeller Shaft
 
-The propeller shaft in your yacht is 1.25 inch stainless steel. The shaft is supported at the inboard end by the shaft coupling and at the outboard end by the strut which contains a water lubricated bearing (cutless).
+The propeller shaft is supported at the inboard end by the shaft coupling and at the outboard end by the strut which contains a water lubricated bearing (cutless).
 
 - Stainless steel 1 ¼” prop shaft with bronze strut
 - Shaft - length: 40 inches, diameter: 1.25 inches
-- Morse or Johnson Duramax Cutlass Sleeve Bearing 1.25 ID / 1.75 OD / 5 L
-- Bronze 2 piece Shaft Strut Buck Algonquin
-- strut width: 5 inches
+- Morse or Johnson Duramax Cutlass Sleeve Bearing 1.25 ID / 2 OD / 5 L
+- Bronze 2 piece Shaft Strut with 5 inch width by Buck Algonquin
+- Solid Transmission Shaft Coupler 50MCY00412. YX 4" flange. 10MM Bolts (MCY004) by Buck Algonquin
 
 ### Shaft Alignment
 
@@ -168,12 +168,9 @@ Replace and carefully secure flange bolts and locking devices after successfully
 
 ### Shaft Seal
 
-Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
-
 The shaft passes through the hull at the stuffing box which is equipped with a "drip-less" type shaft seal.
 
-The shaft seal is located at the inboard end of the fibreglass tube which passes through the hull. The fibreglass tube and the stuffing box are connected by means of a short length of flexible rubber tubing held in place by hose clamps. These clamps and the stuffing box should be inspected on a regular basis. Replace clamps if any sign of corrosion or rusting is present. If leaking is found, the hose clamps should be checked. If the shaft to be removed and the "Strong Seal" repaired. For more information read
-leak is excessive, the stuffing box seal must be serviced. This requires the prop the Strong Seal information included with your owners information.
+The shaft seal is located at the inboard end of the fiberglass tube which passes through the hull. The fiberglass tube and the stuffing box are connected by means of a short length of flexible silicone rubber tubing held in place by hose clamps. These clamps and the stuffing box should be inspected on a regular basis. Replace clamps if any sign of corrosion or rusting is present. If leaking is found, the hose clamps should be checked.
 NOTE: The rubber tubing and clamps at the stuffing box must be inspected at least yearly.
 
 ## Exhaust System

@@ -66,4 +66,4 @@ These valves still require regular inspection and lubrication. Inspect hose clam
 
 ### Through Hull Installation - AFTERMARKET
 
-Each factory installed seacock or through hull is installed in an area where the core material has been removed to prevent the incursion of water into the core. Before installing any additional through hulls, the core must be removed in that area and the area sealed and locally reinforced with additional layers of fibreglass and/or backing plates. We recommend that a skilled professional experienced with cored hull construction install any desired additional through hulls.
+Each factory installed seacock or through hull is installed in an area where the core material has been removed to prevent the incursion of water into the core. Before installing any additional through hulls, the core must be removed in that area and the area sealed and locally reinforced with additional layers of fiberglass and/or backing plates. We recommend that a skilled professional experienced with cored hull construction install any desired additional through hulls.

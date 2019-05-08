@@ -4,12 +4,12 @@ The hull of the Saga 43 has a nearly plumb bow and rakish stern with a convenien
 
 ## Hull
 
-The hull of the SAGA 43 is a one-piece fibreglass sandwich moulding utilizing an end-grain balsa core to achieve stiffness and light weight in the composite lamination. The exterior finish is a premium grade ISO-NPG polyester gelcoat that has been sprayed into the highly polished hull mold. Two laminate layers,
-using vinylester resin for increased resistance to osmotic blistering, are applied to the inside of the gelcoat. Additional layers, using biaxial fibreglass cloth are then laminated into the hull mold. The balsa core material is sandwiched between these inner layers and outer laminate skins. This multi-layer building technique adds strength and stiffness properties to the hull while ensuring that overall weight is kept to a minimum. The end-grain balsa core material is removed in areas where through-hulls or fittings are to be installed; this eliminates any potential of water incursion into the core material. Areas that may be subjected to increased stress have additional laminates for greater strength. Polyester resins are utilised in the remainder of the laminations following the vinylester layers.
+The hull of the SAGA 43 is a one-piece fiberglass sandwich moulding utilizing an end-grain balsa core to achieve stiffness and light weight in the composite lamination. The exterior finish is a premium grade ISO-NPG polyester gelcoat that has been sprayed into the highly polished hull mold. Two laminate layers,
+using vinylester resin for increased resistance to osmotic blistering, are applied to the inside of the gelcoat. Additional layers, using biaxial fiberglass cloth are then laminated into the hull mold. The balsa core material is sandwiched between these inner layers and outer laminate skins. This multi-layer building technique adds strength and stiffness properties to the hull while ensuring that overall weight is kept to a minimum. The end-grain balsa core material is removed in areas where through-hulls or fittings are to be installed; this eliminates any potential of water incursion into the core material. Areas that may be subjected to increased stress have additional laminates for greater strength. Polyester resins are utilised in the remainder of the laminations following the vinylester layers.
 
 ## Deck
 
-The deck and cockpit are formed by a single fibreglass moulding with a
+The deck and cockpit are formed by a single fiberglass moulding with a
 gelcoated surface. End-grain balsa core is incorporated into the structure for  stiffness. Core material has been removed in all areas where hardware and deck
 fittings are located to eliminate the potential of water incursion into the core material. For high stress fittings, aluminum plate is incorporated into the  laminate for additional strength. The contrasting non-skid finish is moulded into the deck. Before drilling holes in the deck, cabin house or cockpit, consult the deck laminate drawing in this manual. (Sec. 11 Drawings)
 
@@ -26,7 +26,7 @@ If the SS fasteners should ever need maintenance or in the event of damage in th
 
 ## Rudder & Steering
 
-The rudder is constructed of two moulded composite shells filled with a low density fibreglass compound to prevent water incursion and damage. The two halves are bonded together around the 4" dia. stainless steel rudder post. Stainless steel plates are welded to the rudder post to provide additional strength and stiffness in the rudder blade.
+The rudder is constructed of two moulded composite shells filled with a low density fiberglass compound to prevent water incursion and damage. The two halves are bonded together around the 4" dia. stainless steel rudder post. Stainless steel plates are welded to the rudder post to provide additional strength and stiffness in the rudder blade.
 
 The rudder may be removed by loosening the retaining collar and steering quadrant, which are found under the cockpit. The rudder must be supported from below during this procedure, then lowered carefully. This is normally carried out with the boat hauled out of the water but may be accomplished with the boat afloat. The rudder post passes through the hull with a close tolerance fit between the shaft and the waterproof bearings.
 

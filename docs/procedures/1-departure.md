@@ -14,7 +14,7 @@
 
 ## Engine/Drivetrain Check
 
-* Check & top up fuel. Ensure fill cap is closed completely.
+* Check & top up fuel. Ensure fill cap is closed completely on port and starboard.
 * Check engine lube oil level and coolant level.
 * Check alternator/water pump belt condition and tension.
 * Make a visual check of engine and sump for any coolant, fuel or oil.

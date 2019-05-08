@@ -96,7 +96,7 @@ be checked with each sail. The genoa and jib should be lowered two or three  tim
 headsail halyard shackles require seizing to ensure accidental opening.
 Rope sheets tend to fray over a period of time and they are also affected by T sunlight; this causes a reduction in strength. Sheets should be replaced when * any strand of the outer layer of braid is broken. To minimise the chance of
 damaged jib/genoa sheets, be aware of potential chafe points when sailing and T cover all sharp edges with rigging tape. Thoroughly rinse the sheets with fresh
-water after salt water sails as the salt crystals will abrade the fibres over time.
+water after salt water sails as the salt crystals will abrade the fibers over time.
 
 During winter storage, remove all lines from the boat and store in a dry place. Dacron lines may be washed in your home washing machine by placing them in
 a pillow case or string bag, using cold water on "Gentle" cycle and hanging to

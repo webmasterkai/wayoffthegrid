@@ -140,7 +140,7 @@ In addition to the Electroscan in the main head this SAGA 43 has one complete wa
 Each toilet discharge hose is connected to a Y-valve which can be selected to m either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also
 be open). The Y-valve is conveniently located near each toilet and is clearly T
 marked. In some jurisdictions, this valve may be illegal unless secured in the I tank position. In such a case you may drill a small hole through the longer end of
-the valve handle (with the handle in the tank position) and into the fibreglass T
+the valve handle (with the handle in the tank position) and into the fiberglass T
 moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the --' handle and secure with a nyloc nut on the back side. In addition you may be
 required to secure the overboard discharge seacock in some fashion (don't drill T a hole as above, the sea is out there!). ->
 
