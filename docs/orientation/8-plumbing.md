@@ -4,19 +4,22 @@
 
 ### Tanks
 
-Two water tanks (approx. 65 gals each) are located under the port and starboard main saloon settees. Water tank fills are located on each side
-deck. The tanks are controlled by valves mounted on the side of the tank, in the storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. This gives some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
+Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees.
 
-Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths. Capacity is approximately 65 gallons each. The manifold valves controlling the tanks are located under the main cabin sole, immediately aft of the dining table.
+Water tank fills are located on each side deck. When filling from a clorinated source a hose is attached to a quick connect located in the lazarette. Connect hose, slowly open valve with red handle in lazarette. Under sink make sure water maker setting is on "sink". Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Stop filling when the tank level reaches 90%. It takes several minutes for gauge to respond. It should read full at 93% after several minutes. Note the gauge reads 10% when empty.
 
-Prior to initial usage, during commissioning, the potable water tanks should be flushed with hot (if possible) water to remove manufacturing residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank (remove sediment strainer bowl, drain into bilge, use bilge pump, replace strainer bowl)
+The tanks are controlled by manual quarter-turn ball valves mounted on the side of each tank. Valves are accessed in the forward storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. This gives some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
+
+Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths.
+
+During commissioning the potable water tanks should be flushed with hot (if possible) water to remove residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank into bilge for removal by bilge pump and arid bilge.
 
 ### Hot Water Tank
 
 The hot water tank is located in the aft cabin, under the bed. It requires little maintenance other than winterising. Water can be heated by two means:
 
 1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually heat a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
-2. AC Power: A 120 volt heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the breakers in the proper position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
+2. AC Power: A 120 volt heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
 
 ### Shower Sumps and Drains
 
@@ -137,16 +140,13 @@ In addition to the Electroscan in the main head this SAGA 43 has one complete wa
 
 #### Y-Valve
 
-Each toilet discharge hose is connected to a Y-valve which can be selected to m either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also
-be open). The Y-valve is conveniently located near each toilet and is clearly T
-marked. In some jurisdictions, this valve may be illegal unless secured in the I tank position. In such a case you may drill a small hole through the longer end of
-the valve handle (with the handle in the tank position) and into the fiberglass T
-moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the --' handle and secure with a nyloc nut on the back side. In addition you may be
-required to secure the overboard discharge seacock in some fashion (don't drill T a hole as above, the sea is out there!). ->
+The forward toilet discharge hose is connected to a Y-valve which can be selected to either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also be open). The Y-valve is conveniently located near the toilet and is clearly
+marked. In some jurisdictions, this valve may be illegal unless secured in the tank position. In such a case you may drill a small hole through the longer end of the valve handle (with the handle in the tank position) and into the fiberglass moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the handle and secure with a nyloc nut on the back side. In addition you may be
+required to secure the overboard discharge seacock in some fashion (don't drill a hole as above, the sea is out there!).
 
 #### Macerator
 
-The holding tank is equipped with a macerator pump to discharge overboard the waste that has accumulated in the holding tank. This can be done when sailing where it is legal to do so. The pump discharges waste through its own seacock after chopping up solid waste into fine particles.
+The holding tank is typically equipped with a macerator pump to discharge overboard the waste that has accumulated in the holding tank. This can be done when sailing where it is legal to do so. The pump discharges waste through its own seacock after chopping up solid waste into fine particles.
 
 1. Open the macerator discharge seacock. Only open this seacock when actually using the Macerator pump. Seawater can leak back into holding tank if 1 the seacock is left open.
 2. Turn on the proper breaker switch on the main electrical panel. You will hear the pump run and as it sucks in the waste the pitch will drop as it begins pumping. When the pitch increases again the tank is empty.

@@ -137,18 +137,15 @@
 
 #### Equipment
 
-* Jabsco Quiet Flush electric head/toilet (’16)
+* Jabsco Quiet Flush 37245 electric head/toilet (’16)
 * Raritan Electroscan Type I marine sanitation treatment system (Sept ’15). Replaced mixer motor 32-102AW and electrode pack 32-5000 July 2018.
-* Attwood 750 electric shower sump
+* Attwood 750 electric shower sump ('17)
 
 ### Forward head
 
 * Holding tank aluminum 20 gallons replaced (2011)
 * Electric Attwood Shower Sump Pump System - 750 GPH (2017)
-* Groco manual head
 * Tankwatch holding tank full alert
-* Macerator pump
-* Y valve for direct overboard discharge
 * Stainless steel H/C pressure water mixer
 * Separate shower wand on adjustable bar
 * Sliding mirrored door storage spaces over counters on both hull sides
@@ -156,18 +153,18 @@
 
 ## Water Systems
 
-- Fresh Water Tanks: 2 Aluminum (130 Gallons) (replaced ’15)
+- Fresh Water Tanks: 2 Aluminum (130 Gallons total) (replaced ’15)
 * Hot and cold pressure water. Fresh water pressure pump located far aft, starboard in lazaret.
 * Isotherm 8 gallon hot water heater (Italy) with engine heat exchanger. Fresh water in/out is 15mm pipe, not 1/2".
-* Water Tank Sensors wired to Venus GX
+* Water Tank Sensors wired to Venus GX for digital monitoring
 * Shurflo anchor wash down system
 * Hot and cold cockpit shower
-* Primary Bilge Pump: Jabsco 36600-0000 Marine PAR Diaphragm Belt Drive, 480 GPH w/ electronic float switch.
-* Secondary Bilge Pump: Rule 2000 Bilge pump w/ electronic float switch.
+* Primary Bilge Pump: Jabsco 36600-0000 Marine PAR Diaphragm Belt Drive, 480 GPH w/ electronic solid-state switch.
+* Secondary Bilge Pump: Rule 2000 Bilge pump w/ electronic switch.
 * Whale manual bilge pump in cockpit
 * Whale manual bilge pump under galley sole
 * With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.
-* [Arid Bilge System](http://aridbilge.com) 12V 2 zone bilge pump/vacuum. Serial 10410. Keeps bilge dry.
+* [Arid Bilge System](http://aridbilge.com) 12V 2 zone bilge pump/vacuum. Serial 10410. Keeps bilge dry. (2017)
 
 ### Desalination System (Watermaker)
 
@@ -180,7 +177,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * **High-Pressure Pump:** Aqua Pro - Titan Series 708-1 Titanium - 0.2" stroke. 15GPH at 735RPM.
 * **Pressure Pump Motor:** Pacific Scientific 1/4hp brushed motor. 258w at full power. ~73% efficiency.
 * **Pressure Hose:** Hydraulic hose
-* **Membrane:** Racor Aqua Pro Sea Water Membrane 33-3002. 2.5x38". 8.75GPH/210GPD max output. Replaced 3/31/2017. S/N W0151111.
+* **Membrane:** Racor Aqua Pro Sea Water Membrane 33-3002. 2.5x38". 8.75GPH/210GPD max output. Replaced 2019. S/N W0151111.
 * **Pressure Vessel:** 1000 psi/68 bar. Filament Wound fiberglass. Ends are 6061 T-6 powdercoated aluminum.
 * **Pressure Regulator:** Titanium hex head.
 * **Bypass Valve:** 316 Stainless.
