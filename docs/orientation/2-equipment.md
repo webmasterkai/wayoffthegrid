@@ -109,7 +109,6 @@
 ### Freezer
 * Top loading freezer
 * Isotherm Compact Type 2017 39.38" x 10.63" (1000x270mm) evaporator plate. ('19)
-* Technautics cold/holding stainless plate
 * Danfoss BD50F compressor with fan cooled condenser. Capable of sub zero temps. ('19)
 * Air circulation system.
 * NMEA 2000 Digital Thermometer YDTC-13 ('19)
