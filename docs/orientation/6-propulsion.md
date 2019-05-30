@@ -69,18 +69,20 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 
 Prop is slightly over-pitched to maintain higher load on engine during average cruising. Also enables motor-sailing.
 
-- **Idle speed:** 850 RPM.
-- **Min Cruise:** 1850 RPM - 0.50 GPH. 5.3 kts.
-- **Eco Cruise:** 1950 RPM - 0.60 GPH. 5.7 kts.
-- **Cruise Low:** 2200 RPM - 0.75 GPH. 6.2 kts.
-- **Cruise Mid:** 2500 RPM - 1.0 GPH. 6.7 kts
-- **Fast Cruise:** 2800 RPM - 1.3 GPH. 7.5 kts
-- **Max Cruise:** 3000 RPM - 1.6 GPH. 7.9 kts
-- **Hull Speed:** 3300 RPM - 2.5 GPH. 8.4 kts
-- **1 Hour Max:** 3500 RPM - 2.6 GPH.
-- **Full Load Max:** 3600 RPM - 2.75 GPH.
-- **Rated Max Output:** 3800 RPM
-- **No Load Max:** 3925 RPM.
+| Type                       | RPM  | GPH  | Knots | prop kw/hp | max kw/hp |
+| -------------------------- | ---- | ---- | ----- | ---------- | --------- |
+| Idle                       | 850  | 0.45 | 2.5   |            |           |
+| Min Cruise                 | 1850 | 0.50 | 5.3   | 04.5/06    | 22.0/29.5 |
+| Eco Cruise                 | 1950 | 0.60 | 5.7   | 05.0/07    | 23.0/30.8 |
+| Cruise Low                 | 2200 | 0.75 | 6.2   | 07.5/10    | 26.5/35.5 |
+| Cruise Mid                 | 2500 | 1.00 | 6.7   | 11.1/15    | 30.0/40.2 |
+| Fast Cruise                | 2800 | 1.3  | 7.4   | 16.4/22    | 32.0/42.9 |
+| Max Cruise                 | 3000 | 1.6  | 7.9   | 19.0/25.5  | 34.0/45.6 |
+| Hull Speed                 | 3300 | 2.5  | 8.4   | 26.0/35    | 37.3/50.0 |
+| Typical Max                | 3500 | 2.6  | 8.6   | 32.0/43    |           |
+| Continuous (Full Load) Max | 3650 | 2.75 |       | 37/50      | 37.3/50.0 |
+| 1 Hr Rated Max             | 3800 |      |       | 41/56      | 55        |
+| No Load Max                | 3925 |      |       |            |           |
 
 ### Oil
 
