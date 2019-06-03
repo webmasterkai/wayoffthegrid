@@ -3,7 +3,7 @@
 * **Make/Model:** Saga 43
 * **Hailing Port:** Minneapolis, MN
 * **MMSI:** 367572690 _(IC-M605, IC-M802 and Uniden MHS335BT Handheld)_
-* **USCG Documentation #:** 1109105 _(Expires July 31, 2019)_
+* **USCG Documentation #:** 1109105 _(Expires July 31, 2020)_
 * **HIN:** QYG43039M01K
 * **Year:** 2001
 * **Hull Shape & Material:** Monohull FRP (Fiberglass)
