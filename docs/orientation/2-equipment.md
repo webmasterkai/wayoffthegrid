@@ -183,7 +183,6 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * **Switch/Relay:** Victron BatteryProtect 12V-65A used to enable/disable lithium charger from house bank and another to enable/disable RO boost pump.
 * **Output:** 6GPH/144GPD
 * **Power:** 200w - 6GPH 34 watts per gallon
-* **DC/DC Boost Charger:** DROK LED Display, Numerical Control, Step Up Converter/Regulator DC 8-60V 15A in to 10-120V adjustable output. Programmed to 16.6V at 8 max amps.
 
 #### Maintenance Chemicals
 
@@ -378,6 +377,8 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * Edson outboard motor pad
 * K-Pump K100 - Manual air pump.
 * Bruce anchor
+* AMEC Camino 108 AIS Class B
+* Simrad GO5
 
 ## Other Equipment
 
