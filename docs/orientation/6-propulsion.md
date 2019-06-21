@@ -71,8 +71,13 @@ Prop is slightly over-pitched to maintain higher load on engine during average c
 
 | Type                       | RPM  | GPH  | Knots | prop kw/hp | max kw/hp |
 | -------------------------- | ---- | ---- | ----- | ---------- | --------- |
-| Idle                       | 850  | 0.45 | 2.5   |            |           |
-| Min Cruise                 | 1850 | 0.50 | 5.3   | 04.5/06    | 22.0/29.5 |
+| Low Idle                   | 850  | 0.45 | 1.0   |            |           |
+| Mid Idle                   | 1000 | 0.45 | 2.3   |            |           |
+| High Idle                  | 1200 | 0.46 | 3.0   |            |           |
+| 1.4k                       | 1400 | 0.47 | 3.7   |            |           |
+| 1.5k                       | 1500 | 0.48 | 4.0   |            |           |
+| Min Cruise                 | 1800 | 0.49 | 5.0   |            |           |
+| Slow Cruise                | 1850 | 0.50 | 5.3   | 04.5/06    | 22.0/29.5 |
 | Eco Cruise                 | 1950 | 0.60 | 5.7   | 05.0/07    | 23.0/30.8 |
 | Cruise Low                 | 2200 | 0.75 | 6.2   | 07.5/10    | 26.5/35.5 |
 | Cruise Mid                 | 2500 | 1.00 | 6.7   | 11.1/15    | 30.0/40.2 |
