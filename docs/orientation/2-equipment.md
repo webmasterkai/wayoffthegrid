@@ -4,27 +4,29 @@
 
 - **Engine:** Yanmar 4JH3E 56hp Diesel (4800 hrs)
 - **Transmission:** Kanzaki KM 3A1. 2.64 ratio.
-- **Coupler:** 2-1/4" length / 4" flange / 4 x M10 bolts ('19)
-- **Shaft:** 1-1/4" diameter
-- **Dripless Shaft Seal:** PSS PRO Shaft Seal 1-1/4" shaft 2-1/4" log tube ('19)
+- **Propeller Shaft Coupler:** 2-1/4" length / 4" flange / 4 x M10 bolts (2019)
+- **Propeller Shaft:** 1-1/4" diameter
+- **Dripless Shaft Seal:** PSS PRO Shaft Seal 1-1/4" shaft 2-1/4" log tube (2019)
 - **Line Cutter:** Spurs Marine. Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
 - **Propeller:** Max 3-blade 19" Folding propeller ('14)
-- **Spare prop:** 3-blade bronze fixed-pitch
+- **Spare Propeller:** 3-blade bronze fixed-pitch
 
 ### Electrical & Instrumentation
 
-- **Alternator 1:** 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm)
-- **Alternator 2:** 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection.
+- **Alternator:** 5kw American Power HPI-185-EXT 185 amps at 28v
+- **Belt Pulley:** High-ratio MGDC kit
 - Digital NMEA 2000 Exhaust Gas Sensor YDGS-01
 - NMEA 2000 Engine Gateway (RPM, Water Temp, Oil Pressure, Fuel Level)
+- Alternator 1: 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm) (pending removal)
+- Alternator 2: 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection. (pending removal)
 
 ### Fuel
 
 2 aluminum tanks and 1 portable plastic for 88 gallons (333 liters) total.
 
-- **Tank 1:** 45 gallons (170l). Aluminum. Replaced 2015. Forward center. Starboard fill.
-- **Tank 2:** 38 gallons (143l). Aluminum. Aft center. Port fill.
-- **Portable:**  5.3 gallons (20l). Yellow plastic. Replaced 2016.
+- **Diesel Tank 1:** 45 gallons (170l). Aluminum. Forward center. Starboard fill. (2015)
+- **Diesel Tank 2:** 38 gallons (143l). Aluminum. Aft center. Port fill.
+- **Portable Gasoline:**  5.3 gallons (20l). Red plastic. (2016)
 - **Primary Filters:** Dual Switchable Racor R20P Spin On. 220/R24 series. Clear bowl.
 - **Gauge:** Racor filter vacuum gauge.
 - **Fuel vent air/fuel seperator:** - Racor Lifeguard LG100; www.parkercom  800.344-3286 Installed starboard side aft. It's blue. Both tank vents combined under galley sink against hull.
@@ -105,23 +107,26 @@
 * 1 overhead hatch with screen
 * 4 LED overhead lights
 * Cherry paper towel holder
+* CO2 canister for carbonating 1 liter bottles or extra fire extinguishing
 
 ### Freezer
+
 * Top loading freezer
 * Isotherm Compact Type 2017 39.38" x 10.63" (1000x270mm) evaporator plate. ('19)
-* Danfoss BD50F compressor with fan cooled condenser. Capable of sub zero temps. ('19)
-* Air circulation system.
+* Danfoss BD50F compressor with fan cooled condenser. Capable of 0F/-18C. ('19)
+* Air circulation tube.
 * NMEA 2000 Digital Thermometer YDTC-13 ('19)
+* Stainless Lobster Optimizer & Display
 
 ### Refrigerator
 
 * Single piece top and front refrigerator. Hinged lid with gas assist lift.
 * Isotherm Compact Type 2013 11 13/16" x 53 15/16" (1370x300mm) evaporator plate. ('18)
 * Danfoss BD50F compressor with fan cooled condenser. Capable of cooling icebox to below freezing. ('18)
-* Chaney refrigerator/freezer temperature gauges
 * LED Refrigerator light
 * Air circulation fan within the compartment
 * NMEA 2000 Digital Thermometer YDTC-13 ('19)
+* Stainless Lobster Optimizer & Display
 
 ## Heads
 
@@ -279,31 +284,30 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 
 ## Electrical
 
+* Hinged drop-down electrical panel with numbered wiring system
 * DC Distribution Panel: 12v with volt and amp meters [BEP Marine](http://www.bepmarine.com)
 * AC Distribution Panel: 120V with volt and amp meters [BEP Marine](http://www.bepmarine.com)
 * Arc/GFCI protected 120v receptacles.
-* Inverter/Charger: Victron MultiPlus 12v/3000w/120V AC/50A switch. VE.Bus. 120A charger. 400A recommended fuse.
-* Inverter Remote: Victron Digital Multi Inverter/Charger Control 200/200A GX
-* Battery Monitor: Victron BMV-712 Smart
+* Inverter/Charger: Victron MultiPlus 24v/3000w/120V AC/50A switch. VE.Bus. 70A charger. 200A recommended fuse.
+* Battery Monitor: Victron BMV-712 Smart for House and 12v/starter banks.
 * System Monitor: Victron Venus GX
 * Shore Power Cord: 2x Marinco 30A 50 Feet, <http://www.marinco.com>
 * Shore Power Cord: 10 foot, Westmarine
-* Cord Adapter: 15 amp 120 to Ship's Plug 30 amp
+* Cord Adapter: 2x 15 amp 120 to Ship's Plug 30 amp
 * Cord Adapter: 50 amp to 30 amp, 240 adapter
-* Ground Galvanic isolator (’13)
-* Hinged drop-down electrical panel with numbered wiring system
+* AC Ground Galvanic isolator (2013)
 * Electrical chase pipes located along both hull sides for pulling lines
-* 8 Trojan T105 6 volt, wet cell 225 amps each. House batteries with 840 amp hours at 12v. Replaced May 2016. "House bank"
-* Staring Battery: 12 volt AGM Delco Group 27. Replaced March 2016.
+* House Bank: 8 Trojan T105 6 volt wet cell 225 amp hours batteries. House bank wired for 24v. (May 2016)
+* Staring Battery: 12 volt AGM OutBack Nano-Carbon EnergyCell 106NC. 100Ah 2019.
+* 24v to 12v adjustable 70 amp converter.
 * Blue Sea Systems house, engine and battery cross connect switches
 * Dual 125A & 150A engine alternators
-* Spare alternator
 * LED interior lighting
 * Red Cabin floor courtesy lighting throughout
 
 ### Solar
 
-820 watts of solar
+820 watts of solar. Monitoring via Victron VRM Portal.
 
 * 4x Kyocera KC 80W solar panels.
 * Victron SmartSolar Charger MPPT 100/30 (HQ1804MRLHX) (2017)
@@ -312,28 +316,31 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 
 ### Navigation Lights
 
-* Tricolor and anchor lights
-* Steaming Light
+* SignalMate LED Tricolor and anchor light
+* LED Steaming Light
 * Foredeck light
 * LED Deck level navigation lights
 
 ## Electronics
 
 * Zeus3 9 MFD in Cockpit (2017)
+* C-Map na-y070 North America Coastal Chart (2019)
+* Navionics US / Bahamas / Carib
 * Questus gimballing radar mount (’12)
 * Broadband 4G™ Radar - 000-13803-001 (2017)
 * B&G NAC-3 Autopilot (2017)
-* Triton2 Autopilot controller (2017)
+* Triton2 Autopilot keypad controller (2017)
 * Triton2 Multifunction Display (2017)
+* 2x Raymarine i70s Multifunction Instrument Display (2016)
+* 2x Triton2 Multifunction Display Starboard (2019)
 * Raystar 130 GPS Receiver, E32153, serial #0620828. (2012)
-* Garmin Airmar DST800 Smart Triducer, Plastic Thru-Hull Nmea 2000 (2016)
-* Maretron DSM 410 Display at chart table.
-* iPad installed at chart table. (MD363LL/A (16GB, Wi-Fi + Verizon 4G, White) 3rd Generation)
-* 2x Raymarine i70s Multifunction Instrument Display
-* Raymarine ST60 Wind Display
-* Raymarine ST60 Multi Display
-* Raymarine SeaTalk to NMEA 2000
-* SignalK Data Gateway for sending data over wifi.
+* Garmin/Airmar DST800 Smart Triducer, Plastic Thru-Hull Nmea 2000 (2016)
+* Airmar DX900 DST - Depth, Speed, Leeway, Temp (2019)
+* Maretron DSM 410 Display at chart table. (2019)
+* iPad Air 2 installed at chart table.
+* NMEA 2000 / NMEA 0183 converter with Wifi Data Gateway.
+* Shakespeare 4711 flange mount with 4364-B 12in fiberglass extension for 220WX (2019)
+* Airmar 220WX Weather Station - Wind, Temp, Humidity,Baro Pressure, GPS, Heel, Pitch (2019)
 
 ## Audio
 
@@ -341,17 +348,18 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * Fusion MS-BT100 Bluetooth Stereo RCA Dongle/Adapter
 * RCA Female to Dual Male Y Splitter
 * Poly-Planar MA7500W Speakers Main Cabin 3" Cone (100W @ 4 Ohm) 195mm x 130mm x 119mm
-* Bose 131 Marine Speakers Cockpit. 4.5" Cone. (80W)
+* Bose 131 Marine Speakers Cockpit. 4.5" Cone. 80W. (2017)
 * Kenwood Marine Nautic KAC-M3001 Compact Mono 600W Subwoofer Amplifier KACM3001
 * Kicker 43TCWRT674 CompRT 6.75" 300 Watt Shallow Subwoofer+Slim Sub Box Enclosure
 * Cambridge Audio Minx Min 22 Bookshelf Speaker (Black)
 
 ### Communications
 
-* AIS: Transceiver, Class B AIS Raymarine 650 (July ’12) serial # E32158
-* VHF: Fixed Mount Icom IC-M605 VHF with DSC, GPS, AIS receive, N2k.
-* VHF: Icom RAM microphone at helm
-* VHF: Emergency Antenna under chart table.
+* AIS: Transceiver, Class B AIS Raymarine 650 serial # E32158 (July 2012)
+* VHF: Fixed Mount Icom IC-M605 VHF with DSC, GPS, AIS receive, N2k. (2018)
+* VHF: Icom RAM microphone at helm (2018)
+* VHF: Vesper AIS Combo Masthead Antenna (2019)
+* VHF: Shakespeare Emergency Antenna under chart table. (2016)
 * VHF: Standard Horizon HX870 Handheld VHF Radio w/GPS (Extra battery in ditch bag).
 * VHF: Uniden MHS335BT Handheld VHF Radio w/GPS & Bluetooth
 * VHF: Uniden MHS75 Handheld VHF
@@ -363,8 +371,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * SSB: Pactor modem - SCS P4 dragon DR-7400 SCSDR7400
 * WIFI: MikroTik Groove 52 802.11ac Gigabit Dual-Band Outdoor AP/CPE with 6/8 dBi Omnidirectional Antenna.
 * WIFI: 2.4/5ghz router.
-* CELL: Wilson Electronics weboost Drive 4G-X Cellular Signal Booster with 4G Marine Antenna.
-* TV/phone shore connection
+* CELL: Wilson Electronics WeBoost Drive Reach Cellular Signal Booster with 4G LTE Marine Antenna.
 
 ## Dinghy
 
@@ -378,7 +385,8 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * K-Pump K100 - Manual air pump.
 * Bruce anchor
 * AMEC Camino 108 AIS Class B
-* Simrad GO5
+* AIS Antenna
+* Simrad GO5 MFD
 
 ## Other Equipment
 
@@ -386,3 +394,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * Boat hook
 * PFD’s
 * Manuals
+* Fly Swatter
+* Ziplock bags
+* Fabric to protect enclosure when wrapped up
+* Sail bags
