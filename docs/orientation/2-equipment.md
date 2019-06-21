@@ -43,7 +43,7 @@
 
 - \#53.2ST (2) Harken 2SP53CHST primary genoa winches
 - \#40.2ST Harken 2SP40CHST control winch on house/cabin top and at mast base. Starboard side.
-- \#40 Harken 2SP40CHEST Electric winch on house/cabin top. Port side.
+- \#40.2STE Harken 2SP40CHEST Electric winch on house/cabin top. Port side.
 - 3x Winch handles
 
 ## Anchoring/Docking
