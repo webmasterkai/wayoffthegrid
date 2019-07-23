@@ -143,6 +143,7 @@
 
 * Jabsco Quiet Flush 37245 electric head/toilet (’16)
 * Raritan Electroscan Type I marine sanitation treatment system (Sept ’15). Replaced mixer motor 32-102AW and electrode pack 32-5000 July 2018.
+* Victron Orion 24/12-40 feeds toilet and electroscan with a steady 13.2 volts.
 * Attwood 750 electric shower sump ('17)
 
 ### Forward head

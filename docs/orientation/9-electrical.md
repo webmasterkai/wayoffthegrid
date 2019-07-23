@@ -49,6 +49,10 @@ The courtesy floor lights are powered directly from the batteries and protected 
 
 ## Batteries
 
+8x Trojan T-105 6v Deep Cycle Batteries. 28kg each. 224kg total. ~ 200Ah usable at 24v 4.5kwh.
+Lead Acid 24/200 112kg.
+Lithium 25.6/200 56.0kg.
+
 There are many possible options in the battery setup on your SAGA Yacht. The standard equipment is two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
 
 The current going to the starter battery is about 5 amps when the house bank voltage is higher than the starting battery. This is sufficient in most conditions to keep starter battery charged. The "emergency" switch in the aft cabin can be turned on and the starting battery will be connected to the house bank. Never use the emergench switch to supply extra power to the house bank from the engine battery.

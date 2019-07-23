@@ -123,11 +123,15 @@ WARNING: electro scan must not be activated without disconnecting electrode and 
 5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 2 cups per gallon)
 6. Carefully pour solution into the toilet and flush until bowl is as dry as possible.
 7. Pour one gallon (3.8 liters) of additional fresh water into bowl to dilute any acid remaining.
-8. Allow to stand for between 45 minutes and 3 hours.
+8. Allow to stand for between 45 minutes and a max of 3 hours.
 9. Turn on water supply and flush only the toilet (WITHOUT activating the Electroscan) a minimum of 10 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution.
 9. Reconnect wires and turn power on to Electroscan.
 
+Note the Electroscan, pump and macerator are still 12v. There is a 24v to 13.2v converter behind the sink. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components should should eventually be switched to 24v versions.
+
 ### Forward Head
+
+**Currently Toilet Removed**
 
 Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits. Your toilet will love you and your holding tank will go many miles further between pump-outs.
 WARNING: Resistance on the toilet pump handle almost always indicates a full holding tank, (or a closed discharge valve) DO NOT FORCE!!!! Investigate first. Undue force can rupture holding tank cleanout plates or blow off waste hoses.
