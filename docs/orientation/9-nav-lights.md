@@ -7,6 +7,8 @@ Carry spare light bulbs. Always check navigation lights before leaving the dock 
 
 Refer to USCG Publication #CG-169 RULES OF THE ROAD (COLREGS) for more information on lights and navigation rules.
 
+When the deck-level nav lights and aft anchor light are on the aft anchor will flash once per second instead of steady on. This could be used to help gain attention in emergency situations.
+
 ## Engine In Gear
 
 Any time the engine is propelling the vessel, even if sails are raised and drawing. If you are running the engine in neutral for battery charging the following does not apply.

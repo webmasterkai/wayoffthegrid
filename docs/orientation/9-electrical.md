@@ -45,20 +45,19 @@ The system is set-up so that the air conditioning and hot water tank will functi
 
 ## Courtesy lights
 
-The courtesy floor lights are powered directly from the batteries and protected by a separate fuse located under aft cabin berth. When the main battery power switch is turned off, the courtesy lights will still have power available so that as you enter the boat you can turn the courtesy lights on for a safe lighted entry before turning on the main battery switch. There are two switches to control the lights, one near the companionway and another in the master stateroom. A red light near the cockpit engine panel indicates if courtesy lights have inadvertently been left on. Be sure to check it before leaving the boat for long periods.
+The courtesy floor lights are powered directly from the batteries and protected by a separate fuse located under aft cabin berth. When the main battery power switch is turned off, the courtesy lights will still have power available so that as you enter the boat you can turn the courtesy lights on for a safe lighted entry before turning on the main battery switch. There are two switches to control the lights, one near the companionway and another in the master stateroom. A red light will be installed near the cockpit engine panel to indicate if courtesy lights have inadvertently been left on. Be sure to check it before leaving the boat for long periods.
 
 ## Batteries
 
-8x Trojan T-105 6v Deep Cycle Batteries. 28kg each. 224kg total. ~ 200Ah usable at 24v 4.5kwh.
-Lead Acid 24/200 112kg.
-Lithium 25.6/200 56.0kg.
+The main "house" battery bank is comprised of 8x Trojan T-105 6v Deep Cycle Batteries. 28kg each. 224kg total. ~ 200Ah usable at **24v** 4.5kwh. Switching to lithium will result in about 50% weight savings.
 
-There are many possible options in the battery setup on your SAGA Yacht. The standard equipment is two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
-
-The current going to the starter battery is about 5 amps when the house bank voltage is higher than the starting battery. This is sufficient in most conditions to keep starter battery charged. The "emergency" switch in the aft cabin can be turned on and the starting battery will be connected to the house bank. Never use the emergench switch to supply extra power to the house bank from the engine battery.
+There are many possible options in the battery setup on your SAGA Yacht. The standard equipment was two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
 
 Never try to charge the batteries from two sources, i.g 120 Volt charger and alternator. By doing this you could damage one of the units.
-The primary alternator is 120amps, the secondary is 150 amps. Use both alternators together only when a heavy load like the dehumidifier or air conditioning is powered through the inverter or the batteries are very low.
+
+The buffer or "starting" battery is a Outback NanoCarbon battery and has a Victron BMV-712 for monitoring via Bluetooth using the Victron connect app. Passcode is 000000. The “starter” voltage input is the voltage of the DC-DC voltage converter. There is a battery protect between the 12v buffer battery and the 12v house rail. Solar, alternators, inverter, and other chargers are tied directly to the battery and can not be turned off. Also always on unswitched side is the bilge pumps and floor lights.
+
+The alternators are 120amps and 150 amps. Both alternators share a single controller. There is an internal relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v. It’s configured this way to take advantage of the 12v alternators presently installed. Still waiting for the new pulley kit from Mark D.
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
@@ -71,14 +70,11 @@ in the winch socket.
 
 ## Electric Windlass
 
-An electric anchor windlass is an available option. Mounted on the foredeck, the 1 two foot switches control up and down direction as indicated on switch under the covers. The same cautions mentioned above for the electric winch (Sec. 9-9)
+An electric anchor windlass is an available option. Mounted on the foredeck, the 1 two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9)
 apply to the windlass.
-To operate the windlass, the breaker (marked "Winch" and same one as above) m on the main panel supplying 12V DC to the relays must be ON. The windlass is protected by a 150A BUSS fuse in line, mounted under the aft berth. The relay
-switch box and an overload breaker is located high in the forepeak. Because of
-the high DC load it is desirable to operate the windlass only with the engine
-running.
-Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load
-to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass (if
-fitted) as a cleat or bollard.
-See the windlass instructions for details on proper operation and selection of
-rope and chain sizes to fit the gypsy. Proper matching of rope, chain and gypsy T is critical for safe effective operation. 3
+
+To operate the windlass, the breaker marked "Winch" on the main panel supplying 12V DC to the relays must be ON. The windlass is protected by a 150A fuse in line, mounted under the aft berth. The relay switch box and an 75A overload breaker is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running.
+
+Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
+
+See the windlass instructions for details on proper operation and selection of rope and chain sizes to fit the gypsy. Proper matching of rope, chain and gypsy is critical for safe effective operation.

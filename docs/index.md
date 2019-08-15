@@ -2,7 +2,7 @@
 
 * **Make/Model:** Saga 43
 * **Hailing Port:** Minneapolis, MN
-* **MMSI:** 367572690 _(IC-M605, IC-M802 and Uniden MHS335BT Handheld)_
+* **MMSI:** 367572690 _(IC-M605, IC-M802, Raymarine 650 AIS, and Uniden MHS335BT Handheld)_
 * **USCG Documentation #:** 1109105 _(Expires July 31, 2020)_
 * **HIN:** QYG43039M01K
 * **Year:** 2001
@@ -28,7 +28,7 @@
 * **Boat US:** 20156955
 * **EPIRB 1:** 2DCC7B1B64FFBFF
 * **EPIRB 2:** 2DCC4419AEFFBFF
-* **Dinghy MMSI:** 338219159 _(Standard Horizon HX870)_
+* **Dinghy MMSI:** 338219159 _(Standard Horizon HX870, AMEC Camino 108 AIS)_
 
 ## Crew
 

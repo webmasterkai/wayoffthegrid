@@ -165,7 +165,7 @@
 * Shurflo anchor wash down system
 * Hot and cold cockpit shower
 * Primary Bilge Pump: Jabsco 36600-0000 Marine PAR Diaphragm Belt Drive, 480 GPH w/ electronic solid-state switch.
-* Secondary Bilge Pump: Rule 2000 Bilge pump w/ electronic switch.
+* Secondary Bilge Pump: Rule 2000 Bilge pump 24v w/ electronic switch.
 * Whale manual bilge pump in cockpit
 * Whale manual bilge pump under galley sole
 * With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.

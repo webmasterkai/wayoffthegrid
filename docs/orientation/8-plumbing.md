@@ -4,9 +4,9 @@
 
 ### Tanks
 
-Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees.
+Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees. Tank levels are on the iPad. Port water tank is on the top. Starboard is the bottom.
 
-Water tank fills are located on each side deck. When filling from a clorinated source a hose is attached to a quick connect located in the lazarette. Connect hose, slowly open valve with red handle in lazarette. Under sink make sure water maker setting is on "sink". Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Stop filling when the tank level reaches 90%. It takes several minutes for gauge to respond. It should read full at 93% after several minutes. Note the gauge reads 10% when empty.
+Water tank fills are located on each side deck. When filling from a clorinated source a hose is attached to a quick connect located in the lazarette. Connect hose, slowly open valve with red handle in lazarette. Under sink make sure water maker setting is on "sink". Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Stop filling when the tank level reaches 90%. It takes several minutes for gauge to respond. It should read full at 93% after several minutes. Note the gauge still reads 10% when empty.
 
 The tanks are controlled by manual quarter-turn ball valves mounted on the side of each tank. Valves are accessed in the forward storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. This gives some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
 
@@ -19,7 +19,7 @@ During commissioning the potable water tanks should be flushed with hot (if poss
 The hot water tank is located in the aft cabin, under the bed. It requires little maintenance other than winterising. Water can be heated by two means:
 
 1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually heat a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
-2. AC Power: A 120 volt heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
+2. AC Power: A 120 volt 750W heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
 
 ### Shower Sumps and Drains
 
@@ -35,6 +35,22 @@ The cockpit shower is recessed in two holes covered by plastic caps in the port 
 
 Hot and cold mixing is accomplished by turning the mixer handle clockwise or counter clockwise. To turn the faucet off, push in the mixer handle all the way and at the same time release the hose pressure with the shower head button. If you do not release the hose pressure the handle will not remain in a recessed position.
 
+### Water Filters
+
+A charcoal/kdf water filter with a replaceable element is installed inline on the cold water line going to the drinking faucet at the galley sink. Only this drinking faucet is double filtered.
+
+*EVERY FILL-UP* Add a few tablespoons of baking soda, particularly if the water is heavily chlorinated.
+
+*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system Periodically clean sediment strainer. Rinse thoroughly with fresh water. Follow steps above for a new tank to complete the cleaning process.
+
+Change water filter elements at least once every 4 months, or whenever flow is reduced.
+
+In the lazaret is a sediment, charcoal, UV light filter that all freshwater passes through.
+
+### Manual Water Pump
+
+A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
+
 ## Reverse Osmosis (RO) Water Maker
 
 ### Startup
@@ -43,11 +59,11 @@ Hot and cold mixing is accomplished by turning the mixer handle clockwise or cou
 * Switch ON the breaker labeled "Water Maker" at the main breaker panel to charge dedicated battery pack. If house bank below 75% SOC and both water tanks are low/empty on both tanks it can remain off if pack voltage is over 13.4v.
 * Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
-* Turn on boost switch.
-* Check that **Feed Pressure** reaches **15-30 PSI** on feed line.
-* Let run for 1-10 minutes.
+* Turn on boost switch. It’s on powered by czone. Use one of the MFD screens and find it under pumps.
+* Check that **Feed Pressure** reaches **15-30 PSI** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
+* Let run for 1-10 minutes to flush out any stinky stagnent water.
 * Switch **Sample Valve** under galley sink to right, labeled "Sink".
-* Turn on boost pump.
+* Turn on boost pump. This is relay #1 on the Victron Venus GX. It’s currently manually enabled from the Remote Console device list.
 * Verify brine discharge is flowing overboard. Check on SB side, lower transom next to swim step.
 * Check that feed pressure remains above 10 PSI. If it drops below it's probably time to replace pre-filter.
 * Note titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
@@ -65,24 +81,12 @@ Hot and cold mixing is accomplished by turning the mixer handle clockwise or cou
 ### Shutdown
 
 1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO system.
-2. Switch OFF the breaker labeled "Water Maker" at the main breaker panel or let battery continue to charge if main bank has ample power.
-3. The RO unit may be left in this “stand by” condition with the seawater for one day. If the RO unit will be out of service for extended time periods, please refer flushing instructions.
-
-### Water Filters
-
-A charcoal/kdf water filter with a replaceable element is installed inline on the cold water line going to the drinking faucet at the galley sink. Only this drinking faucet is double filtered.
-
-*EVERY FILL-UP* Add a few tablespoons of baking soda, particularly if the water is heavily chlorinated. If filling from a unknown source, a half cup of bleach per tank will help kill algae or bacteria.
-
-*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system Periodically clean sediment strainer. Rinse thoroughly with fresh water. Follow steps above for a new tank to complete the cleaning process.
-
-Change water filter elements at least once every 4 months, or whenever flow is reduced.
-
-### Manual Water Pump
-
-A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
+2. Switch OFF relay #1 on the Victron GX.
+3. The RO unit may be left in this “stand by” condition with the seawater for up to one day. If the RO unit will be out of service for extended time periods, please refer flushing instructions.
+4. Freshwater flush can happen after pressure and boost pumps are off. Currently the motorized valve is controlled from relay #2 of the Venus GX. When the switch is on the valve opens, allowing freshwater from the tank to flow through the prefilter and membrane housing. The house freshwater pump must be on. Turning off the switch will close the valve. The valve takes a few seconds to open or close.
 
 ### Storage/Cleaning
+Next up on the list is automatic fresh water flush.
 
 Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
 
@@ -90,11 +94,18 @@ Use Propylene glycol (no ethyl esters alcohol) for long term storage.
 
 ## 8-4 Bilge Pumps
 
-We are equipped with six bilge pumps. Two are fixed, manual diaphragm pumps, located in the cockpit and below the cabin sole in the main saloon. A third high capacity portable pump and board is mounted just inside the lazaret.
+We are equipped with six bilge pumps.
 
-These pumps are rarely used so you should check the operation of each at least once a month. Simply fill the bilge with several gallons of water and pump each. (This is a good practice whenever cleaning the bilge.)
+1. Arid bilge vacuum with pickups in the bilge sump. Keeps bilge dry.
+2. Primary electric diaphragm bilge pump. Jabsco 36600-0000. Used when draining/cleaning water tanks.
+3. Rule 2000 24v Bilge pump w/ electronic switch.
+4. Emergency high capacity Edson 30GPM portable manual bilge pump and board is mounted inside the lazaret.
+5. Cockpit manual diaphragm pump located under helm seat.
+6. Galley manual diaphragm pump below cabin sole.
 
-The electric bilge pumps are located in the keel sump and are activated by a float switch. The pump is separately wired to a fuse located under the aft cabin berth. The toggle on the main panel is a manual bypass switch (not a circuit breaker) which will activate the pump should the float switch not activate the pump when desired. Trash can accumulate in the bilge and may be sucked up into the pump body. If the pump runs and does not evacuate the bilge or the flow is reduced, the pump can be removed from its mounting plate by depressing the two small locking tabs at the base of the pump. Check for debris, clean and replace by snapping back into position. See the pump manufacturers instructions. Keep the bilge clean to prevent clogging and also to reduce unpleasant "bilge odour."
+The manual pumps are rarely used so you should check the operation of each at least once a month. Simply fill the bilge with several gallons of water and pump each. (This is a good practice whenever cleaning the bilge.)
+
+The electric bilge pumps are located in the keel sump and are activated by water sensor switches. The pumps are directly wired to a fuse located under the aft cabin berth. The toggle on the main panel is a manual bypass switch (not a circuit breaker) which will activate the pump should the float switch not activate the pump when desired. Trash can accumulate in the bilge and may be sucked up into the pump body. If the pump runs and does not evacuate the bilge or the flow is reduced, the pump can be removed from its mounting plate by depressing the two small locking tabs at the base of the pump. Check for debris, clean and replace by snapping back into position. See the pump manufacturers instructions. Keep the bilge clean to prevent clogging and also to reduce unpleasant "bilge odour."
 
 ## 8-5 Toilets
 
