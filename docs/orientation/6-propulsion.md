@@ -111,11 +111,11 @@ Replaced every 500 hours.
 
 ## Alternators
 
-Two high output alternators are fitted on the engine. Switches for both are located under the aft cabin berth. The 120A alternator is left on all the time and the 150A is turned on as needed. Full charging will start 30 seconds after engine is above 1000 RPMS on 120 the amps alternator. The 150A alternator has a 90 second delay.
+Two high output alternators are fitted on the engine. A switch for the 12v 150Amp alternator is located under the aft cabin berth. Full charging will start 90 seconds after engine is above 1000 RPMS on the 12v 150 amp alternator. The 28v 185 Amp alternator begins charging the house bank above 800 RPM. Currently set for 27.9v.
 
-- 125 amp Power Max
-  - 47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm) belt Gates Green stripe (carquest #9470); tension is 65-70 lbs or 1/2 inch deflection
-- 150 amp Powerlin
+- 28v 185 amp American Power HPI Alternator
+  - 10 groove belt
+- 150 amp Powerline
   - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm). Tension is 80 lbs or 1/2 inch deflection.
 
 ## Transmission

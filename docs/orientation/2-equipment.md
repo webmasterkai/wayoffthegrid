@@ -182,7 +182,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * **High-Pressure Pump:** Aqua Pro - Titan Series 708-1 Titanium - 0.2" stroke. 15GPH at 735RPM.
 * **Pressure Pump Motor:** Pacific Scientific 1/4hp brushed motor. 258w at full power. ~73% efficiency.
 * **Pressure Hose:** Hydraulic hose
-* **Membrane:** Racor Aqua Pro Sea Water Membrane 33-3002. 2.5x38". 8.75GPH/210GPD max output. Replaced 2019. S/N W0151111.
+* **Membrane:** Racor Aqua Pro Sea Water Membrane 33-3038. 2.5x38". 8.75GPH/210GPD max output. Replaced 2019-07. S/N YO551501.
 * **Pressure Vessel:** 1000 psi/68 bar. Filament Wound fiberglass. Ends are 6061 T-6 powdercoated aluminum.
 * **Pressure Regulator:** Titanium hex head.
 * **Bypass Valve:** 316 Stainless.
@@ -388,6 +388,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * AMEC Camino 108 AIS Class B
 * AIS Antenna
 * Simrad GO5 MFD
+* Sonar
 
 ## Other Equipment
 
