@@ -52,7 +52,7 @@
 * **Manufacturer:** AB Inflatables
 * **Model:** 10AL Aluminum bottomed Hypalon RIB.
 * **Color:** Gray
-* **MMSI:** 338219159 (AMEC Camino 108 AIS Class B & Standard Horizon HX870)
+* **MMSI:** 338219159 (AMEC Camino 108 AIS Class B, Standard Horizon 1850G, Standard Horizon HX870)
 
 ## Location
 
