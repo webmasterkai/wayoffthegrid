@@ -59,10 +59,10 @@ A foot-operated water pump is mounted in the galley sole. This pump supplies fre
 * Switch **Sample Valve** under galley sink to right, labeled "Sink".
 * Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
-* Turn on Seawater Pump boost switch at sink or on MFD under pumps. It’s powered by czone.
+* Turn on Seawater Pump boost switch at sink or on MFD under pumps. It’s controlled by CZone.
 * Check that **Feed Pressure** reaches **15-30 PSI** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
 * Let run for 1-10 minutes to flush out any stinky stagnent water.
-* Turn on Pressure Pump switch on the iPad or relay #1 on the Victron Venus GX remote console.
+* Turn on "Pressure Pump" switch on the iPad within the WilhelmSK app or relay #1 on the Victron Venus GX remote console.
 * Verify brine discharge is flowing into the sink and the sink drain is clear.
 * Check that feed pressure remains above 10 PSI at all times. If it drops below it's probably time to replace pre-filter.
 * Note titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
@@ -93,8 +93,8 @@ Currently the motorized valve is controlled from relay #2 of the Venus GX. When 
 1. Make sure High Pressure Bypass Valve (Stainless with Black Handle) at membrane is in the open position.
 1. Turn on freshwater pump. Button at sink.
 2. Turn on "Freshwater Flush Valve" on iPad within WilhelmSK or "Relay 2" on VenusGX Remote Console. Water will come out the seawater spigot at the sink, and readings with the TDS meter will should decreased levels.
-3. Let run for 1-2 minutes. Run until TDS meter shows under 800 PPM.
-4. Turn off Flush Valve to close it.
+3. Let run for 1-2 minutes. Run until TDS meter shows under 700 PPM.
+4. Turn off "Freshwater Flush Valve" or Relay 2 to close it.
 5. Repeat every 1-3 days.
 
 _Next up on the list is automatic fresh water flush._
