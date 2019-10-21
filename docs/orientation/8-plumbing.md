@@ -81,18 +81,18 @@ A foot-operated water pump is mounted in the galley sole. This pump supplies fre
 
 1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO system.
 2. Switch OFF "Pressure Pump" on iPad or Relay #1 on the VictronGX Remote Console.
-3. The RO unit may be left in this “stand by” condition with the seawater for a maximum of 20-24 hours. If the RO unit will be out of service for more than 20 hours please refer flushing instructions.
+3. The RO unit may be left in this “stand by” condition with the seawater for a maximum of 20-24 hours. If the RO unit will be out of service for more than 20 hours please refer **Storage/Flush** instructions.
 
 ### Storage/Flush
 
 Flushing should happen every 1-3 days.
 
- Currently the motorized valve is controlled from relay #2 of the Venus GX. When the switch is on the valve opens, allowing freshwater from the tank to flow through the prefilter and membrane housing. The house freshwater pump must be on. Turning off the switch will close the valve. The valve takes a few seconds to open or close.
+Currently the motorized valve is controlled from relay #2 of the Venus GX. When the switch is on the valve opens, allowing freshwater from the tank to flow through the prefilter and membrane housing. The house freshwater pump must be on. Turning off the switch will close the valve. The valve takes a few seconds to open or close.
 
 1. Freshwater flush can happen after pressure and boost pumps are off.
 1. Make sure High Pressure Bypass Valve (Stainless with Black Handle) at membrane is in the open position.
 1. Turn on freshwater pump. Button at sink.
-2. Turn on Freshwater Flush Valve on iPad or "Relay 2" on VenusGX Remote Console. Water will come out the seawater spigot at the sink, then become fresh.
+2. Turn on "Freshwater Flush Valve" on iPad within WilhelmSK or "Relay 2" on VenusGX Remote Console. Water will come out the seawater spigot at the sink, and readings with the TDS meter will should decreased levels.
 3. Let run for 1-2 minutes. Run until TDS meter shows under 800 PPM.
 4. Turn off Flush Valve to close it.
 5. Repeat every 1-3 days.
