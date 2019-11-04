@@ -1,24 +1,32 @@
 # Plumbing
 
-## Domestic Water System
+## 8-1 Domestic Water System
 
 ### Tanks
 
-Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees. Tank levels are on the iPad. Port water tank is on the top. Starboard is the bottom.
+Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees. Tank levels are on the iPad via WilhelmSK or through the Venus Console available on any device on the WiFi network. Port water tank is on the top. Starboard is the bottom.
 
-Water tank fills are located on each side deck. When filling from a clorinated source a hose is attached to a quick connect located in the lazarette. Connect hose, slowly open valve with red handle in lazarette. Under sink make sure water maker setting is on "sink". Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Stop filling when the tank level reaches 90%. It takes several minutes for gauge to respond. It should read full at 93% after several minutes. Note the gauge still reads 10% when empty.
+#### Filling
 
-The tanks are controlled by manual quarter-turn ball valves mounted on the side of each tank. Valves are accessed in the forward storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. This gives some warning about your water usage. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
+Water tank fills are located on each side deck. The tube goes down into the aft end of the tanks. When using this method add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated.
 
-Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths.
+Alternatively, when filling from a clorinated source a hose is attached to a quick connect located on the forward edge just inside the lazarette. Turn off the freshwater pump. Under sink make sure water maker setting is on "sink" position. Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Connect hose, slowly open valve with red handle in lazarette. Turn on hose if it isn't already. Stop filling when the tank level reaches 89%. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
 
-During commissioning the potable water tanks should be flushed with hot (if possible) water to remove residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank into bilge for removal by bilge pump and arid bilge.
+#### Usage
+
+The tanks are controlled by manual quarter-turn ball valves mounted on the forward end of each tank. Valves are accessed in the forward storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. Alternating tanks also gives warning about your water usage. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
+
+#### Cleaning / Recommissioning
+
+The potable water tanks should be flushed with hot (if possible) water to remove residue and potable antifreeze. Fill each tank with water mixed with one cup bleach to sanitise the tank. Let sit for several hours. Drain tank into bilge for removal by bilge pump and arid bilge.
+
+*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system. Periodically clean sediment strainer. Rinse thoroughly with fresh water.
 
 ### Hot Water Tank
 
-The hot water tank is located in the aft cabin, under the bed. It requires little maintenance other than winterising. Water can be heated by two means:
+The hot water tank is located in the aft cabin, under the bed on the centerline. It requires little maintenance other than winterising. Water can be heated by two means:
 
-1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually heat a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
+1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually warm a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
 2. AC Power: A 120 volt 750W heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
 
 ### Shower Sumps and Drains
@@ -37,17 +45,13 @@ Hot and cold mixing is accomplished by turning the mixer handle clockwise or cou
 
 ### Water Filters
 
-A charcoal/kdf water filter with a replaceable element is installed inline on the cold water line going to the drinking faucet at the galley sink. Only this drinking faucet is double filtered.
-
-*EVERY FILL-UP* Add a few tablespoons of baking soda, particularly if the water is heavily chlorinated.
-
-*IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system Periodically clean sediment strainer. Rinse thoroughly with fresh water. Follow steps above for a new tank to complete the cleaning process.
+A charcoal/kdf water filter with a replaceable element is installed inline on the cold water line going to the drinking faucet at the galley sink. Only this drinking faucet is filtered at the tap. There is a valve for in just after the cold water valve under the sink.
 
 Change water filter elements at least once every 4 months, or whenever flow is reduced.
 
 In the lazaret is a sediment, charcoal, UV light filter that all freshwater passes through.
 
-### Manual Water Pump
+### Manual Water Pump (Currently Disabled)
 
 A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
 
@@ -168,9 +172,7 @@ In addition to the Electroscan in the main head this SAGA 43 has one complete wa
 
 #### Y-Valve
 
-The forward toilet discharge hose is connected to a Y-valve which can be selected to either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also be open). The Y-valve is conveniently located near the toilet and is clearly
-marked. In some jurisdictions, this valve may be illegal unless secured in the tank position. In such a case you may drill a small hole through the longer end of the valve handle (with the handle in the tank position) and into the fiberglass moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the handle and secure with a nyloc nut on the back side. In addition you may be
-required to secure the overboard discharge seacock in some fashion (don't drill a hole as above, the sea is out there!).
+The forward toilet discharge hose is connected to a Y-valve which can be selected to either divert waste into the holding tank or discharge it directly overboard through a seacock (in which case the overboard discharge seacock must also be open). The Y-valve is conveniently located near the toilet and is clearly marked. In some jurisdictions, this valve may be illegal unless secured in the tank position. In such a case you may drill a small hole through the longer end of the valve handle (with the handle in the tank position) and into the fiberglass moulding directly beneath. Insert a #8 machine screw (1 1/2" long) through the handle and secure with a nyloc nut on the back side. In addition you may be required to secure the overboard discharge seacock in some fashion (don't drill a hole as above, the sea is out there!).
 
 #### Macerator
 

@@ -1,7 +1,5 @@
 # Electronics
 
-
-
 ### Over current protection
 
 All electronic equipment serviced by the yacht's 12 and 24 volt electric circuit should be separately protected by a fuse or circuit breaker of appropriate size. If a large number of electronics are to be added, a branch panel of breakers may be required. Make sure that the polarity for electronic accessories is correct, and that they are installed according to the manufacturer's recommendation.

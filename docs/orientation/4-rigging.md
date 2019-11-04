@@ -124,7 +124,7 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Needs 5mm hex allen key for foil bolts (x2)
 - Needs 4mm hex allen key for bottom foil receiver (x3)
 - Order 62' $125 Around 57' finished
-- 1/2" or 5/8" pin?
+- 5/8" pin
 
 ### Inner Staysail Stay
 

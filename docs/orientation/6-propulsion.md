@@ -63,7 +63,7 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 - **Serial number** E23297
 - **Weight** 462 lbs
 - [Marine Diesel Direct](http://www.marinedieseldirect.com/yanmar)
-- **Hours** in **2006**: 1330, **2016**: 4048, **2017**: 4493, **2018**: 4572
+- **Hours** in **2006**: 1330, **2016**: 4048, **2017**: 4493, **2018**: 4572, **2019**: 5000.
 
 ### RPM & Consumption
 
@@ -113,7 +113,7 @@ Replaced every 500 hours.
 
 Two high output alternators are fitted on the engine. A switch for the 12v 150Amp alternator is located under the aft cabin berth. Full charging will start 90 seconds after engine is above 1000 RPMS on the 12v 150 amp alternator. The 28v 185 Amp alternator begins charging the house bank above 800 RPM. Currently set for 27.9v.
 
-- 28v 185 amp American Power HPI Alternator
+- 28v 185 amp (5kw) American Power HPI Alternator
   - 10 groove belt
 - 150 amp Powerline
   - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm). Tension is 80 lbs or 1/2 inch deflection.
@@ -143,10 +143,9 @@ The standard propeller supplied with the yacht is a fixed three-bladed bronze un
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
 - Max 3-blade 19" Folding propeller ('14)
-- Prop Pitch Setting: 18deg RH - X=E / Y=H (previously 20deg RH - X=K / Y=E)
+- Prop Pitch Setting: 18deg(11.5") RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
 - Zinc 70mm.
 - Drive Type: Direct Drive
-- Dripless Shaft Seal: Tides marine (Strong Seal)  <http://www.tidesmarine.com>   800.420-0949
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
 - Spare 3-blade bronze fixed-pitch prop
 
@@ -177,7 +176,7 @@ Replace and carefully secure flange bolts and locking devices after successfully
 
 The shaft passes through the hull at the stuffing box which is equipped with a "drip-less" type shaft seal.
 
-The shaft seal is located at the inboard end of the fiberglass tube which passes through the hull. The fiberglass tube and the stuffing box are connected by means of a short length of flexible silicone rubber tubing held in place by hose clamps. These clamps and the stuffing box should be inspected on a regular basis. Replace clamps if any sign of corrosion or rusting is present. If leaking is found, the hose clamps should be checked.
+The shaft seal is located at the inboard end of the fiberglass tube which passes through the hull. The fiberglass tube and the shaft seal are connected by means of a short length of flexible silicone rubber tubing held in place by hose clamps. These clamps and the stuffing box should be inspected on a regular basis. Replace clamps if any sign of corrosion or rusting is present. If leaking is found, the hose clamps should be checked.
 NOTE: The rubber tubing and clamps at the stuffing box must be inspected at least yearly.
 
 ## Exhaust System
