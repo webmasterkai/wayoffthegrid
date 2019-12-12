@@ -94,20 +94,25 @@ Prop is slightly over-pitched to maintain higher load on engine during average c
 - Change every 150 hours
 - SAE 15W-40 or SAE 30 or 40. Use CD or CG-4 grade or higher.
 - 5.6 quarts
-- Yanmar oil filter #129150-35151 or #129150-35170
-- Napa oil filter #1334
 - [Reverso](http://reversopumps.com) OP-4 electric oil change pump. - 945.522-0882
+
+#### Oil Filter Options
+
+- Yanmar 129150-35151, 129150-35151, or 129150-35170
+- Wix 51334
+- Napa 1334
+- Baldwin B1421
 
 ### Raw Water Impeller
 
 Replaced every 500 hours.
 
-* Yanmar #129670-42531
+* Yanmar 129670-42531
 * Jabsco 1210-003
 * Johnson 1027
 * Onan 132-162
 * Volvo 875811
-* BRC #00075
+* BRC 00075
 
 ## Alternators
 

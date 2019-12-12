@@ -154,42 +154,32 @@ such times to clean out all lockers, removing all dampness and leaving locker  d
 
 The manufacturer's instructions for maintaining your pedestal steering system should be followed closely. Your SAGA Yacht has Whitlock rod steering.
 
-The roller bearings in the pedestal were lubricated by the manufacturer during assembly. After each season, apply lubrication in the holes provided on top of each bearing. Do not over lubricate as it will affect the brake pads. Check periodically to prevent the bearings running dry and lubricate following the
- manufacturer's recommendation.
-Lightly oil the roller chain every two months with machine oil. Oil the sheave p bearings in the holes provided, four times each season.
-Inspect and lightly oil the cables in the system. The manufacturer recommends
- placing about five layers of facial tissue in the palm of your gloved hand, I applying oil to the tissues and lightly rubbing the wire. This will lubricate the
-strands and "flag" a broken or hooked strand by tearing the tissue. If there is a
- break in the wire, replace it immediately. Cover your hand with a thick leather i glove to prevent injury during this check.
+The roller bearings in the pedestal were lubricated by the manufacturer during assembly. After each season, apply lubrication in the holes provided on top of each bearing. Do not over lubricate as it will affect the brake pads. Check periodically to prevent the bearings running dry and lubricate following the manufacturer's recommendation.
 
-In the event of a failure in the pedestal steering system, such as a loss of a cable, there is an emergency tiller supplied with your yacht. (The optional
-jp electronic autopilot is connected to the rudder post with a separate steering arm I from the pedestal and in most cases will steer the yacht in the event of a failure
-in the pedestal.) The emergency tiller connects directly to the rudder post
-p without tools. To install, remove the cover plate at the rear of the cockpit and inset tiller. Steering will be less cumbersome if you then remove the steering
-wheel (be careful that you do not lose the metal shaft key when you take off the p wheel). Lines can be attached to the tiller and run outboard to assist in steering.
-The Whitlock steering system needs little maintenance other than periodic f> inspection of the ball joints to ensure the connecting bolts are secure.
+Lightly oil the roller chain every two months with machine oil. Oil the sheave bearings in the holes provided, four times each season.
+
+Inspect and lightly oil the cables in the system. The manufacturer recommends placing about five layers of facial tissue in the palm of your gloved hand,  applying oil to the tissues and lightly rubbing the wire. This will lubricate the strands and "flag" a broken or hooked strand by tearing the tissue. If there is a break in the wire, replace it immediately. Cover your hand with a thick leather i glove to prevent injury during this check.
+
+In the event of a failure in the pedestal steering system, such as a loss of a cable, there is an emergency tiller supplied with your yacht. (The optional electronic autopilot is connected to the rudder post with a separate steering arm from the pedestal and in most cases will steer the yacht in the event of a failure in the pedestal. The emergency tiller connects directly to the rudder post without tools. To install, remove the cover plate at the rear of the cockpit and inset tiller. Steering will be less cumbersome if you then remove the steering wheel (be careful that you do not lose the metal shaft key when you take off the wheel). Lines can be attached to the tiller and run outboard to assist in steering.
+
+The Whitlock steering system needs little maintenance other than periodic inspection of the ball joints to ensure the connecting bolts are secure.
 The underside of the steering pedestal should be inspected for evidence of
-p water leaks. The complete system, including attaching bolts should be inspected l each season.
+water leaks. The complete system, including attaching bolts should be inspected each season.
 
 ### 11-15 Deck Fittings
 
-Any deck fitting which is under load (chain plates, genoa tracks, line stoppers,
-etc.) should be checked on a regular basis and re-bedded with marine sealant if found to be leaking. The chainplates are fitted with an "escutcheon plate" which
-retains the caulk between the deck and chainplate. The highly loaded chainplate
+Any deck fitting which is under load (chain plates, genoa tracks, line stoppers, etc.) should be checked on a regular basis and re-bedded with marine sealant if found to be leaking. The chainplates are fitted with an "escutcheon plate" which retains the caulk between the deck and chainplate.
 
-moves minutely during normal use. Eventually the caulk seal with the chainplate will be lost and some leaking will occur. This is particularly true during the first
-months of use as the chainplates "bed-in" during initial use.
-Should a leak occur, remove the escutcheon plate by backing out the fixing screws on deck and lift as high as tumbuckle above it allows. Clean out the old caulking with a penknife, wipe area with mineral spirits and apply a bead of
-polysulfide caulk (LifeCaulk®) beneath the escutcheon plate along both sides of the chainplate. Gently lower the escutcheon plate and fit the screws. Do not fully tighten the screws as this will squeeze out the caulking, (leave an 1/8 turn) Clean up excess caulk with mineral spirits.
+The highly loaded chainplate moves minutely during normal use. Eventually the caulk seal with the chainplate will be lost and some leaking will occur. This is particularly true during the first months of use as the chainplates "bed-in" during initial use.
+Should a leak occur, remove the escutcheon plate by backing out the fixing screws on deck and lift as high as tumbuckle above it allows. Clean out the old caulking with a penknife, wipe area with mineral spirits and apply a bead of polysulfide caulk (LifeCaulk®) beneath the escutcheon plate along both sides of the chainplate. Gently lower the escutcheon plate and fit the screws. Do not fully tighten the screws as this will squeeze out the caulking, (leave an 1/8 turn) Clean up excess caulk with mineral spirits.
 
 ### 11-16 Roller Furling
 
-The bearings in your roller furling gear need no lubrication. They should be
-regularly flushed out with fresh water and mild detergent to remove salt and dirt. Lower the sails frequently and flush out both lower unit and top swivel. An amazing amount of salt (and bird droppings) can accumulate in the bearings of the top swivel. Dry lubricants which do not attract dirt may be used. Foils may be sprayed with dry silicone to ease raising and lowering sails. Inspect swage fittings, shackles, and the lower tumbuckle assembly for signs of corrosion or fatigue at least twice a season.
+The bearings in your roller furling gear need no lubrication. They should be regularly flushed out with fresh water and mild detergent to remove salt and dirt. Lower the sails frequently and flush out both lower unit and top swivel. An amazing amount of salt (and bird droppings) can accumulate in the bearings of the top swivel. Dry lubricants which do not attract dirt may be used. Foils may be sprayed with dry silicone to ease raising and lowering sails. Inspect swage fittings, shackles, and the lower tumbuckle assembly for signs of corrosion or fatigue at least twice a season.
 
 ### 11-17 Keel Bolt Torque
 
 It is recommended the keel bolts be retorqued before each sailing season
 begins. Contact our service department for torque specifications.
-Since the keel is attached to the hull with mechanical fastenings (bolts), and due to loads imposed upon the keel during sailing, it is not unusual to see a line of
-separation at the keel/hull joint after the boat has been hauled.
+
+Since the keel is attached to the hull with mechanical fastenings (bolts), and due to loads imposed upon the keel during sailing, it is not unusual to see a line of separation at the keel/hull joint after the boat has been hauled.
