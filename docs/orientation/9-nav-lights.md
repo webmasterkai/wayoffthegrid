@@ -1,6 +1,6 @@
 # Navigation Lights
 
-The Navigation lights are controlled by breakers on the Main Panel. The lights you show other craft signify your legal status and affect your right of way rights. Learn what each of the lights means as well as the many light configurations on various other types of craft. A sliderule is kept in the chart table to help identify lights seen at night.
+The Navigation lights are controlled by CZone. The lights you show other craft signify your legal status and affect your right of way rights. Learn what each of the lights means as well as the many light configurations on various other types of craft. A sliderule is kept in the chart table to help identify lights seen at night.
 
 The compass light has a separate cockpit mounted switch in addition to the panel breaker to switch on when desired.
 Carry spare light bulbs. Always check navigation lights before leaving the dock or mooring, even if you do not expect to stay out after dusk. You may be unexpectedly delayed.

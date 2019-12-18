@@ -55,60 +55,6 @@ In the lazaret is a sediment, charcoal, UV light filter that all freshwater pass
 
 A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
 
-## Reverse Osmosis (RO) Water Maker
-
-### Startup
-
-1. Verify the seawater intake (seacock #9) is open at the through-hull.
-* Switch **Sample Valve** under galley sink to right, labeled "Sink".
-* Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
-* FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
-* Turn on Seawater Pump boost switch at sink or on MFD under pumps. It’s controlled by CZone.
-* Check that **Feed Pressure** reaches **15-30 PSI** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
-* Let run for 1-10 minutes to flush out any stinky stagnent water.
-* Turn on "Pressure Pump" switch on the iPad within the WilhelmSK app or relay #1 on the Victron Venus GX remote console.
-* Verify brine discharge is flowing into the sink and the sink drain is clear.
-* Check that feed pressure remains above 10 PSI at all times. If it drops below it's probably time to replace pre-filter.
-* Note titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
-* Gradually turn the High Pressure Bypass Valve (Black Handle) to CLOSED position. Will be horizontal.
-* **Flow Meter** should be between **5-7 GPH**. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. MUST REAMIN BELOW 8 GPH AT ALL TIMES.
-* High pressure **Membrane Gauge** should read between **800-850PSI** in typical salt water. MUST REMAIN BELOW 900PSI.
-* Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
-* Let product water run into sink for around 5 minutes. If the unit was filled with preservative storage solution, production must remain diverted AT LEAST 10 MINUTES to clear preservative solution from system.
-* Check product water with hand-held TDS meter kept on the top shelf in the cabinet next to the sink.
-* When PPM is below 250 in cold water and 350 in warm ensure and there is no smell or taste the quality is good.
-* If quality is good, turn the Sample Valve over to the left in "Tank" direction.
-* Under the sink under the floor hatch are two valves that control the tank being filled. It should be opposite of the tank being used for consumption.
-* Check the RO unit for feed (10-30PSI) and membrane pressure (800-850), water leakage periodically at the initial start-up. Observe Product Flow meter (5-8GPH). Monitor inline TDS meter.
-
-### Shutdown
-
-1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO system.
-2. Switch OFF "Pressure Pump" on iPad or Relay #1 on the VictronGX Remote Console.
-3. The RO unit may be left in this “stand by” condition with the seawater for a maximum of 20-24 hours. If the RO unit will be out of service for more than 20 hours please refer **Storage/Flush** instructions.
-
-### Storage/Flush
-
-Flushing should happen every 1-3 days.
-
-Currently the motorized valve is controlled from relay #2 of the Venus GX. When the switch is on the valve opens, allowing freshwater from the tank to flow through the prefilter and membrane housing. The house freshwater pump must be on. Turning off the switch will close the valve. The valve takes a few seconds to open or close.
-
-1. Freshwater flush can happen after pressure and boost pumps are off.
-1. Make sure High Pressure Bypass Valve (Stainless with Black Handle) at membrane is in the open position.
-1. Turn on freshwater pump. Button at sink.
-2. Turn on "Freshwater Flush Valve" on iPad within WilhelmSK or "Relay 2" on VenusGX Remote Console. Water will come out the seawater spigot at the sink, and readings with the TDS meter will should decreased levels.
-3. Let run for 1-2 minutes. Run until TDS meter shows under 700 PPM.
-4. Turn off "Freshwater Flush Valve" or Relay 2 to close it.
-5. Repeat every 1-3 days.
-
-_Next up on the list is automatic fresh water flush._
-
-Use Propylene glycol (no ethyl esters alcohol) for long term storage.
-
-### Cleaning
-
-Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
-
 ## 8-4 Bilge Pumps
 
 We are equipped with six bilge pumps.
