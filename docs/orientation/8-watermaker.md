@@ -54,7 +54,7 @@ Use Propylene glycol (no ethyl esters alcohol) for long term storage.
 1. Perform Short Term Storage Flush. Make sure seacock is open and perform step 6 above but let run for 2 minutes to purge seawater from the system and leave in the circulate position.
 2. Remove the pre-filter cartridge from the pre-filter housing located below the pressure pump inside the lazarette. There is a filter housing wrench hanging on the right side of the box that holds the pressure pump.
 3. Empty housing and rinse the filter and housing. If the filter looks clean spray it down and save it for reuse.
-4. Replace pre-filter with preservative chemical (#3 or Green Stripe if using VM product).
+4. Replace pre-filter with Sodium metabisulfite preservative chemical (#3 or Green Stripe if using VM product).
 5. Fill housing with clean, unchlorinated drinking water and re-secure the housing, with the chemical cartridge now inside.
 6. Activate Freshwater Flush Valve for several seconds to remove any air that remains in the pre-filter housing after install.
 7. Close seacock

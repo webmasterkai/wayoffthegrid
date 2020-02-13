@@ -8,9 +8,9 @@ Two water tanks (approx. 65 gals / 245 liters each) are located under the port a
 
 #### Filling
 
-Water tank fills are located on each side deck. The tube goes down into the aft end of the tanks. When using this method add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated.
+Water tank fills are located on each side deck. The wire reinforced fill tube goes down into the aft end of the tanks. When using this method use an inline carbon filter or add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated. Chlorine causes problems when exposed to aluminum.
 
-Alternatively, when filling from a clorinated source a hose is attached to a quick connect located on the forward edge just inside the lazarette. Turn off the freshwater pump. Under sink make sure water maker setting is on "sink" position. Open the smaller port and/or startboard valves with blue handles then open the larger valve with red handle. Connect hose, slowly open valve with red handle in lazarette. Turn on hose if it isn't already. Stop filling when the tank level reaches 89%. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
+Typically a hose is attached to a quick connect located on the forward edge just inside the lazarette. Turn off the freshwater pump. Under sink make sure water maker setting is on "sink" position. Flip fill switch to the "on" position. This will open a motorized valve and turn on the "open/hose fill" indicator light. Turn on hose if it isn't already. Stop filling when the tank level reaches 89% on the Venus or 99% on the N2K network. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
 
 #### Usage
 
