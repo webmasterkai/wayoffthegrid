@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "gatsby": "x",
-    "gatsby-plugin-google-analytics": "x",
     "gatsby-plugin-offline": "x",
     "gatsby-plugin-react-helmet": "x",
     "gatsby-plugin-sharp": "x",
