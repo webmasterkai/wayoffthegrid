@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 's/v TWIG',
     author: 'Kai Curry',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    description: 'A owners and crew manual for the sailing vessel Twig.',
+    siteUrl: 'https://www.wayoffthegrid.com/',
   },
   plugins: [
     {
