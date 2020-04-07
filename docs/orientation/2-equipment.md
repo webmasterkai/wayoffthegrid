@@ -52,11 +52,11 @@
 
 * Double SS cleats bow (each side), mid ship and stern (custom)
 * Up and down windlass foot switches at bow.
-* Windlass remote at helm.
+* Wired windlass remote and chain counter on bow.
 * Anchor hawse pipes lead thru the anchor locker to deep in the bow, keeping the weight low.
 * Divided chain locker for primary/secondary rode seperation.
 * Double stainless steel anchor rollers extend well forward of the bow
-* **Windlass:** Lofrans Progress I. 1000w electric windlass with gypsy.
+* **Windlass:** Lofrans Project 1500w 24v electric windlass with gypsy.
 
 ### Ground Tackle
 
@@ -68,9 +68,9 @@
 
 #### Secondary
 
-* **Anchor:** Mantus 85 - (85 lbs) Kept disassembled in lazaret.
+* **Anchor:**
 * **Chain:** 90' of 5/16" Acco G43 hi-tensile chain.
-* **Rode:** 150' of 3-strand nylon rode.
+* **Rode:**
 
 #### Stern
 
