@@ -67,7 +67,9 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 
 ### RPM & Consumption
 
-Prop is slightly over-pitched to maintain higher load on engine during average cruising. Also enables motor-sailing.
+Prop is slightly over-pitched to maintain higher load on engine during average cruising. Also enables more effective motor-sailing. The disadvantage is when plowing into a headwind.
+
+The RPM sensor creates an AC signal based on the number of teeth. Currently configured for 117 teeth/232 pulses per revolution.
 
 | Type                       | RPM  | GPH  | Knots | prop kw/hp | max kw/hp |
 | -------------------------- | ---- | ---- | ----- | ---------- | --------- |
@@ -88,6 +90,19 @@ Prop is slightly over-pitched to maintain higher load on engine during average c
 | Continuous (Full Load) Max | 3650 | 2.75 |       | 37/50      | 37.3/50.0 |
 | 1 Hr Rated Max             | 3800 |      |       | 41/56      | 55        |
 | No Load Max                | 3925 |      |       |            |           |
+
+### Engine Gateway
+
+The following information is available on the NMEA 2000 network.
+
+* RPM
+* Engine Temp
+* Oil Pressure
+* 24v Alternator RPM - Sending to network roughly half actual RPM on "Starboard Engine".
+* 24v Alternator Field Voltage (need 5k ohms resistor, 10mfd cap)
+* Ground for alternator RPM
+* Power In from 12v ignition circuit
+* 12v Alternator field voltage (need filter)
 
 ### Oil
 
