@@ -166,11 +166,11 @@ along with a length of chain to ensure that the anchor lies properly and penetra
 35 lb. plow (Bruce, CQR, or Delta) & 30 ft. of 1/4" HT Chain spliced to 200 ft. i 9/16" Nylon, (substituting a Danforth 20H or Fortress FX23 may increase
 holding power and versatility on muddy bottoms and reduce overall weight  about 15 lbs.) 45 lb. plow (Bruce, CQR or Delta) & 60 ft. of 5/16" HT Chain spliced to 200 ft.
 5/8" Nylon.
-An electric windlass which handles a specially spliced rope/chain rode is
-optional. Make sure your windlass gypsy and the anchor rode and chain are
-correctly matched to each other and a proper splice connects them, for smooth <-, operation.
-After the anchor is laid out with sufficient scope for the depth of water, cleat the anchor rode and back down on the anchor with the engine at approximately 2000 RPM in reverse. Watch for dragging. If you drag, retrieve the anchor and
-try again.
+
+An electric windlass which handles a specially spliced rope/chain rode. Make sure your windlass gypsy and the anchor rode and chain are
+correctly matched to each other and a proper splice connects them, for smooth operation.
+
+After the anchor is laid out with sufficient scope for the depth of water, cleat the anchor rode and back down on the anchor with the engine at approximately 2000 RPM in reverse. Watch for dragging. If you drag, retrieve the anchor and try again.
 There is no agreement in boating on any single anchoring technique or
 anchoring equipment. Although we offer one possible combination of anchoring
 equipment, other sources may provide you with differing recommendations. Talk to other boat owners in your area, take courses with the Power Squadron, Coast
