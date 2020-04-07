@@ -49,17 +49,21 @@ The courtesy floor lights are powered directly from the batteries and protected 
 
 ## Batteries
 
-The main "house" battery bank is comprised of 8x Trojan T-105 6v Deep Cycle Batteries. 28kg each. 224kg total. ~ 200Ah usable at **24v** 4.5kwh. Switching to lithium will result in about 50% weight savings.
-
-There are many possible options in the battery setup on your SAGA Yacht. The standard equipment was two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
+The standard equipment was two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
 
 Never try to charge the batteries from two sources, i.g 120 Volt charger and alternator. By doing this you could damage one of the units.
 
-The buffer or "starting" battery is a Outback NanoCarbon battery and has a Victron BMV-712 for monitoring via Bluetooth using the Victron connect app. Passcode is 000000. The “starter” voltage input is the voltage of the DC-DC voltage converter. There is a battery protect between the 12v buffer battery and the 12v house rail. Solar, alternators, inverter, and other chargers are tied directly to the battery and can not be turned off. Also always on unswitched side is the bilge pumps and floor lights.
+### House Bank (24v)
 
-The alternators are 120amps and 150 amps. Both alternators share a single controller. There is an internal relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v. It’s configured this way to take advantage of the 12v alternators presently installed. Still waiting for the new pulley kit from Mark D.
+The main "house" battery bank is comprised of 8x Trojan T-105 6v Deep Cycle Batteries wired for 24v service. 28kg each. 224kg total. ~ 200Ah usable at **24v** 4.5kwh. Switching to lithium will result in about 50% weight savings. Solar, alternators, inverter, and other chargers are tied directly to the battery and can not be turned off. Also always on unswitched side is the bilge pumps and floor lights.
+
+### Buffer / Starting Battery (12v)
+
+The buffer or **"starting"** battery is a Outback NanoCarbon battery and has a Victron BMV-712 for monitoring via Bluetooth using the Victron connect app. The “starter” voltage input is the voltage of the DC-DC voltage converter. There is a battery protect between the 12v buffer battery and the 12v house rail.
 
 ### [Alternators](/orientation/propulsion/#Alternators)
+
+There is a BMV relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v for 30 seconds. It imidiately turns off when voltage drops below 12.7v. It’s configured this way to take advantage of the 12v alternators presently installed.
 
 ## Electric Winch
 
