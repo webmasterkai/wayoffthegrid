@@ -24,15 +24,20 @@
 
 ## Anchoring
 
-* Windlass switch on.
-* Remove clip from chain.
+* Physical windlass switch on. Located on anchor locker bulkhead.
+* There is a beeping piezo buzzer/alarm that will sound from the anchor locker if battery voltage is low.
+* If supply voltage is below 24v for over 90 seconds the power will turn off. The engine must be turned on to continue.
+* Remove hook/clip from chain.
+* Plug in chain counter and remote into receptacle near base of stanchon on port side foredeck.
 * Test buttons with a quick push down/up.
-* Check tides for depth at low. Minimum 8ft at low when no swell/wake/waves.
-* Drop chain. Mark waypoint where anchor is dropped.
-* Chain marked every 25 ft. Let out around 5x depth at high tide.
-* Snubber attached with two rolling hitches.
+* Check tides for depth at low. Minimum 2.4m (8ft) at low when no swell/wake/waves.
+* Lower chain. Mark waypoint where anchor is dropped.
+* Chain is marked every 7-8m (~25 ft). Let out around 4-7x depth at high tide.
+* A single nylon snubber line is attached with two rolling hitches to the chain and cleat off.
+* Add slack to chain
+* Slowly increase engine RPM to 2000 in reverse gear to back down on the anchor. Making sure it is set.
 * Swim ladder down if anyone is swimming.
-* Hoist anchor ball, plugin light.
+* Hoist anchor ball, plug in light into socket within starboard locker at base of mast.
 * **Attention:** Do NOT swim under the keel when checking the anchor in shallow water.
 
 ## Engine Shutdown
