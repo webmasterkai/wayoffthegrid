@@ -24,7 +24,7 @@
 
 ## Anchoring
 
-* Physical windlass switch on. Located on anchor locker bulkhead.
+* Windlass & Winch circuit must be on. The physical "Emergency Off Windlass Switch" on the anchor locker bulkhead must be on.
 * There is a beeping piezo buzzer/alarm that will sound from the anchor locker if battery voltage is low.
 * If supply voltage is below 24v for over 90 seconds the power will turn off. The engine must be turned on to continue.
 * Remove hook/clip from chain.

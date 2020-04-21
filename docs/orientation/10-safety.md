@@ -167,8 +167,7 @@ along with a length of chain to ensure that the anchor lies properly and penetra
 holding power and versatility on muddy bottoms and reduce overall weight  about 15 lbs.) 45 lb. plow (Bruce, CQR or Delta) & 60 ft. of 5/16" HT Chain spliced to 200 ft.
 5/8" Nylon.
 
-An electric windlass which handles a specially spliced rope/chain rode. Make sure your windlass gypsy and the anchor rode and chain are
-correctly matched to each other and a proper splice connects them, for smooth operation.
+An electric windlass which handles a specially spliced rope/chain rode. Make sure the windlass gypsy and the anchor rode and chain continue to be correctly matched to each other and a proper splice connects them, for smooth operation.
 
 After the anchor is laid out with sufficient scope for the depth of water, cleat the anchor rode and back down on the anchor with the engine at approximately 2000 RPM in reverse. Watch for dragging. If you drag, retrieve the anchor and try again.
 There is no agreement in boating on any single anchoring technique or
@@ -180,7 +179,8 @@ Gasoline vapours are explosive in the right concentrations and heavier than air.
 Improper storage of the dinghy's outboard gasoline supply is extremely hazardous. We have provided a special locker in the cockpit near the transom
 door designed to hold a standard 6 gal outboard tank. The locker is vented
 overboard and sealed from the bilge according to USCG guidelines. This is a p unique SAGA feature. Please use it for your safety.
-NEVER STORE GASOLINE IN A SAIL LOCKER OR BELOW DECKS
+
+**NEVER STORE GASOLINE IN A SAIL LOCKER OR BELOW DECKS**
 
 Addresses:
 United States Sailing Association

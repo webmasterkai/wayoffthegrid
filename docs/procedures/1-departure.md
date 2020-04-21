@@ -67,8 +67,8 @@
 ## Departure
 
 * VHF Radio on and automated radio check.
-* Flip breakers for **VHF, Auto Pilot, Instruments, Radar, Winch, Windlass** to the **ON** (from left to right) position. It's fine if they were already on.
-* Turn on screens to Chart Plotter (MDF) at helm and instrument displays if necessary. Adjust brightness.
+* Push the "Weigh Anchor" button.
+* Turn on Chart Plotter (MDF) at helm and instrument displays if necessary. Adjust brightness.
 * Wheel brake off, check stop to stop movement of wheel. Ring finger of non-dominate hand should be capable of turning the wheel by pressing against one of the spokes. The instruments should show -45 to +45 degrees of rudder deflection.
 * On anchor: remove snubber (bridle) from anchor chain.
 * On anchor: take the anchor ball down, unplug light and store in deck locker on port side of mast.

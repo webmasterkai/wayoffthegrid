@@ -52,7 +52,8 @@
 
 * Double SS cleats bow (each side), mid ship and stern (custom)
 * Up and down windlass foot switches at bow.
-* Wired windlass remote and chain counter on bow.
+* Wired windlass remote and chain counter at bow.
+* Wired windlass remote at cockpit helm station.
 * Anchor hawse pipes lead thru the anchor locker to deep in the bow, keeping the weight low.
 * Divided chain locker for primary/secondary rode seperation.
 * Double stainless steel anchor rollers extend well forward of the bow

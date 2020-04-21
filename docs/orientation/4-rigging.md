@@ -173,5 +173,3 @@ Harken   <http://www.harken.com>  262.691-2230
 - \#40.2ST Harken 2SP40CHST control winch on house/cabin top and at mast base. Starboard side.
 - \#40 Harken 2SP40CHEST Electric winch on house/cabin top. Port side.
 - Winch handles
-
-The electric cockpit winch requires the "Windlass & Winch" circuit to be active and the circuit breaker located in the aft cockpit (just below the ceiling) must have the flap pushed up to the horizontal position. Power to the windlass motor is disabled electronically with a Victron Battery Protect 65A when voltage drops below 24v for 30 seconds or when the circuit that powers the solenoid relay box is off/open. A low voltage piezo electric alarm is not installed yet. There is also a 100A fuse located in the electrical distribution compartment under the aft cabin berth.

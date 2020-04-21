@@ -74,12 +74,13 @@ While very handy and a big energy saver, it is difficult for an operator to judg
 To operate the winch, set the breaker on the main panel to ON to supply 12V to the winch relays. The winch is a two speed unit. The switches for each speed are mounted on the cabin house. The winch motor is fused by a 130A breaker located in line and an overload breaker in the aft cabin. For safety reasons, the electric motor is automatically deactivated whenever a winch handle is inserted
 in the winch socket.
 
+The electric cockpit winch requires the "Windlass & Winch" circuit to be active and the circuit breaker located in the aft cockpit (just below the ceiling) must have the flap pushed up to the horizontal position. Power to the windlass motor is disabled electronically with a Victron Battery Protect 65A when voltage drops below 24v for 90 seconds or when the circuit that powers the solenoid relay box is off/open. A low voltage piezo electric alarm is not installed yet. There is also a 100A fuse located in the electrical distribution compartment under the aft cabin berth.
+
 ## Electric Windlass
 
-An electric anchor windlass is an available option. Mounted on the foredeck, the 1 two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9)
-apply to the windlass.
+An electric anchor windlass is installed. Mounted on the foredeck, the two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9) apply to the windlass.
 
-To operate the windlass, the breaker marked "Winch" on the main panel supplying 12V DC to the relays must be ON. The windlass is protected by a 150A fuse in line, mounted under the aft berth. The relay switch box and an 75A overload breaker is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running.
+To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth. The relay switch box and a Victron Battery Protect is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The engine must be turned on to continue.
 
 Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
 
