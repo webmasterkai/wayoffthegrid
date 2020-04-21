@@ -25,3 +25,14 @@ The electronic compass is similarly affected by metallic objects and nearby elec
 Be very careful never to store tools, canned goods, or other heavy metal objects within 3 feet of the compasses on board. Stereo speakers and portable radios are a particularly strong magnetic source. Even a beer or soda can stored in the pedestal mounted drink holder may affect the steering compass. Be vigilant at all times about the storage and the installation of additional electronic gear.
 
 SEE ANNAPOLIS BOOK OF SEAMANSHIP. John Rousmaniere, Chapter 7 for a discussion of this highly important topic.
+
+### Ethernet Network
+
+WiFi Ethernet Router
+
+1. Cell Modem
+2. External WiFi Client
+3. MFD
+4. Radar
+5. VenusGX
+6. Marine Stereo
