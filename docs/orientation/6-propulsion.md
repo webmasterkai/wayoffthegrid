@@ -91,11 +91,11 @@ The RPM sensor creates an AC signal based on the number of teeth. Currently conf
 | 1 Hr Rated Max             | 3800 |      |       | 41/56      | 55        |
 | No Load Max                | 3925 |      |       |            |           |
 
-### Engine Gateway
+### Engine NMEA 2000 Gateway
 
 The following information is available on the NMEA 2000 network.
 
-* RPM
+* Engine RPM
 * Engine Temp
 * Oil Pressure
 * 24v Alternator RPM - Sending to network roughly half actual RPM on "Starboard Engine".
