@@ -63,7 +63,9 @@ The buffer or **"starting"** battery is a Outback NanoCarbon battery and has a V
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-There is a BMV relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v for 30 seconds. It imidiately turns off when voltage drops below 12.7v. It’s configured this way to take advantage of the 12v alternators presently installed.
+There is a BMV-712 relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v for 30 seconds. It imidiately turns off when voltage drops below 12.7v. It’s configured this way to take advantage of the 12v alternator presently installed.
+
+HPI is 8 pole pairs
 
 ## Electric Winch
 
@@ -82,3 +84,16 @@ To operate the windlass, the breaker marked "Winch" on the main panel supplying 
 Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
 
 See the windlass instructions for details on proper operation and selection of rope and chain sizes to fit the gypsy. Proper matching of rope, chain and gypsy is critical for safe effective operation.
+
+## C-Zone
+
+### Buttons
+
+1. White/Orange - (+) led backlight
+2. Orange - Throw B [-] switch 2
+3. White/Green - Not used.
+4. Blue - led (-) Negative / Ground
+5. White/Blue - Not used.
+6. Green - (+) circuit power on
+7. White/Brown [-] Throw A - switch 1
+8. Brown - (+) Switch Power
