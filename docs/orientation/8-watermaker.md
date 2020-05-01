@@ -19,14 +19,14 @@
 * Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
 * Let product water run into sink for around 5 minutes. If the unit was filled with preservative storage solution, production must remain diverted AT LEAST 10 MINUTES to clear preservative solution from system.
 * Check product water with hand-held TDS meter kept on the top shelf in the cabinet next to the sink.
-* When PPM is below 250 in cold water and 350 in warm ensure and there is no smell or taste the quality is good.
-* If quality is good, turn the Sample Valve over to the left in "Tank" direction.
-* Under the sink under the floor hatch are two valves that control the tank being filled. It should be opposite of the tank being used for consumption.
+* When PPM is below 250 in <22c water or 350 in >25c water and there is no smell or taste the quality is good.
+* If quality is good, turn the Sample Valve under the sink over to the left in "Tank" direction.
+* Below the under sink cabinet floor hatch are two blue & white valves that control the tank being filled. It is typically opposite the tank being used for consumption.
 * Check the RO unit for feed (10-30PSI) and membrane pressure (800-850), water leakage periodically at the initial start-up. Observe Product Flow meter (5-8GPH). Monitor inline TDS meter.
 
 ## Shutdown
 
-1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO system.
+1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO membrane housing.
 2. Switch OFF "Pressure Pump" on iPad or Relay #1 on the VictronGX Remote Console.
 3. The RO unit may be left in this “stand by” condition with the seawater for a maximum of 20-24 hours. If the RO unit will be out of service for more than 20 hours please refer **Storage/Flush** instructions.
 

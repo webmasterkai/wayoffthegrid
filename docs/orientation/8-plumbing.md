@@ -78,7 +78,7 @@ NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton
 
 ### Main Head
 
-1. To the right of the sink are two grey push buttons. Water may be added to the bowl by pushing the lower left rocker switch to the right of the sink.
+1. To the right of the sink are two grey push buttons. Water may be added to the bowl by pushing the lower left rocker switch.
 1. To begin flush procedure push the "Start" button. It's to the left of the sink. The status LED should be solid green.
 1. To the right of the sink is two buttons. The top push-button switch provides a simple flush mode by activating both the rinse water supply and the macerator discharge pump simultaneously. Push and hold this button as the toilet flushes.
 1. If needed the lower rocker switch offers independent control of the rinse water supply and discharge separately so the bowl water level can be easily raised or lowered. This provides a method of raising the water level (lower left button) when appropriate for user comfort.
@@ -89,16 +89,17 @@ NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton
 
 Cleaning is recommended every SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle.
 
-1. Flush a 2/3rds full toilet bowl and activate the Electroscan four times, allowing all waste to be treated.
-2. Turn off water supply and flush toilet as dry as possible.
+1. Flush a 2/3rds full toilet bowl and activate the Electroscan four times, allowing all waste to be treated and evacuated.
+2. Turn off water supply seacock and flush toilet as dry as possible.
 3. Turn Electroscan Power off
 4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.
-WARNING: electro scan must not be activated without disconnecting electrode and motor wires while muriatic acid solution is in the system.
-5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 2 cups per gallon)
-6. Carefully pour solution into the toilet and flush until bowl is as dry as possible.
-7. Pour one gallon (3.8 liters) of additional fresh water into bowl to dilute any acid remaining.
-8. Allow to stand for between 45 minutes and a max of 3 hours.
-9. Turn on water supply and flush only the toilet (WITHOUT activating the Electroscan) a minimum of 10 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution.
+**WARNING: Electroscan electrode or motor must not be activated while muriatic acid solution is in the system.**
+5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 1 cup acid per gallon of water or 1 liter acid to 16 liters of water).
+6. Carefully pour solution into the toilet and flush as it fills.
+7. Allow some of the solution to sit in the bowl for a couple minutes to make it easier to clean the bowl. 8. Flush until bowl is empty.
+7. Pour 0.5 to 1.0 gallon (2-4 liters) of additional fresh water into bowl to dilute any acid remaining. The rubber seals in the macerator and joker valve do not like the acid.
+8. Allow to solution to sit inside the Electroscan box for between 45 minutes and a max of 3 hours.
+9. Turn on water supply and flush only the toilet (**WITHOUT activating the Electroscan**) a minimum of 10 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution.
 9. Reconnect wires and turn power on to Electroscan.
 
 Note the Electroscan, pump and macerator are still 12v. There is a 24v to 13.2v converter behind the sink. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components should should eventually be switched to 24v versions.

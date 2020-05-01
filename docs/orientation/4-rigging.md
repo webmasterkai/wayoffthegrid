@@ -31,8 +31,7 @@ pins and spread the legs about 45°. Tape over the pins with a continuous wrap
 completely around the spreader using a stretchy plastic tape. (Rig RapTM is one - brand).
 When you have unrolled the shrouds, you will see a tag on each identifying it.
 Wrap the turnbuckles in rags or cover with plastic bags to keep them clean while
-you drag the shrouds around the mast. Attach the lower shrouds to their respective tangs and then with twine tie them to
-the mast at their bottom ends. Be sure the forward lowers are forward and the aft n lowers are aft; port and starboard can be swapped but not forward and aft.
+you drag the shrouds around the mast. Attach the lower shrouds to their respective tangs and then with twine tie them to the mast at their bottom ends. Be sure the forward lowers are forward and the aft n lowers are aft; port and starboard can be swapped but not forward and aft.
 The intermediate shrouds are then attached and led down along the mast, don't
 put them into the spreader caps until after the cap shrouds have been attached.
 
@@ -49,20 +48,18 @@ The halyards are marked as to purpose and there are messenger lines run in , | t
 
 All turnbuckles are equipped with toggles to eliminate bending load on the terminals and turnbuckles. Toggles are also fitted to both ends of the forestay. As the boat tacks and the headsail loading varies from side to side, the forestay terminals are subject to side loading; i.e., loads not in the straight line from masthead to tack fitting.
 
-Begin tuning the spar by ensuring that the mast is in the centre of the boat, perpendicular to the deck. Slacken the lower shrouds by unwinding their turnbuckles until they are without tension. The backstay should be just tight enough to remove any visible sag. Take the main halyard and lead the shackle end to a point on the rail or chainplate. Look up to ensure the halyard is not wrapped around the lazy jacks or a spreader and is running in a straight line from the masthead. NOTE: It is easier to tune the mast before attaching the boom to its gooseneck. Adjust the halyard so that the shackle just touches the reference point with a given downward tension, then cleat the halyard. Take the
-halyard to the same reference point on the opposite side of the boat, again look up to check that halyard is clear. With the same amount of downward tension, you should be able to just touch the shackle to the reference point - jf the mast is plumb transversely. If not, unscrew the upper shroud tumbuckle on the side where the halyard indicates the masthead is further away and take up on the other in order to bring the masthead closer to centre line until the halyard shackle touches both reference points using the same downward tension.
-The particular part of the rail or deck you choose as your reference point is not
-important as long as it is the same point on each side and close to the
-chainplates. Once the mast is centred transversely, tighten both upper shroud turnbuckles uniformly, one turn one side, then one turn on the other, using a 12
-in. wrench and a 12 in. screwdriver. NOTE: It is preferable to use the proper size of open-end wrench but a crescent wrench may be used. Repeat until the
-turnbuckles become difficult to turn. Pin the turnbuckles.
-Tighten the intermediate shroud turnbuckles so that almost all of the slack is removed. Sight up the aft side of the mast to make sure that it is straight
-athwartships, then tighten alternately port and starboard until the turnbuckles become difficult to turn with the wrench. Pin the turnbuckles. Repeat this
-procedure with the lower shrouds. The lower shrouds may require adjustment to straighten the mast.
-Now check for pre-bend. There should be 4 to 6 inches of fore and aft bend in the mast. If not, tension the backstay adjuster (if fitted) or the backstay tumbuclles until 6" of bend appears when sighted up the aft edge of the spar. Then equally tension upper and intermediate shrouds going alternately from port to starboard turnbuckles. Release back stay tension and 4-6 inches of pre-bend should remain in the mast. The lower shrouds may require adjustment to straighten the mast athwartships after this step.
-Now check the rake. Rake is the fore and aft angle of the spar.
+Begin tuning the spar by ensuring that the mast is in the centre of the boat, perpendicular to the deck. Slacken the lower shrouds by unwinding their turnbuckles until they are without tension. The backstay should be just tight enough to remove any visible sag. Take the main halyard and lead the shackle end to a point on the rail or chainplate. Look up to ensure the halyard is not wrapped around the lazy jacks or a spreader and is running in a straight line from the masthead. NOTE: It is easier to tune the mast before attaching the boom to its gooseneck. Adjust the halyard so that the shackle just touches the reference point with a given downward tension, then cleat the halyard. Take the halyard to the same reference point on the opposite side of the boat, again look up to check that halyard is clear. With the same amount of downward tension, you should be able to just touch the shackle to the reference point then the mast is plumb transversely. If not, unscrew the upper shroud tumbuckle on the side where the halyard indicates the masthead is further away and take up on the other in order to bring the masthead closer to centre line until the halyard shackle touches both reference points using the same downward tension.
 
-The SAGA 43 spar is designed to carry up to a maximum 12 inches of rake. Rake effects the position of the centre of effort of your sail plan and, consequently, the balance of the helm. The effects are more pronounced in heavier winds. The extent of rake on your boat should be determined by your particular sailing characteristics, the typical local wind conditions and your sail maker's suggestions.
+The particular part of the rail or deck you choose as your reference point is not important as long as it is the same point on each side and close to the chainplates. Once the mast is centred transversely, tighten both upper shroud turnbuckles uniformly, one turn one side, then one turn on the other, using a 12 in. wrench and a 12 in. screwdriver. NOTE: It is preferable to use the proper size of open-end wrench but a crescent wrench may be used. Repeat until the turnbuckles become difficult to turn. Pin the turnbuckles.
+
+Tighten the intermediate shroud turnbuckles so that almost all of the slack is removed. Sight up the aft side of the mast to make sure that it is straight athwartships, then tighten alternately port and starboard until the turnbuckles become difficult to turn with the wrench. Pin the turnbuckles. Repeat this procedure with the lower shrouds. The lower shrouds may require adjustment to straighten the mast.
+
+Now check for pre-bend. There should be 4 to 6 inches of fore and aft bend in the mast. If not, tension the backstay adjuster (if fitted) or the backstay tumbuclles until 6" of bend appears when sighted up the aft edge of the spar. Then equally tension upper and intermediate shrouds going alternately from port to starboard turnbuckles. Release back stay tension and 4-6 inches of pre-bend should remain in the mast. The lower shrouds may require adjustment to straighten the mast athwartships after this step.
+
+### Rake
+
+Now check the rake. Rake is the fore and aft angle of the spar. The SAGA 43 spar is designed to carry a maximum rake of 12 inches. Rake effects the position of the centre of effort of your sail plan and, consequently, the balance of the helm. The effects are more pronounced in heavier winds. The extent of rake on your boat should be determined by your particular sailing characteristics, the typical local wind conditions and your sail maker's suggestions.
+
 Forward rake should be avoided. The main halyard may be used to measure rake. In calm wind and sea. With the boat floating level on her lines, hang a plumb weight or equivalent, such as a hammer or wrench, from the main halyard. Adjust the halyard so that the weight is suspended just above the gooseneck. The fore and aft distance between the mast and the halyard at the gooseneck level is the amount of rake. Ease off the forestay turnbuckles and tighten the backstay tumbuckle (or vice versa) until the desired rake is achieved. Pin both fore and backstay turnbuckles.
 
 Unless the rake has to be readjusted in the future to correct helm balance, these turnbuckles will need no more adjusting. Additional tension may be applied by the backstay adjuster.
@@ -129,14 +126,15 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 ### Inner Staysail Stay
 
 ### Backstay
-- Hydraulic Backstay adjuster: Navtec   <http://www.navtec.net>
+
+- Hydraulic Backstay adjuster: [Navtec](http://www.navtec.net)
 
 ### Mast
 
 - Harken Battcar (22 mm A) track and slides provide low-friction raising and lowering of the main.
 - Harken 2SP32CHST self-tailing halyard winch on mast for Jib and Genoa.
 
-Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted in 2011. Heights have not been adjusted or confirmed since the rebuild in 2014.
+Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted in 2011. Heights have not been adjusted or confirmed since mast step and hull reinforcements in 2014.
 
 [Offshore Spars](http://www.offshorespars.com) 810.598-4700
 
@@ -148,6 +146,8 @@ Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted
 * Mast Base Aft to the stoppers: 13'  (deck is 5.5 above water)
 * Mast Height to first spreader: 21 feet above deck
 * Mast height to storm stay attachment: 37 feet above deck
+* Mast diameter fore and aft: ~10"
+* Mast rake: 9-12"
 
 ### Mast Step & Tie Rods
 

@@ -30,7 +30,7 @@
 - **Primary Filters:** Dual Switchable Racor R20P Spin On. 220/R24 series. Clear bowl.
 - **Gauge:** Racor filter vacuum gauge.
 - **Fuel vent air/fuel seperator:** - Racor Lifeguard LG100; www.parkercom  800.344-3286 Installed starboard side aft. It's blue. Both tank vents combined under galley sink against hull.
-- **Pump:** Electric fuel pump ('15) with constant/momentary switch in engine compartment. Used for priming.
+- **Pump:** Electric fuel pump ('15). Used for priming.
 - Algae-X fuel conditioner system.
 
 ## [Sails](./sails/)

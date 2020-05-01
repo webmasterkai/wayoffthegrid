@@ -37,7 +37,7 @@ The inverter converts 12 volt DC current from the batteries into 120 volt AC hou
 
 The system is set-up so that the air conditioning and hot water tank will function when the inverter is being used. This will allow the inverter to supply power when there is excess solar. See the inverter owners manual supplied for detailed instructions and other cautions.
 
-1. Use mounted iPad at nav station or any device connected to the TWIG wireless network to visit the [Victron Venus](http://beaglebone.lan) website.
+1. Use mounted iPad at nav station or any device connected to the TWIG wireless network to visit the [Victron Venus](http://venus.twig) website.
 1. If connected to dockside power turning off "SHORE POWER" and "CHARGER INVERTER" breaker switches. Leave on if connected to generator.
 1. Select "MultiPlus 12/3000/120-50 120V" from the Device List. (If necessary push the return key and/or use the left arrow first.)
 1. Select "Switch" and change to "On".
@@ -80,7 +80,7 @@ The electric cockpit winch requires the "Windlass & Winch" circuit to be active 
 
 An electric anchor windlass is installed. Mounted on the foredeck, the two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9) apply to the windlass.
 
-To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth. The relay switch box and a Victron Battery Protect is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The engine must be turned on to continue.
+To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the switches, remotes, and solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth and an "Emergency Off" switch located in the forepeak. The relay switch box and a Victron Battery Protect is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The engine must be turned on to continue.
 
 Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
 
@@ -98,3 +98,44 @@ See the windlass instructions for details on proper operation and selection of r
 6. Green - (+) circuit power on
 7. White/Brown [-] Throw A - switch 1
 8. Brown - (+) Switch Power
+
+### Stationary
+
+- Compass light: off
+- Deck Wash Pump - Foredeck: off
+- Nav Light Aft: off
+- Nav Light Fwd: off
+- Steaming Light: off
+- Tri-Sail Light: off
+
+### Underway
+
+- Anchor light - aft: off
+- Anchor light - mast: off
+- Deck Lights: off timer(on:5 if on:120)
+- Deck Wash Pump - Foredeck: off timer(on:300 if on:120)
+- Freshwater Pump - Domestic: off timer(on:300 if on:120)
+- Locker lights: on
+- Stern Spotlights: off timer(on:10 if on:120)
+
+### Day
+
+- Anchor light - aft: off
+- Anchor light - mast: off
+- Backlight zone: on
+- Compass Light: off
+- Deck Lights: off timer(on:5 if on:120)
+- Locker lights: on
+- Nav Light Aft: off
+- Nav Light Fwd: off
+- Steaming Light: off
+- Stern Spotlights: off
+- Tri-Sail Light: off
+- Deck Wash Pump - Foredeck: off timer(on:300 if on:120)
+- Freshwater Pump - Domestic: off timer(on:300 if on:120)
+
+### Night
+
+- Floor lights - red: on(5%)
+- Backlight zone: on(10%)
+- Locker lights: off(on:120m if on:30min)
