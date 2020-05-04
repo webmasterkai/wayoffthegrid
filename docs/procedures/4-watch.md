@@ -26,18 +26,37 @@ It's far better to **ask for help early and often**, than too late. The captain 
 7. Record time, log, course and position every hour on the hour, including any additional pertinent information.
 8. Maintain a visual lookout as well as monitoring AIS and radar for traffic and squalls. Be sure to check astern as well.
 9. **Constantly** monitor sail trim and adjust as necessary from the safety of the cockpit.
-9. If the speed falls below 4 knots for over 30 minutes, start the engine and roll up the headsail. When the wind picks back up, ensure engine is up to temperature, unfurl the appropriate headsail and stop the engine.
-9. Reef early and often. Be vocal if you feel the need to reef! Reefing (lower of true/apparent) wind speed guidelines:
-  * 1st reef @ 15 knots
-  * 2nd reef @ 21 knots
-  * 3rd reef @ 27 knots.
-10. Monitor engine gauges every 20 minutes while under power.
+9. If apparent wind speed falls below 6 knots for over 30 minutes, start the engine and roll up the headsail. When the wind picks back up, ensure engine is up to temperature, unfurl the appropriate headsail and stop the engine.
+9. Reef early and often. Be vocal if you feel the need to reef! The Genoa is replaced with the Jib first and then we typically shorten the mainsail before the jib. Reefing (lower of true/apparent) wind speed guidelines:
+  * Replace Genoa with Jib @ 15 knots or AWA under 50-55 degrees.
+  * 1st reef @ 17 knots
+  * 2nd reef @ 22 knots
+  * Begin furling Jib
+  * 3rd reef @ 28 knots
+10. Monitor engine gauges for temperature, oil pressure and fuel level every 20 minutes while under power.
 11. Use VHF Channel 13 and or 16 to make radio contact with vessels sighted if safe passage in doubt.
 12. Keep the cockpit neat and tidy. Coil and hang lines. Main halyard  is left coiled and resting on cabin top.
 13. No one is to leave the cockpit or go forward on deck without a harness and at least one other person on deck who is actively watching.
-14. In most conditions, watches will be one person watches of two-four hours. Number of persons and length of watch will vary according to crew size, weather and conditions.
+14. In most conditions, watches will be one person watches of two to four hours in duration. Number of persons and length of watch will vary according to crew size, weather and conditions.
 15. No headphones. A bluetooth speaker may be used at night and ship stereo during active daylight hours.
 
 ## Seamanship
 
 We recommend **The Annapolis Book of Seamanship** by John Rousmaniere, (Simon & Schuster, pub.) for its comprehensive coverage of topics relating to the safe and seamanlike operation of any small craft. Ultimately the safety, comfort and well-being of vessel and crew lies in the hands of the skipper and crew.
+
+## Sail Plans
+
+| TWS  | TWA   | Headsail    | Main     | Engine |
+| ---- | ----- | ----------- | -------- | ------ |
+| < 4  | *     | x           | x        | on     |
+| < 6  | > 120 | x           | x        | on     |
+| < 6  | > 50  | x           | full     | on     |
+| < 17 | > 160 | Spinnaker   | x        | x      |
+| < 17 | > 140 | Spinnaker   | full     | x      |
+| < 17 | < 50  | Jib         | full     | x      |
+| < 17 | < 120 | Genoa       | full     | x      |
+| > 18 | > 170 | Jib + Genoa | x        | x      |
+| > 17 | > 100 |             | 1st reef | x      |
+| > 21 |       |             | 2nd reef | x      |
+| > 25 |       | Furl Jib 5% | 2nd reef | x      |
+| > 27 |       |             | 3rd reef | x      |

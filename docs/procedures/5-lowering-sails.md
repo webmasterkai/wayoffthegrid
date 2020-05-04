@@ -5,7 +5,7 @@
 * Bear away to a run
 * Ease main sheet
 * Blanket headsail
-* Haul on furling line, maintaining slight tension on both sheets (for even furl) Coil furling line and stow on life line
+* Haul on furling line, maintaining slight tension on both sheets for an even furl. Coil furling line and stow on railing line holder.
 * Coil and stow sheets
 
 ## Lowering Main

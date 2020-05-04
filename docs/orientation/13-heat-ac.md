@@ -18,3 +18,9 @@ NOTE: The control will exit the Program Mode and return to the Off Mode if no pr
 ## Hydronic Heaters
 
 A 5/8" rubber hose connects to the engine and circulates coolant through the domestic hot water heater in the aft cabin, then to the galley heater, starboard settee heater, and finally the radiator located under the bed in the forward cabin. The forward cabin blows hot air toward the reverse cycle to then be circulated with the AC blower. A small circulating pump was added to help increase flow when engine speed is below 2000 RPM. The pump is wired to the blower circuit and comes on with the engine.
+
+### Auto-on fans w/ Engine
+
+- Engine temp over 78.
+- Engine > 50. Outside < 19. Inside < 24.
+- Engine > 50. Outside < 15. Inside < 26.
