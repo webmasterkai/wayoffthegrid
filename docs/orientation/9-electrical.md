@@ -139,3 +139,64 @@ See the windlass instructions for details on proper operation and selection of r
 - Floor lights - red: on(5%)
 - Backlight zone: on(10%)
 - Locker lights: off(on:120m if on:30min)
+
+## 24v House Bank
+
+### 24v Positive Post - Dual MRBF Terminal Fuse Block
+
+* [1] 300A - Always ON Feed
+* [2] 200A - Solar Panels & DC Converter Bus
+* BMV Voltage Sense
+
+### 24v Negative Post
+
+1. Remote Battery Switches - ML-Remote Battery Switch EMERGENCY Disconnect Everything.
+2. Current Sense Shunt
+
+### 24v House - Solar / DC Converter Bus
+
+* 12v to 24v booster output
+
+* [1] 80A Solar Bus
+* [2] 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+* [3] 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+
+House BMV low voltage relay provides cutoff for chargers.
+Buffer BMV high voltage relay switches between boost/buck.
+
+### 24v House - Always ON Bus
+
+Devices that enable charging the house bank.
+
+Inverter/Charger directly connected to battery post since it needs the full 300 amps capacity.
+
+* [1] Alternator Output (250 amp fuse)
+* [2] Winch
+* [3] Windlass
+* [4] Switched Bus
+
+### Switched
+
+Battery Protect
+
+#### Safety Hub 150
+
+* [MIDI 1] Aft Cabin CZone
+* [MIDI 2] Fwd Cabin CZone
+* [MIDI 3] Chart Table CZone
+* [ATO A] VenusGX
+* [ATO B] Toilet 500w (30 Amps)
+* [ATO C] LPG
+* [ATO D]
+* [A] Bilge Pump (10 Amps)
+
+## 12v Buffer/Starter
+
+### Always ON
+* [B] Alternator Controller / Field Winding
+
+* [1] Starter Cable
+* [2] Alternator Output
+* [3] 12v to 24v Boost
+* [A] Alternator Controller / Field Winding
+* Engine/Ignition CZone

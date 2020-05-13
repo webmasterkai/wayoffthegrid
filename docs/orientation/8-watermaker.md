@@ -7,14 +7,14 @@
 * Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
 * Turn on Seawater Pump boost switch at sink or on MFD under pumps. It’s controlled by CZone.
-* Check that **Feed Pressure** reaches **15-30 PSI** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
-* Let run for 1-10 minutes to flush out any stinky stagnent water.
+* Check that **Feed Pressure** reaches **1-2 bar (15-30 PSI)** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
+* Let run for 1-10 minutes to flush out any air bubbles and stinky stagnent water.
 * Turn on "Pressure Pump" switch on the iPad within the WilhelmSK app or relay #1 on the Victron Venus GX remote console.
 * Verify brine discharge is flowing into the sink and the sink drain is clear.
-* Check that feed pressure remains above 10 PSI at all times. If it drops below it's probably time to replace pre-filter.
-* Note titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
-* Gradually turn the High Pressure Bypass Valve (Black Handle) to CLOSED position. Will be horizontal.
-* **Flow Meter** should be between **5-7 GPH**. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. MUST REAMIN BELOW 8 GPH AT ALL TIMES.
+* Check that feed pressure remains above **0.7 bar (10 PSI)** at all times. If it drops below it's probably time to replace the pre-filter.
+* Identify the titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
+* Gradually turn the High Pressure Bypass Valve (Black Handle) to the CLOSED position. It will be horizontal. The feed pressure increase to the membrane should be less than 10psi(0.07 MPa) per second. That's a full 80 seconds to reach pressure. It's extremely difficult to achieve.
+* **Flow Meter** should be between **5-7 GPH**. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. **FLOW MUST REAMIN BELOW 8 GPH AT ALL TIMES.** Typical flow is 25 liters per hour.
 * High pressure **Membrane Gauge** should read between **800-850PSI** in typical salt water. MUST REMAIN BELOW 900PSI.
 * Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
 * Let product water run into sink for around 5 minutes. If the unit was filled with preservative storage solution, production must remain diverted AT LEAST 10 MINUTES to clear preservative solution from system.
@@ -26,8 +26,12 @@
 
 ## Shutdown
 
-1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO membrane housing.
+1. Turn valve under sink banck to "sink" position.
+1. Gradually turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up. This will release the high pressure within the RO membrane housing. Decreasing the system pressure from the 800 PSI set-point to about 150 PSI should take about 30 seconds.
 2. Switch OFF "Pressure Pump" on iPad or Relay #1 on the VictronGX Remote Console.
+3. Switch OFF "Watermaker Seawater Pump".
+5. Turn on freshwater pump.
+5. Turn on "Flush Valve" or Relay #2 for 45-90 seconds.
 3. The RO unit may be left in this “stand by” condition with the seawater for a maximum of 20-24 hours. If the RO unit will be out of service for more than 20 hours please refer **Storage/Flush** instructions.
 
 ## Short Term Storage (Flush)
@@ -71,3 +75,8 @@ To return the unit to NORMAL operation and UN-PRESERVCE, place a 5 micron filter
 ## Cleaning
 
 Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
+
+## Replacement
+
+* Keep elements moist at all times
+* Permeate obtained from first two hours of operation should be discarded

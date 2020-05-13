@@ -4,13 +4,13 @@
 
 ### Tanks
 
-Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees. Tank levels are on the iPad via WilhelmSK or through the Venus Console available on any device on the WiFi network. Port water tank is on the top. Starboard is the bottom.
+Two water tanks (approx. 65 gals / 245 liters each) are located under the port and starboard main saloon settees. Tank levels are on the iPad via WilhelmSK or through the Victron GX Console available on any device on the WiFi network. Port water tank is on the top. Starboard is the bottom. Usable capacity is closer to 210 liters each, thus each percent is around 2.1 liters. Tank level sensor is calibrated as follows: reading 7% - 1% actual, 38% - 13%, 72% - 50%, 93% - 99%.
 
 #### Filling
 
 Water tank fills are located on each side deck. The wire reinforced fill tube goes down into the aft end of the tanks. When using this method use an inline carbon filter or add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated. Chlorine causes problems when exposed to aluminum.
 
-Typically a hose is attached to a quick connect located on the forward edge just inside the lazarette. Turn off the freshwater pump. Under sink make sure water maker setting is on "sink" position. Flip fill switch to the "on" position. This will open a motorized valve and turn on the "open/hose fill" indicator light. Turn on hose if it isn't already. Stop filling when the tank level reaches 89% on the Venus or 99% on the N2K network. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
+Typically a hose is attached to a quick connect located just inside the lazarette on the forward edge. Turn off the freshwater pump. Under sink make sure water maker setting is on the "sink" position. Flip fill switch to the "on" position. This will open a motorized valve and turn on the "open/hose fill" indicator light. Turn on hose if it isn't already. Stop filling when the tank level reaches 89% on the Venus or 99% on the N2K network. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
 
 #### Usage
 
@@ -54,6 +54,19 @@ In the lazaret is a sediment, charcoal, UV light filter that all freshwater pass
 ### Manual Water Pump (Currently Disabled)
 
 A foot-operated water pump is mounted in the galley sole. This pump supplies fresh water to the galley sink faucet, when operating the fresh water pressure pump is not desired. The galley sink faucet must be full on in the cold position for water to flow. A twist of the foot releases and returns the pump to the recessed position.
+
+### [Watermaker](/orientation/watermaker/)
+
+### Daily Consumption Per Person (7 day average)
+
+| Activity              | Amount |
+| --------------------- | ------ |
+| Drinking              | 2000   |
+| Shower / Body / Teeth | 5000   |
+| Dishes & Cooking      | 4000   |
+| Clothes / Washing     | 2000   |
+
+**TOTAL** 13 liters (3.4 gallons) per person per day. For three people that's about 40 liters. Run the watermaker for around two hours every day.
 
 ## 8-4 Bilge Pumps
 
