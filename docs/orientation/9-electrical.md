@@ -86,9 +86,38 @@ Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load 
 
 See the windlass instructions for details on proper operation and selection of rope and chain sizes to fit the gypsy. Proper matching of rope, chain and gypsy is critical for safe effective operation.
 
+## Buttons / Switches
+
+### Chart Table Buttons
+
+Freshwater
+Seawater
+Night Anchored
+Day Anchored
+MFD Radar
+High Flow Bilge Pump
+Weigh Anchor
+
+### Cockpit Buttons
+
+Winch / Windlass
+Freshwater Pump
+Ignition (bottom left)
+Engine Start
+Engine Stop
+
 ## C-Zone
 
-### Buttons
+### COI Aft Cabin Signal Input
+
+1. Fuel Tank Aft
+2. Fuel Tank Fwd
+3. No Oil Pressure
+4. Engine Over Temp
+5. Watermaker Feed Pressure
+6. Watermaker Seawater Pump Temp
+
+### Button Wires
 
 1. White/Orange - (+) led backlight
 2. Orange - Throw B [-] switch 2
@@ -99,7 +128,7 @@ See the windlass instructions for details on proper operation and selection of r
 7. White/Brown [-] Throw A - switch 1
 8. Brown - (+) Switch Power
 
-### Stationary
+### Stationary State
 
 - Compass light: off
 - Deck Wash Pump - Foredeck: off
@@ -164,22 +193,17 @@ See the windlass instructions for details on proper operation and selection of r
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
-### 24v House - Always ON Bus
+### 24v House
 
 Devices that enable charging the house bank.
 
 Inverter/Charger directly connected to battery post since it needs the full 300 amps capacity.
 
 * [1] Alternator Output (250 amp fuse)
-* [2] Winch
-* [3] Windlass
-* [4] Switched Bus
+* [2] Winch (Battery Protect)
+* [3] Windlass (Battery Protect)
 
-### Switched
-
-Battery Protect
-
-#### Safety Hub 150
+#### Safety Hub 100
 
 * [MIDI 1] Aft Cabin CZone
 * [MIDI 2] Fwd Cabin CZone
@@ -189,11 +213,18 @@ Battery Protect
 * [ATO C] LPG
 * [ATO D]
 * [A] Bilge Pump (10 Amps)
+* Toilet Macerator Pump
+* Sink Pump
+* Shower Pump
 
 ## 12v Buffer/Starter
 
+
 ### Always ON
-* [B] Alternator Controller / Field Winding
+
+Motor Control CZone
+
+  * [B] Alternator Controller / Field Winding
 
 * [1] Starter Cable
 * [2] Alternator Output
