@@ -22,6 +22,14 @@ The potable water tanks should be flushed with hot (if possible) water to remove
 
 *IF CONTAMINATED BY ALGAE* Clean out tanks though access ports in tops of tanks. Access to tank and clean-out ports requires removal of screws on berth flats and lee-cloths. Add one cup of chlorine bleach per tank, fill with water Let sit for 6-12 hours and flush the solution through the system. Periodically clean sediment strainer. Rinse thoroughly with fresh water.
 
+#### Motorized Valve Details
+
+| Name       | A (+ open, - close) | B (- open, + close) | Common Singal | Opened | Closed |
+| ---------- | ------------------- | ------------------- | ------------- | ------ | ------ |
+| Fill Valve | Yellow              | White               | Black         | Green  | Bare   |
+| Port Tank  | Yellow              | White               | Bare          | Green  | Black  |
+| SB Tank    | White               | Brown               | Bare          | Green  | Red    |
+
 ### Hot Water Tank
 
 The hot water tank is located in the aft cabin, under the bed on the centerline. It requires little maintenance other than winterising. Water can be heated by two means:
@@ -92,9 +100,9 @@ NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton
 ### Main Head
 
 1. To the right of the sink are two grey push buttons. Water may be added to the bowl by pushing the lower left rocker switch.
-1. To begin flush procedure push the "Start" button. It's to the left of the sink. The status LED should be solid green.
-1. To the right of the sink is two buttons. The top push-button switch provides a simple flush mode by activating both the rinse water supply and the macerator discharge pump simultaneously. Push and hold this button as the toilet flushes.
-1. If needed the lower rocker switch offers independent control of the rinse water supply and discharge separately so the bowl water level can be easily raised or lowered. This provides a method of raising the water level (lower left button) when appropriate for user comfort.
+1. To begin flush procedure push the "Start" button located left of the sink. The status LED should be solid green.
+1. To the right of the sink are two buttons. The top momentary switch provides a simple flush mode by activating both the rinse water supply and the macerator discharge pump simultaneously. Push and hold this button as the toilet flushes.
+1. If needed the lower rocker switch offers independent control of the rinse water supply and discharge so the bowl water level can be easily raised or lowered. This provides a method of raising the water level (lower left button) when appropriate for user comfort.
 1. When underway use the lower right rocker-button to completely evacuate the toilet bowl.
 1. The Status LED should blink green. If blinking yellow the water is probably brackish and concentrated salt water needs to be added.
 
@@ -107,19 +115,21 @@ Cleaning is recommended every SIX MONTHS or if red light and warning for low ele
 3. Turn Electroscan Power off
 4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.
 **WARNING: Electroscan electrode or motor must not be activated while muriatic acid solution is in the system.**
-5. In plastic bucket combine 1.5 pints (.852 liters) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 1 cup acid per gallon of water or 1 liter acid to 16 liters of water).
-6. Carefully pour solution into the toilet and flush as it fills.
-7. Allow some of the solution to sit in the bowl for a couple minutes to make it easier to clean the bowl. 8. Flush until bowl is empty.
-7. Pour 0.5 to 1.0 gallon (2-4 liters) of additional fresh water into bowl to dilute any acid remaining. The rubber seals in the macerator and joker valve do not like the acid.
-8. Allow to solution to sit inside the Electroscan box for between 45 minutes and a max of 3 hours.
-9. Turn on water supply and flush only the toilet (**WITHOUT activating the Electroscan**) a minimum of 10 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution.
-9. Reconnect wires and turn power on to Electroscan.
+4. Wear eye goggles, gloves, and respirator.
+5. In plastic bucket combine 3 cups (852 ml) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 1 cup acid per gallon of water or 1 liter acid to 16 liters of water). The acid container is kept wrapped in a thick plastic bag under the galley sink floor.
+6. Carefully pour 1/3 icrements of the solution into the toilet bowl. Alternate pushing the "empty bowl" button for a couple seconds and then waiting several more before repeating.
+7. Clean the bowl towards the end of the solution flush.
+8. Pour 0.5 to 1.0 gallon (2-4 liters) of additional fresh water into bowl to dilute remaining acid. The rubber seals in the macerator and joker valve do not like the acid.
+9. Flush until bowl is empty.
+10. Allow to solution to sit inside the Electroscan box for between 45 minutes and a max of 3 hours.
+11. Turn on water supply and flush only the toilet (**WITHOUT activating the Electroscan**) a minimum of 12 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution. The bowl is roughly 1 gallon.
+13. Reconnect wires and turn power on to Electroscan.
 
-Note the Electroscan, pump and macerator are still 12v. There is a 24v to 13.2v converter behind the sink. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components should should eventually be switched to 24v versions.
+Note the Electroscan, pump and macerator are still 12v. There is a 24v to 13.2v converter below the sink mounted on the hull. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components could eventually be switched to 24v versions.
 
 ### Forward Head
 
-**Currently Toilet Removed**
+**Currently Toilet System Removed**
 
 Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits. Your toilet will love you and your holding tank will go many miles further between pump-outs.
 WARNING: Resistance on the toilet pump handle almost always indicates a full holding tank, (or a closed discharge valve) DO NOT FORCE!!!! Investigate first. Undue force can rupture holding tank cleanout plates or blow off waste hoses.
