@@ -161,15 +161,15 @@
 
 - Fresh Water Tanks: 2 Aluminum (130 Gallons total) (replaced ’15)
 * Hot and cold pressure water. Fresh water pressure pump located far aft, starboard in lazaret.
-* Isotherm 8 gallon hot water heater (Italy) with engine heat exchanger. Fresh water in/out is 15mm pipe, not 1/2".
+* Isotherm 8 gallon hot water heater (Italy) with engine heat exchanger or 800w 120V element. Fresh water in/out is 15mm pipe, not 1/2".
 * Water Tank Sensors wired to Venus GX for digital monitoring
-* Shurflo anchor wash down system
+* 6GPM / 70 PSI Jabsco anchor wash down system
 * Hot and cold cockpit shower
 * Primary Bilge Pump: Jabsco 36600-0000 Marine PAR Diaphragm Belt Drive, 480 GPH w/ electronic solid-state switch.
-* Secondary Bilge Pump: Rule 2000 Bilge pump 24v w/ electronic switch.
+* Secondary Bilge Pump: Rule 2000 Bilge pump 24v w/ auto float switch.
 * Whale manual bilge pump in cockpit
 * Whale manual bilge pump under galley sole
-* With exception of the water maker, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.
+* With exception of the water maker and AC, all thru-hulls are ¼ turn Marelon ball valves, requiring no grounding and non-corrosive.
 * [Arid Bilge System](http://aridbilge.com) 12V 2 zone bilge pump/vacuum. Serial 10410. Keeps bilge dry. (2017)
 
 ### Desalination System (Watermaker)
