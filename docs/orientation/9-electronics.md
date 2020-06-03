@@ -36,3 +36,8 @@ WiFi Ethernet Router
 4. Radar
 5. VenusGX
 6. Marine Stereo
+
+### VHF
+
+Speaker: Brown (-), Red (+)
+Hailer: Green (-), Yellow (+)
