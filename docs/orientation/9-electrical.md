@@ -171,63 +171,119 @@ Engine Stop
 
 ## 24v House Bank
 
-### 24v Positive Post - Dual MRBF Terminal Fuse Block
+### Positive Post - Dual MRBF Terminal Fuse Block
 
-* [1] 300A - Always ON Feed
-* [2] 200A - Solar Panels & DC Converter Bus
-* BMV Voltage Sense
+1. 300A - Charge Bus - Solar Panels & DC Converters & Inverter
+2. 300A - House Power Bus - Always ON Feed
+3. BMV Voltage Sense
 
-### 24v Negative Post
+#### Charge Bus - Solar Panels & DC Converters & Inverter
 
-1. Remote Battery Switches - ML-Remote Battery Switch EMERGENCY Disconnect Everything.
-2. Current Sense Shunt
+Devices that enable charging the house bank.
 
-### 24v House - Solar / DC Converter Bus
-
-* 12v to 24v booster output
-
-* [1] 80A Solar Bus
-* [2] 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
-* [3] 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+1. 300A: Inverter/Charger
+2. 250A: Alternator Output
+3. 50A: Solar Controller
+4. 30A: Solar Controller
+5. 40A: 12v to 24v booster output
 
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
-### 24v House
+#### House Power Bus
 
-Devices that enable charging the house bank.
+**Fuse Block 1 - SafetyHub 100**
 
-Inverter/Charger directly connected to battery post since it needs the full 300 amps capacity.
+AMI Fuses
 
-* [1] Alternator Output (250 amp fuse)
-* [2] Winch (Battery Protect)
-* [3] Windlass (Battery Protect)
+1. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+2. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+3. 20A: Watermaker Pressure Pump Controller
 
-#### Safety Hub 100
+ATO/ATC Fuses
 
-* [MIDI 1] Aft Cabin CZone
-* [MIDI 2] Fwd Cabin CZone
-* [MIDI 3] Chart Table CZone
-* [ATO A] VenusGX
-* [ATO B] Toilet 500w (30 Amps)
-* [ATO C] LPG
-* [ATO D]
-* [A] Bilge Pump (10 Amps)
-* Toilet Macerator Pump
-* Sink Pump
-* Shower Pump
+1. 5A: Watermaker Feed Pump Controller
+2. 1A: IP Network Switch
+3. _broken_
+4. 1A: Venus GX + Watermaker Freshwater Flush Valve
+
+**Fuse Block 2 - Always ON**
+
+SafetyHub 150
+
+AMI Fuses
+
+1. 150A: Windlass (Battery Protect)
+2. 100A: Winch (Battery Protect)
+3. 30A: Main Head Fuse Block
+4. _empty_
+
+ATO/ATC Fuses
+
+1. 10A: Bilge Pump Auto Switch
+2. 15A: Alternator Controller
+
+**Fuse Block 3 - SafetyHub 150**
+
+Battery Protect + SafetyHub 150
+
+AMI Fuses
+
+1. 50A: Aft Cabin CZone
+2. 50A: Chart Table CZone
+3. 30A: Fwd Cabin CZone
+4. _empty_
+
+ATO/ATC Fuses
+
+1. 25A: Ballast Pump CZone
+2. 1A: LPG
+
+**Fuse Block 4 - Main Head**
+
+1. 20A: 24v to 12v Converter to Electroscan / Toilet Intake Pump
+2. 10A: Toilet Macerator Pump
+3. 10A: Sink Pump
+4. 10A: Shower Pump
+
+### Negative Post
+
+1. Current Sense Shunt
+2. Remote Battery Switches - ML-Remote Battery Switch EMERGENCY Disconnect All House.
 
 ## 12v Buffer/Starter
 
+### Positive Post
 
-### Always ON
+1. 200A: Charger/Starter Bus
+2. 100A: Power Bus
 
-Motor Control CZone
+#### Charger Bus
 
-  * [B] Alternator Controller / Field Winding
+1. 200A: Starter
+2. 200A: Alternator
+3. 90A: Buck Charger 1
+4. 90A: Buck Charger 2
+5. 60A: Smart Buck Charger
 
-* [1] Starter Cable
-* [2] Alternator Output
-* [3] 12v to 24v Boost
-* [A] Alternator Controller / Field Winding
-* Engine/Ignition CZone
+#### Power Bus
+
+1. 50A: Boost Charger
+2. 25A: Engine Control CZone
+3. 50A: 24h Fuse Block
+
+#### 24h Fuse Block
+
+Controlled with Battery Protect 60
+
+12 circuit ATC/ATO fuse block
+
+1. CZone NMEA 2000
+2. NMEA 2000 Transducers
+2. 10A: Alternator Controller
+3. 10A: Bilge Pump
+4. 10A: VHF
+5. 1A: Sensors
+6. 1A: Motorized Water Valves
+7. 15A: Oil Pump
+8. 5A: Ignition Branch (Battery Protect 60)
