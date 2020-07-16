@@ -20,7 +20,7 @@
     "gatsby-source-filesystem": "x",
     "gatsby-transformer-remark": "x",
     "gatsby-transformer-sharp": "x",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "prismjs": "^1.15.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
