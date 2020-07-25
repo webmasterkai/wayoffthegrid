@@ -13,11 +13,10 @@
 
 ### Electrical & Instrumentation
 
-- **Alternator:** 5kw American Power HPI-185-EXT 185 amps at 28v
-- **Belt Pulley:** High-ratio MGDC kit
+- **Alternator:** 5kw American Power HPI-185-EXT 185 amps at 28v. 3kw @ 1100 Engine RPM.
+- **Belt Pulley:** Balmar AltMount Serpentine Pulley Conversion Kit (~2.4 ratio)
 - Digital NMEA 2000 Exhaust Gas Sensor YDGS-01
 - NMEA 2000 Engine Gateway (RPM, Water Temp, Oil Pressure, Fuel Level)
-- Alternator 1: 125 amp Power Max  47.4 inch 1/2 x 47 & 3/8 (12.5/13mm x 1205mm) (pending removal)
 - Alternator 2: 150 amp Powerline - Tension is 80 lbs or 1/2 inch deflection. (pending removal)
 
 ### Fuel

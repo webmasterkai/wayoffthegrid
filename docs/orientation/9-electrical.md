@@ -4,11 +4,41 @@ https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKz
 
 ## General
 
-The electrical system has been designed to ensure trouble free operation. Wiring and connections are kept as high in the interior of the yacht as practicable, reducing the possibility of exposure to water. The main switch panels are located to protect them from the elements. The electrical circuits are numbered at convenient locations at the panel and throughout the yacht. A numbering scheme and diagram is located in this manual for your convenience.
+The electrical system has been designed to ensure trouble free operation. Wiring and connections are kept as high in the interior of the yacht as practicable, reducing the possibility of exposure to water. The main switch panels are located to protect them from the elements. The electrical circuits are numbered at convenient locations at the panels and throughout the yacht. A numbering scheme and diagram is located in this manual for your convenience.
 
-The main panel contains 120V AC breaker switches for both dockside power and inverter.
+## Energy Storage
 
-## Using the shore power cord.
+The foundation of the electrical system is the batteries. The system is sized large enough to support 5 full days of power usuage without charging of any kind.
+
+### House Bank - 25.6 V Lithium
+
+If comparing to a 12 V AGM bank this bank is equivalent to over 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 parallel strings of 8 in series cells for a 25.6 V nominal service. It weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is confnigured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated monitoring. Each of the 5 strings of cells can be disconnected from the bank.
+
+### Buffer / Starting Battery - 12.8 V Lithium
+
+The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for 12.8 V service. The primary function is to provide reserve capacity to run a bilge pump, VHF radio, and navigation lights if the house bank fails. It's also used to start the Aux Diesel Engine. Each cell has dedicated monitoring.
+
+## Power Generation
+
+### [Alternators](/orientation/propulsion/#Alternators)
+
+Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides 185 A at 28 A to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator.
+
+A 2nd alternator will be installed soon to double this capacity.
+
+185 HPI has 8 pole pairs
+
+### Solar Array
+
+We currently have 820 W of solar. Monitoring is available via Victron GX and online VRM Portal. On top of the bimini are 4x glass Kyocera KC 80W solar panels. Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panels. Each brand of panels connect to its own Victron SmartSolar MPPT Charger.
+
+The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery with no loads applied to it.
+
+### AC Charging
+
+The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the House Bank. It takes over 15 hours to charge the House Bank.
+
+#### Using the shore power cord.
 
 1. Switch off all AC breakers.
 1. Switch off dock 30A 120V AC breaker.
@@ -19,21 +49,18 @@ The main panel contains 120V AC breaker switches for both dockside power and inv
 7. Turn on "CHARGER INVERTER" and "SHIPS POWER" breakerS. All power is routed through the inverter first.
 9. Turn on remaining breakers as needed.
 
-## Charging batteries with shore power
+#### Charging batteries with shore power
 
-1. Follow steps above for connecting to shore power.
+1. Follow steps for connecting to shore power.
 1. Use mounted iPad at nav station or any device connected to the TWIG wireless network to visit the [Victron Venus](http://beaglebone.lan) website.
-1. Select "MultiPlus 12/3000/120-50 120V" from the Device List. (If necessary push the return key and/or use the left arrow first.)
+1. Select "MultiPlus 24 V / 3000 W" from the Device List. (If necessary push the return key and/or use the left arrow first.)
 1. Select "Switch" and change to "Charger Only" or "On" (inverter + charger).
 2. There is a built in delay. Battery charging will begin about 20 seconds after activated.
-3. When the inverter is operating in battery charging mode, DC is being supplied to your batteries and also to run any 12V DC loads at the same time. Battery voltage and charging amperage being supplied by the unit is indicated on the overview page viewable by pushing "esc".
-
-**Caution**
-Shut down battery charging before starting engine. Do not charge batteries using the inverter while the engine is running, as the engine alternator is charging the batteries at this time.
+3. When the inverter is operating in battery charging mode, DC is being supplied to your batteries and also to run any DC loads at the same time. Battery voltage and charging amperage being supplied by the unit is indicated on the overview page viewable by pushing "esc".
 
 ## Inverter operation:
 
-The inverter converts 12 volt DC current from the batteries into 120 volt AC household type current for operation of small appliances. Small TVs, radios, blenders, mixers are usually fine. Except for brief periods, operation of the microwave, air conditioning, heat gun, water heater and other high load devices is only recommended when engine or portable generator is running. Their loads are extremely high and rapid discharge of the batteries will result.
+The inverter converts DC energy from the batteries into 120 volt AC household type current for operation of small appliances. Small TVs, radios, blenders, mixers are usually fine. Except for brief periods, operation of the microwave, air conditioning, heat gun, water heater and other high load devices is only recommended when engine or portable generator is running. Their loads are extremely high and rapid discharge of the batteries will result.
 
 The system is set-up so that the air conditioning and hot water tank will function when the inverter is being used. This will allow the inverter to supply power when there is excess solar. See the inverter owners manual supplied for detailed instructions and other cautions.
 
@@ -46,26 +73,6 @@ The system is set-up so that the air conditioning and hot water tank will functi
 ## Courtesy lights
 
 The courtesy floor lights are powered directly from the batteries and protected by a separate fuse located under aft cabin berth. When the main battery power switch is turned off, the courtesy lights will still have power available so that as you enter the boat you can turn the courtesy lights on for a safe lighted entry before turning on the main battery switch. There are two switches to control the lights, one near the companionway and another in the master stateroom. A red light will be installed near the cockpit engine panel to indicate if courtesy lights have inadvertently been left on. Be sure to check it before leaving the boat for long periods.
-
-## Batteries
-
-The standard equipment was two gel-cell 4D batteries for "house" service and a single #27 gel-cell battery for engine starting purposes.
-
-Never try to charge the batteries from two sources, i.g 120 Volt charger and alternator. By doing this you could damage one of the units.
-
-### House Bank (24v)
-
-The main "house" battery bank is comprised of 8x Trojan T-105 6v Deep Cycle Batteries wired for 24v service. 28kg each. 224kg total. ~ 200Ah usable at **24v** 4.5kwh. Switching to lithium will result in about 50% weight savings. Solar, alternators, inverter, and other chargers are tied directly to the battery and can not be turned off. Also always on unswitched side is the bilge pumps and floor lights.
-
-### Buffer / Starting Battery (12v)
-
-The buffer or **"starting"** battery is a Outback NanoCarbon battery and has a Victron BMV-712 for monitoring via Bluetooth using the Victron connect app. The “starter” voltage input is the voltage of the DC-DC voltage converter. There is a battery protect between the 12v buffer battery and the 12v house rail.
-
-### [Alternators](/orientation/propulsion/#Alternators)
-
-There is a BMV-712 relay that turns on the 12v-to-24v charger when the voltage of the buffer battery goes above 12.9v for 30 seconds. It imidiately turns off when voltage drops below 12.7v. It’s configured this way to take advantage of the 12v alternator presently installed.
-
-HPI is 8 pole pairs
 
 ## Electric Winch
 
@@ -80,7 +87,7 @@ The electric cockpit winch requires the "Windlass & Winch" circuit to be active 
 
 An electric anchor windlass is installed. Mounted on the foredeck, the two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9) apply to the windlass.
 
-To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the switches, remotes, and solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth and an "Emergency Off" switch located in the forepeak. The relay switch box and a Victron Battery Protect is located high in the forepeak. Because of the high DC load it is desirable to operate the windlass only with the engine running. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The engine must be turned on to continue.
+To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the switches, remotes, and solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth and an "Emergency Off" switch located in the forepeak. The relay switch box and a Victron Battery Protect is located high in the forepeak. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The House Bank must be charged to continue.
 
 Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
 
@@ -169,49 +176,69 @@ Engine Stop
 - Backlight zone: on(10%)
 - Locker lights: off(on:120m if on:30min)
 
-## 24v House Bank
+## House Bank Details
 
-### Positive Post - Dual MRBF Terminal Fuse Block
+300 x 760 area to mount controllers
 
-1. 300A - Charge Bus - Solar Panels & DC Converters & Inverter
-2. 300A - House Power Bus - Always ON Feed
-3. BMV Voltage Sense
+Solar Controller: 130 x 186
+Solar Controller: 130 x 186
+24v to 13v 70a buck: 88 x 195
+24v to 13v 70a buck: 88 x 195
+12v to 24v boost: 88 x 195
+Venus GX:   143 x 96
+RaspberryPi: 100 x 100
+2x MRBF Block: 51 x 190
 
-#### Charge Bus - Solar Panels & DC Converters & Inverter
+### Positive Post
 
-Devices that enable charging the house bank.
+300A MRBF Terminal Fuse -> Remote Solenoid Switch, Manual Back-Up -> Busbar
 
+1. 300A - **Charge Bus**
+2. 300A - **House Power Bus**
+
+#### Charge Bus
+
+Devices that enable charging the house bank. Located within the battery box section.
+
+Busbar
+1. ANL Fuse Block
+2. MRBF Fuse Block
+
+**ANL Block Fwd**
 1. 300A: Inverter/Charger
-2. 250A: Alternator Output
-3. 50A: Solar Controller
-4. 30A: Solar Controller
-5. 40A: 12v to 24v booster output
+2. 250A: 24v Alternator Output
+3. (FUTURE _250A: Alternator Output_)
+
+**MRBF Block Aft**
+1. 50A: Solar Controller
+2. 30A: Solar Controller
+3. 40A: DC Converter 12v (9-18v) to 26.5v booster output
 
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
 
-**Fuse Block 1 - SafetyHub 100**
+**Fuse Block 1 - SafetyHub 100 - Always ON**
 
-AMI Fuses
+Aft / battery box section
+
+AMI/MIDI Fuses
 
 1. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
 2. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
-3. 20A: Watermaker Pressure Pump Controller
+3. _empty_
 
 ATO/ATC Fuses
 
-1. 5A: Watermaker Feed Pump Controller
-2. 1A: IP Network Switch
+1. 1A: BMV House Voltage Sense
+2. 1A: _empty_
 3. _broken_
-4. 1A: Venus GX + Watermaker Freshwater Flush Valve
+4. 1A: Venus GX
 
-**Fuse Block 2 - Always ON**
+**Fuse Block 2 - SafetyHub 150 - Always ON**
 
-SafetyHub 150
-
-AMI Fuses
+AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
 1. 150A: Windlass (Battery Protect)
 2. 100A: Winch (Battery Protect)
@@ -221,9 +248,13 @@ AMI Fuses
 ATO/ATC Fuses
 
 1. 10A: Bilge Pump Auto Switch
-2. 15A: Alternator Controller
+2. 10A: 185 HPI Alternator Controller (24v)
+3. 10A: 150 PowerLine Alternator Controller (12v)
+4. _empty_
+5. _empty_
+6. _empty_
 
-**Fuse Block 3 - SafetyHub 150**
+**Fuse Block 3 - SafetyHub 150 - Switched**
 
 Battery Protect + SafetyHub 150
 
@@ -232,14 +263,27 @@ AMI Fuses
 1. 50A: Aft Cabin CZone
 2. 50A: Chart Table CZone
 3. 30A: Fwd Cabin CZone
-4. _empty_
+4. 25A: CZone MOI - Ballast Pump
 
 ATO/ATC Fuses
 
-1. 25A: Ballast Pump CZone
-2. 1A: LPG
+1. 1A: IP Network Switch
+2. 1A: LPG Valve
+3. _empty_
+4. _empty_
+5. _empty_
+6. _empty_
 
-**Fuse Block 4 - Main Head**
+**Fuse Block 4 - Watermaker**
+
+Battery Protect + Fuseblock
+
+1. 20A: Pressure Pump Controller
+2. 5A: Boost Pump Controller
+3. 1A: Sensors
+4. 1A: Freshwater Flush
+
+**Fuse Block 5 - Main Head**
 
 1. 20A: 24v to 12v Converter to Electroscan / Toilet Intake Pump
 2. 10A: Toilet Macerator Pump
@@ -261,7 +305,7 @@ ATO/ATC Fuses
 #### Charger Bus
 
 1. 200A: Starter
-2. 200A: Alternator
+2. 200A: Alternator Ouput
 3. 90A: Buck Charger 1
 4. 90A: Buck Charger 2
 5. 60A: Smart Buck Charger
@@ -272,18 +316,23 @@ ATO/ATC Fuses
 2. 25A: Engine Control CZone
 3. 50A: 24h Fuse Block
 
-#### 24h Fuse Block
+#### 12v 24h Fuse Block
 
 Controlled with Battery Protect 60
 
 12 circuit ATC/ATO fuse block
 
-1. CZone NMEA 2000
+1. NMEA 2000 CZone
 2. NMEA 2000 Transducers
-2. 10A: Alternator Controller
-3. 10A: Bilge Pump
-4. 10A: VHF
-5. 1A: Sensors
-6. 1A: Motorized Water Valves
-7. 15A: Oil Pump
-8. 5A: Ignition Branch (Battery Protect 60)
+3. 10A: Diaphragm Bilge Pump
+4. 10A: VHF Radio
+5. 2A: AIS + Splitter
+6. 1A: Sensors
+7. 1A: Motorized Water Valves
+8. 15A: Oil Pump
+9. 20A: Ignition Branch (Battery Protect 60)
+10. _empty_
+11. _empty_
+12. _empty_
+
+#### 12v 24h Fuse Block
