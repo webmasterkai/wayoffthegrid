@@ -15,7 +15,9 @@
 * Dinghy cable lock
 * Flashlight
 * Navigation lights
-* SonarPhone
+* MFD: Raymarine Element HV 7
+* AIS
+* VHF: Standard Horizon 1850G
 
 ## Departure
 
@@ -43,3 +45,15 @@
 * Fuel vent is closed and fuel tank stowed in cabin top wedge.
 * Secure the outboard motor on rail.
 * Secure dinghy to foredeck.
+
+## Electrical
+
+* Connectors for engine.
+* 4 circuit fuse block.
+
+### Fuse Block
+
+1. 6A: VHF Radio
+2. 5A: Chart Plotter
+3. 3A: N2K / AIS & Splitter
+4. 2A: Lights

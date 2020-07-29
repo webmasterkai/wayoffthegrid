@@ -31,7 +31,7 @@ change from a check mark to an X, indicating system gas flow is off.
 
 ## Leak Testing
 
-At least once a month, check the Propane system as follows:  
+At least once a month, check the Propane system as follows:
 
 1. Close all burner valves.
 2. Activate the entire system as above.
@@ -41,10 +41,14 @@ At least once a month, check the Propane system as follows:
 6. If gauge pressure is 90% of original pressure noted in Step 3, system is leak free. Switch off LP controls.
 7. If pressure has dropped, then there is a leak. Do not use the system until leak has been detected and eliminated! Gas leaks can be detected by a simple "soap test". This involves brushing a soap solution over all of the joints and fittings in the LP system, with the system activated and looking for small bubbles to appear. All fittings are located inside the LP cockpit locker plus one connection on the rear of the stove.
 
-Use a  solution of 2/3rds liquid dish washing detergent and 1/3rd water.
+Use a solution of 2/3rds liquid dish washing detergent and 1/3rd water.
 NEVER USE A MATCH, LIGHTER OR OPEN FLAME TO LOCATE LEAKS! m 7-5 Gas Detector Alarms
 The gas detector is effective at sniffing most vapours, volatile or not. The alarm may be caused by something as innocuous as high humidity or cooking steam, NEVER assume an alarm is false. Treat all alarms as significant and run a leak test as above.
 
 ## Pressure Gauge
 
 The pressure on the gauge does not indicate the quantity of LP remaining in the tank. The gauge is installed as an aid in checking for leakage in the system. Gauge pressure will vary with ambient temperature but is normally in the range 100-150 PSI. To determine the quantity of Propane in the tank, the tank must be weighed and the tare weight (indicated on the tank) subtracted.
+
+## Electric Conversion
+
+It takes us around 80 days to use 20 pounds. Or 0.25 pounds per day. Propane contains around 21,500 BTU per pound (91,000 BTU 27 kWh per gallon). So we should budget around 5,400 BTU per day. That rounds up to 1.6 kWh of electric usage per day for cooking.

@@ -8,7 +8,7 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough to support 5 full days of power usuage without charging of any kind.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support 5 full days of energy (5.2 kWh) usuage without charging of any kind.
 
 ### House Bank - 25.6 V Lithium
 
@@ -28,11 +28,13 @@ A 2nd alternator will be installed soon to double this capacity.
 
 185 HPI has 8 pole pairs
 
+We plan on an averaged of 1.7 kWh (15-30 minutes) per day production from the engine. Generally 3-4 hours per week is sufficient.
+
 ### Solar Array
 
 We currently have 820 W of solar. Monitoring is available via Victron GX and online VRM Portal. On top of the bimini are 4x glass Kyocera KC 80W solar panels. Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panels. Each brand of panels connect to its own Victron SmartSolar MPPT Charger.
 
-The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery with no loads applied to it.
+The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery by solar with no loads applied to it.
 
 ### AC Charging
 
@@ -243,7 +245,7 @@ AMI(Bussmann)/MIDI(Littlefuse) Fuses
 1. 150A: Windlass (Battery Protect)
 2. 100A: Winch (Battery Protect)
 3. 30A: Main Head Fuse Block
-4. _empty_
+4. 30A: Watermaker Fuse Block
 
 ATO/ATC Fuses
 
@@ -274,21 +276,31 @@ ATO/ATC Fuses
 5. _empty_
 6. _empty_
 
-**Fuse Block 4 - Watermaker**
+**Fuse Block 4 - Watermaker - ST Blade 4 Circuit**
 
-Battery Protect + Fuseblock
+Battery Protect -> Fuseblock
 
 1. 20A: Pressure Pump Controller
 2. 5A: Boost Pump Controller
-3. 1A: Sensors
+3. 1A: 5 V Sensors
 4. 1A: Freshwater Flush
 
-**Fuse Block 5 - Main Head**
+**Fuse Block 5 - Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
 
-1. 20A: 24v to 12v Converter to Electroscan / Toilet Intake Pump
-2. 10A: Toilet Macerator Pump
-3. 10A: Sink Pump
-4. 10A: Shower Pump
+1. 20A: 24v to 12v Converter
+2. 10A: Toilet Macerator Pump Relay
+3. 10A: Sink Discharge Pump
+4. 10A: _future_ Toilet Intake Pump
+5. 10A: _future_ Shower Discharge Pump
+6. 2A: Toothbrush USB Charger
+
+**Main Head 24 to 12 V converter**
+
+12v DC Output -> Mega Fuse + Inline Fuse
+30A Mega Fuse -> Electroscan
+10A Inline Fuse -> Switch Buttons
+Switch Buttons -> Macerator Relay
+Switch Buttons -> Intake Pump
 
 ### Negative Post
 
@@ -299,21 +311,21 @@ Battery Protect + Fuseblock
 
 ### Positive Post
 
-1. 200A: Charger/Starter Bus
-2. 100A: Power Bus
+1. 200A: Charger Bus
+2. 200A: Starter / Power Bus
 
 #### Charger Bus
 
-1. 200A: Starter
-2. 200A: Alternator Ouput
+2. 200A: _pending removal_ Alternator Ouput
 3. 90A: Buck Charger 1
 4. 90A: Buck Charger 2
 5. 60A: Smart Buck Charger
 
 #### Power Bus
 
+1. 200A: Starter
 1. 50A: Boost Charger
-2. 25A: Engine Control CZone
+2. 50A: Engine Control CZone
 3. 50A: 24h Fuse Block
 
 #### 12v 24h Fuse Block
@@ -322,17 +334,44 @@ Controlled with Battery Protect 60
 
 12 circuit ATC/ATO fuse block
 
-1. NMEA 2000 CZone
-2. NMEA 2000 Transducers
-3. 10A: Diaphragm Bilge Pump
-4. 10A: VHF Radio
-5. 2A: AIS + Splitter
-6. 1A: Sensors
-7. 1A: Motorized Water Valves
+1. 2A: NMEA 2000 CZone
+2. 2A: AIS + Splitter
+3. NMEA 2000 Transducers
+4. 1A: _pending move_ Watermaker 5 V Sensors
+5. 2A: 12v alternator controller _pending removal_
+6. 1A: Motorized Water Tank Valves
+7. _future_ Battery BMS Feed
 8. 15A: Oil Pump
-9. 20A: Ignition Branch (Battery Protect 60)
-10. _empty_
-11. _empty_
-12. _empty_
+9. 10A: Main Head Greywater Pump _pending removal_
+10. 15A: VHF Radio
+11. 15A: Diaphragm Bilge Pump
+12. 15A: Engine Running - Ignition Branch (Battery Protect 60)
 
-#### 12v 24h Fuse Block
+#### Engine Control CZone
+
+1. Engine Start
+2. Engine Stop
+3. Fuel Pump
+4. Floor Lights
+5. NMEA 2000 Cockpit Displays
+6. Watermaker Boost Pump _future NMEA 2000 Transducers_
+
+#### Aft COI
+
+1. High water bilge pump
+2. Freezer
+3. Fridge
+4. Autopilot
+5. MFD/Radar
+6.
+
+#### Chart Table COI
+
+#### Mast OI
+
+1. Masthead Anchor Light
+2. Masthead Tri-Color
+3. Steaming Light
+4. Deck Light
+5. Heater Fan
+6. Washdown Pump
