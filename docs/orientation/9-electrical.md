@@ -193,10 +193,15 @@ RaspberryPi: 100 x 100
 
 ### Positive Post
 
-300A MRBF Terminal Fuse -> Remote Solenoid Switch, Manual Back-Up -> Busbar
+200A MRBF Terminal Fuse -> Remote Solenoid Switch, Manual Back-Up -> Busbar
 
-1. 300A - **Charge Bus**
-2. 300A - **House Power Bus**
+### Positive Bus
+
+1. 500A ML Remote Solenoid Switch - **Charge Bus**
+2. 500A ML Remote Solenoid Switch - **House Power Bus**
+3. 1A - Victron Voltage Sense
+4. 1A - Shunt Voltage Sense
+5. 2A - Batrium BMV Power
 
 #### Charge Bus
 
@@ -234,7 +239,7 @@ AMI/MIDI Fuses
 ATO/ATC Fuses
 
 1. 1A: BMV House Voltage Sense
-2. 1A: _empty_
+2. 1A: Batrium BMS Fuse Block _empty_
 3. _broken_
 4. 1A: Venus GX
 
@@ -258,7 +263,7 @@ ATO/ATC Fuses
 
 **Fuse Block 3 - SafetyHub 150 - Switched**
 
-Battery Protect + SafetyHub 150
+Battery Protect -> SafetyHub 150
 
 AMI Fuses
 

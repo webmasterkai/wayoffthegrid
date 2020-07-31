@@ -210,13 +210,40 @@ The exhaust system utilises a waterlift type muffler. In operation, the engine w
 
 ### Fuel Tanks
 
-2 aluminum tanks and 1 portable plastic for 88 gallons (333 liters) total.
-
-- Forward tank is 45 gallons (170l) and was replaced in 2015. It's filled from starboard.
-- Aft tank is 38 gallons (143l). Port fill.
-- Portable is 5.3 gallons (20l).
+2 aluminum tanks (314 liters / 83 gallons) and 2 portable plastic (40 liters / 10 gallons) for 354 liters (93 gallons) total.
 
 Two aluminum fuel tanks are located beneath the cabin sole and are static grounded. The fuel tank selector in the engine compartment has dedicated valves for switch over of both feed and return lines. The manifold is located in the engine compartment. Be sure to switch both unless intentionally moving fuel from one tank to the other.
+
+#### Forward Diesel Tank
+
+* 170 liters (45 gallons)
+* Starboard deck fill.
+* Replaced in 2015
+
+#### Aft Diesel Tank
+
+* 143 liters (38 gallons)
+* Port deck fill.
+
+**240-33 Ohm Calibration Table**
+| Sensor Ohms | Liters     | Percent |
+| ----------- | ---------- | ------- |
+| 226.8       | **0**-19   | 0       |
+| 180         | **20**-25  | 13.91   |
+| 133.2       | **26**-35  | 18.08   |
+| 124.7       | **36.5**-? | 25.03   |
+| 29.2        | ?-144      | 100     |
+
+**Alarms**
+| Alarm    | On Liters | Off Liters | Percent |
+| -------- | --------- | ---------- | ------- |
+| Very Low | 1         | 36         | 1       |
+| Low      | 25        | 36         | 17      |
+| Nominal  | >35       |            | 25      |
+
+#### Plastic Portable
+
+* Yellow 20 liter (5 gallon)
 
 ### Fueling
 
