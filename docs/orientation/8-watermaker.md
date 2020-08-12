@@ -80,3 +80,29 @@ Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, st
 
 * Keep elements moist at all times
 * Permeate obtained from first two hours of operation should be discarded
+
+## Electrical
+
+1. Fuse Block 2
+2. Space "C" 25A
+3. Battery Protect
+4. Watermaker Fuse Block
+
+### 24 V Fuse Block
+
+1. 15A: Pressure Pump
+2. 5A: Boost Pump
+3. 1A: 12 V Buck Adapter -> 1A Inline Fuse -> Flush Valve & Pressure Valve
+4. 1A: 5 V Buck -> 1A Inline Fuse -> Sensors & ESP32
+
+### 12 V Valves
+
+1. Flush Valve (Controlled with Venus GX)
+2. Pressure Valve (Controlled with ESP-32 H-Bridge)
+3. _future_ Brine Discharge Valve
+
+### 5 V Devices
+
+1. ESP-32 & H-Bridge
+2. Boost Pump Pressure Sensor
+3. Membrane Pressure Sensor

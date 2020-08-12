@@ -51,4 +51,8 @@ The pressure on the gauge does not indicate the quantity of LP remaining in the 
 
 ## Electric Conversion
 
-It takes us around 80 days to use 20 pounds. Or 0.25 pounds per day. Propane contains around 21,500 BTU per pound (91,000 BTU 27 kWh per gallon). So we should budget around 5,400 BTU per day. That rounds up to 1.6 kWh of electric usage per day for cooking.
+It takes us around 80 days to use a full 20 pound (max 4.3 usable gallons) tank. Propane contains around 21,500 BTU per pound or 91,000 BTU per gallon. There are 3,413 BTUs per kilowatt hour so 26.7 kWh per gallon of propane. One full propane tank has roughly 115 kWh worth of energy. So we should budget around 5,400 BTU per day. That rounds up to 1.6 kWh of electric usage per day for cooking. Or 0.25 pounds per day.
+
+Cost is $16-24. Occasionally it will be $30. Uber transportation can be as much as $40 round-trip. Plus time disconnecting tank, locating facility that does refills, waiting for it to be filled and reconnecting it. Around 3-4 hours every fill. 3 minutes per day. $0.26 to $0.96 per kWh.
+
+Using 1/2 gallon diesel running the engine will make 3 kWh to 6 kWh. At $4/gallon cost estimates are $0.30 to $0.70 per kWh.

@@ -12,7 +12,7 @@ The foundation of the electrical system is the batteries. The system is sized la
 
 ### House Bank - 25.6 V Lithium
 
-If comparing to a 12 V AGM bank this bank is equivalent to over 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 parallel strings of 8 in series cells for a 25.6 V nominal service. It weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is confnigured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated monitoring. Each of the 5 strings of cells can be disconnected from the bank.
+If comparing to a 12 V AGM bank this bank is equivalent to over 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 parallel strings of 8 in series cells for a 25.6 V nominal service. It weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated monitoring. Each of the 5 strings of cells can be disconnected from the bank.
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 
@@ -192,16 +192,19 @@ RaspberryPi: 100 x 100
 2x MRBF Block: 51 x 190
 
 ### Positive Post
-
+Each battery has 150A MRBF Terminal Fuse.
 200A MRBF Terminal Fuse -> Remote Solenoid Switch, Manual Back-Up -> Busbar
 
 ### Positive Bus
 
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
 2. 500A ML Remote Solenoid Switch - **House Power Bus**
-3. 1A - Victron Voltage Sense
-4. 1A - Shunt Voltage Sense
-5. 2A - Batrium BMV Power
+3. 300A Inverter / Charger
+
+**ST Blade Battery Terminal Mount Fuse Block**
+
+1. 2A: Battery Monitor Voltage Positive Sense Wire
+2. 5A: BMS
 
 #### Charge Bus
 
@@ -211,20 +214,34 @@ Busbar
 1. ANL Fuse Block
 2. MRBF Fuse Block
 
-**ANL Block Fwd**
-1. 300A: Inverter/Charger
-2. 250A: 24v Alternator Output
-3. (FUTURE _250A: Alternator Output_)
+**MRBF Block 1**
+1. 225A: 24v Alternator Output
+2. 225A: _future_ (Alternator Output)
 
-**MRBF Block Aft**
+**SafetyHub 150**
+
+AMI/MIDI Fuses
+
 1. 50A: Solar Controller
 2. 30A: Solar Controller
-3. 40A: DC Converter 12v (9-18v) to 26.5v booster output
+3. _empty_ Future Solar
+4. 40A: DC Converter 12v (9-18v) to 26.5v booster output
+
+ATO/ATC Fuses
+
+1. Alternator Controller 1
+2. Alternator Controller 2
+3. 1A: Alternator Voltage Sense
+4. 1A: Charge Bus On Signal
+5. _empty_
+6. _empty_
 
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
+
+ANL Fuse
 
 **Fuse Block 1 - SafetyHub 100 - Always ON**
 
@@ -232,65 +249,69 @@ Aft / battery box section
 
 AMI/MIDI Fuses
 
-1. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
-2. 60A: 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+1. 60A: 6 AWG - 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+2. 25A: 10 AWG - 24v to 13v 25a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
 3. _empty_
 
 ATO/ATC Fuses
 
-1. 1A: BMV House Voltage Sense
-2. 1A: Batrium BMS Fuse Block _empty_
+1. 1A: Power Bus On Signal
+2. 1A: (8 mA) Venus GX
 3. _broken_
-4. 1A: Venus GX
+4. _empty_
 
-**Fuse Block 2 - SafetyHub 150 - Always ON**
+**Fuse Block 2 - SafetyHub 150**
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
-
-1. 150A: Windlass (Battery Protect)
-2. 100A: Winch (Battery Protect)
-3. 30A: Main Head Fuse Block
-4. 30A: Watermaker Fuse Block
-
-ATO/ATC Fuses
-
-1. 10A: Bilge Pump Auto Switch
-2. 10A: 185 HPI Alternator Controller (24v)
-3. 10A: 150 PowerLine Alternator Controller (12v)
-4. _empty_
-5. _empty_
-6. _empty_
-
-**Fuse Block 3 - SafetyHub 150 - Switched**
-
-Battery Protect -> SafetyHub 150
 
 AMI Fuses
 
 1. 50A: Aft Cabin CZone
 2. 50A: Chart Table CZone
 3. 30A: Fwd Cabin CZone
-4. 25A: CZone MOI - Ballast Pump
+4. _empty_
 
 ATO/ATC Fuses
 
-1. 1A: IP Network Switch
-2. 1A: LPG Valve
+- A 1A: (35 mA) IP Network Ethernet Switch
+- B 1A: _pending removal_ LPG Valve
+- C 25A: Watermaker Fuse Block
+- D 1A: _future_ WiFi Router
+- E 10A: _pending move_ 185 HPI Alternator Controller (24v)
+- F 10A: _pending move_ 150 PowerLine Alternator Controller (12v)
+- ? 25A: CZone MOI - Ballast Pump
+
+**Fuse Block 3 - SafetyHub 150**
+
+AMI(Bussmann)/MIDI(Littlefuse) Fuses
+
+1. 150A: Windlass (75 Amp Circuit Breaker & Battery Protect)
+2. 125A: Winch (75 Amp Circuit Breaker & Battery Protect)
 3. _empty_
+4. 30A: Main Head Fuse Block
+
+ATO/ATC Fuses
+
+1. 10A: Bilge Pump Auto Switch
+2.
+3.
 4. _empty_
-5. _empty_
+5. 1A: _future_ Cell Modem (USB Power)
 6. _empty_
 
 **Fuse Block 4 - Watermaker - ST Blade 4 Circuit**
 
-Battery Protect -> Fuseblock
+Fuse Block 3 -> 24 V Feed -> Battery Protect -> Fuseblock
 
-1. 20A: Pressure Pump Controller
+1. 20A: (200 mA resting) Pressure Pump Controller
 2. 5A: Boost Pump Controller
-3. 1A: 5 V Sensors
-4. 1A: Freshwater Flush
+3. 1A: 24 V buck 5 V Sensors
+4. 1A: Freshwater Flush Valve
+5. 2A: 12 V Pump Fan?
 
 **Fuse Block 5 - Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
+
+Battery Protect -> Fuseblock
 
 1. 20A: 24v to 12v Converter
 2. 10A: Toilet Macerator Pump Relay
@@ -316,41 +337,39 @@ Switch Buttons -> Intake Pump
 
 ### Positive Post
 
-1. 200A: Charger Bus
-2. 200A: Starter / Power Bus
+1. 200A: Charger / Power Bus
+2. 200A: Starter
 
-#### Charger Bus
+#### Charger
+200A: _pending removal_ Alternator Ouput
 
-2. 200A: _pending removal_ Alternator Ouput
-3. 90A: Buck Charger 1
-4. 90A: Buck Charger 2
-5. 60A: Smart Buck Charger
+1. 90A: Buck Charger 1
+2. 40A: Buck Charger 2
 
 #### Power Bus
 
-1. 200A: Starter
-1. 50A: Boost Charger
-2. 50A: Engine Control CZone
-3. 50A: 24h Fuse Block
+1. 50A: Engine Control CZone
+2. 50A: 24h Fuse Block
+3. 50A: Boost Charger
 
 #### 12v 24h Fuse Block
 
-Controlled with Battery Protect 60
+Power Bus -> Battery Protect 60
 
 12 circuit ATC/ATO fuse block
 
 1. 2A: NMEA 2000 CZone
 2. 2A: AIS + Splitter
-3. NMEA 2000 Transducers
+3. 5A: _pending move_ NMEA 2000 Transducers
 4. 1A: _pending move_ Watermaker 5 V Sensors
-5. 2A: 12v alternator controller _pending removal_
+5. 2A: _empty_
 6. 1A: Motorized Water Tank Valves
 7. _future_ Battery BMS Feed
 8. 15A: Oil Pump
 9. 10A: Main Head Greywater Pump _pending removal_
 10. 15A: VHF Radio
 11. 15A: Diaphragm Bilge Pump
-12. 15A: Engine Running - Ignition Branch (Battery Protect 60)
+12. _empty_
 
 #### Engine Control CZone
 

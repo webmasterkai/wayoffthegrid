@@ -24,17 +24,18 @@
 
 ## Anchoring
 
-* Windlass & Winch circuit must be on. The physical "Emergency Off Windlass Switch" on the anchor locker bulkhead must be on.
-* There is a beeping piezo buzzer/alarm that will sound from the anchor locker if battery voltage is low.
-* If supply voltage is below 24v for over 90 seconds the power will turn off. The engine must be turned on to continue.
+* The "Windlass & Winch" circuit must be on. It will come on with the "Ignition". There is also push button in the cockpit.
+* There is a physical "Emergency Off Windlass Switch" on the anchor locker bulkhead that must be ON. It is there as a way to manually disable the windlass.
+* There is a beeping piezo buzzer/alarm that will sound from within the anchor locker if the battery voltage is too low. If supply voltage is below 24v for over 90 seconds the power to the windlass will be interrupted. The batteries must be charged and increase in voltage before you are able to continue. Starting the engine and increasing the RPM will quickly charge the battery.
 * Remove hook/clip from chain.
 * Plug in chain counter and remote into receptacle near base of stanchon on port side foredeck.
-* Test buttons with a quick push down/up.
-* Check tides for depth at low. Minimum 2.4m (8ft) at low when no swell/wake/waves.
-* Lower chain. Mark waypoint where anchor is dropped.
-* Chain is marked every 7-8m (~25 ft). Let out around 4-7x depth at high tide.
-* A single nylon snubber line is attached with two rolling hitches to the chain and cleat off.
-* Add slack to chain
+* Test foot push buttons on the foredeck with a quick push/release down/up. The red button is down and the black button is up.
+* Check chart or calculate tides depth at low. Minimum 2.4m (8ft) at low when no swell/wake/waves.
+* Mark waypoint on MFD when anchor is starting to be dropped.
+* Lower anchor until it hits the seabed. The chain tension will reduce slightly and the windlass speed will  change. Confirm the sonar depth reading with the amount of chain you think is out.
+* The chain is marked every 7-8m (~25 ft). Let out around 4-7x depth at high tide.
+* Typically a single nylon snubber line is attached with two rolling hitches to the chain. It runs through a bronze low friction ring that hangs at the tip of the bowsprit on the port side. Then over the port anchor roller and finally made fast with a cleat hitch to one of the cleats. The line should be run to the outboard side of the cleat before making a turn forward.
+* Once secure lower an additional 1-3m of chain.
 * Slowly increase engine RPM to 2000 in reverse gear to back down on the anchor. Making sure it is set.
 * Swim ladder down if anyone is swimming.
 * Hoist anchor ball, plug in light into socket within starboard locker at base of mast.
