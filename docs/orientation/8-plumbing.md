@@ -35,7 +35,8 @@ The potable water tanks should be flushed with hot (if possible) water to remove
 The hot water tank is located in the aft cabin, under the bed on the centerline. It requires little maintenance other than winterising. Water can be heated by two means:
 
 1. Engine heat exchanger. This is fully automatic. Whenever the engine is running, engine coolant is being circulated through a heat exchanger in the water tank. 20 min. of engine running will usually warm a tank of water. The tank insulation will keep this tank of water (8 gals) hot for many hours, providing hot water for showers or dish washing even at anchor.
-2. AC Power: A 120 volt 750W heating element also heats the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
+2. AC Power: A 120 volt 750W heating element can heat the water, similar to an electric hot water heater at home. Shorepower must be connected or inverter on and the "Hotwater Cylinder" breaker must be in the active position on the electrical panel to make hot water. CAUTION: If hot water tank is empty for any reason (such as winterising) DO NOT turn on the electrical breaker. Applying electricity to a dry heating element will burn it out within seconds!
+3. DC Power: The electric heating element is 18.3 ohms. Attaching 25 volts to the heater will result in around 35 watts. It takes around 120 Wh to heat 10 liters of water 10 degrees C. We generally heat 40 liters of water 10 C per day. It averages 0.42 kWh per day (12 hours) to heat the water and another 0.42 kWh to keep it warm.
 
 ### Shower Sumps and Drains
 
