@@ -226,13 +226,15 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 * Port deck fill.
 
 **240-33 Ohm Calibration Table**
-| Sensor Ohms | Liters     | Percent |
-| ----------- | ---------- | ------- |
-| 226.8       | **0**-19   | 0       |
-| 180         | **20**-25  | 13.91   |
-| 133.2       | **26**-35  | 18.08   |
-| 124.7       | **36.5**-? | 25.03   |
-| 29.2        | ?-144      | 100     |
+| Sensor Ohms | Liters      | Percent |
+| ----------- | ----------- | ------- |
+| 226.8       | **0**-19    | 0       |
+| 180         | **20**-25   | 13.91   |
+| 133.2       | **26**-35   | 18.08   |
+| 124.7       | **36.5**-46 | 25.03   |
+| 117.2       | 47          | 31      |
+| 117.2       | 79          | 31      |
+| 29.2        | ?-144       | 100     |
 
 **Alarms**
 | Alarm    | On Liters | Off Liters | Percent |
