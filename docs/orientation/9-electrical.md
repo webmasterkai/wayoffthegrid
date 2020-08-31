@@ -8,21 +8,67 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support 5 full days of energy (5.2 kWh) usuage without charging of any kind.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support over 4 full days of energy (6 kWh) usuage without any charging. Typically solar will provide 3-4 kWh per day.
+
+175mm wide, 72mm thick, 210mm high. Each string of 8 is 600mm.
 
 ### House Bank - 25.6 V Lithium
 
-If comparing to a 12 V AGM bank this bank is equivalent to over 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 parallel strings of 8 in series cells for a 25.6 V nominal service. It weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated monitoring. Each of the 5 strings of cells can be disconnected from the bank.
+If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 in series cells for a 25.6 V nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated voltage monitoring accurate to +/- 1 mV (0.001 V). Each of the 5 strings of cells can be disconnected from the bank.
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 
-The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for 12.8 V service. The primary function is to provide reserve capacity to run a bilge pump, VHF radio, and navigation lights if the house bank fails. It's also used to start the Aux Diesel Engine. Each cell has dedicated monitoring.
+The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for a 12.8 V service. The primary function is to provide reserve capacity to run engine starter/controls, diaphram bilge pump, VHF radio, and deck-level navigation lights if the house bank fails. Each cell has dedicated monitoring.
 
 ## Power Generation
 
+Per series string:
+
+* Normal charge: 0.5CA (140 Amps)
+* low temp cutoff
+* High temp off: 55°C
+* High temp alarm: 45°C
+* Recommended Current 0.5CA
+* High voltage cutoff 3640 mV per cell (29.1 V) 0.05C (14 amps)
+* Normal discharge: 0.33CA (92.4 Amps)
+* 3400 is > 90%
+
+| Cell mV | Pack V | SOC % | Min Charge Current | mV Drop | Charge Level  | ALERT                   | Notes                                                   |
+| ------- | ------ | ----- | ------------------ | ------- | ------------- | ----------------------- | ------------------------------------------------------- |
+| 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately.     |
+| 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE            | C/4 10 kW.                                              |
+| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGE DISCONNECT       | C/10 4.0 kW. *Until added charge capacity.              |
+| 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs               |
+| 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                           |
+| 3500    | 28.00  |       | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW or Rest 30 min = Top balance / memory reset |
+| 3450    | 27.60  |       |                    |         | Absorb        | CAUTION 1               | Slow charge top balance.                                |
+| 3420    | 27.36  |       |                    |         |               | CHARGING                | Possible to over charge! < 4 hr hold before storage.    |
+| 3405    | 27.24  | 100   |                    |         | Float*        | CHARGING                | Possible to over charge! < 6 hr hold before storage.    |
+| 3400    | 27.20  | 95-99 |                    |         |               |                         | Typical max resting                                     |
+| 3395    | 27.16  |       | 0                  |         |               |                         |                                                         |
+| 3350    |        | 85    |                    |         |               |                         |                                                         |
+| 3325    |        | 80    |                    |         |               |                         |                                                         |
+| 3310    |        | 75    |                    |         |               |                         |                                                         |
+| 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                         |
+| 3290    |        | 45    |                    |         |               |                         |                                                         |
+| 3287    |        | 40    |                    |         |               |                         |                                                         |
+| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE             |                                                         |
+| 3200    | 25.6   | 20    |                    |         |               |                         | Nominal Voltage                                         |
+| 3000    | 24.0   | 10-30 |                    |         |               | LOAD DISCONNECT         | Lowest storage level                                    |
+| 2950    | 23.6   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                         |
+| 2900    | 23.2   | 2     |                    |         |               |                         |                                                         |
+| 2600    | 20.8   | 1     |                    |         |               |                         |                                                         |
+| 2500    | 20     | 0     |                    |         |               |                         | Test Low Voltage                                        |
+
+### BMS Controlled Charger Settings
+
+Max voltage is established by measuring charge current when max cell mV is below 3500. Check "Min Charge Current" for current levels and reference "Cell mV". For voltage to increase over 3500 mV per cell the current to the batteries must be greater than 28 A. If bank acceptance current is above 70 Amps (2 kW) highest cell voltage is allowed to climb to 3600 mV. If bank acceptance current is above 140 Amps voltage is allowed to climb to 3625 mV.
+
+After full charge BMS switches to "storage" mode where battery discharge current is limited to 1 A until 3310 mV per cell is reached. Typically charger is removed/unavailble before 3310 mV level is reached.
+
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides 185 A at 28 A to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator.
+Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides up to 185 A at 28 V to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator.
 
 A 2nd alternator will be installed soon to double this capacity.
 
@@ -30,7 +76,7 @@ A 2nd alternator will be installed soon to double this capacity.
 
 We plan on an averaged of 1.7 kWh (15-30 minutes) per day production from the engine. Generally 3-4 hours per week is sufficient.
 
-### Solar Array
+### Solar Array Charging
 
 We currently have 820 W of solar. Monitoring is available via Victron GX and online VRM Portal. On top of the bimini are 4x glass Kyocera KC 80W solar panels. Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panels. Each brand of panels connect to its own Victron SmartSolar MPPT Charger.
 
@@ -192,19 +238,19 @@ RaspberryPi: 100 x 100
 2x MRBF Block: 51 x 190
 
 ### Positive Post
-Each battery has 150A MRBF Terminal Fuse.
-200A MRBF Terminal Fuse -> Remote Solenoid Switch, Manual Back-Up -> Busbar
+Each battery string (5 total) has a 150A MRBF Terminal Fuse.
+MRBF Terminal Fuse -> Remote Solenoid Switch w/ Manual Back-Up -> Busbar -> Fuse
+
+**ST Blade Battery Terminal Mount Fuse Block**
+
+1. 2A: Battery Monitor Voltage Positive Sense Wire
+2. 5A: Battery Management Devices
 
 ### Positive Bus
 
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
 2. 500A ML Remote Solenoid Switch - **House Power Bus**
 3. 300A Inverter / Charger
-
-**ST Blade Battery Terminal Mount Fuse Block**
-
-1. 2A: Battery Monitor Voltage Positive Sense Wire
-2. 5A: BMS
 
 #### Charge Bus
 
@@ -216,21 +262,22 @@ Busbar
 
 **MRBF Block 1**
 1. 225A: 24v Alternator Output
-2. 225A: _future_ (Alternator Output)
+2. 225A: _future_ Alternator Output
+3. 200A: _future_ Dedicated AC to DC Charger
 
 **SafetyHub 150**
 
 AMI/MIDI Fuses
 
-1. 50A: Solar Controller
-2. 30A: Solar Controller
-3. _empty_ Future Solar
+1. 60A: 100-50 Solar Controller
+2. 40A: 100-30 Solar Controller
+3. 30A: _empty_ Future Solar or Hydro
 4. 40A: DC Converter 12v (9-18v) to 26.5v booster output
 
 ATO/ATC Fuses
 
-1. Alternator Controller 1
-2. Alternator Controller 2
+1. 15A: Alternator Controller 1
+2. 15A: Alternator Controller 2
 3. 1A: Alternator Voltage Sense
 4. 1A: Charge Bus On Signal
 5. _empty_
@@ -249,16 +296,16 @@ Aft / battery box section
 
 AMI/MIDI Fuses
 
-1. 60A: 6 AWG - 24v to 13v 70a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
-2. 25A: 10 AWG - 24v to 13v 25a buck input - 1000w DC Buck Voltage Reducer (50 Amps)
+1. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
+2. _empty_
 3. _empty_
 
 ATO/ATC Fuses
 
-1. 1A: Power Bus On Signal
+1. 1A: Power Bus On/Voltage Signal
 2. 1A: (8 mA) Venus GX
 3. _broken_
-4. _empty_
+4. 25A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
 
 **Fuse Block 2 - SafetyHub 150**
 
@@ -266,33 +313,34 @@ AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
 AMI Fuses
 
-1. 50A: Aft Cabin CZone
-2. 50A: Chart Table CZone
+1. 70A: Aft Cabin CZone
+2. 70A: Chart Table CZone
 3. 30A: Fwd Cabin CZone
-4. _empty_
+4. 30A: CZone MOI - Ballast Pump
 
 ATO/ATC Fuses
 
-- A 1A: (35 mA) IP Network Ethernet Switch
-- B 1A: _pending removal_ LPG Valve
-- C 25A: Watermaker Fuse Block
-- D 1A: _future_ WiFi Router
-- E 10A: _pending move_ 185 HPI Alternator Controller (24v)
-- F 10A: _pending move_ 150 PowerLine Alternator Controller (12v)
-- ? 25A: CZone MOI - Ballast Pump
+- A 10A: Bilge Pump Auto Switch
+- B 25A: Watermaker Fuse Block
+- C 1A: (35 mA) IP Network Ethernet Switch
+- D 1A: _eventual removal hopefully_ LPG Valve
+- E 1A: _future_ WiFi Router
+- F 10A: _pending move_ 185 HPI Alternator Controller (24v)
+
+<!-- - F 10A: _pending move_ 150 PowerLine Alternator Controller (12v) -->
 
 **Fuse Block 3 - SafetyHub 150**
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
-1. 150A: Windlass (75 Amp Circuit Breaker & Battery Protect)
-2. 125A: Winch (75 Amp Circuit Breaker & Battery Protect)
+1. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
+2. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
 3. _empty_
 4. 30A: Main Head Fuse Block
 
 ATO/ATC Fuses
 
-1. 10A: Bilge Pump Auto Switch
+1. _empty_
 2.
 3.
 4. _empty_
@@ -361,7 +409,7 @@ Power Bus -> Battery Protect 60
 1. 2A: NMEA 2000 CZone
 2. 2A: AIS + Splitter
 3. 5A: _pending move_ NMEA 2000 Transducers
-4. 1A: _pending move_ Watermaker 5 V Sensors
+4. 1A:
 5. 2A: _empty_
 6. 1A: Motorized Water Tank Valves
 7. _future_ Battery BMS Feed
@@ -369,7 +417,7 @@ Power Bus -> Battery Protect 60
 9. 10A: Main Head Greywater Pump _pending removal_
 10. 15A: VHF Radio
 11. 15A: Diaphragm Bilge Pump
-12. _empty_
+12. _empty_ Simrad Go5
 
 #### Engine Control CZone
 
