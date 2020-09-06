@@ -10,11 +10,13 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support over 4 full days of energy (6 kWh) usuage without any charging. Typically solar will provide 3-4 kWh per day.
 
-175mm wide, 72mm thick, 210mm high. Each string of 8 is 600mm.
+175mm (6.9") wide, 72mm thick, 210mm (8.3") high. Each string of 8 is 600mm.
 
 ### House Bank - 25.6 V Lithium
 
-If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 in series cells for a 25.6 V nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads. Each cell has dedicated voltage monitoring accurate to +/- 1 mV (0.001 V). Each of the 5 strings of cells can be disconnected from the bank.
+If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter(s) and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 cells in series for a 25.6 V (8S5P) nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads.
+
+Each string of 8 cells has a dedicated voltage monitoring and balancing module accurate to +/- 1 mV (0.001 V) and a 47 Ohm shunt. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 
@@ -35,30 +37,35 @@ Per series string:
 
 | Cell mV | Pack V | SOC % | Min Charge Current | mV Drop | Charge Level  | ALERT                   | Notes                                                   |
 | ------- | ------ | ----- | ------------------ | ------- | ------------- | ----------------------- | ------------------------------------------------------- |
-| 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately.     |
+| 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately!     |
 | 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE            | C/4 10 kW.                                              |
-| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGE DISCONNECT       | C/10 4.0 kW. *Until added charge capacity.              |
+| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 4.0 kW. *Until added charge capacity.              |
 | 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs               |
 | 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                           |
 | 3500    | 28.00  |       | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW or Rest 30 min = Top balance / memory reset |
-| 3450    | 27.60  |       |                    |         | Absorb        | CAUTION 1               | Slow charge top balance.                                |
-| 3420    | 27.36  |       |                    |         |               | CHARGING                | Possible to over charge! < 4 hr hold before storage.    |
-| 3405    | 27.24  | 100   |                    |         | Float*        | CHARGING                | Possible to over charge! < 6 hr hold before storage.    |
-| 3400    | 27.20  | 95-99 |                    |         |               |                         | Typical max resting                                     |
-| 3395    | 27.16  |       | 0                  |         |               |                         |                                                         |
-| 3350    |        | 85    |                    |         |               |                         |                                                         |
-| 3325    |        | 80    |                    |         |               |                         |                                                         |
-| 3310    |        | 75    |                    |         |               |                         |                                                         |
+| 3482    | 27.86  | 100   | 4 / 20             |         | Absorb        | CAUTION 1               | Average tested 100% SOC rest open circuit               |
+| 3450    | 27.60  |       | 3 / 15             |         | Absorb        | CAUTION 1               | Slow charge top balance.                                |
+| 3420    | 27.36  |       | 2 / 10             |         |               | CHARGING                | Possible to over charge! < 4 hr hold before storage.    |
+| 3405    | 27.24  | 99.9  | 1 / 5              |         | Float*        | CHARGING                | Possible to over charge! < 6 hr hold before storage.    |
+| 3400    | 27.20  | 95-98 |                    |         |               |                         | Typical max resting with light loads                    |
+| 3395    | 27.16  | 90    | 0                  |         |               |                         |                                                         |
+| 3375    | 27.00  | 87    |                    |         |               |                         |                                                         |
+| 3350    | 26.80  | 85    |                    |         |               |                         |                                                         |
+| 3330    | 26.64  | 83    |                    |         |               |                         |                                                         |
+| 3325    | 26.59  | 80    |                    |         |               |                         |                                                         |
+| 3310    | 26.48  | 75    |                    |         |               |                         |                                                         |
 | 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                         |
-| 3290    |        | 45    |                    |         |               |                         |                                                         |
-| 3287    |        | 40    |                    |         |               |                         |                                                         |
-| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE             |                                                         |
-| 3200    | 25.6   | 20    |                    |         |               |                         | Nominal Voltage                                         |
-| 3000    | 24.0   | 10-30 |                    |         |               | LOAD DISCONNECT         | Lowest storage level                                    |
+| 3290    | 26.32  | 45    |                    |         |               |                         |                                                         |
+| 3287    | 26.30  | 40    |                    |         |               |                         |                                                         |
+| 3260    | 26.08  | 30    |                    |         |               |                         |                                                         |
+| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE WARNING     |                                                         |
+| 3200    | 25.60  | 20    |                    |         |               | LOW VOLTAGE ALARM       | Nominal Voltage                                         |
+| 3125    | 25.00  | 15-30 |                    |         |               | LOAD SHED 1             |                                                         |
+| 3000    | 24.0   | 10-30 |                    |         |               | LOAD SHED 2             | Lowest storage level                                    |
 | 2950    | 23.6   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                         |
 | 2900    | 23.2   | 2     |                    |         |               |                         |                                                         |
 | 2600    | 20.8   | 1     |                    |         |               |                         |                                                         |
-| 2500    | 20     | 0     |                    |         |               |                         | Test Low Voltage                                        |
+| 2500    | 20     | 0     |                    |         |               |                         | Absolute Low Voltage Limit under C/2 or greater         |
 
 ### BMS Controlled Charger Settings
 
@@ -238,6 +245,7 @@ RaspberryPi: 100 x 100
 2x MRBF Block: 51 x 190
 
 ### Positive Post
+
 Each battery string (5 total) has a 150A MRBF Terminal Fuse.
 MRBF Terminal Fuse -> Remote Solenoid Switch w/ Manual Back-Up -> Busbar -> Fuse
 
@@ -250,53 +258,49 @@ MRBF Terminal Fuse -> Remote Solenoid Switch w/ Manual Back-Up -> Busbar -> Fuse
 
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
 2. 500A ML Remote Solenoid Switch - **House Power Bus**
-3. 300A Inverter / Charger
 
 #### Charge Bus
 
 Devices that enable charging the house bank. Located within the battery box section.
 
-Busbar
-1. ANL Fuse Block
-2. MRBF Fuse Block
-
-**MRBF Block 1**
-1. 225A: 24v Alternator Output
-2. 225A: _future_ Alternator Output
-3. 200A: _future_ Dedicated AC to DC Charger
-
-**SafetyHub 150**
+**SafetyHub 100 replace with SafetyHub 150?**
 
 AMI/MIDI Fuses
 
-1. 60A: 100-50 Solar Controller
-2. 40A: 100-30 Solar Controller
-3. 30A: _empty_ Future Solar or Hydro
-4. 40A: DC Converter 12v (9-18v) to 26.5v booster output
+1. 225A: Alternator 1 Power Output (2/0 AWG)
+2. 60A: SunPower Victron 100-50 SmartSolar Controller
+3. 40A: Kyocera Victron 100-30 SmartSolar Controller
+4. _future_ 225A: Alternator 1 Power Output (2/0 AWG)
+5. _future_ Solar or Hydro
+6. 200A: _future_ Dedicated AC to DC Charger
+7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
 
 ATO/ATC Fuses
 
-1. 15A: Alternator Controller 1
-2. 15A: Alternator Controller 2
-3. 1A: Alternator Voltage Sense
-4. 1A: Charge Bus On Signal
-5. _empty_
-6. _empty_
+1. 10A: Alternator Controller 1
+2. 10A: _future_ Alternator Controller 2
+3. _broken_
+4. _empty_ 1A: Charge Bus On Signal?
+
+MRBF or MAXI
+
+**Future**
 
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
 
+1. 300A Inverter / Charger
+2. Windlass?
+
 ANL Fuse
 
-**Fuse Block 1 - SafetyHub 100 - Always ON**
-
-Aft / battery box section
+**Fuse Block 1 - Always ON**
 
 AMI/MIDI Fuses
 
-1. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
+1.
 2. _empty_
 3. _empty_
 
@@ -305,23 +309,32 @@ ATO/ATC Fuses
 1. 1A: Power Bus On/Voltage Signal
 2. 1A: (8 mA) Venus GX
 3. _broken_
-4. 25A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
+4.
 
 **Fuse Block 2 - SafetyHub 150**
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
 AMI Fuses
+5 + 5 + 5
 
-1. 70A: Aft Cabin CZone
-2. 70A: Chart Table CZone
-3. 30A: Fwd Cabin CZone
-4. 30A: CZone MOI - Ballast Pump
+1. _empty_
+2. 30A: Fwd Cabin CZone
+3. 30A: CZone MOI - Ballast Pump
+4. 30A: Watermaker Fuse Block
+5. 70A: Chart Table CZone
+6. 70A: Aft Cabin CZone
+7. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
+8. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
+9. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
+10. 30A: Main Head Fuse Block
+11. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
+12.
 
 ATO/ATC Fuses
+7. 1A: _future_ Cell Modem (USB Power)
 
 - A 10A: Bilge Pump Auto Switch
-- B 25A: Watermaker Fuse Block
 - C 1A: (35 mA) IP Network Ethernet Switch
 - D 1A: _eventual removal hopefully_ LPG Valve
 - E 1A: _future_ WiFi Router
@@ -333,19 +346,7 @@ ATO/ATC Fuses
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
-1. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
-2. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
-3. _empty_
-4. 30A: Main Head Fuse Block
 
-ATO/ATC Fuses
-
-1. _empty_
-2.
-3.
-4. _empty_
-5. 1A: _future_ Cell Modem (USB Power)
-6. _empty_
 
 **Fuse Block 4 - Watermaker - ST Blade 4 Circuit**
 
@@ -388,17 +389,15 @@ Switch Buttons -> Intake Pump
 1. 200A: Charger / Power Bus
 2. 200A: Starter
 
-#### Charger
-200A: _pending removal_ Alternator Ouput
+#### Charge / Power Bus
 
-1. 90A: Buck Charger 1
-2. 40A: Buck Charger 2
+What is this fuse block? MRBF?
 
-#### Power Bus
-
-1. 50A: Engine Control CZone
+1. 40A: Engine Control CZone
 2. 50A: 24h Fuse Block
 3. 50A: Boost Charger
+4. 40A: Buck Charger 1
+5. 90A: Buck Charger 1
 
 #### 12v 24h Fuse Block
 
@@ -406,18 +405,18 @@ Power Bus -> Battery Protect 60
 
 12 circuit ATC/ATO fuse block
 
-1. 2A: NMEA 2000 CZone
-2. 2A: AIS + Splitter
-3. 5A: _pending move_ NMEA 2000 Transducers
-4. 1A:
-5. 2A: _empty_
-6. 1A: Motorized Water Tank Valves
+1. 2A: NMEA 2000 Primary _future CZone_
+2. 2A: AIS + Splitter (switch?)
+3. 5A: _pending move to switch?_ NMEA 2000 Transducers
+4. 1A: _pending removal_ 5V Sensors
+5. 2A: 12 V alternator V sense
+6. 1A: _need switch_ Motorized Water Tank Valves
 7. _future_ Battery BMS Feed
-8. 15A: Oil Pump
+8. 15A: _need switch_ Oil Pump
 9. 10A: Main Head Greywater Pump _pending removal_
-10. 15A: VHF Radio
+10. 15A: VHF Radio (switch?)
 11. 15A: Diaphragm Bilge Pump
-12. _empty_ Simrad Go5
+12. _empty_ Ignition? Simrad Go5?
 
 #### Engine Control CZone
 
