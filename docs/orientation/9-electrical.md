@@ -8,9 +8,10 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support over 4 full days of energy (6 kWh) usuage without any charging. Typically solar will provide 3-4 kWh per day.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support over 4 full days of energy (6 kWh per day) usuage without any charging. Typically solar will provide 3-4 kWh per day so engine charging is necessary once per week.
 
-175mm (6.9") wide, 72mm thick, 210mm (8.3") high. Each string of 8 is 600mm.
+175mm (6.9") wide, 72mm thick, 210mm (8.3") high.
+Each string of 8 is 600mm. String of 11 is 800mm. 2ft 7 and 1/4".
 
 ### House Bank - 25.6 V Lithium
 
@@ -22,7 +23,7 @@ Each string of 8 cells has a dedicated voltage monitoring and balancing module a
 
 The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for a 12.8 V service. The primary function is to provide reserve capacity to run engine starter/controls, diaphram bilge pump, VHF radio, and deck-level navigation lights if the house bank fails. Each cell has dedicated monitoring.
 
-## Power Generation
+## Charging / Power Generation
 
 Per series string:
 
@@ -30,7 +31,7 @@ Per series string:
 * low temp cutoff
 * High temp off: 55°C
 * High temp alarm: 45°C
-* Recommended Current 0.5CA
+* Recommended Max Current 0.5CA C/2
 * High voltage cutoff 3640 mV per cell (29.1 V) 0.05C (14 amps)
 * Normal discharge: 0.33CA (92.4 Amps)
 * 3400 is > 90%
@@ -98,10 +99,10 @@ The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the Hou
 1. Switch off all AC breakers.
 1. Switch off dock 30A 120V AC breaker.
 2. Connect cord to shore power receptacle on shore first before connecting cord to inlet on the yacht.
-3. Connect cord to boat.
+3. Connect cord to yacht.
 4. Check polarity indicator on main panel. If lit, the polarity on shore power receptacle could be reversed, or there may be an open ground connection to shore. Disconnect from shore power immediately, a serious hazard may exist. Get help from Marina or an electrician before reconnecting to that dockside outlet again.
 6. If polarity indicator is OK, then switch the "SHORE POWER" breaker on.
-7. Turn on "CHARGER INVERTER" and "SHIPS POWER" breakerS. All power is routed through the inverter first.
+7. Turn on "CHARGER INVERTER" and "SHIPS POWER" breakers. All AC power is routed through the inverter first.
 9. Turn on remaining breakers as needed.
 
 #### Charging batteries with shore power
@@ -270,10 +271,10 @@ AMI/MIDI Fuses
 1. 225A: Alternator 1 Power Output (2/0 AWG)
 2. 60A: SunPower Victron 100-50 SmartSolar Controller
 3. 40A: Kyocera Victron 100-30 SmartSolar Controller
-4. _future_ 225A: Alternator 1 Power Output (2/0 AWG)
-5. _future_ Solar or Hydro
-6. 200A: _future_ Dedicated AC to DC Charger
-7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
+4. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
+5. _future_ 225A: Alternator 2 Power Output (2/0 AWG)
+6. _future_ Solar or Hydro
+7. 200A: _future_ Dedicated AC to DC Charger
 
 ATO/ATC Fuses
 
@@ -298,12 +299,6 @@ ANL Fuse
 
 **Fuse Block 1 - Always ON**
 
-AMI/MIDI Fuses
-
-1.
-2. _empty_
-3. _empty_
-
 ATO/ATC Fuses
 
 1. 1A: Power Bus On/Voltage Signal
@@ -318,18 +313,16 @@ AMI(Bussmann)/MIDI(Littlefuse) Fuses
 AMI Fuses
 5 + 5 + 5
 
-1. _empty_
-2. 30A: Fwd Cabin CZone
-3. 30A: CZone MOI - Ballast Pump
-4. 30A: Watermaker Fuse Block
-5. 70A: Chart Table CZone
-6. 70A: Aft Cabin CZone
-7. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
-8. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
-9. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
-10. 30A: Main Head Fuse Block
-11. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
-12.
+1. 30A: Fwd Cabin CZone
+2. 30A: CZone MOI - Ballast Pump
+3. 30A: Watermaker Fuse Block
+4. 70A: Chart Table CZone
+5. 70A: Aft Cabin CZone
+6. 30A: Main Head Fuse Block
+7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
+8. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
+9. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
+10. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
 
 ATO/ATC Fuses
 7. 1A: _future_ Cell Modem (USB Power)
