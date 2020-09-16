@@ -38,7 +38,7 @@
 
 * Ship & engine batteries on.
 * Confirm bilge sump is dry. There should be less than one square of paper towel worth of total moisture in the aft compartment. Anything more than that indicates a problem.
-* Close AC/Heater seacock.
+* Close Reverse Cycle AC/Heater seacock. Located under aftmost bottom drawer in fwd cabin.
 * Close 2 large and 1 small forward seacocks related to washdown and forward head. Small door access under bed forward of drawers.
 * Check thru-hull fittings for damage, deteriation, leaks.
 * Loose items off deck (BBQ, cushions, fuel tanks).
@@ -55,6 +55,7 @@
 * Dinghy on deck or lifted on davits. Secured four ways.
 * Main sail stack pack unzipped and halyard attached to head of sail.
 * Disconnect line used to secure aft end of boom to toe rail.
+* If anchored, attach windlass remote on port fordeck.
 
 ## Personal Prep
 
@@ -95,3 +96,4 @@
 * Turn off deck washdown pump.
 * Head to wind - [hoist sails](/procedures/raising-sails/).
 * Drink water
+* Remove windlass remote and place it under dodger on starboard side.
