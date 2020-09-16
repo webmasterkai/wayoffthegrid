@@ -8,65 +8,70 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh) to support over 4 full days of energy (6 kWh per day) usuage without any charging. Typically solar will provide 3-4 kWh per day so engine charging is necessary once per week.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (6 kWh / 234 Ah per day) usuage without any charging or a full week with typical solar of 3-4 kWh per day. Several hours of engine charging is necessary each week.
 
 175mm (6.9") wide, 72mm thick, 210mm (8.3") high.
-Each string of 8 is 600mm. String of 11 is 800mm. 2ft 7 and 1/4".
+Each string of 8 is 600mm. 2ft.
+String of 11 is 800mm. 2ft 7 and 1/4".
 
 ### House Bank - 25.6 V Lithium
 
 If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter(s) and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 cells in series for a 25.6 V (8S5P) nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads.
 
-Each string of 8 cells has a dedicated voltage monitoring and balancing module accurate to +/- 1 mV (0.001 V) and a 47 Ohm shunt. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
+Each string of 8 cells has a dedicated cell voltage monitoring and balancing module accurate to +/- 1 mV (0.001 V) and a 47 Ohm (68 mA) shunt. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
+
+Even though rated capacity is 1400 Ah the SOC config in the BMS is set to 1250 Ah. Charge efficiency is currently 98%.
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 
-The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for a 12.8 V service. The primary function is to provide reserve capacity to run engine starter/controls, diaphram bilge pump, VHF radio, and deck-level navigation lights if the house bank fails. Each cell has dedicated monitoring.
+The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for a 12.8 V service. The primary function is to provide reserve capacity to run engine starter/controls, diaphram bilge pump, VHF radio, and deck-level navigation lights if the house bank fails.
 
 ## Charging / Power Generation
 
 Per series string:
 
-* Normal charge: 0.5CA (140 Amps)
-* low temp cutoff
-* High temp off: 55°C
+* Recommended Max Current 0.5CA C/2 (140 Amps)
+* Recommended Max Charge: 0.5CA C/2 (140 Amps)
+* Recommended Max Discharge: 0.33CA (92.4 Amps)
+* low temp cutoff: 5°C
+* Max charge temp: 40°C
 * High temp alarm: 45°C
-* Recommended Max Current 0.5CA C/2
+* High temp off: 55°C
 * High voltage cutoff 3640 mV per cell (29.1 V) 0.05C (14 amps)
-* Normal discharge: 0.33CA (92.4 Amps)
-* 3400 is > 90%
 
-| Cell mV | Pack V | SOC % | Min Charge Current | mV Drop | Charge Level  | ALERT                   | Notes                                                   |
-| ------- | ------ | ----- | ------------------ | ------- | ------------- | ----------------------- | ------------------------------------------------------- |
-| 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately!     |
-| 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE            | C/4 10 kW.                                              |
-| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 4.0 kW. *Until added charge capacity.              |
-| 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs               |
-| 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                           |
-| 3500    | 28.00  |       | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW or Rest 30 min = Top balance / memory reset |
-| 3482    | 27.86  | 100   | 4 / 20             |         | Absorb        | CAUTION 1               | Average tested 100% SOC rest open circuit               |
-| 3450    | 27.60  |       | 3 / 15             |         | Absorb        | CAUTION 1               | Slow charge top balance.                                |
-| 3420    | 27.36  |       | 2 / 10             |         |               | CHARGING                | Possible to over charge! < 4 hr hold before storage.    |
-| 3405    | 27.24  | 99.9  | 1 / 5              |         | Float*        | CHARGING                | Possible to over charge! < 6 hr hold before storage.    |
-| 3400    | 27.20  | 95-98 |                    |         |               |                         | Typical max resting with light loads                    |
-| 3395    | 27.16  | 90    | 0                  |         |               |                         |                                                         |
-| 3375    | 27.00  | 87    |                    |         |               |                         |                                                         |
-| 3350    | 26.80  | 85    |                    |         |               |                         |                                                         |
-| 3330    | 26.64  | 83    |                    |         |               |                         |                                                         |
-| 3325    | 26.59  | 80    |                    |         |               |                         |                                                         |
-| 3310    | 26.48  | 75    |                    |         |               |                         |                                                         |
-| 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                         |
-| 3290    | 26.32  | 45    |                    |         |               |                         |                                                         |
-| 3287    | 26.30  | 40    |                    |         |               |                         |                                                         |
-| 3260    | 26.08  | 30    |                    |         |               |                         |                                                         |
-| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE WARNING     |                                                         |
-| 3200    | 25.60  | 20    |                    |         |               | LOW VOLTAGE ALARM       | Nominal Voltage                                         |
-| 3125    | 25.00  | 15-30 |                    |         |               | LOAD SHED 1             |                                                         |
-| 3000    | 24.0   | 10-30 |                    |         |               | LOAD SHED 2             | Lowest storage level                                    |
-| 2950    | 23.6   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                         |
-| 2900    | 23.2   | 2     |                    |         |               |                         |                                                         |
-| 2600    | 20.8   | 1     |                    |         |               |                         |                                                         |
-| 2500    | 20     | 0     |                    |         |               |                         | Absolute Low Voltage Limit under C/2 or greater         |
+| Cell mV | Pack V | SOC % | Min Charge Current | mV Drop | Charge Level  | ALERT                   | Notes                                               |
+| ------- | ------ | ----- | ------------------ | ------- | ------------- | ----------------------- | --------------------------------------------------- |
+| 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately! |
+| 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE            | C/4 10 kW.                                          |
+| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 4.0 kW. *Until added charge capacity.          |
+| 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs           |
+| 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                       |
+| 3500    | 28.00  |       | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW (0 A 30 min rest for memory reset 6/mo) |
+| 3482    | 27.86  | 100   | 4 / 20             |         | Absorb        | CHARGING                | C/70 Avg tested 100% SOC rest open circuit          |
+| 3450    | 27.60  | 99.9  | 3.1 / 16           |         | Absorb        |                         | C/90 Slow charge top balance.                       |
+| 3420    | 27.36  | 99.7  | 2 / 10             |         |               |                         | C/130 Possible to over charge! < 4 hr hold.         |
+| 3405    | 27.24  | 99    | 1 / 5              |         | Float*        | Almost full             | C/280 Possible to over charge! < 6 hr hold.         |
+| 3400    | 27.20  | 91-98 |                    |         |               |                         | Typical max resting with loads < 4 A                |
+| 3395    | 27.16  | 90    | 0                  |         |               |                         |                                                     |
+| 3385    | 27.08  | 88    |                    |         |               |                         |                                                     |
+| 3375    | 27.00  | 87    |                    |         |               |                         |                                                     |
+| 3350    | 26.80  | 85    |                    |         |               |                         |                                                     |
+| 3330    | 26.64  | 83    |                    |         |               |                         |                                                     |
+| 3325    | 26.59  | 80    |                    |         |               |                         |                                                     |
+| 3314    | 26.51  | 77    |                    |         |               |                         |                                                     |
+| 3310    | 26.48  | 75    |                    |         |               |                         |                                                     |
+| 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                     |
+| 3290    | 26.32  | 45    |                    |         |               |                         |                                                     |
+| 3287    | 26.30  | 40    |                    |         |               |                         |                                                     |
+| 3260    | 26.08  | 30    |                    |         |               |                         |                                                     |
+| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE WARNING     |                                                     |
+| 3200    | 25.60  | 20    |                    |         |               | LOW VOLTAGE ALARM       | Nominal Voltage                                     |
+| 3125    | 25.00  | 15-30 |                    |         |               | LOAD SHED 1             |                                                     |
+| 3000    | 24.0   | 10-30 |                    |         |               | LOAD SHED 2             | Lowest storage level                                |
+| 2950    | 23.6   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                     |
+| 2900    | 23.2   | 2     |                    |         |               |                         |                                                     |
+| 2600    | 20.8   | 1     |                    |         |               |                         |                                                     |
+| 2500    | 20     | 0     |                    |         |               |                         | Absolute Low Voltage Limit under C/2 or greater     |
 
 ### BMS Controlled Charger Settings
 
