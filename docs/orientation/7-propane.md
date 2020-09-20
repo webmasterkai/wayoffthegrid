@@ -47,12 +47,12 @@ The gas detector is effective at sniffing most vapours, volatile or not. The ala
 
 ## Pressure Gauge
 
-The pressure on the gauge does not indicate the quantity of LP remaining in the tank. The gauge is installed as an aid in checking for leakage in the system. Gauge pressure will vary with ambient temperature but is normally in the range 100-150 PSI. To determine the quantity of Propane in the tank, the tank must be weighed and the tare weight (indicated on the tank) subtracted.
+The pressure on the gauge does not indicate the exact quantity of LP remaining in the tank. The gauge is installed as an aid in checking for leakage in the system. Gauge pressure will vary with ambient temperature but is normally in the range 100-150 PSI. To determine the quantity of Propane in the tank, the tank must be weighed and the tare weight (indicated on the tank) subtracted.
 
 ## Electric Conversion
 
 It takes us around 80 days to use a full 20 pound (max 4.3 usable gallons) tank. Propane contains around 21,500 BTU per pound or 91,000 BTU per gallon. There are 3,413 BTUs per kilowatt hour so 26.7 kWh per gallon of propane. One full propane tank has roughly 115 kWh worth of energy. So we should budget around 5,400 BTU per day. That rounds up to 1.6 kWh of electric usage per day for cooking. Or 0.25 pounds per day.
 
-Cost is $16-24. Occasionally it will be $30. Uber transportation can be as much as $40 round-trip. Plus time disconnecting tank, locating facility that does refills, waiting for it to be filled and reconnecting it. Around 3-4 hours every fill. 3 minutes per day. $0.26 to $0.96 per kWh.
+Cost for a tank refill itself is $16-24. Occasionally it will be $30. Transportation to refill can be $40 round-trip. Plus time disconnecting tank, locating a facility that does refills, waiting for it to be filled and finally reconnecting the tank and checking for leaks. It takes around 3-4 hours every fill. 3 minutes per day. $0.26 to $0.96 per kWh.
 
-Using 1/2 gallon diesel running the engine will make 3 kWh to 6 kWh. At $4/gallon cost estimates are $0.30 to $0.70 per kWh.
+Using 1/2 gallon diesel running the engine will make a minimum of 4 kWh to 6 kWh. At $4/gallon cost estimates are $0.30 to $0.70 per kWh. If creating electrical power and propelling the boat at (less than hull speed) the same time the cost to create the energy is a pennies per kWh.
