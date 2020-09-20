@@ -62,7 +62,7 @@
 
 #### Primary
 
-* **Anchor:** Spade S160 - (77 lbs)
+* **Anchor:** Spade S160 - 35 kg (77 lbs)
 * **Chain**: 300’ of 5/16” Acco G43 hi-tensile chain (2018)
 * **Rode:** 30' of 3-strand nylon spliced onto end of chain.
 
