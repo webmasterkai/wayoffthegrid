@@ -1,7 +1,5 @@
 # Electrical
 
-https://docs.google.com/spreadsheets/d/1zKmRMYi2S-eSKwpNTjMEjhHrCRgV90-noGWMQVKzqVE/edit?usp=sharing
-
 ## General
 
 The electrical system has been designed to ensure trouble free operation. Wiring and connections are kept as high in the interior of the yacht as practicable, reducing the possibility of exposure to water. The main switch panels are located to protect them from the elements. The electrical circuits are numbered at convenient locations at the panels and throughout the yacht. A numbering scheme and diagram is located in this manual for your convenience.
@@ -18,9 +16,9 @@ String of 11 is 800mm. 2ft 7 and 1/4".
 
 If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter(s) and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 cells in series for a 25.6 V (8S5P) nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads.
 
-Each string of 8 cells has a dedicated cell voltage monitoring and balancing module accurate to +/- 1 mV (0.001 V) and a 47 Ohm (68 mA) shunt. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
+Each string of 8 cells has a dedicated cell voltage monitoring (accurate to +/- 1 mV) and balancing (47 Ohm shunt - 68 mA / 1.6 Ah per day) module. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
 
-Even though rated capacity is 1400 Ah the SOC config in the BMS is set to 1250 Ah. Charge efficiency is currently 98%.
+Even though rated capacity is 1400 Ah the SOC config in the BMS is set to 1250 Ah. Charge efficiency is currently 98%. Peukert ratio is 1.05
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 
@@ -91,9 +89,11 @@ We plan on an averaged of 1.7 kWh (15-30 minutes) per day production from the en
 
 ### Solar Array Charging
 
-We currently have 820 W of solar. Monitoring is available via Victron GX and online VRM Portal. On top of the bimini are 4x glass Kyocera KC 80W solar panels. Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panels. Each brand of panels connect to its own Victron SmartSolar MPPT Charger.
+We currently have 820 W of solar. Monitoring is available via the Victron GX console and online [VRM Portal](https://vrm.victronenergy.com/installation/12853/share/0889a143). The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery by solar with no loads applied to it.
 
-The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery by solar with no loads applied to it.
+On top of the bimini are 4x glass Kyocera KC 80W solar panels. These provide 320 W, are wired 2S2P with 10 AWG, and controlled with a Victron SmartSolar MPPT 100/30 in the lazarette. Average current from the controller is under 12 ampers, max current is 18 amperes. Fused at 30 ampers.
+
+Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panels wired 2P with 10 AWG, and controlled with a Victron SmartSolar MPPT 100/50 controller mounted in the lazarette. Average current from the controller is under 20 ampers, max current is 30 amperes. Fused at 50 ampers.
 
 ### AC Charging
 
@@ -253,17 +253,21 @@ RaspberryPi: 100 x 100
 ### Positive Post
 
 Each battery string (5 total) has a 150A MRBF Terminal Fuse.
-MRBF Terminal Fuse -> Remote Solenoid Switch w/ Manual Back-Up -> Busbar -> Fuse
-
-**ST Blade Battery Terminal Mount Fuse Block**
-
-1. 2A: Battery Monitor Voltage Positive Sense Wire
-2. 5A: Battery Management Devices
+MRBF Terminal Fuse -> Busbar -> Fuses
 
 ### Positive Bus
 
+1. Busbar
+2. 300 A: Inverter/Charger
+3. 300 A: Load Bus
+4. 400 A: Charge Bus
+5. 300 A: Inverter/Charger
+
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
 2. 500A ML Remote Solenoid Switch - **House Power Bus**
+
+**ST Blade Battery Terminal Mount Fuse Block**
+1. 2A: Battery Monitor Voltage Positive Sense Wire
 
 #### Charge Bus
 
@@ -297,56 +301,46 @@ Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
 
-1. 300A Inverter / Charger
-2. Windlass?
+ANL or Class T Fuses
 
-ANL Fuse
+1. 300 A Inverter / Charger (aux input pins enable/disable)
+2. 400 A Battery Protect to fuse blocks?
 
-**Fuse Block 1 - Always ON**
+**Emergency Always On ATO/ATC Fuses**
 
-ATO/ATC Fuses
+1. 10A: Bilge Pump Auto Switch
 
-1. 1A: Power Bus On/Voltage Signal
-2. 1A: (8 mA) Venus GX
-3. _broken_
-4.
+**Switched ATO/ATC Fuses**
+
+65 A Battery Protect
+
+1. 1A: (120 mA) Venus GX
+2. 1A: (35 mA) IP Network Ethernet Switch
+3. 1A: WiFi Router
+4. 1A: _eventual removal hopefully_ LPG Valve
+5. 1A: Cell Modem (USB Power)
 
 **Fuse Block 2 - SafetyHub 150**
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
 AMI Fuses
-5 + 5 + 5
+
+65 A to be replaced with 100 A Battery Protect? All outputs are switched. Maybe just one primary disconnect?
 
 1. 30A: Fwd Cabin CZone
 2. 30A: CZone MOI - Ballast Pump
-3. 30A: Watermaker Fuse Block
 4. 70A: Chart Table CZone
 5. 70A: Aft Cabin CZone
-6. 30A: Main Head Fuse Block
+
+5. 30A: Watermaker Fuse Block (65 A Battery Protect)
+6. 30A: Main Head Fuse Block (65 A Battery Protect)
 7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
-8. 175A: Windlass (75 Amp Circuit Breaker & Battery Protect)
-9. 150A: Winch (75 Amp Circuit Breaker & Battery Protect)
+8. 175A: Windlass (75 A Circuit Breaker & 100 A Battery Protect)
+9. 150A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
 10. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
 
-ATO/ATC Fuses
-7. 1A: _future_ Cell Modem (USB Power)
-
-- A 10A: Bilge Pump Auto Switch
-- C 1A: (35 mA) IP Network Ethernet Switch
-- D 1A: _eventual removal hopefully_ LPG Valve
-- E 1A: _future_ WiFi Router
-- F 10A: _pending move_ 185 HPI Alternator Controller (24v)
-
-<!-- - F 10A: _pending move_ 150 PowerLine Alternator Controller (12v) -->
-
-**Fuse Block 3 - SafetyHub 150**
-
-AMI(Bussmann)/MIDI(Littlefuse) Fuses
-
-
-
-**Fuse Block 4 - Watermaker - ST Blade 4 Circuit**
+**Watermaker - ST Blade 4 Circuit**
 
 Fuse Block 3 -> 24 V Feed -> Battery Protect -> Fuseblock
 
@@ -356,7 +350,7 @@ Fuse Block 3 -> 24 V Feed -> Battery Protect -> Fuseblock
 4. 1A: Freshwater Flush Valve
 5. 2A: 12 V Pump Fan?
 
-**Fuse Block 5 - Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
+**Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
 
 Battery Protect -> Fuseblock
 
@@ -399,7 +393,7 @@ What is this fuse block? MRBF?
 
 #### 12v 24h Fuse Block
 
-Power Bus -> Battery Protect 60
+Power Bus -> Battery Protect 65
 
 12 circuit ATC/ATO fuse block
 
@@ -409,7 +403,7 @@ Power Bus -> Battery Protect 60
 4. 1A: _pending removal_ 5V Sensors
 5. 2A: 12 V alternator V sense
 6. 1A: _need switch_ Motorized Water Tank Valves
-7. _future_ Battery BMS Feed
+7. 2A: (350 mA) Battery BMS Feed
 8. 15A: _need switch_ Oil Pump
 9. 10A: Main Head Greywater Pump _pending removal_
 10. 15A: VHF Radio (switch?)
