@@ -3,7 +3,7 @@
 * **Make/Model:** Saga 43
 * **Hailing Port:** Minneapolis, MN
 * **MMSI:** 367572690 _(IC-M605, IC-M802, Raymarine 650 AIS, and Uniden MHS335BT Handheld)_
-* **USCG Documentation #:** 1109105 _(Expires July 31, 2020)_
+* **USCG Documentation #:** 1109105
 * **HIN:** QYG43039M01K
 * **Year:** 2001
 * **Hull Shape & Material:** Monohull FRP (Fiberglass)
@@ -28,7 +28,6 @@
 * **Boat US:** 20156955
 * **EPIRB 1:** 2DCC7B1B64FFBFF
 * **EPIRB 2:** 2DCC4419AEFFBFF
-* **Dinghy MMSI:** 338219159 _(Standard Horizon HX870, AMEC Camino 108 AIS)_
 
 ## Crew
 
@@ -58,6 +57,7 @@
 
 * [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)
 * [Marine Traffic](http://www.marinetraffic.com/en/ais/details/ships/mmsi:367572690)
+* [Noforeignland](https://www.noforeignland.com/boat/5613616506077184)
 
 ## About Twig
 
