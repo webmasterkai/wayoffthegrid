@@ -1,5 +1,7 @@
 # Equipment List
 
+https://airtable.com/shr0THVxVJPmr3Zdk/tblQNrznR7PBSPapB
+
 ## Auxiliary Propulsion System
 
 - **Engine:** Yanmar 4JH3E 56hp Diesel (4800 hrs)
