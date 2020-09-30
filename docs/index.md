@@ -33,13 +33,13 @@
 
 ### Kai Curry
 
-* **Overboard MMSI:** 972604918 _(Ocean Signal MOB1)_
+* **Overboard MMSI:** 972604918 _Ocean Signal MOB1_
 * **Cell:** +1 612-845-9876
 * [Instagram](https://www.instagram.com/wayoffthegrid/)
 
 ### Emily Whebbe
 
-* **Overboard MMSI:** 972604917 (Ocean Signal MOB1)
+* **Overboard MMSI:** 972604917 _Ocean Signal MOB1_
 * **Cell:** +1 612-860-4060
 * [Blog](https://www.sailingthebakery.com)
 | [Instagram](https://www.instagram.com/sailingthebakery/)
@@ -61,7 +61,7 @@
 
 ## About Twig
 
-We sail a 2001 Saga 43 named Twig, designed by the famous offshore yacht designer, [Robert Perry](http://perryboat.com). In choosing a boat, we had a few very specific qualities which were absolutely required, and a few things we desired, but weren't necessary. Twig embodied all of the things we were wanting in a sailboat: a modern sailboat designed for offshore use, a long water line, a pullman berth (the forward berth is moved back, out of the bow, and a head is in the "V" because I'm not shaped like a triangle and I refuse to sleep in one any longer), a separate aft cabin for the kid, a sail area to displacement ratio of greater than 15 (technical stuff), a walk through, sugar-scoop transom (for when grandmas visit... who am I kidding, we ALL wanted this), a bathroom that included a separate shower stall, and an all around bright, well ventilated boat. We joke that, when looking for boats, all I have to do is open the companionway door and judge if the boat is worth looking at any further depending on the scent of the air escaping. If it stinks (and many, many boats do), it's not the boat. Thankfully this boat smelled great. (If you feel you have the right boat and it smells awful, don't follow my advice necessarily, just investigate what the smell is coming from. Hint: dry bilges make good smelling boats.) 
+We sail a 2001 Saga 43 named Twig, designed by the famous offshore yacht designer, [Robert Perry](http://perryboat.com). In choosing a boat, we had a few very specific qualities which were absolutely required, and a few things we desired, but weren't necessary. Twig embodied all of the things we were wanting in a sailboat: a modern sailboat designed for offshore use, a long water line, a pullman berth (the forward berth is moved back, out of the bow, and a head is in the "V" because I'm not shaped like a triangle and I refuse to sleep in one any longer), a separate aft cabin for the kid, a sail area to displacement ratio of greater than 15 (technical stuff), a sugar-scoop transom, a bathroom that included a separate shower stall, and an all around bright, well ventilated boat with a dry bilge.
 
 We were also lucky to find Twig (previously Nottus then Free Spirit) had recently gone through a refit and had lots of new bells and whistles, along with important things like newer standing rigging (the wires that hold up the mast), a reinforced main bulkhead, hull, mast step (where the mast sits on the keel), and an extra 850 lbs (386kg) added onto the keel for extra stability.
 
