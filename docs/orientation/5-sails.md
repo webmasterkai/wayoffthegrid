@@ -14,26 +14,37 @@
 Marathon Series 200
 
 - Stay: Fore Stay
-- I: 58.1'
-- J: 18.25'
-- Manufacturer: North Sails (Hampton)
+- I: 17.71m (58.1 ft)
+- J: 5.56m (18.25)
+- Manufacturer: North Sails (Hampton, VA)
 - Year: 2013
 - Area: 531 sq ft
 - Roller furling: Harken Mark III, 2.0
 - Cloth: Ndrad 75vf
+- HQW (1/4): 5.565m
+- HHW (1/2): 3.58m
+- HTW (3/4): 1.75m
+- Luff: 17.05m (55'11.25")
+- LPg: 7.22m (23'8.25")
+- Foot: 7.75m (25'5")
 
 ### Jib (#4 82%)
 Marathon Series 200
 
 - Stay: Solent Staysail
-- I: 56.0'
-- J: 16.66'
-- Manufacturer: North Sails
+- I: 17.07m (56.0 ft)
+- J: 5.08m (16.66 ft)
+- Rig Area: 439 sq ft
+- Manufacturer: North Sails (Hampton, VA)
 - Year: 2013
-- Area: 439 sq ft
+- Sail Area: 357
 - Roller furling: Harken Mark III, 1.5
-- Cloth: NSP Radian 9.0
+- Cloth: NSP Radian 9.0 oz
+- HQW (1/4): 3.114m
+- HHW (1/2): 1.98m
+- HTW (3/4): 0.955m
 - Luff: 16.52m
+- LPg: 4.10m
 - Foot: 4.3m
 
 ### Storm Jib (#5)
