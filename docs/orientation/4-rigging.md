@@ -139,14 +139,16 @@ Keel stepped double spreader aluminum mast. Mast and boom stripped and repainted
 [Offshore Spars](http://www.offshorespars.com) 810.598-4700
 
 * Spartite at the partners.
-* Mast Step below the waterline:  18",  10" below cabin sole.
+* Mast Step below the waterline:  18"
+* Mast Step below cabin sole: 10"
 * Total Mast Length: 63' 10" (not 67 ft?)
 * Mast Height above water: 62'2", with strobe/tricolor: 63.5', with VHF Antenna: 65'
+* Mast Height above deck:
 * Mast color: Matterhorn White Algrip
 * Mast Base Aft to the stoppers: 13'  (deck is 5.5 above water)
 * Mast Height to first spreader: 21 feet above deck
 * Mast height to storm stay attachment: 37 feet above deck
-* Mast diameter fore and aft: ~10"
+* Mast diameter fore and aft: 254mm (~10 in)
 * Mast rake: 9-12"
 
 ### Mast Step & Tie Rods

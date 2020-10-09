@@ -12,13 +12,17 @@
 
 ## Dimensions
 
-* **LOA:** 43 ft 3 in
-* **Beam:** 12 ft 0 in
-* **LWL:** 38 ft 1 in
+* **LOA:** 13.18m (43 ft 3 in)
+* **Beam:** 3.66m (12 ft 0 in)
+* **Waterline Beam:** ? 3m (10 ft 0 in)
+* **LWL:** 11.84m (38 ft 11 in)
 * **Sailing LWL:** 39' 11"
-* **Minimum Draft:** 6 ft 10 in
-* **Displacement Dry:** 23,300 lbs
-* **Displacement Loaded:** 28,700 lbs
+* **Minimum Draft:** 2.1m (6 ft 10 in)
+* **Freeboard average:**
+* **Canoe Hull Draft:** 0.86m (34 in)
+* **Displacement Empty/Dry:** 10890kg (24,008 lbs)
+* **Displacement Light:** 12250kg (27,006 lbs)
+* **Displacement Loaded:** 13025kg 28,715 lbs
 * **Ballast:** 8750 lbs
 * **Bridge Clearance:** 64 ft
 * **Headroom:** 6 ft 3 in
