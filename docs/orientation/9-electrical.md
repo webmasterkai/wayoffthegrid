@@ -61,13 +61,13 @@ Per series string:
 | 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                     |
 | 3290    | 26.32  | 45    |                    |         |               |                         |                                                     |
 | 3287    | 26.30  | 40    |                    |         |               |                         |                                                     |
-| 3260    | 26.08  | 30    |                    |         |               |                         |                                                     |
-| 3250    | 26.00  | 25    |                    |         |               | LOW VOLTAGE WARNING     |                                                     |
-| 3200    | 25.60  | 20    |                    |         |               | LOW VOLTAGE ALARM       | Nominal Voltage                                     |
-| 3125    | 25.00  | 15-30 |                    |         |               | LOAD SHED 1             |                                                     |
-| 3000    | 24.0   | 10-30 |                    |         |               | LOAD SHED 2             | Lowest storage level                                |
-| 2950    | 23.6   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                     |
-| 2900    | 23.2   | 2     |                    |         |               |                         |                                                     |
+| 3260    | 26.08  | 35    |                    |         |               |                         |                                                     |
+| 3250    | 26.00  | 22    |                    |         |               |                         |                                                     |
+| 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     | Nominal Voltage                                     |
+| 3125    | 25.00  | 25    |                    |         |               | LOW VOLTAGE ALARM       |                                                     |
+| 3000    | 24.0   | 15    |                    |         |               | LOAD SHED 1             | Lowest storage level                                |
+| 2950    | 23.6   | 10    |                    |         |               | LOAD SHED 2             | Lowest recommended voltage                          |
+| 2900    | 23.2   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                     |
 | 2600    | 20.8   | 1     |                    |         |               |                         |                                                     |
 | 2500    | 20     | 0     |                    |         |               |                         | Absolute Low Voltage Limit under C/2 or greater     |
 
@@ -258,9 +258,9 @@ MRBF Terminal Fuse -> Busbar -> Fuses
 ### Positive Bus
 
 1. Busbar
-2. 300 A: Inverter/Charger
 3. 300 A: Load Bus
 4. 400 A: Charge Bus
+2. 300 A: Inverter/Charger
 5. 300 A: Inverter/Charger
 
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
@@ -301,7 +301,7 @@ Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
 
-ANL or Class T Fuses
+ANL (or Class T Fuses?)
 
 1. 300 A Inverter / Charger (aux input pins enable/disable)
 2. 400 A Battery Protect to fuse blocks?
