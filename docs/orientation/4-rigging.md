@@ -4,9 +4,7 @@ It's recommend that a professional yacht rigger be employed to set up the mast a
 
 *Standing rigging* refers to the fixed pieces of stainless steel rod or wire supporting the mast. Those which offer fore and aft supports are called stays 1 (backstay, forestay, etc.). The forward-most stay which carries the genoa/reacher is known as the forestay; the Jib stay, next aft, is also known as the inner forestay. Those which provide athwartships (transverse) support are called shrouds. The shroud running from the masthead to a chainplate on the deck near the rail is the cap or upper shroud. Below it, originating at the upper spreader base is the intermediate shroud. At the lower spreaders, there are two lower shrouds on each side, the forward lowers (port and starboard) and the after lowers (port and starboard).
 
-*Chainplates* are SS weldments bolted to the structure of the hull to which the shrouds are attached.
-
-*Mast partners* refers to the hole in the deck through which the mast passes. The butt, or foot, of the mast sits on the mast step in the bilge. Both the boom and the mechanical vang are attached to the mast at universal joints known as goosenecks.
+*Mast partners* is the hole in the deck through which the mast passes. The butt, or foot, of the mast sits on the mast step in the bilge. Both the boom and the mechanical vang are attached to the mast at universal joints known as goosenecks.
 
 ## Spars
 
@@ -17,7 +15,7 @@ The spreader becomes a compressive member, and when properly loaded tends to pus
 Based upon the relationships described above, the more spreaders and shrouds used transversely, and the more intermediate forestays and running backstays used longitudinally, the smaller the allowable mast section may be. This can be advantageous as weight aloft and windage may be reduced in addition to minimising the undesirable aerodynamic effect of the mast on the mainsail. The smaller the mast section, the less disturbed is the air flow across the mainsail. However, a practical and functional balance of rig complexity, strength and aerodynamic efficiency has governed the design of the rig of the SAGA 43. A double spreader rig with a substantial mast section was specified over a triple spreader rig to reduce tuning complexity and increase overall reliability. Drag and its detrimental effect on the main is reduced by virtue of the aerodynamically
 shaped cross section to the mast.
 
-## Mast Stepping
+### Mast Stepping
 
 As stated earlier, we recommend employing a professional rigger when your SAGA Yacht is being commissioned for the first time. The following description of mast preparation and stepping cannot cover all contingencies and is only a guide.
 
@@ -26,23 +24,15 @@ Most often, you will find that the boat yard removes the mast from the delivery 
 Ask the crane operator, who will be placing the mast into the boat, for their preference as to whether the mast should be forward side up or aft face up on the supports. After the spreaders are attached, you will not be able to roll the mast on the supports. It is preferable to have the track (aft face) side up, it is then much easier to install the Batt-Cars®.
 Offshore SparsTM, our mast builder, labels all the components in your mast and rigging to avoid confusion. This is particularly important when attaching the spreaders and shrouds as mixing pieces will lead to extra hours of work. Labels should also be used whenever the mast is removed from the boat for winter storage or other reasons.
 
-Insert the spreader bars into the mast. Layout the shrouds on each side of the mast in their respective positions, attach the spreaders to the spreader bars with the clevis pin heads on the upper side of each spreader. Insert the cotter (split)
-pins and spread the legs about 45°. Tape over the pins with a continuous wrap
-completely around the spreader using a stretchy plastic tape. (Rig RapTM is one - brand).
-When you have unrolled the shrouds, you will see a tag on each identifying it.
-Wrap the turnbuckles in rags or cover with plastic bags to keep them clean while
-you drag the shrouds around the mast. Attach the lower shrouds to their respective tangs and then with twine tie them to the mast at their bottom ends. Be sure the forward lowers are forward and the aft n lowers are aft; port and starboard can be swapped but not forward and aft.
-The intermediate shrouds are then attached and led down along the mast, don't
-put them into the spreader caps until after the cap shrouds have been attached.
+Insert the spreader bars into the mast. Layout the shrouds on each side of the mast in their respective positions, attach the spreaders to the spreader bars with the clevis pin heads on the upper side of each spreader. Insert the cotter (split) pins and spread the legs about 45°. Tape over the pins with a continuous wrap completely around the spreader using a stretchy plastic tape. (Rig RapTM is one - brand).
+When you have unrolled the shrouds, you will see a tag on each identifying it. Wrap the turnbuckles in rags or cover with plastic bags to keep them clean while you drag the shrouds around the mast. Attach the lower shrouds to their respective tangs and then with twine tie them to the mast at their bottom ends. Be sure the forward lowers are forward and the aft lowers are aft; port and starboard can be swapped but not forward and aft.
+The intermediate shrouds are then attached and led down along the mast, don't put them into the spreader caps until after the cap shrouds have been attached.
 
 At the end of each spreader is a cap held on by two screws. The upper spreader caps have one hole for the cap shroud.
-Remove the caps and lay the cap shroud into the groove and reattach the
-spreader cap. It is advisable to put a small amount of silicone sealant onto the threads of the screws. This has a double purpose: It prevents the screws from backing out and it reduces dissimilar metal corrosion between the SS screws and the aluminum of the spreader. You will see two holes in the lower spreader cap, the larger diameter one is for the cap shroud, the other of course is for the  intermediate shroud. Replace caps the same as for the upper spreaders.
+Remove the caps and lay the cap shroud into the groove and reattach the spreader cap. It is advisable to put a small amount of silicone sealant onto the threads of the screws. This has a double purpose: It prevents the screws from backing out and it reduces dissimilar metal corrosion between the SS screws and the aluminum of the spreader. You will see two holes in the lower spreader cap, the larger diameter one is for the cap shroud, the other of course is for the  intermediate shroud. Replace caps the same as for the upper spreaders.
 
-Pull all shrouds as tight as possible down along the mast and tie them off. Be  sure that the lines holding the shrouds can be reached from the deck as themast is being lowered into the mast partners.
-The furling gear should be put together by a professional yacht rigger to ensure correct assembly. This is a responsibility of the commissioning dealer. The furling lines are marked for genoa and jib and they are also of differing sizes:  5/16" x 70 ft. for the jib and 3/8" x 90 ft. for the genoa. After the two furling headstays are assembled, they may be attached to their proper tangs as can be the backstay. The weight of the furling drums requires secure lashing to the mast. Although the headstays will sag to the ground along
-their length, don't tie them up to the mast. They need to be free as the mast is 'I lowered into the mast partners. "'
-The halyards are marked as to purpose and there are messenger lines run in , | the mast to facilitate pulling the halyards through. Even when you have accomplished rigging your mast by yourself, at this point a 1 crane is necessary for the actual stepping. Let the boat yard do it! You can facilitate matters by removing the saloon table, picking up the floorboards in the way of the mast, taking down the wooden mast ring on the overhead and having cardboard ready to wrap around the mast as it is lowered into the deck. The cardboard will keep scratches on the mast to a minimum.
+Pull all shrouds as tight as possible down along the mast and tie them off. Be  sure that the lines holding the shrouds can be reached from the deck as themast is being lowered into the mast partners. The furling gear should be put together by a professional yacht rigger to ensure correct assembly. This is a responsibility of the commissioning dealer. The furling lines are marked for genoa and jib and they are also of differing sizes:  5/16" x 70 ft. for the jib and 3/8" x 90 ft. for the genoa. After the two furling headstays are assembled, they may be attached to their proper tangs as can be the backstay. The weight of the furling drums requires secure lashing to the mast. Although the headstays will sag to the ground along their length, don't tie them up to the mast. They need to be free as the mast is lowered into the mast partners.
+The halyards are marked as to purpose and there are messenger lines run in, the mast to facilitate pulling the halyards through. Even when you have accomplished rigging your mast by yourself, at this point a 1 crane is necessary for the actual stepping. Let the boat yard do it! You can facilitate matters by removing the saloon table, picking up the floorboards in the way of the mast, taking down the wooden mast ring on the overhead and having cardboard ready to wrap around the mast as it is lowered into the deck. The cardboard will keep scratches on the mast to a minimum.
 
 ## Tuning at Dockside
 
@@ -68,27 +58,22 @@ The outboard ends of the spreaders will need to be padded and taped to avoid cha
 
 ## Tuning While Sailing
 
-Select a day with a steady 12 to 15 knot breeze and reasonably flat seas. Put the boat on starboard tack, close hauled. Sight up the luff track of the mast. If the mast seems to fall off to leeward at the spreaders, tack and tighten the
-starboard lower shroud or intermediate as necessary. Put the boat back on starboard tack and check the spar again, repeat as necessary. When the mast appears straight, bring the boat about and do the same on the port side. When you first sight up the mast, the mast head may appear to be falling off to leeward. The cap shrouds may be too loose but the intermediate and lowers might be too tight. Or - the mast may have an S-curve, falling off at one spreader and poking up to windward at the other with the masthead to windward or to
-leeward.
+Select a day with a steady 12 to 15 knot breeze and reasonably flat seas. Put the boat on starboard tack, close hauled. Sight up the luff track of the mast. If the mast seems to fall off to leeward at the spreaders, tack and tighten the starboard lower shroud or intermediate as necessary. Put the boat back on starboard tack and check the spar again, repeat as necessary. When the mast appears straight, bring the boat about and do the same on the port side. When you first sight up the mast, the mast head may appear to be falling off to leeward. The cap shrouds may be too loose but the intermediate and lowers might be too tight. Or - the mast may have an S-curve, falling off at one spreader and poking up to windward at the other with the masthead to windward or to leeward.
+
 The many possible variations in the tension of the shrouds cause us to emphasize the importance of employing a professional yacht rigger at least initially in tuning your mast. You will find it far easier to duplicate the tuning if it has been performed properly the first time.
-Check the following carefully. When the upper shrouds are at optimum tension, in 15 to 20 knots of wind, the leeward shrouds will feel "looser" than the windward but they should not be slack.
 
-When your boat is new, the rigging may stretch to the extent that retuning will become necessary in a matter of weeks. However, after this initial working-in period, you will find that the rig tends to hold its tune throughout the sailing
-visibly slack. When close hauled under genoa and main, the forestay may appear quite sagged. Tensioning the backstay will reduce the amount of sag, but the sag can never be totally eliminated.
-increase or decrease the amount of weather helm. Any sailboat, when sailing up F season. After becoming used to the feel of the boat, you may wish to either
-wind, should have a slight tendency to "round up" (head into the wind) if the >m helm is let go. If you find it difficult to hold the boat off the wind, the boat is
+_Check the following carefully._
+When the upper shrouds are at optimum tension, in 15 to 20 knots of wind, the leeward shrouds will feel "looser" than the windward but they **should not be visibly slack**. If too slack the rig will shock load when tacking. When close hauled under genoa and main, the forestay may appear quite sagged. Tensioning the backstay will reduce the amount of sag, but the sag can never be totally eliminated.
 
-carrying too much weather helm. This can be alleviated by reducing rake which will move the centre of effort of the sail plan further forward. Conversely, if you find the boat
-rig will require more rake.
+When the rig is new, the rigging may stretch to the extent that retuning will become necessary in a matter of weeks. However, after this initial working-in period, you will find that the rig tends to hold its tune throughout the sailing season. After becoming used to the feel of the boat, you may wish to either increase or decrease the amount of weather helm. Any sailboat, when sailing up wind, should have a slight tendency to "round up" (head into the wind) if the helm is let go. If you find it difficult to hold the boat off the wind, the boat is carrying too much weather helm. This can be alleviated by reducing rake which will move the centre of effort of the sail plan further forward. Conversely, if you find the boat tends to fall off (turn away from the wind) when sailing upwind and you must constantly push her to weather, then the boat carries lee helm and the rig will require more rake.
 
-The important thing to remember about setting up your mast is to go about the
-process in a slow and orderly fashion. Record the details of the tuning and re- tune procedures as well as the results achieved. This will provide you with a better understanding of the rig and will serve as a useful reference for rigging
-the boat on subsequent occasions.
+The important thing to remember about setting up your mast is to go about the process in a slow and orderly fashion. Record the details of the tuning and re-tune procedures as well as the results achieved. This will provide you with a better understanding of the rig and will serve as a useful reference for rigging the boat on subsequent occasions.
 
-Some preconceived notions about conventional sloops or cutters may need to be discarded in order to understand how the Saga 43's Variable Geometry rig works. It's not a cutter or a sloop in the usual sense and the techniques for sailing it are a tad different than what you may be used to. The rig is proportioned so that an overlapping head sail is never required. The inner head sail is used when sailing close-hulled, even in light air. As it is self-tending, tacking simply requires a turn of the wheel, no crew required. Off the wind, the reaching genoa is deployed to both add sail area and shift the center of pressure forward to maintain an extra light helm pressure on all points of sail. At deeper angles downwind an asymmetrical spinnaker can be flown from the bowsprit. Furthermore, the Saga 43 will remain well balanced and easily steered even when pressed hard on a tight reach, unlike conventionally rigged boats. Mainsail hoisting and reefing chores are easily taken care of inside the safety of the cockpit with a push of the button on the two speed self-tailing electric winch.
+Some preconceived notions about conventional sloops or cutters may need to be discarded in order to understand how the Saga 43's Variable Geometry rig works. It's not a cutter or a sloop in the usual sense and the techniques for sailing it are a tad different than what you may be used to. The rig is proportioned so that an overlapping head sail is never required. The inner head sail is used when sailing close-hulled, even in moderate air. As it is self-tending, tacking simply requires a turn of the wheel, no crew required. Off the wind, the reaching genoa is deployed to both add sail area and shift the center of pressure forward to maintain an extra light helm pressure on all points of sail. At deeper angles downwind an asymmetrical spinnaker can be flown from the bowsprit. Furthermore, the Saga 43 will remain well balanced and easily steered even when pressed hard on a tight reach, unlike conventionally rigged boats. Mainsail hoisting and reefing chores are easily taken care of inside the safety of the cockpit with a push of the button on the two speed self-tailing electric winch.
 
 The Saga 43 is no slouch on the water. Impressive sail area/displacement ratio of 18.7-20. Most recently 73 PHRF; NE PHRF is 81.
+
+Remember stainless wire rope creep deformation generally starts around 65% of breaking strength.
 
 ## Rig
 
@@ -107,12 +92,23 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Spinlock line clutches on mast (3)
 - Spinlock line clutches on housetop (10)
 
+### Wire Rope Info
+
+| Diameter       | BS        | 15%  | 17%  | 20%  | Weight 100ft |
+| -------------- | --------- | ---- | ---- | ---- | ------------ |
+| 9/32in (7.1mm) | 9,261 lb  | 1389 | 1575 | 1852 | 17.0 lb      |
+| 5/16in (7.9mm) | 10,600 lb | 1590 | 1802 | 2120 | 21.0 lb      |
+| 3/8in (9.5mm)  | 14,800 lb | 2220 | 2516 | 2960 | 29.4 lb      |
+|                |           |      |      |      |              |
+
+
 ### Fore Stay
 
 - **Harken MK III 2.0** roller furler
 - 3/8" (10mm) 1x19 SS T316 Strand (May 2019)
 - Order 63' $190 wire, $21 top swage
 - 5/8" Pin
+- 15-19%
 
 ### Solent Stay
 
@@ -122,12 +118,26 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Needs 4mm hex allen key for bottom foil receiver (x3)
 - Order 62' $125 Around 57' finished
 - 5/8" pin
+- 17-20%
 
 ### Inner Staysail Stay
 
 ### Backstay
 
 - Hydraulic Backstay adjuster: [Navtec](http://www.navtec.net)
+- 3/8"
+- 16-21%
+
+### Shrouds
+
+- Forward Lower - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft) 10-12% 960-1152
+- Aft Lower - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft) 10-12% 960-1152
+- Mids - 9/32" (7mm) 1x19 SS T316 Strand (19-22) 12-15% 1152-1440
+- Uppers/Cap - 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand (29-33) ($13/ft) 15-20% 1778-2371
+
+## Chainplates
+
+Polished stainless steel weldments bolted to the structure of the hull to which the shrouds are attached. The primary chainplates have 10 x 1/2" 13TPI bolts.
 
 ### Mast
 
@@ -160,12 +170,6 @@ Mast step replaced (’15)
 - Strap style Eye Jaw Toggle - 1/2" Pin
 - Stud Rigging 1/4" Wire 1/2-20 X 3 1/4 RH
 - Wire, 1/4" 1x19 SS T316 Strand 7'
-
-### Shrouds
-
-- Lowers - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft)
-- Mids - 9/32" (7mm) 1x19 SS T316 Strand (19-22)
-- Uppers - 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand (29-33) ($13/ft)
 
 ### Winches
 
