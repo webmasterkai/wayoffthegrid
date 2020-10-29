@@ -26,16 +26,25 @@ Be very careful never to store tools, canned goods, or other heavy metal objects
 
 SEE ANNAPOLIS BOOK OF SEAMANSHIP. John Rousmaniere, Chapter 7 for a discussion of this highly important topic.
 
-### Ethernet Network
+### IP Wifi/Ethernet Network
 
-WiFi Ethernet Router
-
+#### Dual WAN
 1. Cell Modem
 2. External WiFi Client
-3. MFD
-4. Radar
-5. VenusGX
-6. Marine Stereo
+
+#### Gigabit Ethernet (8 port)
+
+1. MFD
+2. Radar
+3. VenusGX
+4. Nori & Home Assistant
+5. Marine Stereo
+
+### WiFi
+
+TWIG - 1733Mbps (5GHz1)
+TWIG MARINE - 867Mbps (5GHz2)
+TWIG 2.4 - 400Mbps (2.4GHz)
 
 ### VHF
 
