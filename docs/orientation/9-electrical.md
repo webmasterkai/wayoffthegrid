@@ -44,13 +44,13 @@ Per series string:
 | 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 4.0 kW. *Until added charge capacity.          |
 | 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs           |
 | 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                       |
-| 3500    | 28.00  |       | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW (0 A 30 min rest for memory reset 6/mo) |
-| 3482    | 27.86  | 100   | 4 / 20             |         | Absorb        | CHARGING                | C/70 Avg tested 100% SOC rest open circuit          |
-| 3450    | 27.60  | 99.9  | 3.1 / 16           |         | Absorb        |                         | C/90 Slow charge top balance.                       |
+| 3500    | 28.00  | 100   | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW (0 A 30 min rest for memory reset 6/mo) |
+| 3482    | 27.86  | 99.9  | 4 / 20             |         | Absorb        | CHARGING                | C/70 Avg tested 100% SOC rest open circuit          |
+| 3450    | 27.60  | 99.8  | 3.1 / 16           |         | Absorb        |                         | C/90 Slow charge top balance.                       |
 | 3420    | 27.36  | 99.7  | 2 / 10             |         |               |                         | C/130 Possible to over charge! < 4 hr hold.         |
-| 3405    | 27.24  | 99    | 1 / 5              |         | Float*        | Almost full             | C/280 Possible to over charge! < 6 hr hold.         |
-| 3400    | 27.20  | 91-98 |                    |         |               |                         | Typical max resting with loads < 4 A                |
-| 3395    | 27.16  | 90    | 0                  |         |               |                         |                                                     |
+| 3405    | 27.24  | 99    | 1 / 5              |         |               | Almost full             | C/280 Possible to over charge! < 6 hr hold.         |
+| 3400    | 27.20  | 97    |                    |         | Float*        |                         | Typical max resting with loads < 4 A                |
+| 3395    | 27.16  | 92    | 0                  |         |               |                         |                                                     |
 | 3385    | 27.08  | 88    |                    |         |               |                         |                                                     |
 | 3375    | 27.00  | 87    |                    |         |               |                         |                                                     |
 | 3350    | 26.80  | 85    |                    |         |               |                         |                                                     |
@@ -62,9 +62,10 @@ Per series string:
 | 3290    | 26.32  | 45    |                    |         |               |                         |                                                     |
 | 3287    | 26.30  | 40    |                    |         |               |                         |                                                     |
 | 3260    | 26.08  | 35    |                    |         |               |                         |                                                     |
-| 3250    | 26.00  | 22    |                    |         |               |                         |                                                     |
-| 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     | Nominal Voltage                                     |
-| 3125    | 25.00  | 25    |                    |         |               | LOW VOLTAGE ALARM       |                                                     |
+| 3250    | 26.00  | 22    |                    |         |               |                         | Inverter Input Low Restart                          |
+| 3238    | 25.90  | 30    |                    |         |               |                         | Inverter low voltage ALARM                          |
+| 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     |                                                     |
+| 3125    | 25.00  | 25    |                    |         |               | LOW VOLTAGE ALARM       | Inverter Low-Shutoff - Nominal Voltage              |
 | 3000    | 24.0   | 15    |                    |         |               | LOAD SHED 1             | Lowest storage level                                |
 | 2950    | 23.6   | 10    |                    |         |               | LOAD SHED 2             | Lowest recommended voltage                          |
 | 2900    | 23.2   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                     |
