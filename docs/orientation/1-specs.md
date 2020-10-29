@@ -17,9 +17,15 @@
 * **Waterline Beam:** ? 3m (10 ft 0 in)
 * **LWL:** 11.84m (38 ft 11 in)
 * **Sailing LWL:** 39' 11"
-* **Minimum Draft:** 2.1m (6 ft 10 in)
-* **Freeboard average:**
-* **Canoe Hull Draft:** 0.86m (34 in)
+* **Minimum Draft:** 2.03m (6 ft 8 in)
+* **Max Draft:** 2.09m (top of bottom paint to bottom of keel)
+* **Keel Height:** 115cm
+* **Keel Chord:** 173cm
+* **Keel Width:** 16cm
+* **Keel Shoe Width:** 48.5cm
+* **Canoe Hull Draft:** 86-87cm (2 ft 10 in)
+* **Freeboard average:** 95-96 cm (3 ft 1.5in)
+* **Beam Overhang:** 16 cm
 * **Displacement Empty/Dry:** 10890kg (24,008 lbs)
 * **Displacement Light:** 12250kg (27,006 lbs)
 * **Displacement Loaded:** 13025kg 28,715 lbs
@@ -30,8 +36,13 @@
 * **Displacement/Length Ratio:** 152
 * **RM/Degree:** 1,550 ft/lb
 * **IMS Stability:** 133 degrees
-* **Gross tons:** 22
-* **Net tons:** 23
+* **USCG Gross tons:** 22
+* **USCG Net tons:** 23
+* **Rudder Height:** 155 cm (5 ft 1 in)
+* **Rudder Chord:** 68.5 cm (2 ft 3 in)
+* **Rudder Tip to Bottom Paint:** 4-5 cm
+* **Center Transducer to bottom of keel:** 128 cm
+* **Starboard Transducer to bottom of keel:** 137 cm
 
 ## Engines
 
@@ -45,11 +56,13 @@
 * **Drive Type:** Direct Drive
 
 ## Tanks
+
 * **Fresh Water:** 2 Aluminum (130 Gallons)
 * **Fuel Tanks:** 2 Aluminum (35.3 + 45.3) & 1 Plastic (5.1) = 85.6 Gallons)
 * **Holding Tanks:** 1 Aluminum (20 Gallons)
 
 ## Accommodations
+
 * **Single berths:** 2
 * **Double berths:** 2
 * **Number of cabins:** 3
