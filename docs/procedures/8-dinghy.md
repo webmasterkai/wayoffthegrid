@@ -1,27 +1,8 @@
-# Dinghy Inventory & Checks
-
-## Details
-
-* **Manufacturer:** AB Inflatables
-* **Model:** 10AL Aluminum bottomed Hypalon RIB.
-* **Color:** Gray
-* **MMSI:** 338219159
-* **Engine:** Suzuki Electric Start 20hp Electronic Fuel Injection
-
-## Equipment
-
-* Oars
-* Anchor, chain, rode
-* Dinghy cable lock
-* Flashlight
-* Navigation lights
-* MFD: Raymarine Element HV 7
-* AIS
-* VHF: Standard Horizon 1850G
+# Dinghy Checks & Procedures
 
 ## Departure
 
-* Remain attached until started.
+* Remain attached to mooring point until outboard has been running for 15 seconds or more.
 * Confirm outboard locked/clamped.
 * Lifejackets per passenger and one throwable PFD.
 * Tank under bow seat has ample fuel. Fuel line connected.
