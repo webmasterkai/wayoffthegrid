@@ -6,7 +6,7 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (6 kWh / 234 Ah per day) usuage without any charging or a full week with typical solar of 3-4 kWh per day. Several hours of engine charging is necessary each week.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (6 kWh / 234 Ah per day) usuage without any charging or a full week with typical solar of 2-4.5 kWh per day. Several hours of engine charging is necessary each week.
 
 175mm (6.9") wide, 72mm thick, 210mm (8.3") high.
 Each string of 8 is 600mm. 2ft.
@@ -56,12 +56,14 @@ Per series string:
 | 3350    | 26.80  | 85    |                    |         |               |                         |                                                     |
 | 3330    | 26.64  | 83    |                    |         |               |                         |                                                     |
 | 3325    | 26.59  | 80    |                    |         |               |                         |                                                     |
-| 3314    | 26.51  | 77    |                    |         |               |                         |                                                     |
+| 3314    | 26.57  | 77    |                    |         |               |                         |                                                     |
+| 3314    | 26.51  | 76    |                    |         |               |                         |                                                     |
 | 3310    | 26.48  | 75    |                    |         |               |                         |                                                     |
 | 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                     |
 | 3290    | 26.32  | 45    |                    |         |               |                         |                                                     |
 | 3287    | 26.30  | 40    |                    |         |               |                         |                                                     |
-| 3260    | 26.08  | 35    |                    |         |               |                         |                                                     |
+| 3275    | 26.20  | 35    |                    |         |               |                         |                                                     |
+| 3260    | 26.08  | 28    |                    |         |               |                         |                                                     |
 | 3250    | 26.00  | 22    |                    |         |               |                         | Inverter Input Low Restart                          |
 | 3238    | 25.90  | 30    |                    |         |               |                         | Inverter low voltage ALARM                          |
 | 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     |                                                     |
@@ -80,7 +82,7 @@ After full charge BMS switches to "storage" mode where battery discharge current
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides up to 185 A at 28 V to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator.
+Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides up to 185 A at 28 V to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator. 40 minutes of battery charging at anchor will increase SOC around 5%.
 
 A 2nd alternator will be installed soon to double this capacity.
 
@@ -149,11 +151,15 @@ The electric cockpit winch requires the "Windlass & Winch" circuit to be active 
 
 An electric anchor windlass is installed. Mounted on the foredeck, the two foot switches control up and down direction as indicated on switch under the covers. Red is down. Black is up. The same cautions mentioned above for the electric winch (Sec. 9-9) apply to the windlass.
 
-To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the switches, remotes, and solenoid relays. The windlass is protected by a 150A fuse in line, mounted under the aft berth and an "Emergency Off" switch located in the forepeak. The relay switch box and a Victron Battery Protect is located high in the forepeak. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The House Bank must be charged to continue.
+To operate the windlass, the digital switch marked "Windlass & Winch" under "Vessel Management" must be on. It supplies 24V DC to the switches, remotes, and solenoid relays. There is also a physical "Emergency Off" switch located in the forepeak that must be in the "ON" position.
+
+If CZone gives a circuit overload warning it is because something there is a short within the switch wiring. It does not give a warning if the primary fuse, circuit breaker, or battery protect has disconnected power from the motor. To test if the fault is within the windlass switch wiring flip the "Emergency Off" switch in the forepeak to the "OFF" position. If the overload warning remains the issue is with the electric winch switches. The most likely culprit is the handheld chain counter mounted on the foredeck.
+
+The windlass is protected by a 150A fuse in the battery compartment under the aft berth. Another inline circuit breaker, relay switch box and a Victron Battery Protect is located high in the forepeak. If the supply voltage is below 24v a buzzer will sound. If voltage remains low for over 90 seconds the power to the windlass motor will turn off completely. The House Bank must be charged to continue.
 
 Do not use the windlass to "break-out" an anchor. Transfer the anchor rode load to a mooring cleat and use the engine power to break out. Always transfer anchor load to a cleat whenever anchored. DO NOT use the anchor windlass as a cleat or bollard.
 
-See the windlass instructions for details on proper operation and selection of rope and chain sizes to fit the gypsy. Proper matching of rope, chain and gypsy is critical for safe effective operation.
+See the windlass instructions for details on proper operation. Chain gypsy size is for 5/16" G43. Proper matching of rope, chain and gypsy is critical for safe effective operation.
 
 ## Buttons / Switches
 

@@ -14,7 +14,8 @@
 
 * **LOA:** 13.18m (43 ft 3 in)
 * **Beam:** 3.66m (12 ft 0 in)
-* **Waterline Beam:** ? 3m (10 ft 0 in)
+* **Beam Overhang:** ~16 cm
+* **Waterline Beam:** 3.3m (10 ft 10 in)
 * **LWL:** 11.84m (38 ft 11 in)
 * **Sailing LWL:** 39' 11"
 * **Minimum Draft:** 2.03m (6 ft 8 in)
@@ -25,7 +26,6 @@
 * **Keel Shoe Width:** 48.5cm
 * **Canoe Hull Draft:** 86-87cm (2 ft 10 in)
 * **Freeboard average:** 95-96 cm (3 ft 1.5in)
-* **Beam Overhang:** 16 cm
 * **Displacement Empty/Dry:** 10890kg (24,008 lbs)
 * **Displacement Light:** 12250kg (27,006 lbs)
 * **Displacement Loaded:** 13025kg 28,715 lbs

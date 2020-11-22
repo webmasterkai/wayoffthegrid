@@ -8,9 +8,9 @@ Two water tanks (approx. 65 gals / 245 liters each) are located under the port a
 
 #### Filling
 
-Water tank fills are located on each side deck. The wire reinforced fill tube goes down into the aft end of the tanks. When using this method use an inline carbon filter or add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated. Chlorine causes problems when exposed to aluminum.
+A pressurized hose can be attached to a quick connect located next to the electrical inlet on starboard side of the cockpit. It is a freshwater washdown or turn off the freshwater pump and it becomes a fill connection that will run through two carbon block filters and a UV light. Under the galley sink make sure the water maker setting is on the "sink" position. Push the "open fill switch" button and wait for the "on" position confirmation. This will open a motorized valve and turn on the "open/hose fill" indicator light. Turn on hose if it isn't already. Stop filling when the tank level reaches 89% on the Venus or 99% on the N2K network. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
 
-Typically a hose is attached to a quick connect located just inside the lazarette on the forward edge. Turn off the freshwater pump. Under sink make sure water maker setting is on the "sink" position. Flip fill switch to the "on" position. This will open a motorized valve and turn on the "open/hose fill" indicator light. Turn on hose if it isn't already. Stop filling when the tank level reaches 89% on the Venus or 99% on the N2K network. It takes several minutes for the Victron gauge to respond. A reading of 93% is completely full. Note the gauge still reads 10-13% when empty.
+The port side deck has a water fill connected to a wire reinforced fill tube that goes down into the top aft end of the tank. If using this method use an inline carbon filter or add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated. Chlorine causes problems when exposed to aluminum.
 
 #### Usage
 

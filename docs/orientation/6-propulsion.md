@@ -71,25 +71,25 @@ Prop is slightly over-pitched to maintain higher load on engine during average c
 
 The RPM sensor creates an AC signal based on the number of teeth. Currently configured for 117 teeth/232 pulses per revolution.
 
-| Type                       | RPM  | GPH  | Knots | prop kw/hp | max kw/hp |
-| -------------------------- | ---- | ---- | ----- | ---------- | --------- |
-| Low Idle                   | 850  | 0.45 | 1.0   |            |           |
-| Mid Idle                   | 1000 | 0.45 | 2.3   |            |           |
-| High Idle                  | 1200 | 0.46 | 3.0   |            |           |
-| 1.4k                       | 1400 | 0.47 | 3.7   |            |           |
-| 1.5k                       | 1500 | 0.48 | 4.0   |            |           |
-| Min Cruise                 | 1800 | 0.49 | 5.0   |            |           |
-| Slow Cruise                | 1850 | 0.50 | 5.3   | 04.5/06    | 22.0/29.5 |
-| Eco Cruise                 | 1950 | 0.60 | 5.7   | 05.0/07    | 23.0/30.8 |
-| Cruise Low                 | 2200 | 0.75 | 6.2   | 07.5/10    | 26.5/35.5 |
-| Cruise Mid                 | 2500 | 1.00 | 6.7   | 11.1/15    | 30.0/40.2 |
-| Fast Cruise                | 2800 | 1.3  | 7.4   | 16.4/22    | 32.0/42.9 |
-| Max Cruise                 | 3000 | 1.6  | 7.9   | 19.0/25.5  | 34.0/45.6 |
-| Hull Speed                 | 3300 | 2.5  | 8.4   | 26.0/35    | 37.3/50.0 |
-| Typical Max                | 3500 | 2.6  | 8.6   | 32.0/43    |           |
-| Continuous (Full Load) Max | 3650 | 2.75 |       | 37/50      | 37.3/50.0 |
-| 1 Hr Rated Max             | 3800 |      |       | 41/56      | 55        |
-| No Load Max                | 3925 |      |       |            |           |
+| Type                       | RPM  | GPH  | Knots | Range Hr | prop kw/hp | max kw/hp |
+| -------------------------- | ---- | ---- | ----- | -------- | ---------- | --------- |
+| Low Idle                   | 850  | 0.45 | 1.0   |          |            |           |
+| Mid Idle                   | 1000 | 0.45 | 2.3   |          |            |           |
+| High Idle                  | 1200 | 0.46 | 3.0   |          |            |           |
+| 1.4k                       | 1400 | 0.47 | 3.7   |          |            |           |
+| 1.5k                       | 1500 | 0.48 | 4.0   |          |            |           |
+| Min Cruise                 | 1800 | 0.49 | 5.0   |          |            |           |
+| Slow Cruise                | 1850 | 0.50 | 5.3   |          | 04.5/06    | 22.0/29.5 |
+| Eco Cruise                 | 1950 | 0.60 | 5.7   |          | 05.0/07    | 23.0/30.8 |
+| Cruise Low                 | 2200 | 0.75 | 6.2   |          | 07.5/10    | 26.5/35.5 |
+| Cruise Mid                 | 2500 | 1.00 | 6.7   |          | 11.1/15    | 30.0/40.2 |
+| Fast Cruise                | 2800 | 1.3  | 7.4   |          | 16.4/22    | 32.0/42.9 |
+| Max Cruise                 | 3000 | 1.6  | 7.9   |          | 19.0/25.5  | 34.0/45.6 |
+| Hull Speed                 | 3300 | 2.5  | 8.4   |          | 26.0/35    | 37.3/50.0 |
+| Typical Max w/ Alternator  | 3500 | 2.6  | 8.6   |          | 32.0/43    |           |
+| Continuous (Full Load) Max | 3650 | 2.75 |       |          | 37/50      | 37.3/50.0 |
+| 1 Hr Rated Max             | 3800 |      |       |          | 41/56      | 55        |
+| No Load Max                | 3925 |      |       |          |            |           |
 
 ### Engine NMEA 2000 Gateway
 
@@ -163,6 +163,7 @@ The standard propeller supplied with the yacht is a fixed three-bladed bronze un
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
 - Max 3-blade 19" Folding propeller ('14)
+- Prop Pitch Setting: 18deg(11.5") - #20 Bolt RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
 - Prop Pitch Setting: 18deg(11.5") RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
 - Zinc 70mm.
 - Drive Type: Direct Drive
@@ -220,6 +221,24 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 * Starboard deck fill.
 * Replaced in 2015
 
+**240-33 Ohm Calibration Table**
+| Sensor Ohms | Liters    | Percent |
+| ----------- | --------- | ------- |
+| 224.9       | **0**-29  | 0       |
+| 189.8       | **30**-41 | 17.78   |
+| 160.8       | **42**-56 | 24.45   |
+| 137.7       | **57**-46 | 33.34   |
+| 119.2       | 65        | 37.78   |
+| 104.2       | 76        | 44.45   |
+| 30.6        | 170       | 100     |
+
+**Alarms**
+| Alarm    | On Liters | Off Liters | Percent |
+| -------- | --------- | ---------- | ------- |
+| Very Low | 10        | 56         | 1       |
+| Low      | 40        | 56         | 17      |
+| Nominal  | >58       |            | 25      |
+
 #### Aft Diesel Tank
 
 * 143 liters (38 gallons)
@@ -239,9 +258,9 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 **Alarms**
 | Alarm    | On Liters | Off Liters | Percent |
 | -------- | --------- | ---------- | ------- |
-| Very Low | 1         | 36         | 1       |
+| Very Low | 10         | 36         | 1       |
 | Low      | 25        | 36         | 17      |
-| Nominal  | >35       |            | 25      |
+| Nominal  | >37       |            | 25      |
 
 #### Plastic Portable
 

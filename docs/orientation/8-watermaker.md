@@ -74,6 +74,10 @@ To return the unit to NORMAL operation and UN-PRESERVCE, place a 5 micron filter
 
 ## Cleaning
 
+The RO unit must be chemically cleaned when product water output drops below 85% of original production. The frequency of this occurring will vary greatly upon feed water and usage pattern. Fouling from the membrane will naturally occur through regular RO use.
+
+Prior to cleaning the membranes, verify that any reduction in product output is not the result of a corresponding variation in raw water inlet temperature or salinity.
+
 Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
 
 ## Replacement
