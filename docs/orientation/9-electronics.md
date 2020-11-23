@@ -6,10 +6,6 @@ All electronic equipment serviced by the yacht's 12 and 24 volt electric circuit
 
 GGA
 
-### Through Hull Fittings
-
-If other than standard through hull fittings are required and are to be added after the yacht is built, consult a service department to determine the correct positioning of the through hull fitting. Directions concerning the components and installation of the through hull fittings should be supplied with the unit. Remember that the hull contains core material. Refer to Sec. 8-3 for areas that were left intentionally without.
-
 ### Masthead Fittings
 
 Masthead fittings should be installed carefully, following manufacturers recommendations. Your SAGA mast contains an internal wiring conduit, all  cables must be fed through the conduit to prevent chafing and tangling with the internal halyards and other cordage. Cables leading from the masthead fitting exit the mast above the cabin sole and enter the bulkhead into the forward stateroom under the berth as provided for mast light wiring. A connector should be installed at this point which facilitates easy disconnecting whenever the mast is unstepped. Keep all connectors, junctions and wiring as high in the yacht as possible to prevent them from coming in contact with bilge water.
@@ -40,13 +36,34 @@ SEE ANNAPOLIS BOOK OF SEAMANSHIP. John Rousmaniere, Chapter 7 for a discussion o
 4. Nori & Home Assistant
 5. Marine Stereo
 
-### WiFi
+#### WiFi
 
 TWIG - 1733Mbps (5GHz1)
 TWIG MARINE - 867Mbps (5GHz2)
 TWIG 2.4 - 400Mbps (2.4GHz)
 
+#### WiFi/Ethernet Data Gateway
+
+- Dinghy WiFi when connected to TWIG 2.4 - 192.168.4.10
+- YDNR - 192.168.4.11
+
+**NMEA Servers**
+
+1. UDP:2000 - NMEA 0183 - Transmit Only
+2. UDP:2002 - RAW NMEA 2000 - Both
+3. TCP:2006 - RAW NMEA 2000 - Both
+
+**NMEA Filters**
+
+1. 0183 - Tx - Blacklist - ROT PGN XDR DIN HDT HDM GGA GLL RMC
+
 ### VHF
 
 Speaker: Brown (-), Red (+)
 Hailer: Green (-), Yellow (+)
+
+### Through Hull Fittings
+
+Depth, Speed, & Temp in the forward cabin.
+
+If other than standard through hull fittings are required and are to be added after the yacht is built, consult a service department to determine the correct positioning of the through hull fitting. Directions concerning the components and installation of the through hull fittings should be supplied with the unit. Remember that the hull contains core material. Refer to Sec. 8-3 for areas that were left intentionally without.
