@@ -2,7 +2,7 @@
 
 ## Local Web Dashboards
 
-- [Home Assistant](192.168.4.9:8123/)
+- [Home Assistant](http://192.168.4.9:8123/)
 - [Victron GX](http://192.168.4.3/)
 - [Nori](http://192.168.4.5/)
 - [Grafana](http://192.168.4.5:3000/)
