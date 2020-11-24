@@ -24,7 +24,7 @@
 Battery -> Anderson Connector -> Engine Starter
 Battery -> Battery Protect -> 12 V Fuse Block 6 circuit
 
-1. 10A: VHF
+1. 10A: VHF (also has inline fuse)
 2. 2A: AIS & Splitter
 3. 2A: Navigation Lights
 4. 2A: NMEA 2000
@@ -36,3 +36,4 @@ Battery -> Battery Protect -> 12 V Fuse Block 6 circuit
 2. VHF
 3. WiFi Gateway
 4. MFD
+5. Engine

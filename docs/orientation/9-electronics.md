@@ -1,5 +1,14 @@
 # Electronics
 
+## Local Web Dashboards
+
+- [Home Assistant](192.168.4.9:8123/)
+- [Victron GX](http://192.168.4.3/)
+- [Nori](http://192.168.4.5/)
+- [Grafana](http://192.168.4.5:3000/)
+- [Web Gauges](http://192.168.4.11/g.html)
+- [Router](http://192.168.4.1/)
+
 ### Over current protection
 
 All electronic equipment serviced by the yacht's 12 and 24 volt electric circuit should be separately protected by a fuse or circuit breaker of appropriate size. If a large number of electronics are to be added, a branch panel of breakers may be required. Make sure that the polarity for electronic accessories is correct, and that they are installed according to the manufacturer's recommendation.
@@ -67,3 +76,22 @@ Hailer: Green (-), Yellow (+)
 Depth, Speed, & Temp in the forward cabin.
 
 If other than standard through hull fittings are required and are to be added after the yacht is built, consult a service department to determine the correct positioning of the through hull fitting. Directions concerning the components and installation of the through hull fittings should be supplied with the unit. Remember that the hull contains core material. Refer to Sec. 8-3 for areas that were left intentionally without.
+
+## NMEA 2000
+
+### Chart Table
+
+**Instrument Network**
+
+- VHF
+- AIS
+- Maretron Screen
+- NMEA 0183 Output
+
+**CZone Network**
+
+- Switch Interface
+- Speaker/Alarm
+- GO5
+- Debug/Programming Port
+- WiFi Gateway

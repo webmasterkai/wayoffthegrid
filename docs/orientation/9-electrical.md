@@ -66,8 +66,8 @@ Per series string:
 | 3260    | 26.08  | 28    |                    |         |               |                         |                                                     |
 | 3250    | 26.00  | 22    |                    |         |               |                         | Inverter Input Low Restart                          |
 | 3238    | 25.90  | 30    |                    |         |               |                         | Inverter low voltage ALARM                          |
-| 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     |                                                     |
-| 3125    | 25.00  | 25    |                    |         |               | LOW VOLTAGE ALARM       | Inverter Low-Shutoff - Nominal Voltage              |
+| 3200    | 25.60  | 30    |                    |         |               | LOW VOLTAGE WARNING     | Nominal Voltage                                     |
+| 3125    | 25.00  | 25    |                    |         |               | LOW VOLTAGE ALARM       | Inverter Low-Shutoff                                |
 | 3000    | 24.0   | 15    |                    |         |               | LOAD SHED 1             | Lowest storage level                                |
 | 2950    | 23.6   | 10    |                    |         |               | LOAD SHED 2             | Lowest recommended voltage                          |
 | 2900    | 23.2   | 5     |                    |         |               | LOW VOLTAGE DISCONNECT  |                                                     |
@@ -82,17 +82,15 @@ After full charge BMS switches to "storage" mode where battery discharge current
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-Energy Storage is replenished the quickest by running the engine. A 5 kW American Power HPI-185-EXT alternator provides up to 185 A at 28 V to the House Bank. You should see at least 3 kW @ 1,100 Engine RPM. It will take 6 to 9 hours to fully charge a completely drained House Bank. The alternator has a networked alternator regulator. 40 minutes of battery charging at anchor will increase SOC around 5%.
+Energy Storage is replenished the quickest by running the engine. Two 5 kW American Power HPI-185-EXT alternators provides up to 185 A at 28 V (each) to the House Bank. You should see at least 5.8 kW of power @ 1,100 Engine RPM. It will take 4 to 6 hours to fully charge a completely drained House Bank. The alternators have a networked alternator regulators. 40 minutes of battery charging at anchor will increase SOC around 10%.
 
-A 2nd alternator will be installed soon to double this capacity.
+The 185 HPI has 8 pole pairs.
 
-185 HPI has 8 pole pairs
-
-We plan on an averaged of 1.7 kWh (15-30 minutes) per day production from the engine. Generally 3-4 hours per week is sufficient.
+We plan on an average of 2 kWh (20 minutes) per day production from the engine. Generally 3-4 hours of engine running per week is sufficient to keep charged.
 
 ### Solar Array Charging
 
-We currently have 820 W of solar. Monitoring is available via the Victron GX console and online [VRM Portal](https://vrm.victronenergy.com/installation/12853/share/0889a143). The full array generates an average of 3.5 kWh per day. It would take 8 average days to fully charge a depleted battery by solar with no loads applied to it.
+We currently have 820 W of solar. Monitoring is available via the Victron GX console and online [VRM Portal](https://vrm.victronenergy.com/installation/12853/share/0889a143). The full array generates an average of 2 kWh in fall/winter and 3.5 kWh per day in summer. It would take 8-16 days to fully charge a depleted battery by solar with no loads applied to it.
 
 On top of the bimini are 4x glass Kyocera KC 80W solar panels. These provide 320 W, are wired 2S2P with 10 AWG, and controlled with a Victron SmartSolar MPPT 100/30 in the lazarette. Average current from the controller is under 12 ampers, max current is 18 amperes. Fused at 30 ampers.
 
@@ -100,7 +98,7 @@ Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panel
 
 ### AC Charging
 
-The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the House Bank. It takes over 15 hours to charge the House Bank.
+The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the House Bank. It takes over 15 hours to charge the House Bank. The inverter/charger will slow down if it gets too hot and the internal fan is unable to cool it sufficiently.
 
 #### Using the shore power cord.
 
@@ -264,11 +262,23 @@ MRBF Terminal Fuse -> Busbar -> Fuses
 
 ### Positive Bus
 
-1. Busbar
-3. 300 A: Load Bus
-4. 400 A: Charge Bus
-2. 300 A: Inverter/Charger
-5. 300 A: Inverter/Charger
+Busbar
+
+Class T Fuses
+
+1. 300A: Load Bus - House Power
+2. 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+3. 300A: Alternator 1 & 2 MRBF Block
+4. 80A: Solar Block
+
+5. _future_ 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+6. _future_ 200A: Dedicated AC to DC Charger
+
+#### MRBF Charge Bus
+
+1. 225A: Alternator 1 Power Output (2/0 AWG)
+2. 225A: Alternator 2 Power Output (2/0 AWG)
+3. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
 
 1. 500A ML Remote Solenoid Switch - **Charge Bus**
 2. 500A ML Remote Solenoid Switch - **House Power Bus**
@@ -276,28 +286,11 @@ MRBF Terminal Fuse -> Busbar -> Fuses
 **ST Blade Battery Terminal Mount Fuse Block**
 1. 2A: Battery Monitor Voltage Positive Sense Wire
 
-#### Charge Bus
-
 Devices that enable charging the house bank. Located within the battery box section.
 
-**SafetyHub 100 replace with SafetyHub 150?**
-
-AMI/MIDI Fuses
-
-1. 225A: Alternator 1 Power Output (2/0 AWG)
-2. 60A: SunPower Victron 100-50 SmartSolar Controller
-3. 40A: Kyocera Victron 100-30 SmartSolar Controller
-4. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
-5. _future_ 225A: Alternator 2 Power Output (2/0 AWG)
-6. _future_ Solar or Hydro
-7. 200A: _future_ Dedicated AC to DC Charger
-
-ATO/ATC Fuses
-
-1. 10A: Alternator Controller 1
-2. 10A: _future_ Alternator Controller 2
-3. _broken_
-4. _empty_ 1A: Charge Bus On Signal?
+**Solar Block**
+1. 50A: SunPower Victron 100-50 SmartSolar Controller
+2. 40A: Kyocera Victron 100-30 SmartSolar Controller
 
 MRBF or MAXI
 
@@ -308,24 +301,16 @@ Buffer BMV high voltage relay switches between boost/buck.
 
 #### House Power Bus
 
-ANL (or Class T Fuses?)
-
-1. 300 A Inverter / Charger (aux input pins enable/disable)
-2. 400 A Battery Protect to fuse blocks?
+400 A Battery Protect to fuse blocks
 
 **Emergency Always On ATO/ATC Fuses**
 
-1. 10A: Bilge Pump Auto Switch
+1. 10A: 24 V High-Flow Bilge Pump Auto Switch
 
-**Switched ATO/ATC Fuses**
-
-65 A Battery Protect
-
-1. 1A: (120 mA) Venus GX
-2. 1A: (35 mA) IP Network Ethernet Switch
-3. 1A: WiFi Router
+1. 1A: (3.2 W) Venus GX + USB-C Charger for rPi
+2. 1A: WiFi Router
+3. 1A: Cell Modem (USB Power)
 4. 1A: _eventual removal hopefully_ LPG Valve
-5. 1A: Cell Modem (USB Power)
 
 **Fuse Block 2 - SafetyHub 150**
 
@@ -339,13 +324,14 @@ AMI Fuses
 2. 30A: CZone MOI - Ballast Pump
 4. 70A: Chart Table CZone
 5. 70A: Aft Cabin CZone
+6. 30A: Alternator Controllers (65 A Battery Protect + Inline 15A Fuses)
 
 5. 30A: Watermaker Fuse Block (65 A Battery Protect)
 6. 30A: Main Head Fuse Block (65 A Battery Protect)
 7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
 8. 175A: Windlass (75 A Circuit Breaker & 100 A Battery Protect)
 9. 150A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
-10. 60A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
+10. 50A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
 
 **Watermaker - ST Blade 4 Circuit**
 
@@ -384,6 +370,8 @@ Switch Buttons -> Intake Pump
 ## 12v Buffer/Starter
 
 ### Positive Post
+
+MRBF
 
 1. 200A: Charger / Power Bus
 2. 200A: Starter
@@ -424,7 +412,7 @@ Power Bus -> Battery Protect 65
 3. Fuel Pump
 4. Floor Lights
 5. NMEA 2000 Cockpit Displays
-6. Watermaker Boost Pump _future NMEA 2000 Transducers_
+6. _future NMEA 2000 Transducers_
 
 #### Aft COI
 
