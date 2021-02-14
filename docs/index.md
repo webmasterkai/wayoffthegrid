@@ -53,6 +53,10 @@
 * **Color:** Gray
 * **MMSI:** 338219159 (AMEC Camino 108 AIS Class B, Standard Horizon 1850G, Standard Horizon HX870)
 
+## Liferaft
+
+Winslow Offshore 6 person life raft
+
 ## Location
 
 * [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)

@@ -83,10 +83,9 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 
 - Boom Vang: Forespar model YRL  <http://www.forespar.com>   949.858-8820
 - Harken curved track and jib car for self-tending jib
-- Harken “Big Boat” 4:1 mainsheet track and car with mid-boom sheeting
+- Mainsheet Traveler: 4:1 mainsheet - Harken “Big Boat” track and car with mid-boom sheeting
 - Stainless steel 1 x 19 wire standing rigging replaced (’15)
-- Forespar 18’3” carbon fiber whisker pole
-- Whisker pole 18' 3" carbon fiber - Forespar
+- Whisker Spin Pole: 5.56m (18'3") carbon fiber - Forespar (219" measured 2021-02)
 - Adjustable whisker pole car on mast mounted track
 - Stack pack with lazy jacks (’15)
 - Spinlock line clutches on mast (3)

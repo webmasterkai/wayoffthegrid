@@ -64,7 +64,10 @@ TWIG 2.4 - 400Mbps (2.4GHz)
 
 **NMEA Filters**
 
-1. 0183 - Tx - Blacklist - ROT PGN XDR DIN HDT HDM GGA GLL RMC
+1. 0183 - Tx - Blacklist - ROT PGN XDR DIN HDT HDM GGA GLL RMC GSV GSA DBT DPT
+
+MDA - Meteorological Composite
+
 
 ### VHF
 

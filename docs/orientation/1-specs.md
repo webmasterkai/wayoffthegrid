@@ -19,7 +19,8 @@
 * **LWL:** 11.84m (38 ft 11 in)
 * **Sailing LWL:** 39' 11"
 * **Minimum Draft:** 2.03m (6 ft 8 in)
-* **Max Draft:** 2.09m (top of bottom paint to bottom of keel)
+* **Max Draft:** 209cm (top of bottom paint to bottom of keel)
+* **Exposed Bottom Paint**: 2-5cm
 * **Keel Height:** 115cm
 * **Keel Chord:** 173cm
 * **Keel Width:** 16cm
@@ -41,8 +42,8 @@
 * **Rudder Height:** 155 cm (5 ft 1 in)
 * **Rudder Chord:** 68.5 cm (2 ft 3 in)
 * **Rudder Tip to Bottom Paint:** 4-5 cm
-* **Center Transducer to bottom of keel:** 128 cm
-* **Starboard Transducer to bottom of keel:** 137 cm
+* **Center Transducer to bottom of keel:** 128 cm (measured 79 cm offset but actually 53+3?)
+* **Starboard Transducer to bottom of keel:** 137  (measured 70 cm offset but actually 38+3?)
 
 ## Engines
 

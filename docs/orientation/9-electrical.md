@@ -40,9 +40,10 @@ Per series string:
 | Cell mV | Pack V | SOC % | Min Charge Current | mV Drop | Charge Level  | ALERT                   | Notes                                               |
 | ------- | ------ | ----- | ------------------ | ------- | ------------- | ----------------------- | --------------------------------------------------- |
 | 3650    | 29.20  |       | 94 / 470           | 25      | Bulk          | HIGH VOLTAGE DISCONNECT | C/3 13.75 KW. Test Max. Remove charger immediately! |
-| 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE            | C/4 10 kW.                                          |
-| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 4.0 kW. *Until added charge capacity.          |
-| 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 or 3hrs           |
+| 3645    | 29.12  |       | 70 / 350           | 19      | Bulk          | HIGH VOLTAGE ALARM      | C/4 10 kW.                                          |
+| 3633    | 29.06  |       | 40 / 200           |         | Bulk          | CHARGER DISCONNECT      | C/7 5.0 kW.                                         |
+| 3625    | 29.00  |       | 28 / 140           | 8       | Bulk          | CHARGER DISCONNECT      | C/10 3.5 kW.                                        |
+| 3600    | 28.80  |       | 14 / 70            | 4       | Bulk          | CAUTION 4               | C/20 2.0 kW - Top balance to C/50 6A or 3hrs yr     |
 | 3550    | 28.40  |       | 9.4 / 47           | 3       | Bulk          | CAUTION 3               | C/30 1.3 kW - 30 Min Max Hold                       |
 | 3500    | 28.00  | 100   | 5.6 / 28           | 2       | Bulk LOW      | CAUTION 2               | C/50 0.8 kW (0 A 30 min rest for memory reset 6/mo) |
 | 3482    | 27.86  | 99.9  | 4 / 20             |         | Absorb        | CHARGING                | C/70 Avg tested 100% SOC rest open circuit          |
@@ -82,15 +83,15 @@ After full charge BMS switches to "storage" mode where battery discharge current
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-Energy Storage is replenished the quickest by running the engine. Two 5 kW American Power HPI-185-EXT alternators provides up to 185 A at 28 V (each) to the House Bank. You should see at least 5.8 kW of power @ 1,100 Engine RPM. It will take 4 to 6 hours to fully charge a completely drained House Bank. The alternators have a networked alternator regulators. 40 minutes of battery charging at anchor will increase SOC around 10%.
+Energy Storage is replenished the quickest by running the engine. Two 5 kW American Power HPI-185-EXT alternators provides up to 185 A at 28 V (each) to the House Bank. You should see at least 5-6 kW of power at a high idle of around 1,200 Engine RPM. Output starts high and slowly diminishes as the alternators heat up. It takes 4 to 6 hours to fully charge a completely drained House Bank. The alternators have networked alternator regulators. 40 minutes of battery charging at anchor will increase SOC around 10%.
 
 The 185 HPI has 8 pole pairs.
 
-We plan on an average of 2 kWh (20 minutes) per day production from the engine. Generally 3-4 hours of engine running per week is sufficient to keep charged.
+We plan on an average of 2 kWh (20 minutes) per day of energy production from the engine. Generally 3-4 hours of engine running per week is sufficient to keep charged.
 
 ### Solar Array Charging
 
-We currently have 820 W of solar. Monitoring is available via the Victron GX console and online [VRM Portal](https://vrm.victronenergy.com/installation/12853/share/0889a143). The full array generates an average of 2 kWh in fall/winter and 3.5 kWh per day in summer. It would take 8-16 days to fully charge a depleted battery by solar with no loads applied to it.
+We currently have 820 W of solar. Monitoring is available via the Victron GX console and online [VRM Portal](https://vrm.victronenergy.com/installation/12853/share/0889a143). The full array generates an average of 2.2 kWh in fall/winter and 3.5 kWh per day in summer. It would take 8-16 days to fully charge a depleted battery by solar with no loads applied to it.
 
 On top of the bimini are 4x glass Kyocera KC 80W solar panels. These provide 320 W, are wired 2S2P with 10 AWG, and controlled with a Victron SmartSolar MPPT 100/30 in the lazarette. Average current from the controller is under 12 ampers, max current is 18 amperes. Fused at 30 ampers.
 
@@ -98,7 +99,7 @@ Mounted on the radar arch are 2x glass Sunpower SPR-X20-250-BLK 250W solar panel
 
 ### AC Charging
 
-The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the House Bank. It takes over 15 hours to charge the House Bank. The inverter/charger will slow down if it gets too hot and the internal fan is unable to cool it sufficiently.
+The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the House Bank. It takes over 15 hours to charge the House Bank. The inverter/charger will slow down if it gets too hot and the internal fan is unable to cool it sufficiently. This uses around 18 of the available 24 amps of incoming AC power when connected to a 30 amp circuit breaker.
 
 #### Using the shore power cord.
 
@@ -163,13 +164,21 @@ See the windlass instructions for details on proper operation. Chain gypsy size 
 
 ### Chart Table Buttons
 
-Freshwater
-Seawater
-Night Anchored
-Day Anchored
-MFD Radar
-High Flow Bilge Pump
-Weigh Anchor
+1. Night Anchored Mode
+2. Weigh Anchor Mode
+3. Day Anchored Mode
+4. Instrument Transducers
+5. MFD Radar
+6. Inverter
+7. Freshwater Pump
+8. Primary Diaphragm Bilg Pump
+9. Secondary High Flow Bilge Pump
+10. Stern Spot Lights
+11. SSB
+12. Fans
+13. Winch / Windlass
+14. HotWater Heater
+15. USB
 
 ### Cockpit Buttons
 
@@ -255,16 +264,17 @@ Venus GX:   143 x 96
 RaspberryPi: 100 x 100
 2x MRBF Block: 51 x 190
 
-### Positive Post
-
-Each battery string (5 total) has a 150A MRBF Terminal Fuse.
-MRBF Terminal Fuse -> Busbar -> Fuses
-
 ### Positive Bus
 
-Busbar
+Location: Battery cell compartment
+Each battery string (5 total) has its own 150A MRBF Terminal Fuse.
+MRBF Terminal Fuse -> Busbar -> Fuses
 
-Class T Fuses
+5 Terminal BEP Busbar -> Class T 600A Fuse -> BEP ANL Fuse Block
+
+#### BEP ANL Block
+
+Plastic Fuse holders - hole space 50mm apart for strip
 
 1. 300A: Load Bus - House Power
 2. 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
@@ -274,7 +284,7 @@ Class T Fuses
 5. _future_ 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
 6. _future_ 200A: Dedicated AC to DC Charger
 
-#### MRBF Charge Bus
+#### MRBF Alternator Charge Bus
 
 1. 225A: Alternator 1 Power Output (2/0 AWG)
 2. 225A: Alternator 2 Power Output (2/0 AWG)
@@ -299,18 +309,18 @@ MRBF or MAXI
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
-#### House Power Bus
+#### House Power Bus (24 V)
 
 400 A Battery Protect to fuse blocks
 
-**Emergency Always On ATO/ATC Fuses**
+**24h 24 V - Always On ATO/ATC Fuses**
 
-1. 10A: 24 V High-Flow Bilge Pump Auto Switch
-
-1. 1A: (3.2 W) Venus GX + USB-C Charger for rPi
-2. 1A: WiFi Router
+1. 10A: 24 V High-Flow High-Water Bilge Pump Auto Switch
+2. 2A: AIS + Splitter (switch?)
+3. 1A: (3.2 W) Venus GX + USB-C Charger for rPi
 3. 1A: Cell Modem (USB Power)
-4. 1A: _eventual removal hopefully_ LPG Valve
+4. 1A: Propane LPG Sensor & Valve
+2. 1A: WiFi Booster
 
 **Fuse Block 2 - SafetyHub 150**
 
@@ -381,55 +391,23 @@ MRBF
 What is this fuse block? MRBF?
 
 1. 40A: Engine Control CZone
-2. 50A: 24h Fuse Block
+2. 50A: 12 V 24h Fuse Block
 3. 50A: Boost Charger
 4. 40A: Buck Charger 1
 5. 90A: Buck Charger 1
 
-#### 12v 24h Fuse Block
+#### 12v 24h Critical Fuse Block
 
 Power Bus -> Battery Protect 65
 
 12 circuit ATC/ATO fuse block
 
-1. 2A: NMEA 2000 Primary _future CZone_
-2. 2A: AIS + Splitter (switch?)
-3. 5A: _pending move to switch?_ NMEA 2000 Transducers
-4. 1A: _pending removal_ 5V Sensors
-5. 2A: 12 V alternator V sense
-6. 1A: _need switch_ Motorized Water Tank Valves
+1. 15A: Diaphragm Primary Bilge Pump
+2. 15A: VHF Radio _switched?_
+2. 2A: _switch 1_ NMEA 2000 Primary
+3. 1A: WiFi Router _switched?_
+6. 1A: _switch 2_ Motorized Water Tank Valves
 7. 2A: (350 mA) Battery BMS Feed
-8. 15A: _need switch_ Oil Pump
-9. 10A: Main Head Greywater Pump _pending removal_
-10. 15A: VHF Radio (switch?)
-11. 15A: Diaphragm Bilge Pump
+8. 15A: _need switch?_ Oil Pump
+9. 10A: _pending removal_ Main Head Greywater Pump
 12. _empty_ Ignition? Simrad Go5?
-
-#### Engine Control CZone
-
-1. Engine Start
-2. Engine Stop
-3. Fuel Pump
-4. Floor Lights
-5. NMEA 2000 Cockpit Displays
-6. _future NMEA 2000 Transducers_
-
-#### Aft COI
-
-1. High water bilge pump
-2. Freezer
-3. Fridge
-4. Autopilot
-5. MFD/Radar
-6.
-
-#### Chart Table COI
-
-#### Mast OI
-
-1. Masthead Anchor Light
-2. Masthead Tri-Color
-3. Steaming Light
-4. Deck Light
-5. Heater Fan
-6. Washdown Pump
