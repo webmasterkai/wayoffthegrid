@@ -68,7 +68,6 @@ TWIG 2.4 - 400Mbps (2.4GHz)
 
 MDA - Meteorological Composite
 
-
 ### VHF
 
 Speaker: Brown (-), Red (+)
@@ -82,19 +81,12 @@ If other than standard through hull fittings are required and are to be added af
 
 ## NMEA 2000
 
-### Chart Table
+There are two networks and four power insertions. The two networks are bridged at the chart table.
 
-**Instrument Network**
+### CAN1
 
-- VHF
-- AIS
-- Maretron Screen
-- NMEA 0183 Output
+Primarily digital switching and other 24 hour devices. Power insertion tee is in the DC Bus area under the aft cabin berth. One leg powers all the digital switching equipment and the other leg powers the 4 circuit YD & Victron GX.
 
-**CZone Network**
+### CAN2
 
-- Switch Interface
-- Speaker/Alarm
-- GO5
-- Debug/Programming Port
-- WiFi Gateway
+Transducers and screens.

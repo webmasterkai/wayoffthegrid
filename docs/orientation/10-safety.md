@@ -1,10 +1,13 @@
 # Safety Equipment
 
-- Ocean Signal MOB1 Personal Locator Device w/ AIS and DSC. Emily MMSI 972604917. Kai MMSI 972604918.
-- Winslow Offshore 6 person life raft in valise Exp. Date October ‘16. 60SLOP-BO-1-105. 10.5" x 16" x 22". 60 lbs.
+- **EPIRB 1:** ACR RLB-36 Cat II - Globalfix iPRO 406 GPS EPIRB (2DCC7B1B64FFBFF)
+- **EPIRB 2:** ACR RLB-35 Cat II - Globalfix (2DCC4419AEFFBFF)
+- **PLB 1:** Ocean Signal MOB1 Personal Locator Device w/ AIS and DSC. Emily MMSI 972604917
+- **PLB 2:** Ocean Signal MOB1 Personal Locator Device w/ AIS and DSC. Kai MMSI 972604918
+- **Life Raft:** Winslow Offshore 6 person life raft in valise Exp. Date October ‘16. 60SLOP-BO-1-105. 10.5" x 16" x 22". 60 lbs.
 - Ditch bag
 - Switlik MOM-8-A Man Overboard Module
-- Throw Rope.
+- Throw Rope
 - Life Sling
 - Edson 30GPM manual bilge pump on board with handle.
 - Mast mounted Echomax EM230BR radar reflector ('15)
@@ -12,8 +15,6 @@
 - Flashlight - Olight SR52-UT Intimidator. Natural white.
 - Headlamps (x2) - Nitecore HC50. Warm white light 565 lumens. Red 1.5 lumens.
 - First-aid & medical kit
-- **EPIRB 1:** ACR RLB-36 Cat II - Globalfix iPRO 406 GPS EPIRB (2DCC7B1B64FFBFF)
-- **EPIRB 2:** ACR RLB-35 Cat II - Globalfix (2DCC4419AEFFBFF)
 
 SAFETY SHOULD BE THE FIRST CONCERN OF EVERY SAILOR, AND CERTAIN ITEMS ARE REQUIRED BY LAW TO BE CARRIED ON THE YACHT. MINIMUM SAFETY EQUIPMENT REGULATIONS VARY AS TO THE JURISDICTION UNDER WHICH THE YACHT MAY BE OPERATING. YOU MUST CARRY THE MINIMUM EQUIPMENT REQUIRED BY THE REGULATIONS OF THE NATIONAL AUTHORITY UNDER WHICH YOUR YACHT IS REGISTERED OR FACE SEVERE LEGAL PENALTIES. HOWEVER, PRUDENT PRACTICE DICTATES THAT YOU EQUIP THE YACHT TO A MUCH HIGHER STANDARD THAN THE MINIMUM REQUIRED BY LAW. ADDITIONAL SAFETY EQUIPMENT SHOULD BE CONSISTENT WITH THE NATURE OF YOUR CRUISING AREA(S), WEATHER CONDITIONS AND ALL NAVIGATIONAL RISKS AND HAZARDS - EXPECTED OR UNEXPECTED.
 

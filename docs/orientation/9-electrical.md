@@ -6,19 +6,19 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (6 kWh / 234 Ah per day) usuage without any charging or a full week with typical solar of 2-4.5 kWh per day. Several hours of engine charging is necessary each week.
-
-175mm (6.9") wide, 72mm thick, 210mm (8.3") high.
-Each string of 8 is 600mm. 2ft.
-String of 11 is 800mm. 2ft 7 and 1/4".
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (5-6 kWh or 234 Ah per day) usuage without any charging or a full week with typical solar of 2-4.5 kWh per day. Several hours of engine charging is necessary each week.
 
 ### House Bank - 25.6 V Lithium
 
-If comparing to a 12 V AGM bank the bank is equivalent to around 3,000 Ah. The bank supports the DC to AC Inverter(s) and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 cells in series for a 25.6 V (8S5P) nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads.
+If comparing to a 12 V AGM bank the bank is equivalent to roughly 3,000 Ah. The bank supports the DC to AC Inverter(s) and all other major loads. It is comprised of 40 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired to create 5 independent, parallel strings of 8 cells in series for a 25.6 V (8S5P) nominal service. The battery bank weighs around the same amount as 8 golf cart batteries at 225kg. The rated capacity is 35 kWh but is configured to provide 26 usable kWh before starting to shed loads.
 
 Each string of 8 cells has a dedicated cell voltage monitoring (accurate to +/- 1 mV) and balancing (47 Ohm shunt - 68 mA / 1.6 Ah per day) module. This precision allows detecting internal cell issues or problems with poor fitting connections. Each of the 5 monitoring modules include 3 temperature sensors and communicate over CAN Bus to the rest of the electrical control network. The BMS controller is capable of disconnecting the entire pack, a single string, specific discharge loads, all discharge loads, specific charge loads, or all charge sources. The BMS controller also sets charge target voltage and current settings for all charge sources. Cells are compressed and expansion is motitored with compression load cells.
 
 Even though rated capacity is 1400 Ah the SOC config in the BMS is set to 1250 Ah. Charge efficiency is currently 98%. Peukert ratio is 1.05
+
+175mm (6.9") wide, 72mm thick, 210mm (8.3") high.
+Each string of 8 is 600mm. 2ft.
+String of 11 is 800mm. 2ft 7 and 1/4".
 
 ### Buffer / Starting Battery - 12.8 V Lithium
 

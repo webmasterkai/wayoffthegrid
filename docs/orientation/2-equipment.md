@@ -344,6 +344,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * NMEA 2000 / NMEA 0183 converter with Wifi Data Gateway.
 * Shakespeare 4711 flange mount with 4364-B 12in fiberglass extension for 220WX (2019)
 * Airmar 220WX Weather Station - Wind, Temp, Humidity,Baro Pressure, GPS, Heel, Pitch (2019)
+* Simrad GO5 MFD
 
 ## Audio
 
@@ -389,7 +390,6 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * Bruce anchor
 * AMEC Camino 108 AIS Class B
 * AIS Antenna
-* Simrad GO5 MFD
 * Sonar
 
 ## Other Equipment

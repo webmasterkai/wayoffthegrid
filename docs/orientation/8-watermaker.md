@@ -80,10 +80,27 @@ Prior to cleaning the membranes, verify that any reduction in product output is 
 
 Use the alaki first at 50 grams per 4.5 litres water, circulate for 1/2 hour, stop circulation and let it soak for 1 hour, circulate for another 1/2 hour then flush out. Fill with acid at same dilution as alkali, circulate for 45 min - 1 hour then flush. Do not use soak for the acid.
 
-## Replacement
+## Membrane Replacement
 
-* Keep elements moist at all times
+* Keep elements moist at all times.
+
+### Pressure Vessel Disassembly
+
+* Disconnect high pressure intake on forward end of membrane housing.
+* Disconnect wire from high pressure sensor.
+* Disconnect permeate, cleaning circulation, and brine discharge tubes.
+* Remove bolts holding the mounts onto the vertical wooden supports.
+* Remove the pressure vessel from the lazerette and continue on a workbench or in cockpit.
+* Remove the six fasteners and cap ring holding each end plug with an Allen wrench. Place a mark on each end plug to be removed, place a corresponding mark on each end collar. This will ensure proper orientation during assembly. Refer to Figure 6.2.
+* Locate the screwdriver slots located on opposite ends of the pressure vessel end collar. Place an appropriate sized slot screwdriver in each slot. Twist both screwdrivers until the end plug breaks loose from the pressure vessel. The screwdrivers can now be placed between the end plug and collar. A prying motion on both sides of the end plug with the screwdrivers will quickly remove it. Use this procedure for both end caps.
+* Push or pull the membrane element out of the pressure vessel tube.
+* Note which end of the pressure vessel the brine seal was installed at. The brine seal is a black u-cup seal on the membrane outer diameter near one end (Refer to Figure 6.3). This is the feed end of the pressure vessel. When reinstalling the RO membrane the brine seal must be located at the feed end of the pressure vessel.
+* NEVER FORCE A MEMBRANE OUT OF A PRESSURE VESSEL BY APPLYING PRESSURE ON THE PRODUCT WATER TUBE (CENTER TUBE), AS THIS WILL DAMAGE THE MEMBRANE. IF MEMBRANE IS DIFFICULT TO REMOVE, USE A 2” DIAMETER PLASTIC PIPE (PVC) TO APPLY PRESSURE ON THE PROTECTED END OF THE MEMBRANE.
+
 * Permeate obtained from first two hours of operation should be discarded
+
+## Notes
+Measure the product water flow AND brine water flow and add them together at 800psi. That should match the rated output of your Hp Pump. If it doesn’t then you have a pump packing problem resulting in low flow and high ppm. The carbon filter and prefilters have nothing to do with your product water ppm. That’s governed by Flow Rate, Pressure, Sea water temp, salinity level and membrane surface area and health.
 
 ## Electrical
 
