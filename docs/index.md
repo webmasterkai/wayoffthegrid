@@ -23,13 +23,38 @@
 | [Build Photos](https://goo.gl/photos/Nwe4rwotP1fW986bA)
 | [VRM Energy Graphs](https://vrm.victronenergy.com/installation/12853/share/0889a143)
 
+## Location / Position Reports
+
+We regularly report our position to many online vessel tracking services.
+
+* [Noforeignland](https://www.noforeignland.com/boat/twig/journey)
+* [Marine Traffic](https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280)
+* [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)
+* [FleetMon](https://universe.fleetmon.com/explorer/vessel/3691297?zoom=6.5&baseLayer=fm-street)
+
+## Tender/Dinghy
+
+* **Manufacturer:** AB Inflatables
+* **Model:** 10AL Aluminum bottomed Hypalon RIB.
+* **Color:** Gray
+* **MMSI:** 338219159 (AMEC Camino 108 AIS Class B, Standard Horizon 1850G, Standard Horizon HX870)
+
+## Communications
+
+* **Class A AIS:** MMSI 367572690 (Em-Trak A200)
+* **Marine VHF:** Monitoring channels 70 (DSC), 16, 13, 75.
+* **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
+* **Inbound SMS Message Number:** +1 763-878-8944 (763-8SV-TWIG)
+* **Iridium GO:** 8816-31403941
+* **SailMail:** WDJ4453
+
 ## Important Numbers
 
 * **Boat US:** 20156955
 * **EPIRB 1:** 2DCC7B1B64FFBFF
 * **EPIRB 2:** 2DCC4419AEFFBFF
 
-## Crew
+## Regular Crew
 
 ### Kai Curry
 
@@ -46,22 +71,11 @@
 
 ### Reverie
 
-## Tender/Dinghy
-
-* **Manufacturer:** AB Inflatables
-* **Model:** 10AL Aluminum bottomed Hypalon RIB.
-* **Color:** Gray
-* **MMSI:** 338219159 (AMEC Camino 108 AIS Class B, Standard Horizon 1850G, Standard Horizon HX870)
+* **Overboard MMSI:** 97260xxxx _Ocean Signal MOB1_
 
 ## Liferaft
 
 Winslow Offshore 6 person life raft
-
-## Location
-
-* [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)
-* [Marine Traffic](http://www.marinetraffic.com/en/ais/details/ships/mmsi:367572690)
-* [Noforeignland](https://www.noforeignland.com/boat/5613616506077184)
 
 ## About Twig
 

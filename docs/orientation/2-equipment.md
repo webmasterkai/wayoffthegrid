@@ -367,7 +367,7 @@ Village Marine Little Wonder Water Maker Modular Series (LWM) 12v.
 * VHF: Standard Horizon HX870 Handheld VHF Radio w/GPS (Extra battery in ditch bag).
 * VHF: Uniden MHS335BT Handheld VHF Radio w/GPS & Bluetooth
 * VHF: Uniden MHS75 Handheld VHF
-* SSB: Icom IC-M802 single side band radio
+* SSB: Icom IC-M803 single side band radio
 * SSB: Tuner Icom AT-140 auto tuner
 * SSB: Insulated backstay antenna
 * SSB: KISS antenna grounding system ('15)

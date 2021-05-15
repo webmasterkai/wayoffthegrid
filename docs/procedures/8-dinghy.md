@@ -2,19 +2,21 @@
 
 ## Departure
 
-* Remain attached to mooring point until outboard has been running for 15 seconds or more.
-* Confirm outboard locked/clamped.
+* Confirm outboard is locked/clamped.
 * Lifejackets per passenger and one throwable PFD.
-* Tank under bow seat has ample fuel. Fuel line connected.
-* Open fuel vent, pump bulb firm.
+* Check tank under bow seat has ample fuel. Fuel line connected.
+* Open fuel vent if necessary, pump bulb firm.
 * Connect battery.
 * Connect key/kill switch.
 * Transmission in neutral to start.
 * Throttle all the down in start position.
-* Push green starter button or pull starting cord.
-* Check cooling water and that red light goes out.
+* Start engine by pushing the green button on the motor for a few seconds. Release once engine starts.
+* If the engine doesn't start from battery power it can be pull started using the cord and handle. Please report electric start failure to boat todo list.
+* Remain attached to mooring point until outboard has been running for 15 seconds or more.
+* Check cooling water exits side of engine and that red indicator light goes out.
 * Place kill cord around wrist.
 * Disconnect painter.
+* Lights and radio should automatically turn on about 30 seconds after engine is started.
 
 ## Daily
 
@@ -29,8 +31,8 @@
 
 ## Electrical
 
-* Connectors for engine.
-* 4 circuit fuse block.
+* Anderson Powerpole Connectors for engine to battery.
+* 6 circuit fuse block.
 
 ### Fuse Block
 

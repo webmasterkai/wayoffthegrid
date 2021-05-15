@@ -251,7 +251,7 @@ Engine Stop
 - Backlight zone: on(10%)
 - Locker lights: off(on:120m if on:30min)
 
-## House Bank Details
+## 24 V House Bank Details
 
 300 x 760 area to mount controllers
 
@@ -264,86 +264,72 @@ Venus GX:   143 x 96
 RaspberryPi: 100 x 100
 2x MRBF Block: 51 x 190
 
-### Positive Bus
-
-Location: Battery cell compartment
-Each battery string (5 total) has its own 150A MRBF Terminal Fuse.
-MRBF Terminal Fuse -> Busbar -> Fuses
-
-5 Terminal BEP Busbar -> Class T 600A Fuse -> BEP ANL Fuse Block
-
-#### BEP ANL Block
-
-Plastic Fuse holders - hole space 50mm apart for strip
-
-1. 300A: Load Bus - House Power
-2. 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
-3. 300A: Alternator 1 & 2 MRBF Block
-4. 80A: Solar Block
-
-5. _future_ 300A: Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
-6. _future_ 200A: Dedicated AC to DC Charger
-
-#### MRBF Alternator Charge Bus
-
-1. 225A: Alternator 1 Power Output (2/0 AWG)
-2. 225A: Alternator 2 Power Output (2/0 AWG)
-3. 30A: 10 AWG - 24v to 13v 25 A buck input - 400 W DC Buck Voltage Reducer (25 A) Always On
-
-1. 500A ML Remote Solenoid Switch - **Charge Bus**
-2. 500A ML Remote Solenoid Switch - **House Power Bus**
-
-**ST Blade Battery Terminal Mount Fuse Block**
-1. 2A: Battery Monitor Voltage Positive Sense Wire
-
-Devices that enable charging the house bank. Located within the battery box section.
-
-**Solar Block**
-1. 50A: SunPower Victron 100-50 SmartSolar Controller
-2. 40A: Kyocera Victron 100-30 SmartSolar Controller
-
-MRBF or MAXI
-
 **Future**
 
 House BMV low voltage relay provides cutoff for chargers.
 Buffer BMV high voltage relay switches between boost/buck.
 
-#### House Power Bus (24 V)
+### Positive Bus
 
-400 A Battery Protect to fuse blocks
+Location: Battery cell compartment
+Each battery string (5 total) has its own 150A MRBF Terminal Fuse.
 
-**24h 24 V - Always On ATO/ATC Fuses**
+1. String Positive Post (x5)
+2. MRBF Terminal Fuse (x5)
+3. 5 Stud Busbar (1A: BMV Volt Sense)
+4. Class T 500A Fuse
+5. 500A ML-RBS Remote Battery Disconnect
+6. BEP ANL Fuses with busbar links
 
-1. 10A: 24 V High-Flow High-Water Bilge Pump Auto Switch
-2. 2A: AIS + Splitter (switch?)
-3. 1A: (3.2 W) Venus GX + USB-C Charger for rPi
-3. 1A: Cell Modem (USB Power)
-4. 1A: Propane LPG Sensor & Valve
-2. 1A: WiFi Booster
+#### 24 V BEP Pro Installer ANL Fuse Block
 
-**Fuse Block 2 - SafetyHub 150**
+0. [DC] 30A: _YDCC-1-4_ 10 AWG - 24v to 13v 25 A buck - 400 W DC Buck Voltage Reducer (25 A) Always On
+1. [CHG] 80A: Solar Block (100A Battery Protect for solar shutoff)
+2. [CHG] 200A: Alternator 1
+3. [CHG] 200A: Alternator 2
+4. [INV/CHG] 300A: 3kW 120 V 60 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+5. [INV/CHG] 300A: 3kW 230 V 50 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+
+1. [LD] 175A: Load House Power Bus 24 V
+2. [LD] 175A: Windlass (75 A Circuit Breaker & 100 A Battery Protect)
+3. [LD] 175A: Winch
+4. [LD] 60A: _eng start_
+5. [LD] 60A: _eng start_
+
+#### Sub Fuse Blocks
+
+**24V 1. Solar Block**
+1. 50A MIDI: SunPower Victron 100-50 SmartSolar Controller
+2. 40A MIDI: Kyocera Victron 100-30 SmartSolar Controller
+
+**24V 4. Load House Power Bus**
 
 AMI(Bussmann)/MIDI(Littlefuse) Fuses
 
-AMI Fuses
-
-65 A to be replaced with 100 A Battery Protect? All outputs are switched. Maybe just one primary disconnect?
-
 1. 30A: Fwd Cabin CZone
 2. 30A: CZone MOI - Ballast Pump
-4. 70A: Chart Table CZone
-5. 70A: Aft Cabin CZone
-6. 30A: Alternator Controllers (65 A Battery Protect + Inline 15A Fuses)
+3. 70A: Chart Table CZone
+4. 70A: Aft Cabin CZone
+5. 40A: 24h 24 V - Always On ATO/ATC
+6. 30A: Watermaker Fuse Block (65 A Battery Protect)
+7. 150A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
+8. 30A: Main Head Fuse Block (65 A Battery Protect)
+9. 50A: _eng start_ 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A)
+10. 30A: SSB 24V - 12V Converter
+11. 40A: Emergency DC Converter 12v (9-18v) to 26.5v booster output.
+12. 0A: _blank_
 
-5. 30A: Watermaker Fuse Block (65 A Battery Protect)
-6. 30A: Main Head Fuse Block (65 A Battery Protect)
-7. 40A: DC Converter 12v (9-18v) to 26.5v booster output. Should it be used as a pre-charge?
-8. 175A: Windlass (75 A Circuit Breaker & 100 A Battery Protect)
-9. 150A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
-10. 50A: 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A) Engine-Ignition
+**24V 4-5. 24h 24 V - Always On ATO/ATC Fuses**
 
-**Watermaker - ST Blade 4 Circuit**
+1. 10A: 24 V High-Flow High-Water Bilge Pump Auto Switch
+2. 2A: _YDCC-1-3_ AIS + Splitter
+3. 1A: (3.2 W) Venus GX + USB-C Charger for rPi
+4. 1A: Cell Modem (USB Power)
+5. 1A: Propane LPG Sensor & Valve
+6. 1A: WiFi Booster
+7. 20A: Alternator Controllers (65 A Battery Protect + Inline 15A Fuses)
+
+**24V 4-6. Watermaker Fuse Block - ST Blade 4 Circuit**
 
 Fuse Block 3 -> 24 V Feed -> Battery Protect -> Fuseblock
 
@@ -353,7 +339,7 @@ Fuse Block 3 -> 24 V Feed -> Battery Protect -> Fuseblock
 4. 1A: Freshwater Flush Valve
 5. 2A: 12 V Pump Fan?
 
-**Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
+**24V 4-7. Main Head 24v - 5025 ST Blade 6 Circuit w/ Neg Bus**
 
 Battery Protect -> Fuseblock
 
@@ -364,7 +350,7 @@ Battery Protect -> Fuseblock
 5. 10A: _future_ Shower Discharge Pump
 6. 2A: Toothbrush USB Charger
 
-**Main Head 24 to 12 V converter**
+**12V 4-7-1. Main Head 24 to 12 V converter output**
 
 12v DC Output -> Mega Fuse + Inline Fuse
 30A Mega Fuse -> Electroscan
@@ -372,42 +358,67 @@ Battery Protect -> Fuseblock
 Switch Buttons -> Macerator Relay
 Switch Buttons -> Intake Pump
 
+**24V 6. Alternator Block**
+1. 225A: Alternator 1 Power Output (2/0 AWG)
+2. 225A: Alternator 2 Power Output (2/0 AWG)
+3. 30A: _YDCC-1-4_ 10 AWG - 24v to 13v 25 A buck - 400 W DC Buck Voltage Reducer (25 A) Always On
+
 ### Negative Post
 
-1. Current Sense Shunt
-2. Remote Battery Switches - ML-Remote Battery Switch EMERGENCY Disconnect All House.
+1. Battery Negative busbar
+2. Current Sense Shunt
+3. Negative busbar
+
+#### Negative Busbar
+
+1. Cockpit Negative
+2. CZone COI
+3. Engine Starter
 
 ## 12v Buffer/Starter
 
-### Positive Post
+### Positive Branch
 
-MRBF
+1. 250A MRBF
+2. ML-RBS
+3. Engine Starter & MRBF 200A -> 12 V Charger / Power Bus
 
-1. 200A: Charger / Power Bus
-2. 200A: Starter
-
-#### Charge / Power Bus
-
-What is this fuse block? MRBF?
+#### 12V 1. Charge / Power Bus
 
 1. 40A: Engine Control CZone
 2. 50A: 12 V 24h Fuse Block
 3. 50A: Boost Charger
 4. 40A: Buck Charger 1
 5. 90A: Buck Charger 1
+6. 0A: _blank_
 
-#### 12v 24h Critical Fuse Block
+#### 12v 1-2. 24h Critical Fuse Block
 
 Power Bus -> Battery Protect 65
 
 12 circuit ATC/ATO fuse block
 
-1. 15A: Diaphragm Primary Bilge Pump
-2. 15A: VHF Radio _switched?_
-2. 2A: _switch 1_ NMEA 2000 Primary
-3. 1A: WiFi Router _switched?_
-6. 1A: _switch 2_ Motorized Water Tank Valves
-7. 2A: (350 mA) Battery BMS Feed
+1. 15A: Diaphragm Primary 12 V Bilge Pump
+2. 2A: NMEA 2000 CAN1-A Primary (Feeds YDCC)
+3. 2A: (350 mA) Battery BMS Feed
+4. 15A: _YDCC-1-2_ VHF Radio
+5. 2A: _YDCC-1-1_ NMEA 2000 CAN1 B CZone + 24h
+6. 1A: WiFi Router _switched?_
+7. 1A: _switch 2_ Motorized Water Tank Valves
 8. 15A: _need switch?_ Oil Pump
 9. 10A: _pending removal_ Main Head Greywater Pump
-12. _empty_ Ignition? Simrad Go5?
+10. 5A: Power for Simrad GO5 _need to identify wire_ (Combine with CAN1-B?)
+11. 5A: Saloon Fan
+
+## 120 V 60 Hz AC
+
+* 30 Amps shorepower connection
+* Main breaker
+* Inverter/Charger
+
+### Distribution
+
+* Air Conditiong
+* Microwave
+* AC Outlets Port
+* AC Outlets Starboard
