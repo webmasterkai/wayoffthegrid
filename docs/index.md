@@ -3,6 +3,7 @@
 * **Make/Model:** Saga 43
 * **Hailing Port:** Minneapolis, MN
 * **MMSI:** 367572690 _(IC-M605, IC-M802, Raymarine 650 AIS, and Uniden MHS335BT Handheld)_
+* **Group MMSI:** 036757269
 * **USCG Documentation #:** 1109105
 * **HIN:** QYG43039M01K
 * **Year:** 2001
@@ -32,6 +33,8 @@ We regularly report our position to many online vessel tracking services.
 * [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)
 * [FleetMon](https://universe.fleetmon.com/explorer/vessel/3691297?zoom=6.5&baseLayer=fm-street)
 
+We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/TwigVessel).
+
 ## Tender/Dinghy
 
 * **Manufacturer:** AB Inflatables
@@ -45,7 +48,7 @@ We regularly report our position to many online vessel tracking services.
 * **Marine VHF:** Monitoring channels 70 (DSC), 16, 13, 75.
 * **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
 * **Inbound SMS Message Number:** +1 763-878-8944 (763-8SV-TWIG)
-* **Iridium GO:** 8816-31403941
+* **Iridium GO:** 8816-31403941 (IMEI# 300325060919550, Serial# APM29591)
 * **SailMail:** WDJ4453
 
 ## Important Numbers
@@ -71,11 +74,18 @@ We regularly report our position to many online vessel tracking services.
 
 ### Reverie
 
-* **Overboard MMSI:** 97260xxxx _Ocean Signal MOB1_
+* **Overboard MMSI:** 972601092 _Ocean Signal MOB1_
 
 ## Liferaft
 
-Winslow Offshore 6 person life raft
+* **Brand:** Winslow
+* **Size:** 6 Person
+* **Model:** Super-Light Offshore Plus Life Raft / Containing Basic Offshore SEP Packed Inside / Custom Pack
+* **Color:** Yellow/Orange
+* **Serial No:** 6OP-01231
+* **Service Validation:** M-SVC 2RZ00034
+* **Part No:** M-60SLOP-BO-1-105
+* **Manufactured Date:** 2021 May
 
 ## About Twig
 

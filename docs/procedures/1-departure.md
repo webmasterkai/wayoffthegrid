@@ -56,6 +56,7 @@
 * Main sail stack pack unzipped and halyard attached to head of sail.
 * Disconnect line used to secure aft end of boom to toe rail.
 * If anchored, attach windlass remote on port fordeck.
+* Check that only one watertank valve is open.
 
 ## Personal Prep
 
