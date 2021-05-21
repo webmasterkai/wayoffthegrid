@@ -222,6 +222,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 * Replaced in 2015
 
 **240-33 Ohm Calibration Table**
+
 | Sensor Ohms | Liters    | Percent |
 | ----------- | --------- | ------- |
 | 224.9       | **0**-29  | 0       |
@@ -233,6 +234,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 | 30.6        | 170       | 100     |
 
 **Alarms**
+
 | Alarm    | On Liters | Off Liters | Percent |
 | -------- | --------- | ---------- | ------- |
 | Very Low | 10        | 56         | 1       |
@@ -245,6 +247,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 * Port deck fill.
 
 **240-33 Ohm Calibration Table**
+
 | Sensor Ohms | Liters      | Percent |
 | ----------- | ----------- | ------- |
 | 226.8       | **0**-19    | 0       |
@@ -256,6 +259,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 | 29.2        | ?-144       | 100     |
 
 **Alarms**
+
 | Alarm    | On Liters | Off Liters | Percent |
 | -------- | --------- | ---------- | ------- |
 | Very Low | 10         | 36         | 1       |
