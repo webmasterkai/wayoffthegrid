@@ -76,6 +76,12 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 
 * **Overboard MMSI:** 972601092 _Ocean Signal MOB1_
 
+## Guest Crew
+
+### Ed Sitver
+
+* **Overboard MMSI:** 972604778
+
 ## Liferaft
 
 * **Brand:** Winslow
