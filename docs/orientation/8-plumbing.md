@@ -109,28 +109,34 @@ NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton
 
 #### Acid Treatment/Electrode Cleaning
 
-Cleaning is recommended every SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle.
+Cleaning is recommended every FOUR-SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle. This helps keep hoses clear and the tank plates clean.
+
+The recommended cleaning formula was 16 parts water to 1 part acid. 3 cups of muriatic acid with 3 gallons of fresh water 750ml of acid to 12 liters of water. The concentration needs to be higher at first because it will mix with the water in the tank. See updated instructions below.
 
 1. Flush a 2/3rds full toilet bowl and activate the Electroscan four times, allowing all waste to be treated and evacuated.
 2. Turn off water supply seacock and flush toilet as dry as possible.
 3. Turn Electroscan Power off
 4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.
 **WARNING: Electroscan electrode or motor must not be activated while muriatic acid solution is in the system.**
-4. Wear eye goggles, gloves, and respirator.
-5. In plastic bucket combine 3 cups (852 ml) of muriatic acid with 3 gallons (13.635 liters) of fresh water. (16 water to 1 acid or 1 cup acid per gallon of water or 1 liter acid to 16 liters of water). The acid container is kept wrapped in a thick plastic bag under the galley sink floor.
-6. Carefully pour 1/3 icrements of the solution into the toilet bowl. Alternate pushing the "empty bowl" button for a couple seconds and then waiting several more before repeating.
+4. Get out protective gear and acid. Wear eye goggles, gloves, and respirator. The acid container is kept wrapped in a thick plastic bag under the galley sink floor.
+5. In plastic bucket combine 3 liters of acid with 250-350 ml of muriatic acid.
+6. Carefully pour into toilet.
+7. Alternate pushing the "empty bowl" button for a couple seconds and then waiting several more before repeating. Do not completely empty the bowl.
+8. In plastic bucket now combine 9 liters of fresh water with 400-500 ml of muriatic acid.
+9. Carefully pour 1/3 icrements of the solution into the toilet bowl.
+10. Alternate pushing the "empty bowl" button for a couple seconds and then waiting several more before repeating. Do not completely empty the bowl.
 7. Clean the bowl towards the end of the solution flush.
-8. Pour 0.5 to 1.0 gallon (2-4 liters) of additional fresh water into bowl to dilute remaining acid. The rubber seals in the macerator and joker valve do not like the acid.
-9. Flush until bowl is empty.
-10. Allow to solution to sit inside the Electroscan box for between 45 minutes and a max of 3 hours.
-11. Turn on water supply and flush only the toilet (**WITHOUT activating the Electroscan**) a minimum of 12 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution. The bowl is roughly 1 gallon.
+8. Pour 2-4 liters (0.5 to 1.0 gallon) of additional fresh water into bowl to dilute remaining acid. The rubber seals in the macerator and joker valve do not like the acid.
+9. Flush until bowl is nearly empty.
+10. Allow to solution to sit inside the Electroscan box for between 2-3 hours.
+11. Turn on sea water supply and flush only the toilet (**WITHOUT activating the Electroscan**) a minimum of 12 gallons (38.0 liters) of water to dilute and discharge muriatic acid solution. The bowl is roughly 4 liters (1 gallon).
 13. Reconnect wires and turn power on to Electroscan.
 
-Note the Electroscan, pump and macerator are still 12v. There is a 24v to 13.2v converter below the sink mounted on the hull. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components could eventually be switched to 24v versions.
+Note the Electroscan and intake pump are still 12v. There is a 24v to 13.2v converter below the sink mounted on the hull. We were having issues with low voltage and low amps. After converting the house bank to 24v the dedicated converter resolved our issues. All components except the plate could eventually be switched to 24v versions. We'll probably switch to a custom controller eventually to allow using the 12V plate with direct 24V power input.
 
 ### Forward Head
 
-**Currently Toilet System Removed**
+**Currently Fwd Head Toilet System Removed**
 
 Excessive use of flushing water will increase the need for pump-outs. Conservative use of flushing water is essential. Everyone on board should be instructed in good marine toilet habits. Your toilet will love you and your holding tank will go many miles further between pump-outs.
 WARNING: Resistance on the toilet pump handle almost always indicates a full holding tank, (or a closed discharge valve) DO NOT FORCE!!!! Investigate first. Undue force can rupture holding tank cleanout plates or blow off waste hoses.
@@ -139,7 +145,7 @@ When leaving the boat for more than a day, we suggest pumping out the holding ta
 
 #### Holding Tank
 
-In addition to the Electroscan in the main head this SAGA 43 has one complete waste systems which is designed to be legal in any location. Waste may be held in the holding tank until a dockside pump out station is reached; or waste in holding tanks may be evacuated overboard by on-board electric macerator pumps, where legal; or waste may be discharged directly overboard from the toilets, where legal.
+In addition to the Electroscan in the main head this SAGA 43 can accompodate one complete waste systems which is designed to be legal in any location. Waste may be held in the holding tank until a dockside pump out station is reached; or waste in holding tanks may be evacuated overboard by on-board electric macerator pumps, where legal; or waste may be discharged directly overboard from the toilets, where legal.
 
 #### Y-Valve
 
