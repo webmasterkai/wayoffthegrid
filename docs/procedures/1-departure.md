@@ -36,24 +36,24 @@
 
 ## Boat Prep
 
-* Ship & engine batteries on.
-* Confirm bilge sump is dry. There should be less than one square of paper towel worth of total moisture in the aft compartment. Anything more than that indicates a problem.
+* Ship/House & engine batteries on.
+* Confirm bilge sump is dry. There should be less than one square of paper towel worth of total moisture in the aft compartment. Anything more than that indicates a problem that needs to be identified.
 * Close Reverse Cycle AC/Heater seacock. Located under aftmost bottom drawer in fwd cabin.
 * Close 2 large and 1 small forward seacocks related to washdown and forward head. Small door access under bed forward of drawers.
 * Check thru-hull fittings for damage, deteriation, leaks.
-* Loose items off deck (BBQ, cushions, fuel tanks).
-* Water pressure breaker off.
+* Get loose items off deck (BBQ, cushions, fuel tanks) or secure them appropriately.
+* FeshWater pressure off.
 * All hatches closed.
-* Cabin items stowed. Put away tools. Clear surfaces.
-* All cabinet and locker doors closed.
+* Cabin items stowed. Put away tools. Clear surfaces. No loose items.
+* All cabinet and locker doors closed and latched.
 * Make sure cabin doors are closed or securely latched open.
-* Galley stowed (gimbal stove, fiddles on.
+* Galley stowed - gimbal stove, put fiddles on.
 * Secure cockpit seat with two side pins.
 * Instrument covers off. Stored in forward cabinet starboard side in saloon.
 * Close two stern gate lines.
 * Hoist outboard onto the rail. Secure with webbing or rope so that it does not rotate.
 * Dinghy on deck or lifted on davits. Secured four ways.
-* Main sail stack pack unzipped and halyard attached to head of sail.
+* Main sail stack pack unzipped and halyard attached to head of sail. Look to make sure halyard is free of lazyjacks.
 * Disconnect line used to secure aft end of boom to toe rail.
 * If anchored, attach windlass remote on port fordeck.
 * Check that only one watertank valve is open.
@@ -70,7 +70,8 @@
 
 * VHF Radio on and automated radio check.
 * Push the "Weigh Anchor" button.
-* Turn on Chart Plotter (MDF) at helm and instrument displays if necessary. Adjust brightness.
+* Turn on Chart Plotter (MFD) at helm and instrument displays if necessary. Adjust brightness.
+* Start a new track on MFD.
 * Wheel brake off, check stop to stop movement of wheel. Ring finger of non-dominate hand should be capable of turning the wheel by pressing against one of the spokes. The instruments should show -45 to +45 degrees of rudder deflection.
 * On anchor: remove snubber (bridle) from anchor chain.
 * On anchor: take the anchor ball down, unplug light and store in deck locker on port side of mast.

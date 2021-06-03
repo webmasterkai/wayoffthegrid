@@ -9,6 +9,8 @@
 * **Hull #:** 39
 * **PHRF:** 73
 * **NE PHRF:** 81
+* **Motoring Range**: 600-730 nautical miles
+* Metacentric Height
 
 ## Dimensions
 
@@ -59,7 +61,7 @@
 ## Tanks
 
 * **Fresh Water:** 2 Aluminum (130 Gallons)
-* **Fuel Tanks:** 2 Aluminum (35.3 + 45.3) & 1 Plastic (5.1) = 85.6 Gallons)
+* **Fuel Tanks:** 2 Aluminum (35.3 + 45.3) & 2 Plastic (10.2) = 90.7 Gallons)
 * **Holding Tanks:** 1 Aluminum (20 Gallons)
 
 ## Accommodations
