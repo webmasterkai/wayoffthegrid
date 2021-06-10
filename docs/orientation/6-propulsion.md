@@ -218,7 +218,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 #### Forward Diesel Tank
 
 * 170 liters (45 gallons)
-* Starboard deck fill.
+* Starboard deck fill
 * Replaced in 2015
 
 **240-33 Ohm Calibration Table**
@@ -231,7 +231,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 | 137.7       | **57**-46 | 33.34   |
 | 119.2       | 65        | 37.78   |
 | 104.2       | 76        | 44.45   |
-| 30.6        | 170       | 100     |
+| 30.6-35     | 170       | 100     |
 
 **Alarms**
 
@@ -244,7 +244,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 #### Aft Diesel Tank
 
 * 143 liters (38 gallons)
-* Port deck fill.
+* Port deck fill
 
 **240-33 Ohm Calibration Table**
 
@@ -256,7 +256,7 @@ Two aluminum fuel tanks are located beneath the cabin sole and are static ground
 | 124.7       | **36.5**-46 | 25.03   |
 | 117.2       | 47          | 31      |
 | 117.2       | 79          | 31      |
-| 29.2        | ?-144       | 100     |
+| 29.2-33.5   | ?-144       | 100     |
 
 **Alarms**
 

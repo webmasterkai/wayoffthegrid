@@ -4,16 +4,17 @@
 
 1. Verify the seawater intake (seacock #9) is open at the through-hull.
 * Switch **Sample Valve** under galley sink to right, labeled "Sink".
-* Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate away and down. Pointy end up.
+* Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate counterclockwise. Pointy end forward.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
-* Turn on Seawater Pump boost switch at sink or on MFD under pumps. It’s controlled by CZone.
+* Turn on Watermaker Fuseblock using Home Assistant or Victron GX Console Relay 1.
+* Turn on Seawater Pump boost switch using Home Assistant.
 * Check that **Feed Pressure** reaches **1-4 bar (15-60 PSI)** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.
 * Let run for 1-10 minutes to flush out any air bubbles and stinky stagnent water.
 * Turn on "Pressure Pump" switch on the iPad within the WilhelmSK app or relay #1 on the Victron Venus GX remote console.
 * Verify brine discharge is flowing into the sink and the sink drain is clear.
 * Check that feed pressure remains above **0.7 bar (10 PSI)** at all times. If it drops below it's probably time to replace the pre-filter. Optimum pump performance and service life is obtained with 1.4 BAR (20 PSI) inlet pressure.
 * Identify the titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
-* Gradually turn the High Pressure Bypass Valve (Black Handle) to the CLOSED position. It will be horizontal. The feed pressure increase to the membrane should be less than 10psi(0.07 MPa) per second. That's a full 80 seconds to reach pressure. It's extremely difficult to achieve.
+* Gradually turn the High Pressure Bypass Valve (Black Handle) to the CLOSED position. It will be vertical, pointing up. The feed pressure increase to the membrane should be less than 10psi(0.07 MPa) per second. That's a full 80 seconds to reach pressure. It's extremely difficult to achieve.
 * **Flow Meter** should be between **19-27 LPH (5-7 GPH)**. Typical flow is around 25 liters per hour. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. **FLOW MUST REAMIN BELOW 30 LPH (8 GPH) AT ALL TIMES.**
 * High pressure **Membrane Gauge** should read between **55-58 bar (800-850PSI)** in typical salt water. **MUST REMAIN BELOW 62 bar (900PSI)**.
 * Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
