@@ -6,6 +6,7 @@
 * Switch **Sample Valve** under galley sink to right, labeled "Sink".
 * Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate counterclockwise. Pointy end forward.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
+* Push the watermaker "RUN" button.
 * Turn on Watermaker Fuseblock using Home Assistant or Victron GX Console Relay 1.
 * Turn on Seawater Pump boost switch using Home Assistant.
 * Check that **Feed Pressure** reaches **1-4 bar (15-60 PSI)** on feed line. The boost pump takes seawater and pushes it through the 5 micron sediment filter located in the lazerette. As the filter becomes clogged the feed pressure is reduced. The boost pump also turns on an LED behind the filter to help illuminate the filter condition.

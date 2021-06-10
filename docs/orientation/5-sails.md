@@ -82,13 +82,7 @@ Marathon Series 200
 - Tack to track block drop: 161mm (1696-1535 / 6.34")
 - Rig Area: 40.78 sq m (439 sq ft)
 
-#### Jib (#4 82%)
-
-I think you are exactly right about the LP being a little to short. I built a sail for a Sabre 405 that was going to be a self tacking Jib and ran into the same problem. After seeing it on the boat and sailing with it, we built a new sail that was a couple inches longer on the LP and the sail set up completely differently. You could close the leech down up high without over flattening the foot. We also built the new sail with a clew board which gave us some adjustment making it like moving the lead fore and aft.
-
-I will work up a quote for a few different options and e-mail them over to you.
-
-The LP is a little too short. Need to add a couple inches. Also, over 20% mid draft depth is too much. We want to be able to close the leech down up high without over flattening the foot. Need clew board and battens.
+#### Old Jib (#4 82%)
 
 - **Manufacturer:** North Sails (Hampton, VA)
 - **Cloth:** NSP Radian 9.0 oz
@@ -151,8 +145,6 @@ I 16520
 J 4300
 P 13970
 E 5180
-
-Doyle, Quantum
 
 ### Storm Jib (#5)
 

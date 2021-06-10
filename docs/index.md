@@ -28,7 +28,7 @@
 
 We regularly report our position to many online vessel tracking services.
 
-* [RAW Sat Data](https://api.wayoffthegrid.com/position)
+* [RAW Sat Data](https://api.wayoffthegrid.com/position/twig)
 * [Noforeignland](https://www.noforeignland.com/boat/twig/journey)
 * [Marine Traffic](https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280)
 * [Vessel Finder](https://www.vesselfinder.com/?mmsi=367572690)
