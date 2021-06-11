@@ -45,7 +45,7 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 
 ## Communications
 
-* **Class A AIS:** MMSI 367572690 (Em-Trak A200)
+* **Class A AIS Transceiver:** MMSI 367572690 (Em-Trak A200)
 * **Marine VHF:** Monitoring channels 70 (DSC), 16, 13, 75.
 * **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
 * **Inbound SMS Message Number:** +1 763-878-8944 (763-8SV-TWIG)
