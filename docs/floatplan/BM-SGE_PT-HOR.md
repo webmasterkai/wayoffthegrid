@@ -1,8 +1,6 @@
 This info is available on the web https://www.wayoffthegrid.com/floatplan/BM-SGE_PT-HOR
 
-Kai, Emily, Reverie, and our sailing friend Ed are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. Our sail to Bermuda was extremely mild, easy and trouble free. The weather outlook for our roughly two-week passage to the Azores looks favorable. We have professional weather forecasters https://www.wriwx.com/ keeping an eye on things as they relate to us specifically. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
-
-We love getting messages at sea. If you’d like to send us a short message from a US phone, use +1 763-878-8944 (763-8SV-TWIG). This number is only good for sending text messages to. Calling it will not go anywhere. When we reply to your text message it will be from our iridium number (it might look strange on your phone) +881631403941. If you happen to be using an Iridium device or don’t mind the long distance charges you can reply/text us directly to our Iridium number. Short messages (around 140 characters) can alternatively be sent via email to 881631403941@msg.iridium.com These short messages (by phone or email) are typically the fastest delivery because they are sent via push notification to our Iridium GO satellite device. For longer email messages up to 40,000 characters (40kB) please use WDJ4453@sailmail.com We download emails sent to this address via satellite and/or long-range HF radio (SSB) once or twice per day.
+Kai, Emily, Reverie, are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. The sail to Bermuda was extremely mild, easy and trouble free. Our good sailing friend Ed  has been aboard with us since FL and is continuing on to the Azores. The weather outlook for our roughly two-week passage from Bermuda to the Azores looks favorable. We have hired professional weather forecasters https://www.wriwx.com/ to keep an eye on things as they relate our voyage specifically. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
 
 ---
 
@@ -47,19 +45,21 @@ People Onboard: 4
 
 ### TRACKING
 
-We transmit our position via AIS. Various stations will relay our position to websites like Marine Traffic when they receive our location info. This works when we are as far as 80 miles from shore. We also send our position via satellite to https://www.noforeignland.com/boat/twig/journey and https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280 Satellite updates are not guaranteed.
+We transmit our position over VHF with a Class A Automatic Identification System (AIS) transceiver. This is sends our details to other vessels within a 20 mile radius. It's also received by various shore stations that relay our position to websites like Marine Traffic when they receive our location info. This works when we are as far as 80 miles from shore. We also send our position via satellite to https://www.noforeignland.com/boat/twig/journey and https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280 Satellite updates are not guaranteed but attempted every 5-10 minutes. Note that there are _sometimes_ spans of several hours where our position is _not_ updated.
 
-Our latest position can also be optained by sending a text message to +1 763-878-8944 with the word twig. You should get an automatic reply within a minute or two. It includes coordinates and the time of fix in UTC. For example "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". The same can be done for our buddy boats by sending a message with the vessel name.
+Our latest position can be optained by sending a text message to +1 763-878-8944 with the word twig. You should get an automatic reply within a couple minutes. It includes coordinates and the time of the fix in UTC. For example "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". The same method can be used to retrieve the position of one of our buddy boats by sending a message with the vessel name.
 
 A **low-bandwidth friendly** webpage with positions for Twig and our buddyboats is available at https://api.wayoffthegrid.com/position for Twig specifically https://api.wayoffthegrid.com/position/twig
 
 ### COMMUNICATIONS
 
+**We love getting messages at sea.** If you’d like to send us a short message from a US phone, use +1 763-878-8944 (763-8SV-TWIG). This number is only good for sending text messages to. Calling it will not go anywhere. When we reply to your text message it will be from our iridium number (it might look strange on your phone) +881631403941. If you happen to be using an Iridium device or don’t mind the long distance charges you can reply/text us directly to our Iridium number. Short messages (around 140 characters) can alternatively be sent via email to 881631403941@msg.iridium.com These short messages (by phone or email) are typically the fastest delivery because they are sent via push notification to our satellite communication device. Longer email messages up to 40,000 characters (40kB) can be sent to WDJ4453@sailmail.com We download emails sent to this address via satellite and/or long-range HF radio (SSB) once or twice per day.
+
 * Send SMS via: +1 763-878-8944
 * Iridium Number: +881631403941
 * Short Email: 881631403941@msg.iridium.com
 * Longer Email: WDJ4453@sailmail.com
-* Iridium Email: twig@myiridium.net
+* Iridium Email: twig@myiridium.net (typically not used)
 * Twitter: https://twitter.com/TwigVessel (we only send updates, can’t read replies)
 
 ### EMERGENCY CONTACTS
