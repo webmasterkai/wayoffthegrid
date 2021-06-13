@@ -51,7 +51,7 @@ People Onboard: 4
 
 We transmit our position over VHF with a Class A Automatic Identification System (AIS) transceiver. This sends our details to other vessels within a 20 mile radius. It's also received by various shore stations that relay our position to websites like Marine Traffic when they receive our location info. This works when we are as far as 80 miles from shore. We also send our position via satellite to https://www.noforeignland.com/boat/twig/journey and https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280 Satellite updates are not guaranteed but attempted every 5-10 minutes. Note that there are sometimes spans of several hours or more where our position is _not_ updated.
 
-Our latest position can be obtained by sending a text message to +1 763-878-8944 with the word twig. You should get an automatic reply within a couple minutes. It includes coordinates and the time of the fix in UTC. For example "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". The same method can be used to retrieve the position of one of our buddy boats by sending a message with the vessel name.
+Our latest position can be obtained by texting the word twig to +1 763-878-8944. You should get an automatic reply within a couple minutes. It includes coordinates and the time of the fix in UTC. For example example, sending the word twig will result in a message that looks like "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". Speed Over Ground and Course Over Ground are simple calculations based on the previous position and time. The same method can be used to retrieve the position of one of our buddy boats by texting their vessel name (sargo, taima1, polarseal).
 
 A **low-bandwidth friendly** webpage with positions for [Twig](https://api.wayoffthegrid.com/position/twig) and our buddy boats is available at https://api.wayoffthegrid.com/position or for Twig specifically https://api.wayoffthegrid.com/position/twig
 
@@ -61,12 +61,17 @@ If our position hasn't updated at any of the above links and we have not communi
 
 **We love getting messages at sea.** If you’d like to send us a short message from a US phone, use +1 763-878-8944 (763-8SV-TWIG). This number is only good for sending text messages to. Calling it will not go anywhere. When we reply to your text message it will be from our iridium number (it might look strange on your phone) +881631403941. If you happen to be using an Iridium device or don’t mind the long distance charges you can reply/text us directly to our Iridium number. Short messages (around 140 characters) can alternatively be sent via email to 881631403941@msg.iridium.com These short messages (by phone or email) are typically the fastest delivery because they are sent via push notification to our satellite communication device. Longer email messages up to 40,000 characters (40kB) can be sent to WDJ4453@sailmail.com We download emails sent to this address via satellite and/or long-range HF radio (SSB) once or twice per day.
 
-* Send SMS via: +1 763-878-8944
-* Iridium Number: +881631403941
-* Short Email: 881631403941@msg.iridium.com
-* Longer Email: WDJ4453@sailmail.com
-* Iridium Email: twig@myiridium.net (typically not used)
-* Twitter: https://twitter.com/TwigVessel (we only send updates, can’t read replies)
+* **Class A AIS Transceiver:** MMSI 367572690 (Em-Trak A200)
+* **Marine VHF:** Monitoring channels 16, 13, 70 (DSC), sometimes 75.
+* **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, (sometimes 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz) _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
+* **Inbound SMS Text Message Number:** +1 763-878-8944 (763-8SV-TWIG)
+* **Iridium Voice/Text Number:** 8816-31403941 (IMEI# 300325060919550, Serial# APM29591)
+* **Short Email:** 881631403941@msg.iridium.com
+* **Longer Email:** WDJ4453@sailmail.com
+* **Iridium Email:** twig@myiridium.net (typically not used)
+* **Twitter:** https://twitter.com/TwigVessel (we only send updates, can’t read replies)
+* **Kai Cell:** +1 612-845-9876
+* **Emily Cell:** +1 612-860-4060
 
 ### EMERGENCY CONTACTS
 
