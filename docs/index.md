@@ -47,17 +47,17 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 ## Communications
 
 * **Class A AIS Transceiver:** MMSI 367572690 (Em-Trak A200)
-* **Marine VHF:** Monitoring channels 70 (DSC), 16, 13, 75.
-* **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
+* **Marine VHF:** Monitoring channels 16, 13, 70 (DSC), sometimes 75.
+* **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, (sometimes 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz) _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
 * **Inbound SMS Message Number:** +1 763-878-8944 (763-8SV-TWIG)
 * **Iridium GO:** 8816-31403941 (IMEI# 300325060919550, Serial# APM29591)
 * **SailMail:** WDJ4453
 
 ## Important Numbers
 
-* **Boat US:** 20156955
 * **EPIRB 1:** 2DCC7B1B64FFBFF
 * **EPIRB 2:** 2DCC4419AEFFBFF
+* **Boat US:** 20156955
 
 ## Regular Crew
 
@@ -97,11 +97,11 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 
 ## About Twig
 
-We sail a 2001 Saga 43 named Twig, designed by the famous offshore yacht designer, [Robert Perry](http://perryboat.com). In choosing a boat, we had a few very specific qualities which were absolutely required, and a few things we desired, but weren't necessary. Twig embodied all of the things we were wanting in a sailboat: a modern sailboat designed for offshore use, a long water line, a pullman berth (the forward berth is moved back, out of the bow, and a head is in the "V" because I'm not shaped like a triangle and I refuse to sleep in one any longer), a separate aft cabin for the kid, a sail area to displacement ratio of greater than 15 (technical stuff), a sugar-scoop transom, a bathroom that included a separate shower stall, and an all around bright, well ventilated boat with a dry bilge.
+We sail a 2001 Saga 43 named Twig, designed by the famous offshore yacht designer, [Robert Perry](http://perryboat.com). In choosing a boat, we had a few very specific qualities which were absolutely required, and a few things we desired, but weren't necessary. Twig embodied all of the things we were wanting in a sailboat: a modern sailboat designed for offshore use, a long water line, a pullman berth (the forward berth is moved back, out of the bow, and storage is in the "V", a separate aft cabin for the kid, a sail area to displacement ratio of greater than 15 (technical stuff), a sugar-scoop transom, a bathroom that included a separate shower stall, and an all around bright, well ventilated boat with a dry bilge.
 
-We were also lucky to find Twig (previously Nottus then Free Spirit) had recently gone through a refit and had lots of new bells and whistles, along with important things like newer standing rigging (the wires that hold up the mast), a reinforced main bulkhead, hull, mast step (where the mast sits on the keel), and an extra 850 lbs (386kg) added onto the keel for extra stability.
+We were also lucky to find Twig (previously Nottus then Free Spirit) had recently gone through a structural refit, including a reinforced main bulkhead, hull, and mast step (where the mast sits on the keel). An extra 850 lbs (386kg) was previously added onto the keel for extra stability.
 
-She is a Solent Rig, which means the overlapping Genoa and self-tacking Jib are on separate roller furlings next to each other on the bow. The forward fore stay roller houses the Genoa which is deployed in light winds or going downwind. The aft solent stay roller houses the Jib which is self-tending (except we often rig a barber hauler) and is used most often when going upwind. Having both sails at the ready is of great benefit during offshore passages where we stay on the same tack for many miles. Additionally, the rig is tall and the boat is on the lighter side for a 43 foot ocean boat, which makes it faster in light winds.
+Twig is a Solent Rig, which means the overlapping Genoa and self-tacking Jib are on separate roller furlings next to each other on the bow. The forward fore stay roller houses the Genoa which is deployed in light winds or going downwind. The aft solent stay roller houses the Jib which is self-tending (except we often rig a barber hauler) and is used most often when going upwind. Having both sails at the ready is of great benefit during offshore passages where we stay on the same tack for many miles. Additionally, the rig is tall and the boat is on the lighter side for a 43 foot ocean boat, which makes it faster in light winds.
 
 All in all, we had a short list of boat designs that would embody the things we wanted in a boat, with a Saga 43 at the top. She's a wonderfully strong and skinny boat which makes sailing enjoyable.
 

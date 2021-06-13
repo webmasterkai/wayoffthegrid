@@ -13,6 +13,10 @@ Kai, Emily, and Reverie are sailing across the Atlantic to Portugal! We will be 
 
 Twig is a 2001 Saga 43. Sailing Sloop. Cream colored fiberglass monohull. Green sail bag and cockpit canvas. Single mast, fin keel, spade rudder, light green bottom paint.
 
+* **Length:** 43 ft (13.1m)
+* **Breadth:** 11.9 ft (3.6m)
+* **Draft:** 6.9 ft (2.1m)
+
 ### DEPARTURE
 
 * **Port:** BM SGE (Bermuda, Saint George Harbor)
@@ -72,9 +76,11 @@ If our position hasn't updated at the above links and we have not communicated w
 * Mike Sitver +1 415-860-7855 (Ed's Brother)
 * Pam Wall ‭+1 954-612-2128‬ (Sailing expert with possible contacts to help coordinate assistance)
 
-### EMERGENCIES
+### EMERGENCY COORDINATION
 
-If there is great cause for concern please contact USCG, RCC Bermuda, MRCC Ponta Delgada, Lisboa Portugal, or CROSS France using the contact details below. The USCG is the parent organization responsible for rescue coordination until 035W (MET Area IV). East of 035W and south of 48 27N it is France, MET Area II. North of 48 27N is UK, MET Area I but we do not intend on going that far north! Explain the cause for concern and give them the details they require. In almost all cases you will simply be _making them aware of_ a possible situation. **DO NOT** request a rescue effort unless you are absolutely certain one is needed.
+If there is great cause for concern please contact USCG, RCC Bermuda, MRCC Ponta Delgada, Lisboa Portugal, or CROSS France using the contact details below. The USCG is the parent organization responsible for rescue coordination until 035W (MET Area IV). The area we are most likely to be in is managed by USCG SRR Norfolk. East of 035W and south of 48 27N it is France, MET Area II. North of 48 27N is UK, MET Area I but we do not intend on going that far north!
+
+Explain the cause for concern and give them the details they require. In almost all cases you will simply be _making them aware of_ a possible situation. **DO NOT** request a rescue effort unless you are absolutely certain one is needed. A loss of communication does not necessarily mean we are in any danger.
 
 ### IMPORTANT NUMBERS
 
