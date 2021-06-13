@@ -31,7 +31,7 @@ Twig is a 2001 Saga 43. Sailing Sloop. Cream colored fiberglass monohull. Green 
 
 ### ROUTE
 
-We will sail east between 32N 33N until 060W before deciding when to begin moving north. If it looks like there is a strong weather front around the 16th to 18th to the north of our position we will likely remain below 33N until 039W. The absolute furthest north we expect to be is 39N, probably between 041W and 034W. Waypoint updates with ETA for the waypoint will be made via our twitter (@TwigVessel) feed that is available on the [Position & Updates](https://www.sailingthebakery.com/location) page listed above. For example “#waypoint 33 00N 060 00W ETA 2021-06-15 0300UTC”. The coordinates are shorthand for 33 Degrees 0 Minutes North 060 Degrees 0 Minutes West. The time is given in 24 hour format in Coordinated Universal Time so 0300UTC is 3:00AM.
+We will sail east between 32N 33N until 060W before deciding when to begin moving north. If it looks like there is a strong weather front around the 16th to 18th to the north of our position we will might remain below 34N until 039W. The absolute furthest north we expect to be is 39N, probably between 041W and 034W. Waypoint updates with ETA for the waypoint will be made via our twitter (@TwigVessel) feed that is available on the [Position & Updates](https://www.sailingthebakery.com/location) page listed above. For example “#waypoint 33 00N 060 00W ETA 2021-06-15 0300UTC”. The coordinates are shorthand for 33 Degrees 0 Minutes North 060 Degrees 0 Minutes West. The time is given in 24 hour format in Coordinated Universal Time so 0300UTC is 3:00AM.
 
 ### CREW
 
