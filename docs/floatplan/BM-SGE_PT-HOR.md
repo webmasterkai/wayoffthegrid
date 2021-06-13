@@ -1,4 +1,4 @@
-This info is available on the web https://www.wayoffthegrid.com/floatplan/BM-SGE_PT-HOR
+This info is available (possibly an updated version) on the web https://www.wayoffthegrid.com/floatplan/BM-SGE_PT-HOR
 
 Kai, Emily, and Reverie are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. The sail to Bermuda was extremely mild, easy and trouble free. Our good sailing friend Ed has been aboard with us since FL and is continuing on to the Azores. The weather outlook for our roughly two-week passage from Bermuda to the Azores looks favorable. We have hired professional weather forecasters https://www.wriwx.com/ to keep an eye on things as they relate to our voyage. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
 
@@ -25,7 +25,7 @@ Twig is a 2001 Saga 43. Sailing Sloop. Cream colored fiberglass monohull. Green 
 
 ### DESTINATION
 
-* **Port:** PT HOR (USA, Saint Augustine, Florida)
+* **Port:** PT HOR (Portugal, Horta, Azores)
 * **Date:** 2021-06-29 06:00 EST (10:00 UTC)
 * **Coords:** 38 32N 028 38W
 
@@ -49,13 +49,13 @@ People Onboard: 4
 
 ### TRACKING - LATEST POSITION
 
-We transmit our position over VHF with a Class A Automatic Identification System (AIS) transceiver. This sends our details to other vessels within a 20 mile radius. It's also received by various shore stations that relay our position to websites like Marine Traffic when they receive our location info. This works when we are as far as 80 miles from shore. We also send our position via satellite to https://www.noforeignland.com/boat/twig/journey and https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280 Satellite updates are not guaranteed but attempted every 5-10 minutes. Note that there are _sometimes_ spans of several hours where our position is _not_ updated.
+We transmit our position over VHF with a Class A Automatic Identification System (AIS) transceiver. This sends our details to other vessels within a 20 mile radius. It's also received by various shore stations that relay our position to websites like Marine Traffic when they receive our location info. This works when we are as far as 80 miles from shore. We also send our position via satellite to https://www.noforeignland.com/boat/twig/journey and https://www.marinetraffic.com/en/ais/home/shipid:450795/tracktype:9/lpt:1606661280 Satellite updates are not guaranteed but attempted every 5-10 minutes. Note that there are sometimes spans of several hours or more where our position is _not_ updated.
 
-Our latest position can be optained by sending a text message to +1 763-878-8944 with the word twig. You should get an automatic reply within a couple minutes. It includes coordinates and the time of the fix in UTC. For example "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". The same method can be used to retrieve the position of one of our buddy boats by sending a message with the vessel name.
+Our latest position can be obtained by sending a text message to +1 763-878-8944 with the word twig. You should get an automatic reply within a couple minutes. It includes coordinates and the time of the fix in UTC. For example "Twig - 32 22.783 N - 64 40.377 W - 2021-06-10 18:53UTC - 0.1 SOG - 145 COG". The same method can be used to retrieve the position of one of our buddy boats by sending a message with the vessel name.
 
-A **low-bandwidth friendly** webpage with positions for [Twig](https://api.wayoffthegrid.com/position/twig) and our buddyboats is available at https://api.wayoffthegrid.com/position or for Twig specifically https://api.wayoffthegrid.com/position/twig
+A **low-bandwidth friendly** webpage with positions for [Twig](https://api.wayoffthegrid.com/position/twig) and our buddy boats is available at https://api.wayoffthegrid.com/position or for Twig specifically https://api.wayoffthegrid.com/position/twig
 
-If our position hasn't updated at the above links and we have not communicated with Emergency Contacts listed below in over 12 hours it's possible to get our position by purchasing access to AIS SAT Data https://www.marinetraffic.com/en/online-services/single-services/sat-flexible (MMSI 367572690) by contacting our weather router listed below or by contacting a Maritime Rescue Coordination Center (MRCC).
+If our position hasn't updated at any of the above links and we have not communicated with Emergency Contacts listed below in over 12-24 hours it's possible to get our position by purchasing access to AIS SAT Data https://www.marinetraffic.com/en/online-services/single-services/sat-flexible (MMSI 367572690) by contacting our weather router listed below or by contacting a Maritime Rescue Coordination Center (MRCC).
 
 ### COMMUNICATIONS
 
