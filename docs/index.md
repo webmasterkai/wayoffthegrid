@@ -7,10 +7,11 @@
 * **USCG Documentation #:** 1109105
 * **HIN:** QYG43039M01K
 * **Year:** 2001
-* **Hull Shape & Material:** Monohull FRP (Fiberglass)
+* **Hull Shape & Material:** Monohull FRP (Fiberglass) - Fin Keel - Spade Rudder
 * **Call Sign:** WDJ4453
-* **Color:** Cream w/ Green accents
+* **Color:** Cream w/ Green canvas accents (teal green bottom paint)
 * **Vessel Type:** Pleasure Sailing Sloop
+* **Masts:** 1
 * **Gross Tonnage:** 22 GRT
 * **Net Tonnage:** 20 NRT
 * **Length:** 43 ft (13.1m)
