@@ -1,6 +1,6 @@
 This info is available (possibly an updated version) on the web https://www.wayoffthegrid.com/floatplan/BM-SGE_PT-HOR
 
-Kai, Emily, and Reverie are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. The sail to Bermuda was extremely mild, easy and trouble free. Our good sailing friend Ed has been aboard with us since FL and is continuing on to the Azores. The weather outlook for our roughly two-week passage from Bermuda to the Azores looks favorable. We have hired professional weather forecasters https://www.wriwx.com/ to keep an eye on things as they relate to our voyage. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
+Kai, Emily, and Reverie are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. The sail to Bermuda was extremely mild, easy and trouble free. Our good sailing friend Ed has been with us aboard Twig since FL and is continuing onto the Azores. The weather outlook for our roughly two-week passage from Bermuda to the Azores looks favorable. We have hired professional weather forecasters https://www.wriwx.com/ to keep an eye on things as they relate to our voyage. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
 
 ---
 
@@ -173,4 +173,5 @@ Weather Routing Inc. (WRI)
 If North of 48 27N and East of 035W.
 
 * falmouthcoastguard@mcga.gov.uk
-* +44(0)1326317575 or +44 (0)2038172548
+* +44 (0)1326317575
+* +44 (0)2038172548
