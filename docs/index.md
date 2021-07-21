@@ -50,7 +50,7 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 * **Marine VHF:** Monitoring channels 16, 13, 70 (DSC), sometimes 75.
 * **Marine SSB Voice Monitoring:** _Voice Monitoring_ 2182.0 kHz, (sometimes 4125.0 kHz, 6215.0 kHz, 8291.0 kHz, 12290.0 kHz, 16420.0 kHz) _DSC Monitoring_  2187.5 kHz, 4207.5 kHz, 6312.0 kHz, 8414.5 kHz, 12577.0 kHz, 16804.5 kHz.
 * **Inbound SMS Message Number:** +1 763-878-8944 (763-8SV-TWIG)
-* **Iridium GO:** 8816-31403941 (IMEI# 300325060919550, Serial# APM29591)
+* **Iridium GO:** 8816-31403941
 * **SailMail:** WDJ4453
 
 ## Important Numbers
@@ -77,12 +77,6 @@ We also send occasional updates to [Twitter @TwigVessel](https://twitter.com/Twi
 ### Reverie
 
 * **Overboard MMSI:** 972601092 _Ocean Signal MOB1_
-
-## Guest Crew
-
-### Ed Sitver
-
-* **Overboard MMSI:** 972604778
 
 ## Liferaft
 
