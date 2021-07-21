@@ -6,7 +6,7 @@ The electrical system has been designed to ensure trouble free operation. Wiring
 
 ## Energy Storage
 
-The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (5-6 kWh or 234 Ah per day) usuage without any charging or a full week with typical solar of 2-4.5 kWh per day. Several hours of engine charging is necessary each week.
+The foundation of the electrical system is the batteries. The system is sized large enough (26 kWh / 1020 Ah) to support over 4 full days of energy (5-6 kWh or 234 Ah per day) usuage without any charging or a full week with typical solar of 2-4.5 kWh per day. Several hours of engine charging is necessary each week. A typical week of energy usage is around 30-40 kWh.
 
 ### House Bank - 25.6 V Lithium
 
@@ -25,6 +25,10 @@ String of 11 is 800mm. 2ft 7 and 1/4".
 The buffer battery is 4 x EVE LiFePO4 280Ah 3.2 V 5250g cells wired 4 in series for a 12.8 V service. The primary function is to provide reserve capacity to run engine starter/controls, diaphram bilge pump, VHF radio, and deck-level navigation lights if the house bank fails.
 
 ## Charging / Power Generation
+
+Keep SOC above 32% to allow around a day worth of emergency use before reaching recommended minimum voltage. Keep SOC 40-70% during normal use.
+
+### Charging Technical Specifications
 
 Per series string:
 
@@ -61,7 +65,7 @@ Per series string:
 | 3314    | 26.51  | 76    |                    |         |               |                         |                                                     |
 | 3310    | 26.48  | 75    |                    |         |               |                         |                                                     |
 | 3300    | 26.40  | 50-70 |                    |         | Float Storage |                         | Max storage. Typical under load                     |
-| 3290    | 26.32  | 45    |                    |         |               |                         |                                                     |
+| 3290    | 26.32  | 45    |                    |         |               |                         | Watermaker & Inverter for cooking min               |
 | 3287    | 26.30  | 40    |                    |         |               |                         |                                                     |
 | 3275    | 26.20  | 35    |                    |         |               |                         |                                                     |
 | 3260    | 26.08  | 28    |                    |         |               |                         |                                                     |
@@ -83,11 +87,11 @@ After full charge BMS switches to "storage" mode where battery discharge current
 
 ### [Alternators](/orientation/propulsion/#Alternators)
 
-Energy Storage is replenished the quickest by running the engine. Two 5 kW American Power HPI-185-EXT alternators provides up to 185 A at 28 V (each) to the House Bank. You should see at least 5-6 kW of power at a high idle of around 1,200 Engine RPM. Output starts high and slowly diminishes as the alternators heat up. It takes 4 to 6 hours to fully charge a completely drained House Bank. The alternators have networked alternator regulators. 40 minutes of battery charging at anchor will increase SOC around 10%.
+Energy Storage is replenished the quickest by running the engine. Two 5 kW American Power HPI-185-EXT alternators provides up to 185 A at 28 V (each) to the House Bank. You should see at least 5 kW of power at a high idle of around 1,300 Engine RPM. Output starts high and slowly diminishes as the alternators heat up. It takes 4 to 6 hours to fully charge a completely drained House Bank. The alternators have networked alternator regulators. 45 minutes of battery charging at anchor will increase SOC around 10%. Typically the engine should be used to recharge the batteries when they reach 45% SOC. The engine should be run roughly 30 minutes. It's enough time for engine to reach operating temperature and bring SOC over 50%.
 
 The 185 HPI has 8 pole pairs.
 
-We plan on an average of 2 kWh (20 minutes) per day of energy production from the engine. Generally 3-4 hours of engine running per week is sufficient to keep charged.
+We plan on an average of 2 kWh (25 minutes) per day of energy production from the engine. Generally 3-4 hours of engine running (12-20 kWh) per week is sufficient to keep charged. 1 liter of fuel makes 2.5-3 kWh. At $2/liter it's $0.67-0.80 kWh plus another $1 per kWh in engine depreciation.
 
 ### Solar Array Charging
 
@@ -122,6 +126,8 @@ The Charger Inverter can supply up to 70 A or roughly 1.9 kW of power to the Hou
 3. When the inverter is operating in battery charging mode, DC is being supplied to your batteries and also to run any DC loads at the same time. Battery voltage and charging amperage being supplied by the unit is indicated on the overview page viewable by pushing "esc".
 
 ## Inverter operation:
+
+Inverter should not be turned on if SOC is below 45%.
 
 The inverter converts DC energy from the batteries into 120 volt AC household type current for operation of small appliances. Small TVs, radios, blenders, mixers are usually fine. Except for brief periods, operation of the microwave, air conditioning, heat gun, water heater and other high load devices is only recommended when engine or portable generator is running. Their loads are extremely high and rapid discharge of the batteries will result.
 
@@ -162,31 +168,48 @@ See the windlass instructions for details on proper operation. Chain gypsy size 
 
 ## Buttons / Switches
 
+### Galley Buttons
+
+1. AC Inverter
+2. Freshwater Pump
+
 ### Chart Table Buttons
 
 1. Night Anchored Mode
 2. Weigh Anchor Mode
 3. Day Anchored Mode
-4. Instrument Transducers
-5. MFD Radar
-6. Inverter
+4. MFD Radar
+5. Secondary High Flow Bilge Pump
+6. Weigh Anchor
+
+### Chart Table Button Pad
+
+1. Courtesy Floor Lights
+2. Cabin Lights
+3. Deck Lights
+4. Anchor Light at Masthead
+5. Nav Lights
+6. Flood lights (spots over transom)
 7. Freshwater Pump
-8. Primary Diaphragm Bilg Pump
-9. Secondary High Flow Bilge Pump
-10. Stern Spot Lights
-11. SSB
-12. Fans
-13. Winch / Windlass
-14. HotWater Heater
-15. USB
+8. Electronics
+9. AC Inverter
+10. DC USB Outlets
+11. Washdown
+12. Winch / Windlass
+
+### Future Button Pad
+
+1. Fans
+2. HotWater Heater
 
 ### Cockpit Buttons
 
-Winch / Windlass
-Freshwater Pump
-Ignition (bottom left)
-Engine Start
-Engine Stop
+1. Winch / Windlass
+2. Freshwater Pump
+3. Transom Spot Lights
+4. Ignition (bottom left)
+5. Engine Start
+6. Engine Stop
 
 ## C-Zone
 
@@ -219,7 +242,7 @@ Engine Stop
 - Steaming Light: off
 - Tri-Sail Light: off
 
-### Underway
+### Underway State
 
 - Anchor light - aft: off
 - Anchor light - mast: off
@@ -249,7 +272,7 @@ Engine Stop
 
 - Floor lights - red: on(5%)
 - Backlight zone: on(10%)
-- Locker lights: off(on:120m if on:30min)
+- Locker lights: off (on:120m if on:30min)
 
 ## 24 V House Bank Details
 
@@ -257,6 +280,7 @@ Engine Stop
 
 Solar Controller: 130 x 186
 Solar Controller: 130 x 186
+24v to 13v 70a buck: 88 x 195
 24v to 13v 70a buck: 88 x 195
 24v to 13v 70a buck: 88 x 195
 12v to 24v boost: 88 x 195
@@ -279,28 +303,39 @@ Each battery string (5 total) has its own 150A MRBF Terminal Fuse.
 3. 5 Stud Busbar (1A: BMV Volt Sense)
 4. Class T 500A Fuse
 5. 500A ML-RBS Remote Battery Disconnect
-6. BEP ANL Fuses with busbar links
+6. ANL Fuses with busbar links
 
-#### 24 V BEP Pro Installer ANL Fuse Block
+#### 24 V ANL Fuse Block
 
 0. [DC] 30A: _YDCC-1-4_ 10 AWG - 24v to 13v 25 A buck - 400 W DC Buck Voltage Reducer (25 A) Always On
+
 1. [CHG] 80A: Solar Block (100A Battery Protect for solar shutoff)
-2. [CHG] 200A: Alternator 1
-3. [CHG] 200A: Alternator 2
-4. [INV/CHG] 300A: 3kW 120 V 60 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
-5. [INV/CHG] 300A: 3kW 230 V 50 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+2. [CHG] 300-400A: Alternator/Engine Start
+3. [INV/CHG] 300A: 3kW 120 V 60 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
+4. [INV/CHG] 300A: 3kW 230 V 50 Hz - Inverter/Charger (2/0 AWG) (aux input pins enable/disable)
 
 1. [LD] 175A: Load House Power Bus 24 V
 2. [LD] 175A: Windlass (75 A Circuit Breaker & 100 A Battery Protect)
-3. [LD] 175A: Winch
-4. [LD] 60A: _eng start_
-5. [LD] 60A: _eng start_
+3. [LD] 150-175A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
+4. [LD] 200A: Engine Start DC-DC Converters
 
 #### Sub Fuse Blocks
 
 **24V 1. Solar Block**
 1. 50A MIDI: SunPower Victron 100-50 SmartSolar Controller
 2. 40A MIDI: Kyocera Victron 100-30 SmartSolar Controller
+
+**24V 2. Alternators MRBF Block**
+
+1. 200A: Alternator 1
+2. 200A: Alternator 2
+3. 200A: DC-DC Converters for Engine Start?
+
+**24V 3. Engine Start**
+
+1. 50A: _eng start_ 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer
+1. 50A: _eng start_ 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer
+1. 50A: _eng start_ 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer
 
 **24V 4. Load House Power Bus**
 
@@ -312,12 +347,8 @@ AMI(Bussmann)/MIDI(Littlefuse) Fuses
 4. 70A: Aft Cabin CZone
 5. 40A: 24h 24 V - Always On ATO/ATC
 6. 30A: Watermaker Fuse Block (65 A Battery Protect)
-7. 150A: Winch (75 Amp Circuit Breaker & 100 A Battery Protect)
-8. 30A: Main Head Fuse Block (65 A Battery Protect)
-9. 50A: _eng start_ 6 AWG - 24v to 13v 70 A buck input - 1000 W DC Buck Voltage Reducer (50 A)
-10. 30A: SSB 24V - 12V Converter
-11. 40A: Emergency DC Converter 12v (9-18v) to 26.5v booster output.
-12. 0A: _blank_
+7. 30A: Main Head Fuse Block (65 A Battery Protect)
+8. 30A: SSB 24V - 12V Converter
 
 **24V 4-5. 24h 24 V - Always On ATO/ATC Fuses**
 
@@ -385,14 +416,12 @@ Switch Buttons -> Intake Pump
 
 #### 12V 1. Charge / Power Bus
 
-1. 40A: Engine Control CZone
-2. 50A: 12 V 24h Fuse Block
-3. 50A: Boost Charger
-4. 40A: Buck Charger 1
-5. 90A: Buck Charger 1
-6. 0A: _blank_
+1. 40A: 12V IN (24-12 Buck Charger)
+2. 40A: Engine Control CZone
+3. 40A: 12 V 24h Fuse Block
+4. 50A: Battery Backup?
 
-#### 12v 1-2. 24h Critical Fuse Block
+#### 12v 1-2. 24h Fuse Block
 
 Power Bus -> Battery Protect 65
 
@@ -402,13 +431,12 @@ Power Bus -> Battery Protect 65
 2. 2A: NMEA 2000 CAN1-A Primary (Feeds YDCC)
 3. 2A: (350 mA) Battery BMS Feed
 4. 15A: _YDCC-1-2_ VHF Radio
-5. 2A: _YDCC-1-1_ NMEA 2000 CAN1 B CZone + 24h
-6. 1A: WiFi Router _switched?_
+5. 2A: _YDCC-1-1_ NMEA 2000 CAN1-B CZone + 24h
+6. 1A: WiFi Router / ESP Home devices _switched?_
 7. 1A: _switch 2_ Motorized Water Tank Valves
 8. 15A: _need switch?_ Oil Pump
-9. 10A: _pending removal_ Main Head Greywater Pump
-10. 5A: Power for Simrad GO5 _need to identify wire_ (Combine with CAN1-B?)
-11. 5A: Saloon Fan
+9. 5A: Power for Simrad GO5 _need to identify wire_ (Combine with CAN1-B?)
+10. 5A: _remove_ Saloon Heater Fan
 
 ## 120 V 60 Hz AC
 

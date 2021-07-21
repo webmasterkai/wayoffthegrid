@@ -55,4 +55,4 @@ It takes us around 80 days to use a full 20 pound (max 4.3 usable gallons) tank.
 
 Cost for a tank refill itself is $16-24. Occasionally it will be $30. Transportation to refill can be $40 round-trip. Plus time disconnecting tank, locating a facility that does refills, waiting for it to be filled and finally reconnecting the tank and checking for leaks. It takes around 3-4 hours every fill. 3 minutes per day. $0.26 to $0.96 per kWh.
 
-Using 1/2 gallon diesel running the engine will make a minimum of 4 kWh to 6 kWh. At $4/gallon cost estimates are $0.30 to $0.70 per kWh. If creating electrical power and propelling the boat at (less than hull speed) the same time the cost to create the energy is a pennies per kWh. 1 liter of diesel is 10-11 kWh.
+Using 1/2 gallon diesel running the engine will make a minimum of 4 kWh to 6 kWh. At $4/gallon cost estimates are $0.30 to $0.70 per kWh. At $2/liter it's $0.80 kWh. If creating electrical power and propelling the boat at (less than hull speed) the same time the cost to create the energy is a pennies per kWh. 1 liter of diesel is 5-11 kWh.

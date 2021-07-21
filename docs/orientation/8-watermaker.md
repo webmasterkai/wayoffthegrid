@@ -1,9 +1,17 @@
 # Reverse Osmosis (RO) Water Maker
 
+## General guidelines
+
+We try to run the watermaker for 2-3 hours per day to produce 40-60 liters. We try to keep water storage tank level around 200 liters total after we have made water for the day. Filling a bladder saves 7 hours of making water, 3 kWh of electricity, and up to $6.00 if using the engine to power watermaker.
+
+- If tanks contain over 200 liters run for 1 hour.
+- If tanks below 50 liters run for 3+ hours.
+
 ## Startup
 
-1. Verify the seawater intake (seacock #9) is open at the through-hull.
-* Switch **Sample Valve** under galley sink to right, labeled "Sink".
+1. Charge batteries to 45% SOC or greater before making water.
+* Verify the seawater intake (seacock #9) is open at the through-hull.
+* Check **Sample Valve** under galley sink is on the right, labeled "Sink".
 * Turn the **High Pressure Bypass Valve** (Stainless with Black Handle) to the OPEN POSITION. Rotate counterclockwise. Pointy end forward.
 * FAILURE TO OPEN THE HIGH PRESSURE BYPASS VALVE COULD RESULT IN HYDRAULIC SHOCK TO THE SYSTEM.
 * Push the watermaker "RUN" button.
@@ -16,7 +24,7 @@
 * Check that feed pressure remains above **0.7 bar (10 PSI)** at all times. If it drops below it's probably time to replace the pre-filter. Optimum pump performance and service life is obtained with 1.4 BAR (20 PSI) inlet pressure.
 * Identify the titanium High Pressure Regulator with hex head. It is used to adjust membrane pressure. Slowly tighten screw (clockwise) atop the High Pressure Regulator to increase pressure or loosen in small increments to reduce pressure.
 * Gradually turn the High Pressure Bypass Valve (Black Handle) to the CLOSED position. It will be vertical, pointing up. The feed pressure increase to the membrane should be less than 10psi(0.07 MPa) per second. That's a full 80 seconds to reach pressure. It's extremely difficult to achieve.
-* **Flow Meter** should be between **19-27 LPH (5-7 GPH)**. Typical flow is around 25 liters per hour. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. **FLOW MUST REAMIN BELOW 30 LPH (8 GPH) AT ALL TIMES.**
+* **Flow Meter** should be between **19-27 LPH (5-7 GPH)**. Typical flow is 20-25 liters per hour. If used in fresh or brackish water reduce pressure at High Pressure Regulator as necessary to achieve correct product flow. **FLOW MUST REAMIN BELOW 30 LPH (8 GPH) AT ALL TIMES.**
 * High pressure **Membrane Gauge** should read between **55-58 bar (800-850PSI)** in typical salt water. **MUST REMAIN BELOW 62 bar (900PSI)**.
 * Inspect all plumbing connections in the unit for leakage. Cold water temperature can cause condensation.
 * Let product water run into sink for around 5 minutes. If the unit was filled with preservative storage solution, production must remain diverted AT LEAST 10 MINUTES to clear preservative solution from system.
@@ -110,6 +118,10 @@ Measure the product water flow AND brine water flow and add them together at 800
 2. Space "C" 25A
 3. Battery Protect
 4. Watermaker Fuse Block
+
+Our watermaker uses 10-15 Watts per liter. With a flow of 20-25 liters per hour the consumption is 250-350 watts. Consumption is 30-60 liters per day. 60 liters per day requires around 1 kWh or 15 minutes of engine run time at idle. Figure 1% of battery bank capacity per hour.
+
+Switching to a energy-recovery 60 liter per hour would consume 5 watts per liter or 290 watts running.
 
 ### 24 V Fuse Block
 

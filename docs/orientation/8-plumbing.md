@@ -12,6 +12,8 @@ A pressurized hose can be attached to a quick connect located next to the electr
 
 The port side deck has a water fill connected to a wire reinforced fill tube that goes down into the top aft end of the tank. If using this method use an inline carbon filter or add a few tablespoons of baking soda *EVERY FILL-UP*, particularly if the water is heavily chlorinated. Chlorine causes problems when exposed to aluminum.
 
+Water bladder 120-150 liters.
+
 #### Usage
 
 The tanks are controlled by manual quarter-turn ball valves mounted on the forward end of each tank. Valves are accessed in the forward storage area under each settee. In normal operation one valve should be on and one off. As the tank in use runs out you can switch to the other tank by reversing BOTH valves. Start by closing the empty tank and then open the other. If both valves are left open, water can and will run from the windward tank to the leeward tank increasing the heel angle. Furthermore there is the possibility that air will be sucked from the higher tank, making it impossible to obtain water from the lower tank. Alternating tanks also gives warning about your water usage. After initial filling or after switching from one tank to the other, eliminate the air in the plumbing (hot and cold sides) by opening each faucet until there is a steady flow of water. The water pressure pump may run and not shut off unless this is done.
