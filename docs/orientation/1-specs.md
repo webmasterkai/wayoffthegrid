@@ -20,9 +20,10 @@
 * **Waterline Beam:** 3.3m (10 ft 10 in)
 * **LWL:** 11.84m (38 ft 11 in)
 * **Sailing LWL:** 39' 11"
-* **Minimum Draft:** 2.03m (6 ft 8 in)
-* **Max Draft:** 209cm (top of bottom paint to bottom of keel)
-* **Exposed Bottom Paint**: 2-5cm
+* **Min Draft:** 200 cm (6 ft 6.75 in)
+* **Cruising Draft:** 203 cm (6 ft 8 in - cruising weight)
+* **Max Draft:** 209 cm (6ft 10.4 in - top of bottom paint to bottom of keel)
+* **Exposed Bottom Paint**: 2-6cm
 * **Keel Height:** 115cm
 * **Keel Chord:** 173cm
 * **Keel Width:** 16cm
@@ -32,7 +33,7 @@
 * **Displacement Empty/Dry:** 10890kg (24,008 lbs)
 * **Displacement Light:** 12250kg (27,006 lbs)
 * **Displacement Loaded:** 13025kg 28,715 lbs
-* **Ballast:** 8750 lbs
+* **Ballast:** 4009 kg (7982+856 = 8838 lbs)
 * **Bridge Clearance:** 64 ft
 * **Headroom:** 6 ft 3 in
 * **Sail Area Displacement Ratio:** 18.7 (self tacking jib)
@@ -45,7 +46,7 @@
 * **Rudder Chord:** 68.5 cm (2 ft 3 in)
 * **Rudder Tip to Bottom Paint:** 4-5 cm
 * **Center Transducer to bottom of keel:** 128 cm (measured 79 cm offset but actually 53+3?)
-* **Starboard Transducer to bottom of keel:** 137  (measured 70 cm offset but actually 38+3?)
+* **Starboard Transducer to bottom of keel:** 137 cm (measured 70 cm offset but actually 38+3?)
 
 ## Engines
 
