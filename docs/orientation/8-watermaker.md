@@ -2,9 +2,12 @@
 
 ## General guidelines
 
-We try to run the watermaker for 2-3 hours per day to produce 40-60 liters. We try to keep water storage tank level around 200 liters total after we have made water for the day. Filling a bladder saves 7 hours of making water, 3 kWh of electricity, and up to $6.00 if using the engine to power watermaker.
+During normal cruising we try to keep water storage tank level around 200 liters total after we have made water for the day. Typical usage is 30-60 liters per day. This requires running the watermaker for 2-3 hours per day to maintain current levels.
 
-- If tanks contain over 200 liters run for 1 hour.
+Filling a water bladder with the dinghy saves 7 hours of making water, 3 kWh of electricity (9% state of charge), and up to $6.00 if using the engine to power the watermaker.
+
+- If tanks contain over 200 liters run for around 1 hour.
+- If tanks are between 50-200 liters run for around 2 hours.
 - If tanks below 50 liters run for 3+ hours.
 
 ## Startup
