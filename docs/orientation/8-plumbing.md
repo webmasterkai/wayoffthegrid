@@ -111,7 +111,7 @@ NEVER put paper towels, wet wipes, floss, tampons/feminine pads, condoms, cotton
 
 #### Acid Treatment/Electrode Cleaning
 
-Cleaning is recommended every FOUR-SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle. This helps keep hoses clear and the tank plates clean.
+Cleaning is recommended every TWO to SIX MONTHS or if red light and warning for low electrode amps are always on during treatment cycle. This helps keep hoses clear and the tank plates clean.
 
 The recommended cleaning formula was 16 parts water to 1 part acid. 3 cups of muriatic acid with 3 gallons of fresh water 750ml of acid to 12 liters of water. The concentration needs to be higher at first because it will mix with the water in the tank. See updated instructions below.
 
@@ -121,7 +121,7 @@ The recommended cleaning formula was 16 parts water to 1 part acid. 3 cups of mu
 4. Disconnect Red, White and orange wires with spade connectors at Electroscan control box.
 **WARNING: Electroscan electrode or motor must not be activated while muriatic acid solution is in the system.**
 4. Get out protective gear and acid. Wear eye goggles, gloves, and respirator. The acid container is kept wrapped in a thick plastic bag under the galley sink floor.
-5. In plastic bucket combine 3 liters of acid with 250-350 ml of muriatic acid.
+5. In plastic bucket combine 3 liters of fresh water with 250-350 ml of muriatic acid.
 6. Carefully pour into toilet.
 7. Alternate pushing the "empty bowl" button for a couple seconds and then waiting several more before repeating. Do not completely empty the bowl.
 8. In plastic bucket now combine 9 liters of fresh water with 400-500 ml of muriatic acid.
