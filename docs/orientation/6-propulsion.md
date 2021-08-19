@@ -161,17 +161,19 @@ A folding propeller is fitted, it must be recognized that it generally has lower
 
 When sailing, it is preferable to lock the propeller shaft to help engage feathering of the propeller by putting the engine in reverse gear after it has been shut off. This will prevent the propeller from rotating or "free-wheeling." You should not be sailing at a speed of more than two or three knots when you shift into reverse. Sudden reversing of the direction of rotation of the prop shaft puts strain on the transmission, slower is better. The design of the Yanmar transmission is such as to prevent the transmission being shifted back into neutral until the transmission has stopped its rotation.
 
-The standard propeller supplied with the yacht is a fixed three-bladed bronze unit. It's in storage as a spare.
-
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
-- Max 3-blade 19" Folding propeller ('14)
-- Prop Pitch Setting: 18deg(11.5") - #20 Bolt RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
-- Prop Pitch Setting: 18deg(11.5") RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
+- Max 3-blade 19" Folding propeller (2020)
+- Prop Pitch Setting: 18deg(11.5") - #20 Bolt RH
 - Zinc 70mm.
 - Drive Type: Direct Drive
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
-- Spare 3-blade bronze fixed-pitch prop
+
+### Spare Prop
+
+- 3-blade bronze Max 3-blade 19" Folding propeller
+- Prop Pitch Setting: 18deg(11.5") RH - X=E / Y=H (previously 20deg(13") RH - X=K / Y=E)
+- Zinc 70mm.
 
 ### Propeller Shaft
 
