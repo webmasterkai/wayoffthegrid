@@ -1,3 +1,5 @@
+# 210613 BM-SGE to PT-HOR
+
 This info is available (possibly an updated version) on the web https://www.wayoffthegrid.com/floatplan/BM-SGE_PT-HOR
 
 Kai, Emily, and Reverie are sailing across the Atlantic to Portugal! We will be stoping at a collection of islands called the Azores for a couple months before reaching mainland Portugal in the fall. We’re currently in Bermuda and have had a wonderful couple weeks exploring the island. Highly recommend making a visit sometime. The sail to Bermuda was extremely mild, easy and trouble free. Our good sailing friend Ed has been with us aboard Twig since FL and is continuing onto the Azores. The weather outlook for our roughly two-week passage from Bermuda to the Azores looks favorable. We have hired professional weather forecasters https://www.wriwx.com/ to keep an eye on things as they relate to our voyage. They will be sending us regular updates and routing suggestions throughout the passage. We are excited to get sailing!
