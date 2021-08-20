@@ -54,7 +54,7 @@ Per series string:
 | 3450    | 27.60  | 99.8  | 3.1 / 16           |         | Absorb        |                         | C/90 Slow charge top balance.                       |
 | 3420    | 27.36  | 99.7  | 2 / 10             |         |               |                         | C/130 Possible to over charge! < 4 hr hold.         |
 | 3405    | 27.24  | 99    | 1 / 5              |         |               | Almost full             | C/280 Possible to over charge! < 6 hr hold.         |
-| 3400    | 27.20  | 97    |                    |         | Float*        |                         | Typical max resting with loads < 4 A                |
+| 3400    | 27.20  | 98    |                    |         | Float*        |                         | Typical max resting with loads < 4 A                |
 | 3395    | 27.16  | 92    | 0                  |         |               |                         |                                                     |
 | 3385    | 27.08  | 88    |                    |         |               |                         |                                                     |
 | 3375    | 27.00  | 87    |                    |         |               |                         |                                                     |

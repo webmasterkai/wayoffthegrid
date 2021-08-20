@@ -67,23 +67,21 @@ Remote Yanmar oil and fuel filters mounted forward for easy access ('14). Engine
 
 ### RPM & Consumption
 
-Prop is slightly over-pitched to maintain higher load on engine during average cruising. Also enables more effective motor-sailing. The disadvantage is when plowing into a headwind.
-
 The RPM sensor creates an AC signal based on the number of teeth. Currently configured for 117 teeth/232 pulses per revolution.
 
 | Type                       | RPM  | GPH  | Knots | Range Hr | prop kw/hp | max kw/hp |
 | -------------------------- | ---- | ---- | ----- | -------- | ---------- | --------- |
-| Low Idle                   | 850  | 0.45 | 1.0   |          |            |           |
-| Mid Idle                   | 1000 | 0.45 | 2.3   |          |            |           |
+| Low Idle                   | 850  | 0.35 | 1.0   |          |            |           |
+| Mid Idle                   | 1000 | 0.40 | 2.3   |          |            |           |
 | High Idle                  | 1200 | 0.46 | 3.0   |          |            |           |
 | 1.4k                       | 1400 | 0.47 | 3.7   |          |            |           |
 | 1.5k                       | 1500 | 0.48 | 4.0   |          |            |           |
 | Long-Range Min Cruise      | 1800 | 0.49 | 5.0   |          |            |           |
-| Long-Range Slow Cruise     | 1850 | 0.50 | 5.3   |          | 04.5/06    | 22.0/29.5 |
-| Long-Range Cruise          | 1950 | 0.60 | 5.6   |          | 05.0/07    | 23.0/30.8 |
-| Cruise Low                 | 2200 | 0.78 | 6.2   |          | 07.5/10    | 26.5/35.5 |
-| Cruise                     | 2300 | 0.85 | 6.3   |          | 07.5/10    | 26.5/35.5 |
-| Cruise                     | 2400 | 0.92 | 6.4   |          |            |           |
+| Long-Range Slow Cruise     | 1850 | 0.60 | 5.3   |          | 04.5/06    | 22.0/29.5 |
+| Long-Range Cruise          | 1950 | 0.70 | 5.6   |          | 05.0/07    | 23.0/30.8 |
+| Cruise Low                 | 2200 | 0.89 | 6.2   |          | 07.5/10    | 26.5/35.5 |
+| Cruise                     | 2300 | 0.90 | 6.3   |          | 07.5/10    | 26.5/35.5 |
+| Cruise                     | 2400 | 1.00 | 6.4   |          |            |           |
 | Cruise Mid                 | 2500 | 1.10 | 6.7   |          | 11.1/15    | 30.0/40.2 |
 | Cruise Mid                 | 2600 | 1.25 | 7     |          | 16.4/22    | 32.0/42.9 |
 | Fast Cruise                | 2800 | 1.3  | 7.4   |          | 16.4/22    | 32.0/42.9 |
@@ -134,12 +132,10 @@ Replaced every 500 hours.
 
 ## Alternators
 
-Two high output alternators are fitted on the engine. A switch for the 12v 150Amp alternator is located under the aft cabin berth. Full charging will start 90 seconds after engine is above 1000 RPMS on the 12v 150 amp alternator. The 28v 185 Amp alternator begins charging the house bank above 800 RPM. Currently set for 27.9v.
+Two high output alternators are fitted on the engine. The 28v 185 Amp alternator begins charging the house bank above 800 RPM. Currently set for 27.9v.
 
 - 28v 185 amp (5kw) American Power HPI Alternator
-  - 10 groove belt
-- 150 amp Powerline
-  - Gates Green Stripe XL Belt 9540 13A1370 - 1/2" x 54-3/8" (12.5/13mm x 1380mm). Tension is 80 lbs or 1/2 inch deflection.
+- 10 groove belt
 
 ## Transmission
 
@@ -164,10 +160,29 @@ When sailing, it is preferable to lock the propeller shaft to help engage feathe
 - Forward Clockwise, viewed from stern. Walks to starboard.
 - Reverse Counterclockwise, viewed from stern. Walks to port.
 - Max 3-blade 19" Folding propeller (2020)
-- Prop Pitch Setting: 18deg(11.5") - #20 Bolt RH
 - Zinc 70mm.
 - Drive Type: Direct Drive
 - Line Cutter:  Spurs Marine Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
+
+### Prop Pitch
+
+Pitch is easily adjustable by replacing a single bolt. It can be performed when in the water. Prop is usually slightly over-pitched to maintain higher load on engine during average cruising speeds. It enables more effective motor-sailing. The disadvantage is lower Max RPM and thus lower max power output.
+
+The MAX PROP® EASY allows an angle variation of 2 degree increments in fwd and 4 degree increments in reverse, this corresponds to a variation in the engine RPM of about 13% at the same boat speed. Pitch and rotation of the MAX PROP® EASY can be changed as follows:
+
+On the body of the propeller are two threaded bores, marked with letters “R” and “L”. Replace the "R" bolt for fwd and "L" for reverse. Both the set screw and bolt can be removed by the stainless T-handle tool.
+
+For example inserting the #20 bolt in the forward rotation and 2 in the reverse rotation will provide a 20 degree angle for both front position and reverse rotation. Varying 1 millimeter the length of the bolts, blades inclination has a 2 degrees variation
+
+| Degrees | Fwd Bore        | Rev Bore             | RPM @ 6kts | Max RPM | In Use |
+| ------- | --------------- | -------------------- | ---------- | ------- | ------ |
+| 16      | 16              | 1                    |            |         |        |
+| 18      | 18              |                      | 2400       | 3800    |        |
+| 19      | 20 backed out 1 | 2 backed out 1 notch | 2300       |         |        |
+| 20      | 20              | 2                    | 2200       | 3600    |        |
+| 22      | 22              |                      | 2000       | 3400    | *      |
+| 24      | 24              | 3                    | 1800       |         |        |
+
 
 ### Spare Prop
 

@@ -32,6 +32,7 @@ At the end of each spreader is a cap held on by two screws. The upper spreader c
 Remove the caps and lay the cap shroud into the groove and reattach the spreader cap. It is advisable to put a small amount of silicone sealant onto the threads of the screws. This has a double purpose: It prevents the screws from backing out and it reduces dissimilar metal corrosion between the SS screws and the aluminum of the spreader. You will see two holes in the lower spreader cap, the larger diameter one is for the cap shroud, the other of course is for the  intermediate shroud. Replace caps the same as for the upper spreaders.
 
 Pull all shrouds as tight as possible down along the mast and tie them off. Be  sure that the lines holding the shrouds can be reached from the deck as themast is being lowered into the mast partners. The furling gear should be put together by a professional yacht rigger to ensure correct assembly. This is a responsibility of the commissioning dealer. The furling lines are marked for genoa and jib and they are also of differing sizes:  5/16" x 70 ft. for the jib and 3/8" x 90 ft. for the genoa. After the two furling headstays are assembled, they may be attached to their proper tangs as can be the backstay. The weight of the furling drums requires secure lashing to the mast. Although the headstays will sag to the ground along their length, don't tie them up to the mast. They need to be free as the mast is lowered into the mast partners.
+
 The halyards are marked as to purpose and there are messenger lines run in, the mast to facilitate pulling the halyards through. Even when you have accomplished rigging your mast by yourself, at this point a 1 crane is necessary for the actual stepping. Let the boat yard do it! You can facilitate matters by removing the saloon table, picking up the floorboards in the way of the mast, taking down the wooden mast ring on the overhead and having cardboard ready to wrap around the mast as it is lowered into the deck. The cardboard will keep scratches on the mast to a minimum.
 
 ## Tuning at Dockside
@@ -91,14 +92,15 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 - Spinlock line clutches on mast (3)
 - Spinlock line clutches on housetop (10)
 
-### Wire Rope Info
+### Wire/HMPE Rope Info
 
-| Diameter       | BS        | 15%  | 17%  | 20%  | Weight 100ft |
-| -------------- | --------- | ---- | ---- | ---- | ------------ |
-| 9/32in (7.1mm) | 9,261 lb  | 1389 | 1575 | 1852 | 17.0 lb      |
-| 5/16in (7.9mm) | 10,600 lb | 1590 | 1802 | 2120 | 21.0 lb      |
-| 3/8in (9.5mm)  | 14,800 lb | 2220 | 2516 | 2960 | 29.4 lb      |
-|                |           |      |      |      |              |
+| Diameter     | Style        | BS        | 15%  | 17%  | 20%  | Weight 100ft | Cost   |
+| ------------ | ------------ | --------- | ---- | ---- | ---- | ------------ | ------ |
+| 9/32in (7mm) | 1x19 SS T316 | 9,261 lb  | 1389 | 1575 | 1852 | 17.0 lb      |        |
+| 5/16in (8mm) |              | 10,600 lb | 1590 | 1802 | 2120 | 21.0 lb      |        |
+| 3/8in (10mm) |              | 14,800 lb | 2220 | 2516 | 2960 | 29.4 lb      |        |
+| 11mm         | HMPE         |           |      |      |      |              | $10/ft |
+| 13mm         | HMPE         |           |      |      |      |              | $13/ft |
 
 
 ### Fore Stay
@@ -129,10 +131,12 @@ Running rigging replaced 2013. Standing rigging replaced 2015.
 
 ### Shrouds
 
-- Forward Lower - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft) 10-12% 960-1152
-- Aft Lower - 9/32" (7mm wire or 11mm HMPE) 1x19 SS T316 Strand (16-19) ($10/ft) 10-12% 960-1152
-- Mids - 9/32" (7mm) 1x19 SS T316 Strand (19-22) 12-15% 1152-1440
-- Uppers/Cap - 5/16" (8mm wire or 12-13mm HMPE) 1x19 SS T316 Strand (29-33) ($13/ft) 15-20% 1778-2371
+| Shroud        | Size        | Style        | % BS  | Tension   | Gauge |
+| ------------- | ----------- | ------------ | ----- | --------- | ----- |
+| Forward Lower | 9/32 or 7mm | 1x19 SS T316 | 10-12 | 1080-1152 | 18-19 |
+| Aft Lower     | 9/32 or 7mm | 1x19 SS T316 | 10-12 | 960-1152  | 17-19 |
+| Mids          | 9/32 or 7mm | 1x19 SS T316 | 12-15 | 1152-1440 | 20-22 |
+| Uppers/Cap    | 5/16 or 8mm | 1x19 SS T316 | 29-33 | 1778-2371 | 31-33 |
 
 ## Chainplates
 

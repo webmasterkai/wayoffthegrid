@@ -10,8 +10,8 @@ https://airtable.com/shr0THVxVJPmr3Zdk/tblQNrznR7PBSPapB
 - **Propeller Shaft:** 1-1/4" diameter
 - **Dripless Shaft Seal:** PSS PRO Shaft Seal 1-1/4" shaft 2-1/4" log tube (2019)
 - **Line Cutter:** Spurs Marine. Model B for zincs.  <http://www.spursmarine.com>   800.824-5372
-- **Propeller:** Max 3-blade 19" Folding propeller ('14)
-- **Spare Propeller:** 3-blade bronze fixed-pitch
+- **Propeller:** Max Prope 3-Blade Easy 19" (2020)
+- **Spare Propeller:** Max 3-blade 19" Folding propeller
 
 ### Electrical & Instrumentation
 
