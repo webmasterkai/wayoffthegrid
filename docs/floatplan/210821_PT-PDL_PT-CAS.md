@@ -8,7 +8,9 @@ This info is available (possibly an updated version) on the web https://www.wayo
 
 Kai, Emily, and Reverie are sailing from the Azores to mainland Portugal. We will most likely be stoping to anchor outside a town called Cascais. It's just outside the capital Lisbon. There's an easy train into the big city.
 
-The weather outlook for our roughly one-week passage from the Azores to the Lisbon area is light winds. We will be motoring most of the way. Since we're motoring we'll basically point to the destination and head just north of east. We might drift slightly north (39N) towards the middle of the passage. We are departing at the same time as our friends on [Sargo](https://docs.google.com/document/d/1wn6Uj1R5-jnejQhPvTnCNHbyFAF5VMI1dftjm7RNim4).
+The weather outlook for our roughly one-week passage from the Azores to the Lisbon area is light winds. We will be motoring most of the way.
+
+We are departing at the same time as our friends on [Sargo](https://docs.google.com/document/d/1wn6Uj1R5-jnejQhPvTnCNHbyFAF5VMI1dftjm7RNim4).
 
 * **Position & Updates:** https://www.sailingthebakery.com/location
 * **Vessel details here:** https://www.wayoffthegrid.com/
@@ -35,7 +37,11 @@ Twig is a 2001 Saga 43 fiberglass (FRP) monohull sailboat. Single mast, sloop ri
 
 ### ROUTE
 
-We will sail east between 32N 33N until 060W before deciding when to begin moving north. If it looks like there is a strong weather front around the 16th to 18th to the north of our position we will might remain below 34N until 039W. The absolute furthest north we expect to be is 39N, probably between 041W and 034W. Waypoint updates with ETA for the waypoint will be made via our twitter (@TwigVessel) feed that is available on the [Position & Updates](https://www.sailingthebakery.com/location) page listed above. For example “#waypoint 33 00N 060 00W ETA 2021-06-15 0300UTC”. The coordinates are shorthand for 33 Degrees 0 Minutes North 060 Degrees 0 Minutes West. The time is given in 24 hour format in Coordinated Universal Time so 0300UTC is 3:00AM.
+Since we're mostly motoring due to light wind we'll basically point to the destination and head just north of east.
+
+We will sail east between 37-30N and 39-30N until we reach port. We might drift slightly north (39N) towards the middle of the passage. Most of the time we will probably be around 39-40N.
+
+Waypoint updates with ETA for the waypoint will be made via our twitter (@TwigVessel) feed that is also available on the [Position & Updates](https://www.sailingthebakery.com/location) page listed above. For example “#waypoint 33 00N 060 00W ETA 2021-06-15 0300UTC”. The coordinates are shorthand for 33 Degrees 0 Minutes North 060 Degrees 0 Minutes West. The time is given in 24 hour format in Coordinated Universal Time so 0300UTC is 3:00AM.
 
 ### CREW
 
